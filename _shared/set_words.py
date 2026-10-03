@@ -73,12 +73,17 @@ def serialise(entries):
     return out
 
 
-def patch_one(module, month, patches, apply):
+def patch_one(module, month, patches, apply, show=()):
     path = ROOT / module / "_build" / "data" / f"m{month:02d}.py"
     lines, start, end = read_block(path)
     mod = _load(module, f"data/m{month:02d}.py")
     words = [list(e) for e in mod.WORDS]
     check_width(words, f"{module}/{path.name}")
+
+    for index in show:
+        if 0 <= index < len(words):
+            label = " | ".join(f"{f}={v!r}" for f, v in zip(FIELDS, words[index]))
+            print(f"  #{index} {label}")
 
     changed = []
     for index in sorted(patches):
@@ -135,7 +140,7 @@ def main(argv):
                 item["index"], {}).update(item["fields"])
         total = 0
         for (module, month), patches in sorted(grouped.items()):
-            total += patch_one(module, month, patches, args.apply)
+            total += patch_one(module, month, patches, args.apply, args.show)
         print(f"total changes: {total}")
         return 0
 
@@ -147,7 +152,7 @@ def main(argv):
         if field not in FIELDS:
             raise SystemExit(f"unknown field {field!r}")
         patches.setdefault(int(index), {})[field] = value
-    patch_one(args.module, args.month, patches, args.apply)
+    patch_one(args.module, args.month, patches, args.apply, args.show)
     return 0
 
 

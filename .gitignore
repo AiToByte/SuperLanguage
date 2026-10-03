@@ -1,0 +1,98 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# SuperLanguage — ignore rules
+#
+# Principle: commit the source of truth (Python data, Markdown, provenance),
+# never the compiled or binary output. Every ignored artefact is reproducible
+# with `python _shared/generate.py`.
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+# ── Python ───────────────────────────────────────────────────────────────────
+
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test and type-checker caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# py_compile output and other scratch files
+# *.pychk is the cfile name used by py_compile syntax checks; note that
+# *.chk alone does not match *.pychk.
+*.pychk
+*.chk
+*.tmp
+*.bak
+*.orig
+*.rej
+
+
+# ── Generated binaries: tracked on purpose ───────────────────────────────────
+# The workbook, handbook PDF and print-ready HTML are the deliverables a
+# learner downloads, so they stay in the repository rather than living only in
+# a release. They are fully reproducible with:
+#
+#     python _shared/generate.py
+#
+# Nothing is ignored here on purpose.
+
+
+# ── Editors and IDEs ─────────────────────────────────────────────────────────
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.\#*
+\#*\#
+
+
+# ── Operating system ─────────────────────────────────────────────────────────
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+
+# ── Not ignored, deliberately ────────────────────────────────────────────────
+#
+# _shared/*.py                    the engine
+# <Module>/_build/data/*.py       the vocabulary, as reviewable Python literals
+# <Module>/_build/*.py            module config and action tree
+# _shared/ipa_overrides.json      hand-checked American transcriptions
+# <Module>/SuperLanguage_*_365.{xlsx,pdf,html}   the learner-facing deliverables
+# <Module>/_build/html/*.html     print-ready source for the PDF
+# vocabulary/MonthXX_*.md         monthly vocabulary, browsable on GitHub
+# vocabulary/IPA_Provenance.json  provenance record for every American IPA
+#
+# The vocabulary is stored as Python rather than CSV or JSON precisely so that
+# it stays reviewable in a pull request. Nothing here may be ignored.
