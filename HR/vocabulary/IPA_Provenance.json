@@ -1,0 +1,7691 @@
+{
+ "m01": [
+  {
+   "word": "job description",
+   "ipa_brE": "BrE /ˌdʒɒb dɪˈskrɪpʃn/",
+   "ipa_AmE": "AmE /ˈdʒɑb dɪˈskɹɪpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vacancy",
+   "ipa_brE": "BrE /ˈveɪkənsi/",
+   "ipa_AmE": "AmE /ˈvéɪkənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "headcount",
+   "ipa_brE": "BrE /ˈhedkaʊnt/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recruitment",
+   "ipa_brE": "BrE /rɪˈkruːtmənt/",
+   "ipa_AmE": "AmE /ɹəˈkɹutmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "applicant",
+   "ipa_brE": "BrE /ˈæplɪkənt/",
+   "ipa_AmE": "AmE /ˈæplɪkənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "application",
+   "ipa_brE": "BrE /ˌæplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌæpləˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "resume",
+   "ipa_brE": "BrE /ˈrezjumeɪ/",
+   "ipa_AmE": "AmE /ˈɹɛzəˌméɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cover letter",
+   "ipa_brE": "BrE /ˈkʌvə ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈkʌvɚ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "portfolio",
+   "ipa_brE": "BrE /pɔːtˈfəʊliəʊ/",
+   "ipa_AmE": "AmE /pɔˈɹtfoʊliˌoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "screening",
+   "ipa_brE": "BrE /ˈskriːnɪŋ/",
+   "ipa_AmE": "AmE /ˈskɹinɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "shortlist",
+   "ipa_brE": "BrE /ˈʃɔːtlɪst/",
+   "ipa_AmE": "AmE /ˈʃɔɹtlɪst/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "interview",
+   "ipa_brE": "BrE /ˈɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈɪntɚˌvju/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "job posting",
+   "ipa_brE": "BrE /ˈdʒɒb ˌpəʊstɪŋ/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈpoʊstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "job ad",
+   "ipa_brE": "BrE /ˈdʒɒb æd/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈæd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employer brand",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˌbrænd/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪɚ ˈbɹænd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sourcing",
+   "ipa_brE": "BrE /ˈsɔːsɪŋ/",
+   "ipa_AmE": "AmE /ˈsɔɹsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "headhunting",
+   "ipa_brE": "BrE /ˈhedhʌntɪŋ/",
+   "ipa_AmE": "AmE /ˈhɛdhʌntɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "outreach",
+   "ipa_brE": "BrE /ˈaʊtriːtʃ/",
+   "ipa_AmE": "AmE /ˈàʊˌtɹitʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "talent pool",
+   "ipa_brE": "BrE /ˈtælənt puːl/",
+   "ipa_AmE": "AmE /ˈtælənt ˈpul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pipeline",
+   "ipa_brE": "BrE /ˈpaɪplaɪn/",
+   "ipa_AmE": "AmE /ˈpɑɪˌplɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "network",
+   "ipa_brE": "BrE /ˈnetwɜːk/",
+   "ipa_AmE": "AmE /ˈnɛˌtwɝk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "candidate experience",
+   "ipa_brE": "BrE /ˈkændɪdət ɪkˌspɪəriəns/",
+   "ipa_AmE": "AmE /ˈkændədéɪt ɪˈkspɪɹiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "candidate journey",
+   "ipa_brE": "BrE /ˈkændɪdət ˌdʒɜːni/",
+   "ipa_AmE": "AmE /ˈkændədéɪt ˈdʒɝni/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rejection",
+   "ipa_brE": "BrE /rɪˈdʒekʃn/",
+   "ipa_AmE": "AmE /ɹɪˈdʒɛkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "first-round interview",
+   "ipa_brE": "BrE /ˌfɜːst ˈraʊnd ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈfɝst ˈɹàʊnd ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "panel interview",
+   "ipa_brE": "BrE /ˈpænl ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈpænəl ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "final interview",
+   "ipa_brE": "BrE /ˈfaɪnl ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈfɑɪnəl ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "behavioural interview",
+   "ipa_brE": "BrE /bɪˈheɪvjərəl ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /bɪˈheɪvjəɹəl ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "competency-based interview",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi beɪst ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi ˈbéɪst ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "technical interview",
+   "ipa_brE": "BrE /ˈteknɪkl ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈtɛknɪkəl ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "telephone screen",
+   "ipa_brE": "BrE /ˈtelɪfəʊn skriːn/",
+   "ipa_AmE": "AmE /ˈtɛləˌfoʊn ˈskɹin/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "screening call",
+   "ipa_brE": "BrE /ˈskriːnɪŋ kɔːl/",
+   "ipa_AmE": "AmE /ˈskɹinɪŋ ˈkɔl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "debrief",
+   "ipa_brE": "BrE /ˌdiːˈbriːf/",
+   "ipa_AmE": "AmE /dɪˈbɹif/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scorecard",
+   "ipa_brE": "BrE /ˈskɔːkɑːd/",
+   "ipa_AmE": "AmE /ˈskɔˌɹkɑɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "evaluation",
+   "ipa_brE": "BrE /ɪˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ɪˌvæljuˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "feedback",
+   "ipa_brE": "BrE /ˈfiːdbæk/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offer",
+   "ipa_brE": "BrE /ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈɔfɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offer letter",
+   "ipa_brE": "BrE /ˈɒfə ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈɔfɚ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "negotiation",
+   "ipa_brE": "BrE /nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offer approval",
+   "ipa_brE": "BrE /ˈɒfə əˌpruːvl/",
+   "ipa_AmE": "AmE /ˈɔfɚ əˈpɹuvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "verbal offer",
+   "ipa_brE": "BrE /ˈvɜːbəl ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈvɝbəl ˈɔfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "written offer",
+   "ipa_brE": "BrE /ˌrɪtn ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈɹɪtən ˈɔfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pre-employment check",
+   "ipa_brE": "BrE /ˌpriː ɪmˈplɔɪmənt tʃek/",
+   "ipa_AmE": "AmE /ˈpɹi ɛˈmplɔɪmənt ˈtʃɛk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "background check",
+   "ipa_brE": "BrE /ˈbækɡraʊnd tʃek/",
+   "ipa_AmE": "AmE /ˈbæˌkɡɹàʊnd ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reference check",
+   "ipa_brE": "BrE /ˈrefrəns tʃek/",
+   "ipa_AmE": "AmE /ˈɹɛfɹəns ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "start date",
+   "ipa_brE": "BrE /ˈstɑːt deɪt/",
+   "ipa_AmE": "AmE /ˈstɑɹt ˈdéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "relocation",
+   "ipa_brE": "BrE /ˌriːləʊˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹiˈloʊˌkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "visa sponsorship",
+   "ipa_brE": "BrE /ˈviːzə ˌspɒnsəʃɪp/",
+   "ipa_AmE": "AmE /ˈvizə ˈspɑnsɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "talent acquisition",
+   "ipa_brE": "BrE /ˈtælənt ˌækwɪˈzɪʃn/",
+   "ipa_AmE": "AmE /ˈtælənt ˌækwəˈzɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value proposition",
+   "ipa_brE": "BrE /ˌvæljuː ˌprɒpəˈzɪʃn/",
+   "ipa_AmE": "AmE /ˈvælju ˌpɹɑpəˈzɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "candidate source",
+   "ipa_brE": "BrE /ˈkændɪdət sɔːs/",
+   "ipa_AmE": "AmE /ˈkændədéɪt ˈsɔɹs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "time to hire",
+   "ipa_brE": "BrE /ˌtaɪm tə ˈhaɪə(r)/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈtu ˈhɑɪɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "time to fill",
+   "ipa_brE": "BrE /ˌtaɪm tə ˈfɪl/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈtu ˈfɪl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cost per hire",
+   "ipa_brE": "BrE /ˌkɒst pə ˈhaɪə(r)/",
+   "ipa_AmE": "AmE /ˈkɑst ˈpɝ ˈhɑɪɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "requisition",
+   "ipa_brE": "BrE /ˌrekwɪˈzɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛkwəˈzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "approval",
+   "ipa_brE": "BrE /əˈpruːvl/",
+   "ipa_AmE": "AmE /əˈpɹuvəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "headcount plan",
+   "ipa_brE": "BrE /ˈhedkaʊnt plæn/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "referral",
+   "ipa_brE": "BrE /rɪˈfɜːrəl/",
+   "ipa_AmE": "AmE /ɹɪˈfɝəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "employee referral",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˌrefrəl/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ɹɪˈfɝəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "referral bonus",
+   "ipa_brE": "BrE /rɪˈfɜːrəl ˌbəʊnəs/",
+   "ipa_AmE": "AmE /ɹɪˈfɝəl ˈboʊnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "Boolean search",
+   "ipa_brE": "BrE /ˌbuːliːən ˈsɜːtʃ/",
+   "ipa_AmE": "AmE /buˈliən ˈsɝtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "search criteria",
+   "ipa_brE": "BrE /ˈsɜːtʃ kraɪˈtɪəriə/",
+   "ipa_AmE": "AmE /ˈsɝtʃ kɹɑɪˈtɪɹiə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "longlist",
+   "ipa_brE": "BrE /ˈlɒŋlɪst/",
+   "ipa_AmE": "AmE /ˈlɑŋlɪst/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "recruitment agency",
+   "ipa_brE": "BrE /rɪˈkruːtmənt ˌeɪdʒənsi/",
+   "ipa_AmE": "AmE /ɹəˈkɹutmənt ˈéɪdʒənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retained search",
+   "ipa_brE": "BrE /rɪˌteɪnd ˈsɜːtʃ/",
+   "ipa_AmE": "AmE /ɹɪˈtéɪnd ˈsɝtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fee",
+   "ipa_brE": "BrE /fiː/",
+   "ipa_AmE": "AmE /ˈfi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offer acceptance rate",
+   "ipa_brE": "BrE /ˈɒfə əkˌseptəns reɪt/",
+   "ipa_AmE": "AmE /ˈɔfɚ æˈksɛptəns ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "candidate drop-off",
+   "ipa_brE": "BrE /ˈkændɪdət ˌdrɒp ɒf/",
+   "ipa_AmE": "AmE /ˈkændədéɪt ˈdɹɑp ˈɔf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "candidate survey",
+   "ipa_brE": "BrE /ˈkændɪdət ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˈkændədéɪt sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hiring manager",
+   "ipa_brE": "BrE /ˈhaɪərɪŋ ˌmænɪdʒə(r)/",
+   "ipa_AmE": "AmE /ˈhɑɪɹɪŋ ˈmænədʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recruiter",
+   "ipa_brE": "BrE /rɪˈkruːtə(r)/",
+   "ipa_AmE": "AmE /ɹɪˈkɹutɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "talent partner",
+   "ipa_brE": "BrE /ˈtælənt ˌpɑːtnə(r)/",
+   "ipa_AmE": "AmE /ˈtælənt ˈpɑɹtnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "job level",
+   "ipa_brE": "BrE /ˈdʒɒb ˌlevl/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈlɛvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "grade",
+   "ipa_brE": "BrE /ɡreɪd/",
+   "ipa_AmE": "AmE /ˈɡɹéɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "band",
+   "ipa_brE": "BrE /bænd/",
+   "ipa_AmE": "AmE /ˈbænd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "job analysis",
+   "ipa_brE": "BrE /ˈdʒɒb əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈdʒɑb əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "role definition",
+   "ipa_brE": "BrE /ˈrəʊl ˌdefɪˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈɹoʊl ˌdɛfəˈnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "job scope",
+   "ipa_brE": "BrE /ˈdʒɒb skəʊp/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈskoʊp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "talent mapping",
+   "ipa_brE": "BrE /ˈtælənt ˌmæpɪŋ/",
+   "ipa_AmE": "AmE /ˈtælənt ˈmæpɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hard skill",
+   "ipa_brE": "BrE /ˌhɑːd ˈskɪl/",
+   "ipa_AmE": "AmE /ˈhɑɹd ˈskɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "soft skill",
+   "ipa_brE": "BrE /ˌsɒft ˈskɪl/",
+   "ipa_AmE": "AmE /ˈsɑft ˈskɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "structured interview",
+   "ipa_brE": "BrE /ˈstrʌktʃəd ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈstɹʌktʃɚd ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "situational question",
+   "ipa_brE": "BrE /ˌsɪtʃuˈeɪʃnəl ˈkwestʃən/",
+   "ipa_AmE": "AmE /ˌsɪtʃuˈéɪʃənəl ˈkwɛstʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probing question",
+   "ipa_brE": "BrE /ˈprəʊbɪŋ ˌkwestʃən/",
+   "ipa_AmE": "AmE /ˈpɹoʊbɪŋ ˈkwɛstʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "applicant tracking system",
+   "ipa_brE": "BrE /əˈplɪkənt ˈtrækɪŋ ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈæplɪkənt ˈtɹækɪŋ ˈsɪstəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "talent CRM",
+   "ipa_brE": "BrE /ˈtælənt ˌsiːɑːr ˈem/",
+   "ipa_AmE": "AmE /ˈtælənt ˌsiɑɹ ˈɛm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "candidate database",
+   "ipa_brE": "BrE /ˈkændɪdət ˌdeɪtəbeɪs/",
+   "ipa_AmE": "AmE /ˈkændədéɪt ˈdéɪtəˌbéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "must-have",
+   "ipa_brE": "BrE /ˈmʌst hæv/",
+   "ipa_AmE": "AmE /ˈmʌst ˈhæv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "nice-to-have",
+   "ipa_brE": "BrE /ˌnaɪs tə ˈhæv/",
+   "ipa_AmE": "AmE /ˈnɑɪs ˈtu ˈhæv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "candidate profile",
+   "ipa_brE": "BrE /ˈkændɪdət ˌprəʊfaɪl/",
+   "ipa_AmE": "AmE /ˈkændədéɪt ˈpɹoʊˌfɑɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hiring plan",
+   "ipa_brE": "BrE /ˈhaɪərɪŋ plæn/",
+   "ipa_AmE": "AmE /ˈhɑɪɹɪŋ ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workforce planning",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs ˌplænɪŋ/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sourcing strategy",
+   "ipa_brE": "BrE /ˈsɔːsɪŋ ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ˈsɔɹsɪŋ ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m02": [
+  {
+   "word": "onboarding",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ˈɑnbɔɹdɪŋ/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "induction",
+   "ipa_brE": "BrE /ɪnˈdʌkʃn/",
+   "ipa_AmE": "AmE /ˌɪˈndʌkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "orientation",
+   "ipa_brE": "BrE /ˌɔːriənˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɔɹiɛˈntéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "onboarding buddy",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ ˌbʌdi/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˈbʌdi/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "buddy",
+   "ipa_brE": "BrE /ˈbʌdi/",
+   "ipa_AmE": "AmE /ˈbʌdi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mentor",
+   "ipa_brE": "BrE /ˈmentɔː(r)/",
+   "ipa_AmE": "AmE /ˈmɛˌntɔɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "first day",
+   "ipa_brE": "BrE /ˌfɜːst ˈdeɪ/",
+   "ipa_AmE": "AmE /ˈfɝst ˈdéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "first week",
+   "ipa_brE": "BrE /ˌfɜːst ˈwiːk/",
+   "ipa_AmE": "AmE /ˈfɝst ˈwik/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ramp-up",
+   "ipa_brE": "BrE /ˈræmp ʌp/",
+   "ipa_AmE": "AmE /ˈɹæmp ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workstation",
+   "ipa_brE": "BrE /ˈwɜːkstæʃn/",
+   "ipa_AmE": "AmE /ˈwɝˌkstéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "laptop",
+   "ipa_brE": "BrE /ˈlæptɒp/",
+   "ipa_AmE": "AmE /ˈlæˌptɑp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "access rights",
+   "ipa_brE": "BrE /ˈækses raɪts/",
+   "ipa_AmE": "AmE /ˈæˌksɛs ˈɹɑɪts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "access provisioning",
+   "ipa_brE": "BrE /ˈækses prəˌvɪʒənɪŋ/",
+   "ipa_AmE": "AmE /ˈæˌksɛs pɹəˈvɪʒənɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "account activation",
+   "ipa_brE": "BrE /əˈkaʊnt ˌæktɪˈveɪʃn/",
+   "ipa_AmE": "AmE /əˈkàʊnt ˌæktəˈvéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "security training",
+   "ipa_brE": "BrE /sɪˈkjʊərəti ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mandatory training",
+   "ipa_brE": "BrE /ˈmændətəri ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈmændəˌtɔɹi ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "e-learning",
+   "ipa_brE": "BrE /ˈiː ˌlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˈi ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compliance training",
+   "ipa_brE": "BrE /kəmˈplaɪəns ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "welcome pack",
+   "ipa_brE": "BrE /ˈwelkəm pæk/",
+   "ipa_AmE": "AmE /ˈwɛlkəm ˈpæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employee handbook",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˈhændbʊk/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ˈhæˌndbʊk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "policy",
+   "ipa_brE": "BrE /ˈpɒləsi/",
+   "ipa_AmE": "AmE /ˈpɑləsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "company overview",
+   "ipa_brE": "BrE /ˈkʌmpəni ˈəʊvəvjuː/",
+   "ipa_AmE": "AmE /ˈkʌmpəˌni ˈoʊvɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mission",
+   "ipa_brE": "BrE /ˈmɪʃn/",
+   "ipa_AmE": "AmE /ˈmɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "values",
+   "ipa_brE": "BrE /ˈvæljuːz/",
+   "ipa_AmE": "AmE /ˈvæljuz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "org chart",
+   "ipa_brE": "BrE /ˈɔːɡ tʃɑːt/",
+   "ipa_AmE": "AmE /ˈɔɹɡ ˈtʃɑɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reporting line",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ laɪn/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈlɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team introduction",
+   "ipa_brE": "BrE /ˈtiːm ˌɪntrəˈdʌkʃn/",
+   "ipa_AmE": "AmE /ˈtim ˌɪntɹəˈdʌkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "welcome session",
+   "ipa_brE": "BrE /ˈwelkəm ˌseʃn/",
+   "ipa_AmE": "AmE /ˈwɛlkəm ˈsɛʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "icebreaker",
+   "ipa_brE": "BrE /ˈaɪsbreɪkə(r)/",
+   "ipa_AmE": "AmE /ˈɑɪˌsbɹéɪkɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "team lunch",
+   "ipa_brE": "BrE /ˈtiːm lʌntʃ/",
+   "ipa_AmE": "AmE /ˈtim ˈlʌntʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expectation setting",
+   "ipa_brE": "BrE /ɪkˌspektˈeɪʃn ˌsetɪŋ/",
+   "ipa_AmE": "AmE /ˌɛkspɛˈktéɪʃən ˈsɛtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "30-60-90 day plan",
+   "ipa_brE": "BrE /ˌθɜːti ˈsɪksti ˈnaɪnti deɪ plæn/",
+   "ipa_AmE": "AmE /ˌθɝtɪ ˈsɪkstɪ ˈnaɪntɪ ˈdéɪ ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "role clarity",
+   "ipa_brE": "BrE /ˈrəʊl ˌklærəti/",
+   "ipa_AmE": "AmE /ˈɹoʊl ˈklɛɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probation period",
+   "ipa_brE": "BrE /prəˈbeɪʃn ˌpɪəriəd/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃən ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probation review",
+   "ipa_brE": "BrE /prəˈbeɪʃn rɪˌvjuː/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃən ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "confirmation",
+   "ipa_brE": "BrE /ˌkɒnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˌkɑnfɚˈméɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "confirmation letter",
+   "ipa_brE": "BrE /ˌkɒnfəˈmeɪʃn ˌletə(r)/",
+   "ipa_AmE": "AmE /ˌkɑnfɚˈméɪʃən ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probation extension",
+   "ipa_brE": "BrE /prəˈbeɪʃn ɪkˈstenʃn/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃən ɪˈkstɛnʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unsatisfactory",
+   "ipa_brE": "BrE /ˌʌnsætɪsˈfæktəri/",
+   "ipa_AmE": "AmE /ˌʌnsətɪˈsfæktɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "adaptation",
+   "ipa_brE": "BrE /ˌædæpˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌædəˈptéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "social integration",
+   "ipa_brE": "BrE /ˈsəʊʃl ˌɪntɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl ˌɪntəˈɡɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team cohesion",
+   "ipa_brE": "BrE /ˈtiːm kəʊˈhiːʒn/",
+   "ipa_AmE": "AmE /ˈtim koʊˈhiʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team bonding",
+   "ipa_brE": "BrE /ˈtiːm ˌbɒndɪŋ/",
+   "ipa_AmE": "AmE /ˈtim ˈbɑndɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team building",
+   "ipa_brE": "BrE /ˈtiːm ˌbɪldɪŋ/",
+   "ipa_AmE": "AmE /ˈtim ˈbɪldɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "offsite",
+   "ipa_brE": "BrE /ˌɒfˈsaɪt/",
+   "ipa_AmE": "AmE /ˌɑˈfsaɪt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "shadowing",
+   "ipa_brE": "BrE /ˈʃædəʊɪŋ/",
+   "ipa_AmE": "AmE /ˈʃædoʊɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "knowledge transfer",
+   "ipa_brE": "BrE /ˈnɒlɪdʒ ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /ˈnɑlədʒ tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "handover",
+   "ipa_brE": "BrE /ˈhændəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈhændoʊvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stakeholder map",
+   "ipa_brE": "BrE /ˈsteɪkhəʊldə mæp/",
+   "ipa_AmE": "AmE /ˈstéɪˌkhoʊldɚ ˈmæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cross-functional introduction",
+   "ipa_brE": "BrE /ˌkrɒs ˈfʌŋkʃənl ˌɪntrəˈdʌkʃn/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈfʌŋkʃənəl ˌɪntɹəˈdʌkʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "working agreement",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ways of working",
+   "ipa_brE": "BrE /ˌweɪz əv ˈwɜːkɪŋ/",
+   "ipa_AmE": "AmE /ˈwéɪz ˈʌv ˈwɝkɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "team norms",
+   "ipa_brE": "BrE /ˈtiːm nɔːmz/",
+   "ipa_AmE": "AmE /ˈtim ˈnɔɹmz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "collaboration rule",
+   "ipa_brE": "BrE /kəˌlæbəˈreɪʃn ruːl/",
+   "ipa_AmE": "AmE /kəˌlæbɚˈéɪʃən ˈɹul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture shock",
+   "ipa_brE": "BrE /ˈkʌltʃə ʃɒk/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈʃɑk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "settling in",
+   "ipa_brE": "BrE /ˈsetlɪŋ ɪn/",
+   "ipa_AmE": "AmE /ˈsɛtlɪŋ ɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "language barrier",
+   "ipa_brE": "BrE /ˈlæŋɡwɪdʒ ˌbæriə(r)/",
+   "ipa_AmE": "AmE /ˈlæŋɡwədʒ ˈbæɹiɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "onboarding plan",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ plæn/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˈplæn/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "checklist",
+   "ipa_brE": "BrE /ˈtʃeklɪst/",
+   "ipa_AmE": "AmE /ˈtʃɛˌklɪst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "new-hire survey",
+   "ipa_brE": "BrE /ˌnjuː ˈhaɪə ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˈnu ˈhɑɪɚ sɚˈvéɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "onboarding satisfaction",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ ˌsætɪsˈfækʃn/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˌsætəˈsfækʃən/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "time to productivity",
+   "ipa_brE": "BrE /ˌtaɪm tə prəˌdʌkˈtɪvəti/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈtu ˌpɹoʊdəˈktɪvəti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "learning curve",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ kɜːv/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈkɝv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "confidence",
+   "ipa_brE": "BrE /ˈkɒnfɪdəns/",
+   "ipa_AmE": "AmE /ˈkɑnfədəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "buddy feedback",
+   "ipa_brE": "BrE /ˈbʌdi ˌfiːdbæk/",
+   "ipa_AmE": "AmE /ˈbʌdi ˈfiˌdbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "integration survey",
+   "ipa_brE": "BrE /ˌɪntɪˈɡreɪʃn ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˌɪntəˈɡɹéɪʃən sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "manager check-in",
+   "ipa_brE": "BrE /ˈmænɪdʒə ˈtʃek ɪn/",
+   "ipa_AmE": "AmE /ˈmænədʒɚ ˈtʃɛk ɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "weekly check-in",
+   "ipa_brE": "BrE /ˈwiːkli ˈtʃek ɪn/",
+   "ipa_AmE": "AmE /ˈwikli ˈtʃɛk ɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "30-day review",
+   "ipa_brE": "BrE /ˌθɜːti deɪ rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˌθɝtɪ ˈdéɪ ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "onboarding cohort",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ ˌkəʊhɔːt/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˈkoʊhɔɹt/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "mass onboarding",
+   "ipa_brE": "BrE /ˌmæs ˈɒnbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ˈmæs ˈɑnbɔdɪŋ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "remote onboarding",
+   "ipa_brE": "BrE /rɪˌməʊt ˈɒnbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ɹɪˈmoʊt ˈɑnbɔdɪŋ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "equipment delivery",
+   "ipa_brE": "BrE /ɪˈkwɪpmənt dɪˌlɪvəri/",
+   "ipa_AmE": "AmE /ɪˈkwɪpmənt dɪˈlɪvɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "desk booking",
+   "ipa_brE": "BrE /ˈdesk ˌbʊkɪŋ/",
+   "ipa_AmE": "AmE /ˈdɛsk ˈbʊkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "access badge",
+   "ipa_brE": "BrE /ˈækses bædʒ/",
+   "ipa_AmE": "AmE /ˈæˌksɛs ˈbædʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "code of conduct",
+   "ipa_brE": "BrE /ˌkəʊd əv ˈkɒndʌkt/",
+   "ipa_AmE": "AmE /ˈkoʊd ˈʌv ˈkɑndəkt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "acceptable use policy",
+   "ipa_brE": "BrE /əkˌseptəbl ˈjuːz ˌpɒləsi/",
+   "ipa_AmE": "AmE /æˈksɛptəbəl ˈjus ˈpɑləsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "policy acknowledgement",
+   "ipa_brE": "BrE /ˈpɒləsi əkˈnɒlɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈpɑləsi æˈknɑlɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "buddy session",
+   "ipa_brE": "BrE /ˈbʌdi ˌseʃn/",
+   "ipa_AmE": "AmE /ˈbʌdi ˈsɛʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intro email",
+   "ipa_brE": "BrE /ˈɪntrəʊ ˌiːmeɪl/",
+   "ipa_AmE": "AmE /ˈɪntɹoʊ iˈméɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team directory",
+   "ipa_brE": "BrE /ˈtiːm dəˌrektəri/",
+   "ipa_AmE": "AmE /ˈtim dɚˈɛktɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "onboarding feedback",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ ˌfiːdbæk/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˈfiˌdbæk/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "onboarding score",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ skɔː(r)/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˈskɔɹ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "onboarding improvement",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ ɪmˈpruːvmənt/",
+   "ipa_AmE": "AmE /ˈɑnbɔdɪŋ ˌɪˈmpɹuvmənt/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  }
+ ],
+ "m03": [
+  {
+   "word": "organisational development",
+   "ipa_brE": "BrE /ˌɔːɡənaɪˈzeɪʃnəl dɪˈveləpmənt/",
+   "ipa_AmE": "AmE /ˌɔɡənaɪˈzeɪʃnəl dɪˈvɛləpmənt/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "talent review",
+   "ipa_brE": "BrE /ˈtælənt rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈtælənt ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "talent calibration",
+   "ipa_brE": "BrE /ˈtælənt ˌkælɪˈbreɪʃn/",
+   "ipa_AmE": "AmE /ˈtælənt ˌkæləˈbɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "competency",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "competency framework",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi ˌfreɪmwɜːk/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi ˈfɹéɪˌmwɝk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "competency model",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "competency level",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi ˌlevl/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi ˈlɛvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proficiency",
+   "ipa_brE": "BrE /prəˈfɪʃnsi/",
+   "ipa_AmE": "AmE /pɹəˈfɪʃənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "behavioural indicator",
+   "ipa_brE": "BrE /bɪˈheɪvjərəl ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /bɪˈheɪvjəɹəl ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "job architecture",
+   "ipa_brE": "BrE /ˈdʒɒb ˌɑːkɪtektʃə(r)/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈɑɹkəˌtɛktʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "job family",
+   "ipa_brE": "BrE /ˈdʒɒb ˌfæməli/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈfæməli/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "career path",
+   "ipa_brE": "BrE /kəˈrɪə pɑːθ/",
+   "ipa_AmE": "AmE /kɚˈɪɹ ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "career ladder",
+   "ipa_brE": "BrE /kəˈrɪə ˌlædə(r)/",
+   "ipa_AmE": "AmE /kɚˈɪɹ ˈlædɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dual career track",
+   "ipa_brE": "BrE /ˌdjuːəl kəˈrɪə træk/",
+   "ipa_AmE": "AmE /ˈduəl kɚˈɪɹ ˈtɹæk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "lateral move",
+   "ipa_brE": "BrE /ˈlætərəl muːv/",
+   "ipa_AmE": "AmE /ˈlætɚəl ˈmuv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "succession planning",
+   "ipa_brE": "BrE /səkˈseʃn ˌplænɪŋ/",
+   "ipa_AmE": "AmE /səˈksɛʃən ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "successor",
+   "ipa_brE": "BrE /səkˈsesə(r)/",
+   "ipa_AmE": "AmE /səˈksɛsɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "readiness",
+   "ipa_brE": "BrE /ˈredinəs/",
+   "ipa_AmE": "AmE /ˈɹɛdinəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bench strength",
+   "ipa_brE": "BrE /ˈbentʃ streŋθ/",
+   "ipa_AmE": "AmE /ˈbɛntʃ ˈstɹɛŋkθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "key person risk",
+   "ipa_brE": "BrE /ˌkiː ˈpɜːsn rɪsk/",
+   "ipa_AmE": "AmE /ˈki ˈpɝsən ˈɹɪsk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "flight risk",
+   "ipa_brE": "BrE /ˈflaɪt rɪsk/",
+   "ipa_AmE": "AmE /ˈflɑɪt ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "nine-box grid",
+   "ipa_brE": "BrE /ˌnaɪn bɒks ˈɡrɪd/",
+   "ipa_AmE": "AmE /ˈnɑɪn ˈbɑks ˈɡɹɪd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "potential assessment",
+   "ipa_brE": "BrE /pəˈtenʃl əˌsesmənt/",
+   "ipa_AmE": "AmE /pəˈtɛnʃəl əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "high potential",
+   "ipa_brE": "BrE /ˌhaɪ pəˈtenʃl/",
+   "ipa_AmE": "AmE /ˈhɑɪ pəˈtɛnʃəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mobility",
+   "ipa_brE": "BrE /məʊˈbɪləti/",
+   "ipa_AmE": "AmE /moʊˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "internal move",
+   "ipa_brE": "BrE /ɪnˌtɜːnl ˈmuːv/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˈmuv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rotation",
+   "ipa_brE": "BrE /rəʊˈteɪʃn/",
+   "ipa_AmE": "AmE /ɹoʊˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "organisational design",
+   "ipa_brE": "BrE /ˌɔːɡənaɪˈzeɪʃnəl dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˌɔɡənaɪˈzeɪʃnəl dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "role design",
+   "ipa_brE": "BrE /ˈrəʊl dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˈɹoʊl dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "work redesign",
+   "ipa_brE": "BrE /ˌwɜːk ˌriːˈdɪzaɪn/",
+   "ipa_AmE": "AmE /ˈwɝk ˌɹidɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "job evaluation",
+   "ipa_brE": "BrE /ˈdʒɒb ɪˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈdʒɑb ɪˌvæljuˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "grade definition",
+   "ipa_brE": "BrE /ˌɡreɪd ˌdefɪˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈɡɹéɪd ˌdɛfəˈnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "levelling",
+   "ipa_brE": "BrE /ˈlevlɪŋ/",
+   "ipa_AmE": "AmE /ˈlɛvlɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "restructuring",
+   "ipa_brE": "BrE /ˌriːˈstrʌktʃərɪŋ/",
+   "ipa_AmE": "AmE /ɹiˈstɹʌktʃɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reorganisation",
+   "ipa_brE": "BrE /ˌriːɔːɡənaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹiɔɹɡənəˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "redeployment",
+   "ipa_brE": "BrE /ˌriːdɪˈplɔɪmənt/",
+   "ipa_AmE": "AmE /ˌɹidɪˈplɔɪmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "flatter structure",
+   "ipa_brE": "BrE /ˌflætə ˈstrʌktʃə(r)/",
+   "ipa_AmE": "AmE /ˈflætɚ ˈstɹʌktʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "management layer",
+   "ipa_brE": "BrE /ˈmænɪdʒmənt ˌleɪə(r)/",
+   "ipa_AmE": "AmE /ˈmænədʒmənt ˈléɪɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision right",
+   "ipa_brE": "BrE /dɪˈsɪʒn raɪt/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈɹɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture change",
+   "ipa_brE": "BrE /ˈkʌltʃə tʃeɪndʒ/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈtʃéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transformation",
+   "ipa_brE": "BrE /ˌtrænsfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˌtɹænsfɚˈméɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "change champion",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ ˌtʃæmpiən/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈtʃæmpiən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "OD intervention",
+   "ipa_brE": "BrE /ˌəʊ diː ˌɪntəˈvenʃn/",
+   "ipa_AmE": "AmE /ˌoʊ di ˌɪntəˈvɛnʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "survey-feedback loop",
+   "ipa_brE": "BrE /ˌsɜːveɪ ˈfiːdbæk luːp/",
+   "ipa_AmE": "AmE /sɚˈvéɪ ˈfiˌdbæk ˈlup/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "action planning",
+   "ipa_brE": "BrE /ˈækʃn ˌplænɪŋ/",
+   "ipa_AmE": "AmE /ˈækʃən ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pulse survey",
+   "ipa_brE": "BrE /ˈpʌls ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˈpʌls sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "values assessment",
+   "ipa_brE": "BrE /ˈvæljuːz əˌsesmənt/",
+   "ipa_AmE": "AmE /ˈvæljuz əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture audit",
+   "ipa_brE": "BrE /ˈkʌltʃə ˌɔːdɪt/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture gap",
+   "ipa_brE": "BrE /ˈkʌltʃə ɡæp/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employee lifecycle",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˈlaɪfsaɪkl/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ˈlɑɪˌfsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people strategy",
+   "ipa_brE": "BrE /ˈpiːpl ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ˈpipəl ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leadership pipeline",
+   "ipa_brE": "BrE /ˈliːdəʃɪp ˌpaɪplaɪn/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp ˈpɑɪˌplɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leadership development",
+   "ipa_brE": "BrE /ˈliːdəʃɪp dɪˌveləpmənt/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp dɪˈvɛləpmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rotational assignment",
+   "ipa_brE": "BrE /rəʊˈteɪʃnəl əˈsaɪnmənt/",
+   "ipa_AmE": "AmE /ɹoʊˈtéɪʃənəl əˈsɑɪnmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stretch assignment",
+   "ipa_brE": "BrE /ˈstretʃ əˌsaɪnmənt/",
+   "ipa_AmE": "AmE /ˈstɹɛtʃ əˈsɑɪnmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cross-functional project",
+   "ipa_brE": "BrE /ˌkrɒs ˈfʌŋkʃənl ˈprɒdʒekt/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈfʌŋkʃənəl ˈpɹɑdʒɛkt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "visibility",
+   "ipa_brE": "BrE /ˌvɪzəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌvɪzəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "individual development plan",
+   "ipa_brE": "BrE /ˌɪndɪˈvɪdʒuəl dɪˈveləpmənt plæn/",
+   "ipa_AmE": "AmE /ˌɪndəˈvɪdʒəwəl dɪˈvɛləpmənt ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "career conversation",
+   "ipa_brE": "BrE /kəˈrɪə ˌkɒnvəˈseɪʃn/",
+   "ipa_AmE": "AmE /kɚˈɪɹ ˌkɑnvɚˈséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "career pathing",
+   "ipa_brE": "BrE /kəˈrɪə ˌpɑːðɪŋ/",
+   "ipa_AmE": "AmE /kɚˈɪɹ ˌpɑðɪŋ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "talent identifier",
+   "ipa_brE": "BrE /ˈtælənt aɪˌdentɪfaɪə(r)/",
+   "ipa_AmE": "AmE /ˈtælənt ɑɪˈdɛntəˌfɑɪɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "high-flyer",
+   "ipa_brE": "BrE /ˌhaɪ ˈflaɪə(r)/",
+   "ipa_AmE": "AmE /ˈhɑɪ ˈflɑɪɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "underperformer",
+   "ipa_brE": "BrE /ˌʌndəpəˈfɔːmə(r)/",
+   "ipa_AmE": "AmE /ˈʌndɚpɚˌfɔɹmɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "performance improvement plan",
+   "ipa_brE": "BrE /pəˈfɔːməns ɪmˌpruːvmənt plæn/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˌɪˈmpɹuvmənt ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "rehabilitation",
+   "ipa_brE": "BrE /ˌriːəˌbɪlɪˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɹihəˌbɪləˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "remediation",
+   "ipa_brE": "BrE /ˌriːmiːdiˈeɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˌmidiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "headcount optimisation",
+   "ipa_brE": "BrE /ˈhedkaʊnt ˌɒptɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt ɑptəməˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workforce segmentation",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs ˌseɡmenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs ˌsɛɡməˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hiring freeze",
+   "ipa_brE": "BrE /ˈhaɪərɪŋ friːz/",
+   "ipa_AmE": "AmE /ˈhɑɪɹɪŋ ˈfɹiz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shared service",
+   "ipa_brE": "BrE /ˌʃeəd ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈʃɛɹd ˈsɝvəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "HR operations",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑːr ˌɒpəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ ˌɑpəˈɹeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "shared services centre",
+   "ipa_brE": "BrE /ˌʃeəd ˈsɜːvɪsɪz ˌsentə(r)/",
+   "ipa_AmE": "AmE /ˈʃɛɹd ˈsɝvəsəz ˈsɛntɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "target operating model",
+   "ipa_brE": "BrE /ˈtɑːɡɪt ˈɒpəreɪtɪŋ ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət ˈɑpɚˌéɪtɪŋ ˈmɑdəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "future operating model",
+   "ipa_brE": "BrE /ˈfjuːtʃə ˈɒpəreɪtɪŋ ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈfjutʃɚ ˈɑpɚˌéɪtɪŋ ˈmɑdəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "transitional model",
+   "ipa_brE": "BrE /trænˈzɪʃənəl ˈmɒdl/",
+   "ipa_AmE": "AmE /tɹæˈnsɪʃənəl ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change fatigue",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ fəˌtiːɡ/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ fəˈtiɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change saturation",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ ˌsætʃəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˌsætʃɚˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adoption rate",
+   "ipa_brE": "BrE /əˈdɒpʃn reɪt/",
+   "ipa_AmE": "AmE /əˈdɑpʃən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "governance",
+   "ipa_brE": "BrE /ˈɡʌvənəns/",
+   "ipa_AmE": "AmE /ˈɡʌvɚnəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "decision forum",
+   "ipa_brE": "BrE /dɪˈsɪʒn ˌfɔːrəm/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈfɔɹəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workstream",
+   "ipa_brE": "BrE /ˈwɜːkstriːm/",
+   "ipa_AmE": "AmE /ˈwɝkstɹim/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "design thinking",
+   "ipa_brE": "BrE /dɪˈzaɪn ˌθɪŋkɪŋ/",
+   "ipa_AmE": "AmE /dɪˈzɑɪn ˈθɪŋkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workshop",
+   "ipa_brE": "BrE /ˈwɜːkʃɒp/",
+   "ipa_AmE": "AmE /ˈwɝˌkʃɑp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "co-creation",
+   "ipa_brE": "BrE /ˌkəʊ kriˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈkoʊ kɹiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "facilitation",
+   "ipa_brE": "BrE /fəˈsɪlɪteɪʃn/",
+   "ipa_AmE": "AmE /fəˌsɪləˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "whiteboard session",
+   "ipa_brE": "BrE /ˈwaɪtbɔːd ˌseʃn/",
+   "ipa_AmE": "AmE /ˈwaɪtbɔd ˈsɛʃən/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "insight",
+   "ipa_brE": "BrE /ˈɪnsaɪt/",
+   "ipa_AmE": "AmE /ˈɪˌnsɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "talent strategy",
+   "ipa_brE": "BrE /ˈtælənt ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ˈtælənt ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic workforce planning",
+   "ipa_brE": "BrE /strəˌtiːdʒɪk ˈwɜːkfɔːs ˌplænɪŋ/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˈwɝˌkfɔɹs ˈplænɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "capability building",
+   "ipa_brE": "BrE /ˌkeɪpəˈbɪləti ˌbɪldɪŋ/",
+   "ipa_AmE": "AmE /ˌkéɪpəˈbɪləti ˈbɪldɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "future capability",
+   "ipa_brE": "BrE /ˌfjuːtʃə ˌkeɪpəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈfjutʃɚ ˌkéɪpəˈbɪləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workforce scenario",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs səˌnɑːriəʊ/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs sɪˈnɛɹioʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "talent risk",
+   "ipa_brE": "BrE /ˈtælənt rɪsk/",
+   "ipa_AmE": "AmE /ˈtælənt ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m04": [
+  {
+   "word": "performance management",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "objective",
+   "ipa_brE": "BrE /əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /əˈbdʒɛktɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "key result",
+   "ipa_brE": "BrE /ˌkiː rɪˈzʌlt/",
+   "ipa_AmE": "AmE /ˈki ɹɪˈzʌlt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "OKR",
+   "ipa_brE": "BrE /ˌəʊ keɪ ˈɑː(r)/",
+   "ipa_AmE": "AmE /ˌoʊ keɪ ˈɑɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "goal setting",
+   "ipa_brE": "BrE /ˈɡəʊl ˌsetɪŋ/",
+   "ipa_AmE": "AmE /ˈɡoʊl ˈsɛtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cascade",
+   "ipa_brE": "BrE /kæˈskeɪd/",
+   "ipa_AmE": "AmE /kæˈskéɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "KPI",
+   "ipa_brE": "BrE /ˌkeɪ piː ˈaɪ/",
+   "ipa_AmE": "AmE /ˌkeɪ pi ˈaɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "performance indicator",
+   "ipa_brE": "BrE /pəˈfɔːməns ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "target",
+   "ipa_brE": "BrE /ˈtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "SMART goal",
+   "ipa_brE": "BrE /ˌsmɑːt ˈɡəʊl/",
+   "ipa_AmE": "AmE /ˈsmɑɹt ˈɡoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "measurable outcome",
+   "ipa_brE": "BrE /ˈmeʒərəbl ˈaʊtkʌm/",
+   "ipa_AmE": "AmE /ˈmɛʒɚəbəl ˈàʊˌtkʌm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "success criteria",
+   "ipa_brE": "BrE /səkˈses kraɪˌtɪəriə/",
+   "ipa_AmE": "AmE /səˈksɛs kɹɑɪˈtɪɹiə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "weighting",
+   "ipa_brE": "BrE /ˈweɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈwéɪtɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rating scale",
+   "ipa_brE": "BrE /ˈreɪtɪŋ skeɪl/",
+   "ipa_AmE": "AmE /ˈɹéɪtɪŋ ˈskéɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forced distribution",
+   "ipa_brE": "BrE /ˌfɔːst ˌdɪstrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /ˈfɔɹst ˌdɪstɹəˈbjuʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance rating",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance curve",
+   "ipa_brE": "BrE /pəˈfɔːməns kɜːv/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈkɝv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rating band",
+   "ipa_brE": "BrE /ˈreɪtɪŋ bænd/",
+   "ipa_AmE": "AmE /ˈɹéɪtɪŋ ˈbænd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "self-assessment",
+   "ipa_brE": "BrE /ˌself əˈsesmənt/",
+   "ipa_AmE": "AmE /ˈsɛlf əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "manager assessment",
+   "ipa_brE": "BrE /ˈmænɪdʒər əˌsesmənt/",
+   "ipa_AmE": "AmE /ˈmænədʒɚ əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "peer review",
+   "ipa_brE": "BrE /ˌpɪə rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˈpɪɹ ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "360-degree review",
+   "ipa_brE": "BrE /ˌθɜː sɪksti diː əˈriːvjuː/",
+   "ipa_AmE": "AmE /ˌθɝ sɪkstɪ di əˈɹivju/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "upward feedback",
+   "ipa_brE": "BrE /ˈʌpwəd ˌfiːdbæk/",
+   "ipa_AmE": "AmE /ˈʌpwɚd ˈfiˌdbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "feedback loop",
+   "ipa_brE": "BrE /ˈfiːdbæk luːp/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk ˈlup/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "feedback conversation",
+   "ipa_brE": "BrE /ˈfiːdbæk ˌkɒnvəˈseɪʃn/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk ˌkɑnvɚˈséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "positive feedback",
+   "ipa_brE": "BrE /ˈpɒzətɪv ˌfiːdbæk/",
+   "ipa_AmE": "AmE /ˈpɑzətɪv ˈfiˌdbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "developmental feedback",
+   "ipa_brE": "BrE /dɪˌveləpˈmentl ˈfiːdbæk/",
+   "ipa_AmE": "AmE /dɪˌvɛləˈpmɛntəl ˈfiˌdbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance conversation",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌkɒnvəˈseɪʃn/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˌkɑnvɚˈséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance concern",
+   "ipa_brE": "BrE /pəˈfɔːməns kənˌsɜːn/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns kəˈnsɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance gap",
+   "ipa_brE": "BrE /pəˈfɔːməns ɡæp/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mid-year review",
+   "ipa_brE": "BrE /ˌmɪd ˈjɪə rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈmɪd ˈjɪɹ ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "annual review",
+   "ipa_brE": "BrE /ˈænjuəl rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈænjuəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "review cycle",
+   "ipa_brE": "BrE /rɪˈvjuː ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˌɹiˈvju ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quarterly check-in",
+   "ipa_brE": "BrE /ˈkwɔːtəli ˈtʃek ɪn/",
+   "ipa_AmE": "AmE /ˈkwɔɹtɚli ˈtʃɛk ɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "progress review",
+   "ipa_brE": "BrE /ˈprəʊɡres rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈpɹɑˌɡɹɛs ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rating rationale",
+   "ipa_brE": "BrE /ˈreɪtɪŋ ˌræʃəˈnɑːl/",
+   "ipa_AmE": "AmE /ˈɹéɪtɪŋ ˌɹæʃəˈnæl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "goal cascading",
+   "ipa_brE": "BrE /ˈɡəʊl kæsˌkeɪdɪŋ/",
+   "ipa_AmE": "AmE /ˈɡoʊl kæˈskéɪdɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "alignment meeting",
+   "ipa_brE": "BrE /əˈlaɪnmənt ˌmiːtɪŋ/",
+   "ipa_AmE": "AmE /əˈlɑɪnmənt ˈmitɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "objective conflict",
+   "ipa_brE": "BrE /əbˈdʒektɪv ˌkɒnflɪkt/",
+   "ipa_AmE": "AmE /əˈbdʒɛktɪv ˈkɑnflɪkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "OKR cycle",
+   "ipa_brE": "BrE /ˌəʊ keɪ ˈɑː ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˌoʊ keɪ ˈɑ ˌsaɪkl/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "quarterly objective",
+   "ipa_brE": "BrE /ˈkwɔːtəli əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /ˈkwɔɹtɚli əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "key result review",
+   "ipa_brE": "BrE /ˌkiː rɪˈzʌlt rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈki ɹɪˈzʌlt ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "leading indicator",
+   "ipa_brE": "BrE /ˌliːdɪŋ ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /ˈlidɪŋ ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lagging indicator",
+   "ipa_brE": "BrE /ˌlæɡɪŋ ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /ˈlæɡɪŋ ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "outcome metric",
+   "ipa_brE": "BrE /ˈaʊtkʌm ˌmetrɪk/",
+   "ipa_AmE": "AmE /ˈàʊˌtkʌm ˈmɛtɹɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "individual contributor",
+   "ipa_brE": "BrE /ˌɪndɪˈvɪdʒuəl kənˈtrɪbjətə(r)/",
+   "ipa_AmE": "AmE /ˌɪndəˈvɪdʒəwəl kəˈntɹɪbjətɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people manager",
+   "ipa_brE": "BrE /ˈpiːpl ˌmænɪdʒə(r)/",
+   "ipa_AmE": "AmE /ˈpipəl ˈmænədʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "matrix management",
+   "ipa_brE": "BrE /ˈmeɪtrɪks ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈméɪtɹɪks ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance distribution",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌdɪstrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˌdɪstɹəˈbjuʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bell curve",
+   "ipa_brE": "BrE /ˈbel kɜːv/",
+   "ipa_AmE": "AmE /ˈbɛl ˈkɝv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rating guidance",
+   "ipa_brE": "BrE /ˈreɪtɪŋ ˌɡaɪdns/",
+   "ipa_AmE": "AmE /ˈɹéɪtɪŋ ˈɡɑɪdəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "behavioural rating",
+   "ipa_brE": "BrE /bɪˈheɪvjərəl ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /bɪˈheɪvjəɹəl ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "achievement rating",
+   "ipa_brE": "BrE /əˈtʃiːvmənt ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /əˈtʃivmənt ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "competency rating",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stretch target",
+   "ipa_brE": "BrE /ˈstretʃ ˌtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˈstɹɛtʃ ˈtɑɹɡət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "aspirational target",
+   "ipa_brE": "BrE /ˌæspəˈreɪʃənəl ˌtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˌæspəˈɹeɪʃənəl ˈtɑɹɡət/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "baseline target",
+   "ipa_brE": "BrE /ˈbeɪslaɪn ˌtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˈbéɪˌslɑɪn ˈtɑɹɡət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "impact rating",
+   "ipa_brE": "BrE /ˈɪmpækt ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˌɪˈmpækt ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "effort rating",
+   "ipa_brE": "BrE /ˈefət ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈɛfɚt ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "behaviour rating",
+   "ipa_brE": "BrE /bɪˈheɪvjə ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /bɪˈhéɪvjɚ ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance record",
+   "ipa_brE": "BrE /pəˈfɔːməns rɪˌkɔːd/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "documented evidence",
+   "ipa_brE": "BrE /ˈdɒkjumentɪd ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˈdɑkjəˌmɛntəd ˈɛvədəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contemporaneous note",
+   "ipa_brE": "BrE /kənˌtemˈpəreɪniəs nəʊt/",
+   "ipa_AmE": "AmE /kəˌntɛmpɚˈéɪniəs ˈnoʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance appeal",
+   "ipa_brE": "BrE /pəˈfɔːməns əˈpiːl/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns əˈpil/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "review appeal",
+   "ipa_brE": "BrE /rɪˈvjuː əˌpiːl/",
+   "ipa_AmE": "AmE /ˌɹiˈvju əˈpil/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "grievance route",
+   "ipa_brE": "BrE /ˈɡriːvəns ruːt/",
+   "ipa_AmE": "AmE /ˈɡɹivəns ˈɹut/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "skip-level meeting",
+   "ipa_brE": "BrE /ˈskɪp ˌlevl ˌmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˈskɪp ˈlɛvəl ˈmitɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reverse feedback",
+   "ipa_brE": "BrE /rɪˈvɜːs ˈfiːdbæk/",
+   "ipa_AmE": "AmE /ɹɪˈvɝs ˈfiˌdbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dotted-line manager",
+   "ipa_brE": "BrE /ˌdɒtɪd ˈlaɪn ˌmænɪdʒə(r)/",
+   "ipa_AmE": "AmE /ˈdɑtəd ˈlɑɪn ˈmænədʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "feedback tool",
+   "ipa_brE": "BrE /ˈfiːdbæk tuːl/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk ˈtul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "development action",
+   "ipa_brE": "BrE /dɪˈveləpmənt ˈækʃn/",
+   "ipa_AmE": "AmE /dɪˈvɛləpmənt ˈækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "behaviour change",
+   "ipa_brE": "BrE /bɪˈheɪvjə tʃeɪndʒ/",
+   "ipa_AmE": "AmE /bɪˈhéɪvjɚ ˈtʃéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance culture",
+   "ipa_brE": "BrE /pəˈfɔːməns ˈkʌltʃə(r)/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈkʌltʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "high performance",
+   "ipa_brE": "BrE /ˌhaɪ pəˈfɔːməns/",
+   "ipa_AmE": "AmE /ˈhɑɪ pɚˈfɔɹməns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "low performance",
+   "ipa_brE": "BrE /ˌləʊ pəˈfɔːməns/",
+   "ipa_AmE": "AmE /ˈloʊ pɚˈfɔɹməns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "OKR scoring",
+   "ipa_brE": "BrE /ˌəʊ keɪ ˈɑː ˌskɔːrɪŋ/",
+   "ipa_AmE": "AmE /ˌoʊ keɪ ˈɑ ˌskɔɹɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "confidence rating",
+   "ipa_brE": "BrE /ˈkɒnfɪdəns ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑnfədəns ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "health check",
+   "ipa_brE": "BrE /ˈhelθ tʃek/",
+   "ipa_AmE": "AmE /ˈhɛlθ ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "objective setting",
+   "ipa_brE": "BrE /əbˈdʒektɪv ˌsetɪŋ/",
+   "ipa_AmE": "AmE /əˈbdʒɛktɪv ˈsɛtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "goal quality",
+   "ipa_brE": "BrE /ˈɡəʊl ˌkwɒləti/",
+   "ipa_AmE": "AmE /ˈɡoʊl ˈkwɑləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "goal review",
+   "ipa_brE": "BrE /ˈɡəʊl rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈɡoʊl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "coaching conversation",
+   "ipa_brE": "BrE /ˈkəʊtʃɪŋ ˌkɒnvəˈseɪʃn/",
+   "ipa_AmE": "AmE /ˈkoʊtʃɪŋ ˌkɑnvɚˈséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "manager capability",
+   "ipa_brE": "BrE /ˈmænɪdʒə ˌkeɪpəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈmænədʒɚ ˌkéɪpəˈbɪləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people leader",
+   "ipa_brE": "BrE /ˈpiːpl ˌliːdə(r)/",
+   "ipa_AmE": "AmE /ˈpipəl ˈlidɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recognition",
+   "ipa_brE": "BrE /ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛkəˈɡnɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "acknowledgement",
+   "ipa_brE": "BrE /əkˈnɒlɪdʒmənt/",
+   "ipa_AmE": "AmE /æˈknɑlɪdʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "commendation",
+   "ipa_brE": "BrE /ˌkɒmenˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˌkɑməˈndéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pay-for-performance",
+   "ipa_brE": "BrE /ˌpeɪ fə pəˈfɔːməns/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈfɔɹ pɚˈfɔɹməns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "performance-linked reward",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌlɪŋkt rɪˈwɔːd/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈlɪŋkt ɹɪˈwɔɹd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reward risk",
+   "ipa_brE": "BrE /rɪˈwɔːd rɪsk/",
+   "ipa_AmE": "AmE /ɹɪˈwɔɹd ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m05": [
+  {
+   "word": "compensation and benefits",
+   "ipa_brE": "BrE /kəmˌpenseɪʃn ən ˈbenɪfɪts/",
+   "ipa_AmE": "AmE /ˌkɑmpəˈnséɪʃən ənd ˈbɛnəfɪts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "total reward",
+   "ipa_brE": "BrE /ˌtəʊtl rɪˈwɔːd/",
+   "ipa_AmE": "AmE /ˈtoʊtəl ɹɪˈwɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remuneration",
+   "ipa_brE": "BrE /rɪˌmjuːnəˈreɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˌmjunɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "salary",
+   "ipa_brE": "BrE /ˈsæləri/",
+   "ipa_AmE": "AmE /ˈsælɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "base pay",
+   "ipa_brE": "BrE /ˈbeɪs peɪ/",
+   "ipa_AmE": "AmE /ˈbéɪs ˈpéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "base salary",
+   "ipa_brE": "BrE /ˈbeɪs ˌsæləri/",
+   "ipa_AmE": "AmE /ˈbéɪs ˈsælɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bonus",
+   "ipa_brE": "BrE /ˈbəʊnəs/",
+   "ipa_AmE": "AmE /ˈboʊnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "variable pay",
+   "ipa_brE": "BrE /ˈveəriəbl peɪ/",
+   "ipa_AmE": "AmE /ˈvɛɹiəbəl ˈpéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annual bonus",
+   "ipa_brE": "BrE /ˈænjuəl ˌbəʊnəs/",
+   "ipa_AmE": "AmE /ˈænjuəl ˈboʊnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sales quota",
+   "ipa_brE": "BrE /ˌseɪlz ˈkwəʊtə/",
+   "ipa_AmE": "AmE /ˈséɪlz ˈkwoʊtə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commission",
+   "ipa_brE": "BrE /kəˈmɪʃn/",
+   "ipa_AmE": "AmE /kəˈmɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accelerator",
+   "ipa_brE": "BrE /əkˈseləreɪtə(r)/",
+   "ipa_AmE": "AmE /æˈksɛlɚˌéɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pay band",
+   "ipa_brE": "BrE /ˈpeɪ bænd/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈbænd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "salary band",
+   "ipa_brE": "BrE /ˈsæləri bænd/",
+   "ipa_AmE": "AmE /ˈsælɚi ˈbænd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "midpoint",
+   "ipa_brE": "BrE /ˈmɪdpɔɪnt/",
+   "ipa_AmE": "AmE /ˈmɪˌdpɔɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pay range",
+   "ipa_brE": "BrE /ˈpeɪ reɪndʒ/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈɹéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay transparency",
+   "ipa_brE": "BrE /ˈpeɪ trænsˈpærənsi/",
+   "ipa_AmE": "AmE /ˈpéɪ tɹæˈnspɛɹənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay equity",
+   "ipa_brE": "BrE /ˈpeɪ ˌekwəti/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈɛkwəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "salary review",
+   "ipa_brE": "BrE /ˈsæləri rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈsælɚi ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay increase",
+   "ipa_brE": "BrE /ˈpeɪ ˌɪŋkriːs/",
+   "ipa_AmE": "AmE /ˈpéɪ ˌɪˈnkɹis/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "merit increase",
+   "ipa_brE": "BrE /ˈmerɪt ˌɪŋkriːs/",
+   "ipa_AmE": "AmE /ˈmɛɹət ˌɪˈnkɹis/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost of living",
+   "ipa_brE": "BrE /ˌkɒst əv ˈlɪvɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈlɪvɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "market rate",
+   "ipa_brE": "BrE /ˈmɑːkɪt reɪt/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay benchmark",
+   "ipa_brE": "BrE /ˈpeɪ ˌbentʃmɑːk/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈbɛˌntʃmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay positioning",
+   "ipa_brE": "BrE /ˈpeɪ pəˌzɪʃənɪŋ/",
+   "ipa_AmE": "AmE /ˈpéɪ pəˈzɪʃənɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market positioning",
+   "ipa_brE": "BrE /ˈmɑːkɪt pəˌzɪʃənɪŋ/",
+   "ipa_AmE": "AmE /ˈmɑɹkət pəˈzɪʃənɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay differentiation",
+   "ipa_brE": "BrE /ˈpeɪ ˌdɪfərenʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈpéɪ dɪfɚˌɛnʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "overtime",
+   "ipa_brE": "BrE /ˈəʊvətaɪm/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌtɑɪm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "shift allowance",
+   "ipa_brE": "BrE /ˈʃɪft əˌlaʊəns/",
+   "ipa_AmE": "AmE /ˈʃɪft əˈlàʊəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "on-call allowance",
+   "ipa_brE": "BrE /ˌɒn ˈkɔːl əˌlaʊəns/",
+   "ipa_AmE": "AmE /ˈɑn ˈkɔl əˈlàʊəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "allowance",
+   "ipa_brE": "BrE /əˈlaʊəns/",
+   "ipa_AmE": "AmE /əˈlàʊəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stipend",
+   "ipa_brE": "BrE /ˈstaɪpend/",
+   "ipa_AmE": "AmE /ˈstɑɪpənd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "expense claim",
+   "ipa_brE": "BrE /ɪkˈspens kleɪm/",
+   "ipa_AmE": "AmE /ɪˈkspɛns ˈkléɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity",
+   "ipa_brE": "BrE /ˈekwəti/",
+   "ipa_AmE": "AmE /ˈɛkwəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "share option",
+   "ipa_brE": "BrE /ˈʃeə ˌɒpʃn/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈɑpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stock option",
+   "ipa_brE": "BrE /ˈstɒk ˌɒpʃn/",
+   "ipa_AmE": "AmE /ˈstɑk ˈɑpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vesting",
+   "ipa_brE": "BrE /ˈvestɪŋ/",
+   "ipa_AmE": "AmE /ˈvɛstɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cliff vesting",
+   "ipa_brE": "BrE /ˈklɪf ˌvestɪŋ/",
+   "ipa_AmE": "AmE /ˈklɪf ˈvɛstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vesting schedule",
+   "ipa_brE": "BrE /ˈvestɪŋ ˌʃedjuːl/",
+   "ipa_AmE": "AmE /ˈvɛstɪŋ ˈskɛdʒʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exercise price",
+   "ipa_brE": "BrE /ˈeksəsaɪz praɪs/",
+   "ipa_AmE": "AmE /ˈɛksɚˌsɑɪz ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair market value",
+   "ipa_brE": "BrE /ˌfeə ˈmɑːkɪt ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˈmɑɹkət ˈvælju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "dilution",
+   "ipa_brE": "BrE /daɪˈluːʃn/",
+   "ipa_AmE": "AmE /dɑɪˈluʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "long-term incentive",
+   "ipa_brE": "BrE /ˌlɜŋ tɜːm ɪnˈsentɪv/",
+   "ipa_AmE": "AmE /ˈlɔŋ ˈtɝm ˌɪˈnsɛntɪv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "performance share",
+   "ipa_brE": "BrE /pəˈfɔːməns ʃeə(r)/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈʃɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "restricted stock",
+   "ipa_brE": "BrE /rɪˌstrɪktɪd ˈstɒk/",
+   "ipa_AmE": "AmE /ɹiˈstɹɪktəd ˈstɑk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "profit sharing",
+   "ipa_brE": "BrE /ˈprɒfɪt ˌʃeərɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑfət ˈʃɛɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bonus pool",
+   "ipa_brE": "BrE /ˈbəʊnəs puːl/",
+   "ipa_AmE": "AmE /ˈboʊnəs ˈpul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "revenue sharing",
+   "ipa_brE": "BrE /ˈrevənjuː ˌʃeərɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɛvəˌnu ˈʃɛɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pension",
+   "ipa_brE": "BrE /ˈpenʃn/",
+   "ipa_AmE": "AmE /ˈpɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "defined contribution",
+   "ipa_brE": "BrE /dɪˌfaɪnd kənˌtrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /dɪˈfɑɪnd ˌkɑntɹəˈbjuʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "defined benefit",
+   "ipa_brE": "BrE /dɪˌfaɪnd ˈbenɪfɪt/",
+   "ipa_AmE": "AmE /dɪˈfɑɪnd ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "social insurance",
+   "ipa_brE": "BrE /ˌsəʊʃl ɪnˈʃʊərəns/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "provident fund",
+   "ipa_brE": "BrE /ˈprɒvɪdənt fʌnd/",
+   "ipa_AmE": "AmE /ˈpɹɑvɪdənt ˈfʌnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory benefit",
+   "ipa_brE": "BrE /stəˈtjuːtəri ˈbenɪfɪt/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "private medical",
+   "ipa_brE": "BrE /ˌpraɪvət ˈmedɪkl/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvət ˈmɛdəkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dental",
+   "ipa_brE": "BrE /ˈdentl/",
+   "ipa_AmE": "AmE /ˈdɛntəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "optical",
+   "ipa_brE": "BrE /ˈɒptɪkl/",
+   "ipa_AmE": "AmE /ˈɑptɪkəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "life insurance",
+   "ipa_brE": "BrE /ˈlaɪf ɪnˌʃʊərəns/",
+   "ipa_AmE": "AmE /ˈlɑɪf ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "critical illness cover",
+   "ipa_brE": "BrE /ˌkrɪtɪkl ɪlˈnes ˌkʌvə(r)/",
+   "ipa_AmE": "AmE /ˈkɹɪtɪkəl ˈɪlnəs ˈkʌvɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "disability cover",
+   "ipa_brE": "BrE /dɪsəˈbɪləti ˌkʌvə(r)/",
+   "ipa_AmE": "AmE /ˌdɪsəˈbɪlɪti ˈkʌvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annual leave",
+   "ipa_brE": "BrE /ˈænjuəl liːv/",
+   "ipa_AmE": "AmE /ˈænjuəl ˈliv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sick leave",
+   "ipa_brE": "BrE /ˈsɪk liːv/",
+   "ipa_AmE": "AmE /ˈsɪk ˈliv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "personal leave",
+   "ipa_brE": "BrE /ˈpɜːsənəl liːv/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl ˈliv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "flexible working",
+   "ipa_brE": "BrE /ˈfleksəbl ˈwɜːkɪŋ/",
+   "ipa_AmE": "AmE /ˈflɛksəbəl ˈwɝkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remote work",
+   "ipa_brE": "BrE /rɪˌməʊt ˈwɜːk/",
+   "ipa_AmE": "AmE /ɹɪˈmoʊt ˈwɝk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hybrid working",
+   "ipa_brE": "BrE /ˈhaɪbrɪd ˌwɜːkɪŋ/",
+   "ipa_AmE": "AmE /ˈhɑɪbɹəd ˈwɝkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commuter allowance",
+   "ipa_brE": "BrE /kəˈmjuːtər əˌlaʊəns/",
+   "ipa_AmE": "AmE /kəˈmjutɚ əˈlàʊəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "meal allowance",
+   "ipa_brE": "BrE /ˈmiːl əˌlaʊəns/",
+   "ipa_AmE": "AmE /ˈmil əˈlàʊəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mobile phone benefit",
+   "ipa_brE": "BrE /ˌməʊbaɪl ˈfəʊn ˌbenɪfɪt/",
+   "ipa_AmE": "AmE /ˈmoʊbəl ˈfoʊn ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "employee discount",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˈdɪskaʊnt/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi dɪˈskàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "wellness benefit",
+   "ipa_brE": "BrE /ˈwelnəs ˌbenɪfɪt/",
+   "ipa_AmE": "AmE /ˈwɛlnəs ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recognition benefit",
+   "ipa_brE": "BrE /ˌrekəɡˈnɪʃn ˌbenɪfɪt/",
+   "ipa_AmE": "AmE /ˌɹɛkəˈɡnɪʃən ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "benefits statement",
+   "ipa_brE": "BrE /ˈbenɪfɪts ˌsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪts ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "total reward statement",
+   "ipa_brE": "BrE /ˌtəʊtl rɪˈwɔːd ˌsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈtoʊtəl ɹɪˈwɔɹd ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "benefits communication",
+   "ipa_brE": "BrE /ˈbenɪfɪts kəˌmjuːnɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪts kəˌmjunəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "benefits enrolment",
+   "ipa_brE": "BrE /ˈbenɪfɪts ɪnˌrəʊlmənt/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪts ɛˈnɹoʊlmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "eligibility",
+   "ipa_brE": "BrE /ˌelɪdʒəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌɛlɪdʒəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dependent",
+   "ipa_brE": "BrE /dɪˈpendənt/",
+   "ipa_AmE": "AmE /dɪˈpɛndənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "payslip",
+   "ipa_brE": "BrE /ˈpeɪslɪp/",
+   "ipa_AmE": "AmE /ˈpeɪslɪp/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "payroll",
+   "ipa_brE": "BrE /ˈpeɪrəʊl/",
+   "ipa_AmE": "AmE /ˈpéɪˌɹoʊl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "payroll cycle",
+   "ipa_brE": "BrE /ˈpeɪrəʊl ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈpéɪˌɹoʊl ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax withholding",
+   "ipa_brE": "BrE /ˈtæks wɪðˈhəʊldɪŋ/",
+   "ipa_AmE": "AmE /ˈtæks wɪˈθhoʊldɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "social security contribution",
+   "ipa_brE": "BrE /ˌsəʊʃl sɪˈkjʊərəti kənˌtrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl sɪˈkjʊɹəti ˌkɑntɹəˈbjuʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "net pay",
+   "ipa_brE": "BrE /ˈnet peɪ/",
+   "ipa_AmE": "AmE /ˈnɛt ˈpéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gender pay gap",
+   "ipa_brE": "BrE /ˈdʒendə peɪ ɡæp/",
+   "ipa_AmE": "AmE /ˈdʒɛndɚ ˈpéɪ ˈɡæp/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "pay equity audit",
+   "ipa_brE": "BrE /ˈpeɪ ˌekwəti ˌɔːdɪt/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈɛkwəti ˈɔdɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "pay transparency reporting",
+   "ipa_brE": "BrE /ˈpeɪ trænsˌpærənsi rɪˈpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈpéɪ tɹæˈnspɛɹənsi ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "retention bonus",
+   "ipa_brE": "BrE /rɪˈtenʃn ˌbəʊnəs/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən ˈboʊnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retention package",
+   "ipa_brE": "BrE /rɪˈtenʃn ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stay bonus",
+   "ipa_brE": "BrE /ˈsteɪ ˌbəʊnəs/",
+   "ipa_AmE": "AmE /ˈstéɪ ˈboʊnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "total cost of employment",
+   "ipa_brE": "BrE /ˌtəʊtl ˌkɒst əv ɪmˈplɔɪmənt/",
+   "ipa_AmE": "AmE /ˈtoʊtəl ˈkɑst ˈʌv ɛˈmplɔɪmənt/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "cost per employee",
+   "ipa_brE": "BrE /ˌkɒst pər ɪmˈplɔɪə/",
+   "ipa_AmE": "AmE /ˈkɑst ˈpɝ ɛˈmplɔɪi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "labour cost",
+   "ipa_brE": "BrE /ˈleɪbə kɒst/",
+   "ipa_AmE": "AmE /ˈléɪbɚ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m06": [
+  {
+   "word": "learning and development",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ən dɪˈveləpmənt/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ənd dɪˈvɛləpmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "training",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "learning objective",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "needs analysis",
+   "ipa_brE": "BrE /ˈniːdz əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈnidz əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "training needs",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ niːdz/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ ˈnidz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "skills gap",
+   "ipa_brE": "BrE /ˈskɪlz ɡæp/",
+   "ipa_AmE": "AmE /ˈskɪlz ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "training plan",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ plæn/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "curriculum",
+   "ipa_brE": "BrE /kəˈrɪkjələm/",
+   "ipa_AmE": "AmE /kɚˈɪkjələm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "module",
+   "ipa_brE": "BrE /ˈmɒdjuːl/",
+   "ipa_AmE": "AmE /ˈmɑdʒul/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "instructor",
+   "ipa_brE": "BrE /ɪnˈstrʌktə(r)/",
+   "ipa_AmE": "AmE /ˌɪˈnstɹʌktɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trainer",
+   "ipa_brE": "BrE /ˈtreɪnə(r)/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "subject matter expert",
+   "ipa_brE": "BrE /ˌsʌbdʒɪkt ˌmætə ˈekspɜːt/",
+   "ipa_AmE": "AmE /səˈbdʒɛkt ˈmætɚ ˈɛkspɚt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "classroom training",
+   "ipa_brE": "BrE /ˈklɑːsruːm ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈklæˌsɹum ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "blended learning",
+   "ipa_brE": "BrE /ˌblendɪd ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˈblɛndɪd ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workshop training",
+   "ipa_brE": "BrE /ˈwɜːkʃɒp ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈwɝˌkʃɑp ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "on-the-job training",
+   "ipa_brE": "BrE /ˌɒn ðə ˈdʒɒb ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈɑn ðə ˈdʒɑb ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "job aid",
+   "ipa_brE": "BrE /ˈdʒɒb eɪd/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈéɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "microlearning",
+   "ipa_brE": "BrE /ˈmaɪkrəʊˌlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˈmaɪkɹoʊˌlɝnɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "learning path",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ pɑːθ/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning journey",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˌdʒɜːni/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈdʒɝni/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning plan",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ plæn/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "upskilling",
+   "ipa_brE": "BrE /ˈʌpskɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈʌpskɪlɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "reskilling",
+   "ipa_brE": "BrE /ˌriːˈskɪlɪŋ/",
+   "ipa_AmE": "AmE /ˌɹiˈskɪlɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "skill building",
+   "ipa_brE": "BrE /ˈskɪl ˌbɪldɪŋ/",
+   "ipa_AmE": "AmE /ˈskɪl ˈbɪldɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leadership coaching",
+   "ipa_brE": "BrE /ˈliːdəʃɪp ˌkəʊtʃɪŋ/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp ˈkoʊtʃɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "executive coaching",
+   "ipa_brE": "BrE /ɪɡˈzekjətɪv ˌkəʊtʃɪŋ/",
+   "ipa_AmE": "AmE /ɪˈɡzɛkjətɪv ˈkoʊtʃɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "coaching engagement",
+   "ipa_brE": "BrE /ˈkəʊtʃɪŋ ɪnˌɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈkoʊtʃɪŋ ɛˈnɡéɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "coaching style",
+   "ipa_brE": "BrE /ˈkəʊtʃɪŋ staɪl/",
+   "ipa_AmE": "AmE /ˈkoʊtʃɪŋ ˈstɑɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "feedback skill",
+   "ipa_brE": "BrE /ˈfiːdbæk skɪl/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk ˈskɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "socratic questioning",
+   "ipa_brE": "BrE /səˈkrætɪk ˈkwestʃənɪŋ/",
+   "ipa_AmE": "AmE /səˈkɹætɪk ˈkwɛstʃənɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning management system",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˌmænɪdʒmənt ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈmænədʒmənt ˈsɪstəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "LMS platform",
+   "ipa_brE": "BrE /ˌel em ˈes ˌplætfɔːm/",
+   "ipa_AmE": "AmE /ˌɛl ɛm ˈɛs ˌplætfɔm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "learning portal",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˌpɔːtl/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈpɔɹtəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "training budget",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ ˌbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning budget",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˌbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "spend per employee",
+   "ipa_brE": "BrE /ˌspend pər ɪmˈplɔɪə/",
+   "ipa_AmE": "AmE /ˈspɛnd ˈpɝ ɛˈmplɔɪi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "training ROI",
+   "ipa_brE": "BrE /ˌtreɪnɪŋ ˌɑːr əʊ ˈaɪ/",
+   "ipa_AmE": "AmE /ˌtɹeɪnɪŋ ˌɑɹ oʊ ˈaɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "reaction data",
+   "ipa_brE": "BrE /riˈækʃn ˌdeɪtə/",
+   "ipa_AmE": "AmE /ɹiˈækʃən ˈdéɪtə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "behaviour transfer",
+   "ipa_brE": "BrE /bɪˈheɪvjə ˌtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /bɪˈhéɪvjɚ tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "completion rate",
+   "ipa_brE": "BrE /kəmˈpliːʃn reɪt/",
+   "ipa_AmE": "AmE /kəˈmpliʃən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pass rate",
+   "ipa_brE": "BrE /ˈpɑːs reɪt/",
+   "ipa_AmE": "AmE /ˈpæs ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assessment score",
+   "ipa_brE": "BrE /əˈsesmənt skɔː(r)/",
+   "ipa_AmE": "AmE /əˈsɛsmənt ˈskɔɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "certification",
+   "ipa_brE": "BrE /ˌsɜːtɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌsɝtəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accredited course",
+   "ipa_brE": "BrE /əˈkredɪtɪd kɔːs/",
+   "ipa_AmE": "AmE /əˈkɹɛdɪtɪd ˈkɔɹs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "professional qualification",
+   "ipa_brE": "BrE /prəˈfeʃənəl ˌkwɒlɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /pɹəˈfɛʃənəl ˌkwɑləfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regulatory training",
+   "ipa_brE": "BrE /ˈreɡjələtəri ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recertification",
+   "ipa_brE": "BrE /ˌriːˌsɜːtɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹisɚtəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "continuing professional development",
+   "ipa_brE": "BrE /kənˌtɪnjuɪŋ prəˈfeʃənəl dɪˈveləpmənt/",
+   "ipa_AmE": "AmE /kəˈntɪnjuɪŋ pɹəˈfɛʃənəl dɪˈvɛləpmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "virtual classroom",
+   "ipa_brE": "BrE /ˈvɜːtʃuəl ˌklɑːsruːm/",
+   "ipa_AmE": "AmE /ˈvɝtʃuəl ˈklæˌsɹum/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "webinar",
+   "ipa_brE": "BrE /ˈwebɪnɑː(r)/",
+   "ipa_AmE": "AmE /ˈwɛbɪnɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recorded session",
+   "ipa_brE": "BrE /rɪˈkɔːdɪd ˌseʃn/",
+   "ipa_AmE": "AmE /ɹəˈkɔɹdɪd ˈsɛʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "practice environment",
+   "ipa_brE": "BrE /ˈpræktɪs ɪnˌvaɪrənmənt/",
+   "ipa_AmE": "AmE /ˈpɹæktəs ɪˈnvɑɪɹənmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "simulation",
+   "ipa_brE": "BrE /ˌsɪmjuˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌsɪmjəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scenario-based learning",
+   "ipa_brE": "BrE /səˌnɑːriəʊ beɪst ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ ˈbéɪst ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "knowledge sharing",
+   "ipa_brE": "BrE /ˈnɒlɪdʒ ˈʃeərɪŋ/",
+   "ipa_AmE": "AmE /ˈnɑlədʒ ˈʃɛɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "peer teaching",
+   "ipa_brE": "BrE /ˌpɪə ˈtiːtʃɪŋ/",
+   "ipa_AmE": "AmE /ˈpɪɹ ˈtitʃɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning community",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ kəˌmjuːnəti/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ kəˈmjunəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "action learning",
+   "ipa_brE": "BrE /ˈækʃn ˌlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˈækʃən ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning from experience",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ frəm ɪkˈspɪəriəns/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈfɹʌm ɪˈkspɪɹiəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reflective practice",
+   "ipa_brE": "BrE /rɪˌflektɪv ˈpræktɪs/",
+   "ipa_AmE": "AmE /ɹɪˈflɛktɪv ˈpɹæktəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning culture",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˈkʌltʃə(r)/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈkʌltʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning organisation",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˌɔːɡənaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˌɔɹɡənɪˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "continuous learning",
+   "ipa_brE": "BrE /kənˌtɪnjuəs ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /kəˈntɪnjuəs ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "training delivery",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ dɪˌlɪvəri/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ dɪˈlɪvɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning designer",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ dɪˌzaɪnə(r)/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ dɪˈzɑɪnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "instructional design",
+   "ipa_brE": "BrE /ɪnˈstrʌkʃənəl dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˌɪˈnstɹʌkʃənəl dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "knowledge management",
+   "ipa_brE": "BrE /ˈnɒlɪdʒ ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈnɑlədʒ ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lessons learned",
+   "ipa_brE": "BrE /ˈlesnz lɜːnd/",
+   "ipa_AmE": "AmE /ˈlɛsənz ˈlɝnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "after-action review",
+   "ipa_brE": "BrE /ˌɑːftə ˈækʃn rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈæftɚ ˈækʃən ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "talent development",
+   "ipa_brE": "BrE /ˈtælənt dɪˌveləpmənt/",
+   "ipa_AmE": "AmE /ˈtælənt dɪˈvɛləpmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "development programme",
+   "ipa_brE": "BrE /dɪˈveləpmənt ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /dɪˈvɛləpmənt ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "academy",
+   "ipa_brE": "BrE /ˈækədəmi/",
+   "ipa_AmE": "AmE /əˈkædəmi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "graduate programme",
+   "ipa_brE": "BrE /ˈɡrædʒuət ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ˈɡɹædʒəwət ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "internship",
+   "ipa_brE": "BrE /ˈɪntɜːnʃɪp/",
+   "ipa_AmE": "AmE /ˈɪntɚˌnʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "apprenticeship scheme",
+   "ipa_brE": "BrE /əˈprentɪʃɪp ʃiːm/",
+   "ipa_AmE": "AmE /əˈpɹɛntəˌsʃɪp ˈskim/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "management development",
+   "ipa_brE": "BrE /ˈmænɪdʒmənt dɪˌveləpmənt/",
+   "ipa_AmE": "AmE /ˈmænədʒmənt dɪˈvɛləpmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "frontline manager training",
+   "ipa_brE": "BrE /ˈfrʌntlaɪn ˈmænɪdʒər ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈfɹʌˌntlɑɪn ˈmænədʒɚ ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "supervisor training",
+   "ipa_brE": "BrE /ˈsuːpəvaɪzər ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈsupɚˌvɑɪzɚ ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change training",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adoption support",
+   "ipa_brE": "BrE /əˈdɒpʃn səˈpɔːt/",
+   "ipa_AmE": "AmE /əˈdɑpʃən səˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning nudge",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ nʌdʒ/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˈnʌdʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning analytics",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ əˌnælɪtɪks/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ ˌænəˈlɪtɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement rate",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt reɪt/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "completion certificate",
+   "ipa_brE": "BrE /kəmˈpliːʃn səˌtɪfɪkət/",
+   "ipa_AmE": "AmE /kəˈmpliʃən sɚˈtɪfɪkət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "evaluation level",
+   "ipa_brE": "BrE /ɪˌvæljuˈeɪʃn ˌlevl/",
+   "ipa_AmE": "AmE /ɪˌvæljuˈéɪʃən ˈlɛvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transfer rate",
+   "ipa_brE": "BrE /ˈtrænsfɜː(r) reɪt/",
+   "ipa_AmE": "AmE /tɹæˈnsfɝ ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "impact assessment",
+   "ipa_brE": "BrE /ˈɪmpækt əˌsesmənt/",
+   "ipa_AmE": "AmE /ˌɪˈmpækt əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning agenda",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ əˌdʒendə/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ əˈdʒɛndə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning priority",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ praɪˌɒrəti/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ pɹɑɪˈɔɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capability gap",
+   "ipa_brE": "BrE /ˌkeɪpəˈbɪləti ɡæp/",
+   "ipa_AmE": "AmE /ˌkéɪpəˈbɪləti ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m07": [
+  {
+   "word": "employee relations",
+   "ipa_brE": "BrE /ɪmˈplɔɪə rɪˈleɪʃnz/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ɹiˈléɪʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "industrial relations",
+   "ipa_brE": "BrE /ɪnˈdʌstriəl rɪˌleɪʃnz/",
+   "ipa_AmE": "AmE /ˌɪˈndʌstɹiəl ɹiˈléɪʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workplace relation",
+   "ipa_brE": "BrE /ˈwɜːkpləːs rɪˌleɪʃn/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs ɹiˈléɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "grievance",
+   "ipa_brE": "BrE /ˈɡriːvəns/",
+   "ipa_AmE": "AmE /ˈɡɹivəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "grievance procedure",
+   "ipa_brE": "BrE /ˈɡriːvəns prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈɡɹivəns pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "grievance meeting",
+   "ipa_brE": "BrE /ˈɡriːvəns ˌmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˈɡɹivəns ˈmitɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disciplinary procedure",
+   "ipa_brE": "BrE /ˈdɪsɪplɪnəri prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈdɪsəpləˌnɛɹi pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disciplinary hearing",
+   "ipa_brE": "BrE /ˈdɪsɪplɪnəri ˌhɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈdɪsəpləˌnɛɹi ˈhiɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warning letter",
+   "ipa_brE": "BrE /ˈwɔːnɪŋ ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈwɔɹnɪŋ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "verbal warning",
+   "ipa_brE": "BrE /ˈvɜːbəl ˈwɔːnɪŋ/",
+   "ipa_AmE": "AmE /ˈvɝbəl ˈwɔɹnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "written warning",
+   "ipa_brE": "BrE /ˌrɪtn ˈwɔːnɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɪtən ˈwɔɹnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "final warning",
+   "ipa_brE": "BrE /ˈfaɪnl ˈwɔːnɪŋ/",
+   "ipa_AmE": "AmE /ˈfɑɪnəl ˈwɔɹnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investigation",
+   "ipa_brE": "BrE /ɪnˌvestɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˌnvɛstəˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fact-finding",
+   "ipa_brE": "BrE /ˈfækt ˌfaɪndɪŋ/",
+   "ipa_AmE": "AmE /ˈfækt ˈfɑɪndɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "allegation",
+   "ipa_brE": "BrE /ˌælɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌæləˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "complainant",
+   "ipa_brE": "BrE /kəmˈpleɪnənt/",
+   "ipa_AmE": "AmE /kəˈmpléɪnənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "respondent",
+   "ipa_brE": "BrE /rɪˈspɒndənt/",
+   "ipa_AmE": "AmE /ɹɪˈspɑndənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "witness",
+   "ipa_brE": "BrE /ˈwɪtnəs/",
+   "ipa_AmE": "AmE /ˈwɪtnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "misconduct",
+   "ipa_brE": "BrE /ˌmɪsˈkɒndʌkt/",
+   "ipa_AmE": "AmE /mɪˈskɑndəkt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "gross misconduct",
+   "ipa_brE": "BrE /ˌɡrəʊs ˈmɪskɒndʌkt/",
+   "ipa_AmE": "AmE /ˈɡɹoʊs mɪˈskɑndəkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "misconduct policy",
+   "ipa_brE": "BrE /ˌmɪsˈkɒndʌkt ˌpɒləsi/",
+   "ipa_AmE": "AmE /mɪˈskɑndəkt ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "harassment",
+   "ipa_brE": "BrE /ˈhærəsmənt/",
+   "ipa_AmE": "AmE /hɚˈæsmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bullying",
+   "ipa_brE": "BrE /ˈbʊliɪŋ/",
+   "ipa_AmE": "AmE /ˈbʊliɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discrimination",
+   "ipa_brE": "BrE /dɪˌskrɪmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /dɪˌskɹɪməˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sexual harassment",
+   "ipa_brE": "BrE /ˈsekʃuəl ˈhærəsmənt/",
+   "ipa_AmE": "AmE /ˈsɛkʃuəl hɚˈæsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workplace bullying",
+   "ipa_brE": "BrE /ˈwɜːkpləːs ˌbʊliɪŋ/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs ˈbʊliɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "protected characteristic",
+   "ipa_brE": "BrE /prəˈtektɪd ˌkærəktəˈrɪstɪk/",
+   "ipa_AmE": "AmE /pɹəˈtɛktɪd ˌkɛɹəktɚˈɪstɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "informal resolution",
+   "ipa_brE": "BrE /ˌɪnfɔːml ˌrezəˈluːʃn/",
+   "ipa_AmE": "AmE /ˌɪˈnfɔɹməl ˌɹɛzəˈluʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "confidential enquiry",
+   "ipa_brE": "BrE /ˌkɒnfɪˈdenʃl ɪnˈkwaɪəri/",
+   "ipa_AmE": "AmE /ˌkɑnfəˈdɛnʃəl ɪˈnkwɑɪˌɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reporting channel",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ ˌtʃænl/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈtʃænəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "whistleblower",
+   "ipa_brE": "BrE /ˈwʌsəˌbləʊzə(r)/",
+   "ipa_AmE": "AmE /ˈwɪsəˌlbloʊɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "speak-up policy",
+   "ipa_brE": "BrE /ˈspiːk ʌp ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈspik ˈʌp ˈpɑləsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "whistleblowing hotline",
+   "ipa_brE": "BrE /ˈwʌsəˌbləʊzɪŋ ˌhəʊtlaɪn/",
+   "ipa_AmE": "AmE /ˈwʌsəˌbloʊzɪŋ ˈhɑˌtlɑɪn/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "investigation report",
+   "ipa_brE": "BrE /ɪnˌvestɪˈɡeɪʃn rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˌɪˌnvɛstəˈɡéɪʃən ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "finding",
+   "ipa_brE": "BrE /ˈfaɪndɪŋ/",
+   "ipa_AmE": "AmE /ˈfɑɪndɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "substantiated allegation",
+   "ipa_brE": "BrE /səbˌstænʃieɪtɪd ˌælɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /səˈbstænʃiˌéɪtɪd ˌæləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sanction",
+   "ipa_brE": "BrE /ˈsæŋkʃn/",
+   "ipa_AmE": "AmE /ˈsæŋkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sanction ladder",
+   "ipa_brE": "BrE /ˈsæŋkʃn ˌlædə(r)/",
+   "ipa_AmE": "AmE /ˈsæŋkʃən ˈlædɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "written outcome",
+   "ipa_brE": "BrE /ˌrɪtn ˈaʊtkʌm/",
+   "ipa_AmE": "AmE /ˈɹɪtən ˈàʊˌtkʌm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "appeal",
+   "ipa_brE": "BrE /əˈpiːl/",
+   "ipa_AmE": "AmE /əˈpil/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "appeal hearing",
+   "ipa_brE": "BrE /əˈpiːl ˌhɪərɪŋ/",
+   "ipa_AmE": "AmE /əˈpil ˈhiɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "independent appeal",
+   "ipa_brE": "BrE /ˌɪndɪˈpendənt əˈpiːl/",
+   "ipa_AmE": "AmE /ˌɪndɪˈpɛndənt əˈpil/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dismissal",
+   "ipa_brE": "BrE /dɪsˈmɪsl/",
+   "ipa_AmE": "AmE /dɪˈsmɪsəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "termination notice",
+   "ipa_brE": "BrE /ˌtɜːmɪˈneɪʃn ˌnəʊtɪs/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "summary dismissal",
+   "ipa_brE": "BrE /ˈsʌməri dɪsˈmɪsl/",
+   "ipa_AmE": "AmE /ˈsʌmɚi dɪˈsmɪsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "redundancy",
+   "ipa_brE": "BrE /rɪˈdʌndənsi/",
+   "ipa_AmE": "AmE /ɹɪˈdʌndənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "layoff",
+   "ipa_brE": "BrE /ˈleɪɒf/",
+   "ipa_AmE": "AmE /ˈléɪˌɔf/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "redundancy consultation",
+   "ipa_brE": "BrE /rɪˈdʌndənsi kənˌsəlˈteɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˈdʌndənsi ˌkɑnsəˈltéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "voluntary redundancy",
+   "ipa_brE": "BrE /ˌvɒləntri rɪˈdʌndənsi/",
+   "ipa_AmE": "AmE /ˈvɑləntɛɹi ɹɪˈdʌndənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "redundancy package",
+   "ipa_brE": "BrE /rɪˈdʌndənsi ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /ɹɪˈdʌndənsi ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "selection criteria",
+   "ipa_brE": "BrE /sɪˌlekʃn kraɪˈtɪəriə/",
+   "ipa_AmE": "AmE /səˈlɛkʃən kɹɑɪˈtɪɹiə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "severance pay",
+   "ipa_brE": "BrE /ˈsevərəns peɪ/",
+   "ipa_AmE": "AmE /ˈsɛˌvɝəns ˈpéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "severance package",
+   "ipa_brE": "BrE /ˈsevərəns ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /ˈsɛˌvɝəns ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "garden leave",
+   "ipa_brE": "BrE /ˈɡɑːdn liːv/",
+   "ipa_AmE": "AmE /ˈɡɑɹdən ˈliv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "resignation",
+   "ipa_brE": "BrE /ˌrezɪɡˈneɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈɡnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "resignation notice",
+   "ipa_brE": "BrE /ˌrezɪɡˈneɪʃn ˌnəʊtɪs/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈɡnéɪʃən ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "resignation letter",
+   "ipa_brE": "BrE /ˌrezɪɡˈneɪʃn ˌletə(r)/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈɡnéɪʃən ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "resignation interview",
+   "ipa_brE": "BrE /ˌrezɪɡˈneɪʃn ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈɡnéɪʃən ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit interview",
+   "ipa_brE": "BrE /ˈeksɪt ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit survey",
+   "ipa_brE": "BrE /ˈeksɪt ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "offboarding",
+   "ipa_brE": "BrE /ˈɒfbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ˈɑfbɔdɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "offboarding checklist",
+   "ipa_brE": "BrE /ˈɒfbɔːdɪŋ ˌtʃeklɪst/",
+   "ipa_AmE": "AmE /ˈɑfbɔdɪŋ ˈtʃɛˌklɪst/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "access revocation",
+   "ipa_brE": "BrE /ˈækses rɪˌvəʊkeɪʃn/",
+   "ipa_AmE": "AmE /ˈæˌksɛs ˌɹɛvəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "turnover reason",
+   "ipa_brE": "BrE /ˈtɜːnəʊvə ˌriːzn/",
+   "ipa_AmE": "AmE /ˈtɝˌnoʊvɚ ˈɹizən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit pattern",
+   "ipa_brE": "BrE /ˈeksɪt ˌpætn/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈpætɚn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "alumni network",
+   "ipa_brE": "BrE /əˈlʌmnaɪ ˌnetwɜːk/",
+   "ipa_AmE": "AmE /əˈlʌˌmnɑɪ ˈnɛˌtwɝk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "boomerang hire",
+   "ipa_brE": "BrE /ˈbuːməræŋ ˈhaɪə(r)/",
+   "ipa_AmE": "AmE /ˈbumɚˌæŋ ˈhɑɪɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rehire",
+   "ipa_brE": "BrE /ˌriːˈhaɪə(r)/",
+   "ipa_AmE": "AmE /ɹiˈhɑɪɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "employment history",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt ˌhɪstri/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt ˈhɪstɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retention",
+   "ipa_brE": "BrE /rɪˈtenʃn/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "retention strategy",
+   "ipa_brE": "BrE /rɪˈtenʃn ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regrettable attrition",
+   "ipa_brE": "BrE /rɪˌɡretəbl əˈtrɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˈɡɹɛtəbəl əˈtɹɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "voluntary attrition",
+   "ipa_brE": "BrE /ˌvɒləntri əˈtrɪʃn/",
+   "ipa_AmE": "AmE /ˈvɑləntɛɹi əˈtɹɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "involuntary attrition",
+   "ipa_brE": "BrE /ɪnˌvɒləntri əˈtrɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˈnvɑləˌntɛɹi əˈtɹɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "attrition rate",
+   "ipa_brE": "BrE /əˈtrɪʃn reɪt/",
+   "ipa_AmE": "AmE /əˈtɹɪʃən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stay interview",
+   "ipa_brE": "BrE /ˈsteɪ ˌɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈstéɪ ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement risk",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt rɪsk/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "premature exit",
+   "ipa_brE": "BrE /prɪˌmæˈtʃər ˈeksɪt/",
+   "ipa_AmE": "AmE /ˌpɹiməˈtʃʊɹ ˈɛɡzɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit checklist",
+   "ipa_brE": "BrE /ˈeksɪt ˌtʃeklɪst/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈtʃɛˌklɪst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "knowledge transfer risk",
+   "ipa_brE": "BrE /ˈnɒlɪdʒ ˈtrænsfɜː rɪsk/",
+   "ipa_AmE": "AmE /ˈnɑlədʒ tɹæˈnsfɝ ˈɹɪsk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "last working day",
+   "ipa_brE": "BrE /ˌlɑːst ˈwɜːkɪŋ deɪ/",
+   "ipa_AmE": "AmE /ˈlæst ˈwɝkɪŋ ˈdéɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reference request",
+   "ipa_brE": "BrE /ˈrefrəns rɪˌkwest/",
+   "ipa_AmE": "AmE /ˈɹɛfɹəns ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rehire eligibility",
+   "ipa_brE": "BrE /ˌriːˈhaɪə elɪdʒəˈbɪləti/",
+   "ipa_AmE": "AmE /ɹiˈhɑɪɹ ˌɛlɪdʒəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service record",
+   "ipa_brE": "BrE /ˈsɜːvɪs ˌrekɔːd/",
+   "ipa_AmE": "AmE /ˈsɝvəs ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit data",
+   "ipa_brE": "BrE /ˈeksɪt ˌdeɪtə/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈdéɪtə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit analysis",
+   "ipa_brE": "BrE /ˈeksɪt əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "turnover cost",
+   "ipa_brE": "BrE /ˈtɜːnəʊvə kɒst/",
+   "ipa_AmE": "AmE /ˈtɝˌnoʊvɚ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employee relations case",
+   "ipa_brE": "BrE /ɪmˈplɔɪə rɪˌleɪʃnz keɪs/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ɹiˈléɪʃənz ˈkéɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "case management",
+   "ipa_brE": "BrE /ˈkeɪs ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "case notes",
+   "ipa_brE": "BrE /ˈkeɪs nəʊts/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈnoʊts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employee advocacy",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˌædvəkəsi/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ˈædvəkəsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trusted adviser",
+   "ipa_brE": "BrE /ˌtrʌstɪd ədˈvaɪzə(r)/",
+   "ipa_AmE": "AmE /ˈtɹʌstɪd æˈdvɑɪzɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "confidentiality",
+   "ipa_brE": "BrE /ˌkɒnfɪˌdentʃiˈæləti/",
+   "ipa_AmE": "AmE /ˌkɑnfəˌdɛnʃiˈæləti/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m08": [
+  {
+   "word": "employment law",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt lɔː/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "labour law",
+   "ipa_brE": "BrE /ˈleɪbə lɔː/",
+   "ipa_AmE": "AmE /ˈléɪbɚ ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory requirement",
+   "ipa_brE": "BrE /stəˈtjuːtəri rɪˈkwaɪəmənt/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ɹɪˈkwɑɪɹmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employment contract",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt ˌkɒntrækt/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fixed-term contract",
+   "ipa_brE": "BrE /ˌfɪkst ˈtɜːm ˌkɒntrækt/",
+   "ipa_AmE": "AmE /ˈfɪkst ˈtɝm ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "indefinite contract",
+   "ipa_brE": "BrE /ɪnˈdefɪnət ˌkɒntrækt/",
+   "ipa_AmE": "AmE /ˌɪˈndɛfənət ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract period",
+   "ipa_brE": "BrE /ˈkɒntrækt ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "renewal clause",
+   "ipa_brE": "BrE /rɪˈnjuːəl klɔːz/",
+   "ipa_AmE": "AmE /ɹɪˈnuəl ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probation clause",
+   "ipa_brE": "BrE /prəˈbeɪʃn klɔːz/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃən ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exclusivity clause",
+   "ipa_brE": "BrE /ˌekskluːˈsɪvəti klɔːz/",
+   "ipa_AmE": "AmE /ˌɛˌkskluˈsɪvəti ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-compete clause",
+   "ipa_brE": "BrE /ˌnɒn ˈkɒmpiːt klɔːz/",
+   "ipa_AmE": "AmE /ˈnɑn kəˈmpit ˈklɔz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "confidentiality clause",
+   "ipa_brE": "BrE /ˌkɒnfɪˌdentʃiˈæləti klɔːz/",
+   "ipa_AmE": "AmE /ˌkɑnfəˌdɛnʃiˈæləti ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data protection",
+   "ipa_brE": "BrE /ˈdeɪtə prəˌtekʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə pɹəˈtɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "privacy notice",
+   "ipa_brE": "BrE /ˈprɪvəsi ˌnəʊtɪs/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvəsi ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "records of processing",
+   "ipa_brE": "BrE /ˈrekɔːdz əv ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /ɹəˈkɔɹdz ˈʌv ˈpɹɑsɛsɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "works council",
+   "ipa_brE": "BrE /ˈwɜːks ˌkaʊnsəl/",
+   "ipa_AmE": "AmE /ˈwɝks ˈkàʊnsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trade union",
+   "ipa_brE": "BrE /ˌtreɪd ˈjuːniən/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈjunjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "collective agreement",
+   "ipa_brE": "BrE /kəˌlektɪv əˈɡriːmənt/",
+   "ipa_AmE": "AmE /kəˈlɛktɪv əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "health and safety",
+   "ipa_brE": "BrE /ˌhelθ ən ˈseɪfti/",
+   "ipa_AmE": "AmE /ˈhɛlθ ənd ˈséɪfti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "risk assessment",
+   "ipa_brE": "BrE /ˈrɪsk əˌsesmənt/",
+   "ipa_AmE": "AmE /ˈɹɪsk əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workplace accident",
+   "ipa_brE": "BrE /ˈwɜːkpləːs ˌæksɪdənt/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs ˈæksədənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "manual handling",
+   "ipa_brE": "BrE /ˌmænjuəl ˈhændlɪŋ/",
+   "ipa_AmE": "AmE /ˈmænjuəl ˈhændlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "personal protective equipment",
+   "ipa_brE": "BrE /pəˌsənəl prəˈtektɪv ɪˈkwɪpmənt/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl pɹəˈtɛktɪv ɪˈkwɪpmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "hazard",
+   "ipa_brE": "BrE /ˈhæzəd/",
+   "ipa_AmE": "AmE /ˈhæzɚd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "working time",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ taɪm/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rest break",
+   "ipa_brE": "BrE /ˈrest breɪk/",
+   "ipa_AmE": "AmE /ˈɹɛst ˈbɹéɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "working time record",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ taɪm ˌrekɔːd/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈtɑɪm ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "holiday entitlement",
+   "ipa_brE": "BrE /ˈhɒlədeɪ ɪnˌtaɪtlmənt/",
+   "ipa_AmE": "AmE /ˈhɑləˌdéɪ ɛˈntɑɪtəlmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "carry-over leave",
+   "ipa_brE": "BrE /ˌkæri ˈəʊvə liːv/",
+   "ipa_AmE": "AmE /ˈkæɹi ˈoʊvɚ ˈliv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "leave year",
+   "ipa_brE": "BrE /ˈliːv jɪə(r)/",
+   "ipa_AmE": "AmE /ˈliv ˈjɪɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sick pay",
+   "ipa_brE": "BrE /ˈsɪk peɪ/",
+   "ipa_AmE": "AmE /ˈsɪk ˈpéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory sick pay",
+   "ipa_brE": "BrE /stəˈtjuːtəri ˈsɪk peɪ/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˈsɪk ˈpéɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sick leave policy",
+   "ipa_brE": "BrE /ˈsɪk liːv ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈsɪk ˈliv ˈpɑləsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "right to resign",
+   "ipa_brE": "BrE /ˌraɪt tə rɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈtu ɹɪˈzɑɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "constructive dismissal",
+   "ipa_brE": "BrE /kənˌstrʌktɪv dɪsˈmɪsl/",
+   "ipa_AmE": "AmE /kəˈnstɹʌktɪv dɪˈsmɪsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unfair dismissal",
+   "ipa_brE": "BrE /ʌnˈfeə dɪsˈmɪsl/",
+   "ipa_AmE": "AmE /əˈnfɛɹ dɪˈsmɪsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employment tribunal",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt trɪˌbjuːnl/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt tɹəˈbjunəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "labour court",
+   "ipa_brE": "BrE /ˈleɪbə kɔːt/",
+   "ipa_AmE": "AmE /ˈléɪbɚ ˈkɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "claim",
+   "ipa_brE": "BrE /kleɪm/",
+   "ipa_AmE": "AmE /ˈkléɪm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "compensation award",
+   "ipa_brE": "BrE /ˌkɒmpenˈseɪʃn əˈwɔːd/",
+   "ipa_AmE": "AmE /ˌkɑmpəˈnséɪʃən əˈwɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remedy",
+   "ipa_brE": "BrE /ˈremədi/",
+   "ipa_AmE": "AmE /ˈɹɛmədi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "limitation period",
+   "ipa_brE": "BrE /ˌlɪmɪˈteɪʃn ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˌlɪmɪˈtéɪʃən ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "settlement agreement",
+   "ipa_brE": "BrE /ˈsetlmənt əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈsɛtəlmənt əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compromise agreement",
+   "ipa_brE": "BrE /ˈkɒmprəmaɪz əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈkɑmpɹəˌmɑɪz əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice",
+   "ipa_brE": "BrE /wɪðˌaʊt ˈpredʒudɪs/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract breach",
+   "ipa_brE": "BrE /ˈkɒntrækt ˌbriːtʃ/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "breach of contract",
+   "ipa_brE": "BrE /ˈbriːtʃ əv ˈkɒntrækt/",
+   "ipa_AmE": "AmE /ˈbɹitʃ ˈʌv ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "damages",
+   "ipa_brE": "BrE /ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˈdæmədʒəz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "force majeure clause",
+   "ipa_brE": "BrE /ˌfɔːs mæˈʒɜː klɔːz/",
+   "ipa_AmE": "AmE /ˈfɔɹs məˈdʒuɹ ˈklɔz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "suspension clause",
+   "ipa_brE": "BrE /səˈspenʃn klɔːz/",
+   "ipa_AmE": "AmE /səˈspɛnʃən ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "termination for cause",
+   "ipa_brE": "BrE /ˌtɜːmɪˈneɪʃn fə kɔːz/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən ˈfɔɹ ˈkɑz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "liability cap",
+   "ipa_brE": "BrE /ˌlaɪəˈbɪləti kæp/",
+   "ipa_AmE": "AmE /ˌlɑɪəˈbɪlɪti ˈkæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "limitation of liability",
+   "ipa_brE": "BrE /ˌlɪmɪˈteɪʃn əv ˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌlɪmɪˈtéɪʃən ˈʌv ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "insurance cover",
+   "ipa_brE": "BrE /ɪnˈʃʊərəns ˌkʌvə(r)/",
+   "ipa_AmE": "AmE /ˌɪˈnʃʊɹəns ˈkʌvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "third-party claim",
+   "ipa_brE": "BrE /ˌθɜːd ˈpɑːti kleɪm/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti ˈkléɪm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "subcontractor",
+   "ipa_brE": "BrE /ˌsʌbkənˈtræktə(r)/",
+   "ipa_AmE": "AmE /səˈbkɑˌntɹæktɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "duty of care",
+   "ipa_brE": "BrE /ˈdjuːti əv keə(r)/",
+   "ipa_AmE": "AmE /ˈduti ˈʌv ˈkɛɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "vendor due diligence",
+   "ipa_brE": "BrE /ˈvendə djuː ˌdɪlɪdʒəns/",
+   "ipa_AmE": "AmE /ˈvɛndɚ ˈdu ˈdɪlədʒəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "third-party risk",
+   "ipa_brE": "BrE /ˌθɜːd ˈpɑːti rɪsk/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti ˈɹɪsk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "outsourcing risk",
+   "ipa_brE": "BrE /ˈɔːtsəʊsɪŋ rɪsk/",
+   "ipa_AmE": "AmE /ˌàʊˈtsɔɹsɪŋ ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inside information",
+   "ipa_brE": "BrE /ɪnˌsaɪd ˌɪnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑɪd ˌɪnfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "conflict of interest policy",
+   "ipa_brE": "BrE /ˈkɒnflɪkt əv ˈɪntrəst ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈkɑnflɪkt ˈʌv ˈɪntɹəst ˈpɑləsi/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "related-party transaction",
+   "ipa_brE": "BrE /rɪˌleɪtɪd ˌpɑːti trænˈzækʃn/",
+   "ipa_AmE": "AmE /ɹɪˈléɪtɪd ˈpɑɹti tɹæˈnzækʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "anti-bribery",
+   "ipa_brE": "BrE /ˌænti ˈbrɪbri/",
+   "ipa_AmE": "AmE /ˈæˌnti ˈbɹɑɪbɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bribery risk",
+   "ipa_brE": "BrE /ˈbrɪbri rɪsk/",
+   "ipa_AmE": "AmE /ˈbɹɑɪbɚi ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gift policy",
+   "ipa_brE": "BrE /ˈɡɪft ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈɡɪft ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "anti-money laundering",
+   "ipa_brE": "BrE /ˌænti ˈmʌni ˌlɔːndrɪŋ/",
+   "ipa_AmE": "AmE /ˈæˌnti ˈmʌni ˈlɔndɚɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sanctions screening",
+   "ipa_brE": "BrE /ˈsæŋkʃnz ˌskriːnɪŋ/",
+   "ipa_AmE": "AmE /ˈsæŋkʃənz ˈskɹinɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "third-party screening",
+   "ipa_brE": "BrE /ˌθɜːd ˈpɑːti ˌskriːnɪŋ/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti ˈskɹinɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "regulatory filing",
+   "ipa_brE": "BrE /ˈreɡjələtəri ˌfaɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ˈfɑɪlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory return",
+   "ipa_brE": "BrE /stəˈtjuːtəri rɪˈtɜːn/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inspection",
+   "ipa_brE": "BrE /ɪnˈspekʃn/",
+   "ipa_AmE": "AmE /ˌɪˈnspɛkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "policy owner",
+   "ipa_brE": "BrE /ˈpɒləsi ˌəʊnə(r)/",
+   "ipa_AmE": "AmE /ˈpɑləsi ˈoʊnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "policy exception",
+   "ipa_brE": "BrE /ˈpɒləsi ɪkˈsepʃn/",
+   "ipa_AmE": "AmE /ˈpɑləsi ɪˈksɛpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "policy breach",
+   "ipa_brE": "BrE /ˈpɒləsi ˌbriːtʃ/",
+   "ipa_AmE": "AmE /ˈpɑləsi ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk control",
+   "ipa_brE": "BrE /ˈrɪsk kənˌtrəʊl/",
+   "ipa_AmE": "AmE /ˈɹɪsk kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control measure",
+   "ipa_brE": "BrE /kənˈtrəʊl ˌmeʒə(r)/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ˈmɛʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control effectiveness",
+   "ipa_brE": "BrE /kənˌtrəʊl ɪfektˈtɪvnəs/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ɪˈfɛktɪvnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit finding",
+   "ipa_brE": "BrE /ˈɔːdɪt ˌfaɪndɪŋ/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈfɑɪndɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "corrective action",
+   "ipa_brE": "BrE /kəˌrektɪv ˈækʃn/",
+   "ipa_AmE": "AmE /kɚˈɛktɪv ˈækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "root cause analysis",
+   "ipa_brE": "BrE /ˌruːt ˈkɔːz əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈɹut ˈkɑz əˈnæləsəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "misstatement",
+   "ipa_brE": "BrE /ˌmɪsˈsteɪtmənt/",
+   "ipa_AmE": "AmE /mɪˈstéɪtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "material weakness",
+   "ipa_brE": "BrE /məˌtɪəriəl ˈwiːknəs/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl ˈwiknəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assurance",
+   "ipa_brE": "BrE /əˈʃʊərəns/",
+   "ipa_AmE": "AmE /əˈʃʊɹəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "professional indemnity insurance",
+   "ipa_brE": "BrE /prəˌfeʃənəl ɪnˈdemnəti ɪnˌʃʊərəns/",
+   "ipa_AmE": "AmE /pɹəˈfɛʃənəl ˌɪˈndɛmnəti ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "workers' compensation",
+   "ipa_brE": "BrE /ˈwɜːkəz ˌkɒmpenˈseɪʃn/",
+   "ipa_AmE": "AmE /ˈwɝkɚz ˌkɑmpəˈnséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "public liability",
+   "ipa_brE": "BrE /ˌpʌblɪk ˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈpʌblɪk ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal hold",
+   "ipa_brE": "BrE /ˈliːɡl həʊld/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈhoʊld/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "document retention",
+   "ipa_brE": "BrE /ˈdɒkjumənt rɪˌtenʃn/",
+   "ipa_AmE": "AmE /ˈdɑkjəmɛnt ɹiˈtɛnʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal privilege",
+   "ipa_brE": "BrE /ˈliːɡl ˌprɪvəlɪdʒ/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈpɹɪvɪlədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compliance culture",
+   "ipa_brE": "BrE /kəmˈplaɪəns ˌkʌltʃə(r)/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈkʌltʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ethical conduct",
+   "ipa_brE": "BrE /ˈeθɪkl ˌkɒndʌkt/",
+   "ipa_AmE": "AmE /ˈɛθɪkəl ˈkɑndəkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "code of ethics",
+   "ipa_brE": "BrE /ˌkəʊd əv ˈeθɪks/",
+   "ipa_AmE": "AmE /ˈkoʊd ˈʌv ˈɛθɪks/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  }
+ ],
+ "m09": [
+  {
+   "word": "corporate culture",
+   "ipa_brE": "BrE /ˈkɔːpərət ˈkʌltʃə(r)/",
+   "ipa_AmE": "AmE /ˈkɔɹpɚət ˈkʌltʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "values system",
+   "ipa_brE": "BrE /ˈvæljuːz ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈvæljuz ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cultural norm",
+   "ipa_brE": "BrE /ˈkʌltʃərəl nɔːm/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚəl ˈnɔɹm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "diversity",
+   "ipa_brE": "BrE /daɪˈvɜːsəti/",
+   "ipa_AmE": "AmE /dɪˈvɝsɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inclusion",
+   "ipa_brE": "BrE /ɪnˈkluːʒn/",
+   "ipa_AmE": "AmE /ˌɪˈnkluʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "diversity and inclusion",
+   "ipa_brE": "BrE /daɪˌvɜːsəti ən ɪnˈkluːʒn/",
+   "ipa_AmE": "AmE /dɪˈvɝsɪti ənd ˌɪˈnkluʒən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "under-representation",
+   "ipa_brE": "BrE /ˌʌndə ˌreprɪzenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈʌndɚ ˌɹɛpɹəzɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "representation gap",
+   "ipa_brE": "BrE /ˌreprɪzenˈteɪʃn ɡæp/",
+   "ipa_AmE": "AmE /ˌɹɛpɹəzɛˈntéɪʃən ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "diversity target",
+   "ipa_brE": "BrE /daɪˈvɜːsəti ˌtɑːɡɪt/",
+   "ipa_AmE": "AmE /dɪˈvɝsɪti ˈtɑɹɡət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inclusion score",
+   "ipa_brE": "BrE /ɪnˈkluːʒn skɔː(r)/",
+   "ipa_AmE": "AmE /ˌɪˈnkluʒən ˈskɔɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sense of belonging",
+   "ipa_brE": "BrE /ˌsens əv bɪˈlɒŋɪŋ/",
+   "ipa_AmE": "AmE /ˈsɛns ˈʌv bɪˈlɔŋɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "voice",
+   "ipa_brE": "BrE /vɔɪs/",
+   "ipa_AmE": "AmE /ˈvɔɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "employee voice",
+   "ipa_brE": "BrE /ɪmˈplɔɪə vɔɪs/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ˈvɔɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ideas scheme",
+   "ipa_brE": "BrE /aɪˌdiːəz ˈskiːm/",
+   "ipa_AmE": "AmE /ɑɪˈdiəz ˈskim/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "speak-up culture",
+   "ipa_brE": "BrE /ˈspiːk ʌp ˌkʌltʃə(r)/",
+   "ipa_AmE": "AmE /ˈspik ˈʌp ˈkʌltʃɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "unconscious bias",
+   "ipa_brE": "BrE /ʌnˈkɒnʃəs ˈbaɪəs/",
+   "ipa_AmE": "AmE /ˌʌˈnkɑnʃəs ˈbɑɪəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "implicit bias",
+   "ipa_brE": "BrE /ɪmˈplɪsɪt ˈbaɪəs/",
+   "ipa_AmE": "AmE /ˌɪˈmplɪsət ˈbɑɪəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bias training",
+   "ipa_brE": "BrE /ˈbaɪəs ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈbɑɪəs ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inclusive leadership",
+   "ipa_brE": "BrE /ɪnˈkluːsɪv ˈliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˌɪˈnklusɪv ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "allyship",
+   "ipa_brE": "BrE /ˈæliʃɪp/",
+   "ipa_AmE": "AmE /ˈælɪʃɪp/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "inclusive language",
+   "ipa_brE": "BrE /ɪnˈkluːsɪv ˈlæŋɡwɪdʒ/",
+   "ipa_AmE": "AmE /ˌɪˈnklusɪv ˈlæŋɡwədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reasonable adjustment",
+   "ipa_brE": "BrE /ˌriːzənəbl əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈɹiznəbəl əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workplace adjustment",
+   "ipa_brE": "BrE /ˈwɜːkpləːs əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inclusion barrier",
+   "ipa_brE": "BrE /ɪnˈkluːʒn ˌbæriə(r)/",
+   "ipa_AmE": "AmE /ˌɪˈnkluʒən ˈbæɹiɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "target representation",
+   "ipa_brE": "BrE /ˈtɑːɡɪt ˌreprɪzenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət ˌɹɛpɹəzɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pipeline diversity",
+   "ipa_brE": "BrE /ˈpaɪplaɪn daɪˌvɜːsəti/",
+   "ipa_AmE": "AmE /ˈpɑɪˌplɑɪn dɪˈvɝsɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shortlist diversity",
+   "ipa_brE": "BrE /ˈʃɔːtlɪst daɪˌvɜːsəti/",
+   "ipa_AmE": "AmE /ˈʃɔtlɪst dɪˈvɝsɪti/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "engagement",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "employee engagement",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ɪnˈɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ɛˈnɡéɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement score",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt skɔː(r)/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈskɔɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement survey",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement index",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt ˈɪndeks/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈɪndɛks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement driver",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt ˌdraɪvə(r)/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈdɹɑɪvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement trend",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt trend/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈtɹɛnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement benchmark",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt ˌbentʃmɑːk/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈbɛˌntʃmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement gap",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt ɡæp/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement action plan",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt ˈækʃn plæn/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt ˈækʃən ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "you said we did",
+   "ipa_brE": "BrE /juː sed wi dɪd/",
+   "ipa_AmE": "AmE /ˈju ˈsɛd ˈwi ˈdɪd/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "closed-loop survey",
+   "ipa_brE": "BrE /ˌkləʊzd ˈluːp ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˈkloʊzd ˈlup sɚˈvéɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "workplace wellbeing",
+   "ipa_brE": "BrE /ˈwɜːkpləːs ˌwelˈbiːɪŋ/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs ˌwɛˈlbiɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "wellbeing programme",
+   "ipa_brE": "BrE /ˌwelˈbiːɪŋ ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ˌwɛˈlbiɪŋ ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mental health support",
+   "ipa_brE": "BrE /ˌmentl ˈhelθ səˈpɔːt/",
+   "ipa_AmE": "AmE /ˈmɛntəl ˈhɛlθ səˈpɔɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "employee assistance programme",
+   "ipa_brE": "BrE /ɪmˈplɔɪə əˌsɪstəns ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi əˈsɪstəns ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "counselling service",
+   "ipa_brE": "BrE /ˈkaʊnsəlɪŋ ˌsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈkaʊnsəlɪŋ ˈsɝvəs/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "stress support",
+   "ipa_brE": "BrE /ˈstres səˌpɔːt/",
+   "ipa_AmE": "AmE /ˈstɹɛs səˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "occupational stress",
+   "ipa_brE": "BrE /ˌɒkjʊˈkeɪʃənəl stres/",
+   "ipa_AmE": "AmE /ɑkjəˈpéɪʃənəl ˈstɹɛs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workload balance",
+   "ipa_brE": "BrE /ˈwɜːkləʊd ˌbæləns/",
+   "ipa_AmE": "AmE /ˈwɝˌkloʊd ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "work-life balance",
+   "ipa_brE": "BrE /ˌwɜːk laɪf ˈbæləns/",
+   "ipa_AmE": "AmE /ˈwɝk ˈlɑɪf ˈbæləns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "wellbeing measurement",
+   "ipa_brE": "BrE /ˌwelˈbiːɪŋ ˈmeʒəmənt/",
+   "ipa_AmE": "AmE /ˌwɛˈlbiɪŋ ˈmɛʒɚmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "absence rate",
+   "ipa_brE": "BrE /ˈæbsəns reɪt/",
+   "ipa_AmE": "AmE /ˈæbsəns ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sickness absence",
+   "ipa_brE": "BrE /ˈsɪknəs ˈæbsəns/",
+   "ipa_AmE": "AmE /ˈsɪknəs ˈæbsəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "health promotion",
+   "ipa_brE": "BrE /ˈhelθ prəˌməʊʃn/",
+   "ipa_AmE": "AmE /ˈhɛlθ pɹəˈmoʊʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "screening programme",
+   "ipa_brE": "BrE /ˈskriːnɪŋ ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ˈskɹinɪŋ ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vaccination programme",
+   "ipa_brE": "BrE /ˌvæksɪˈneɪʃn ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /væksəˈnéɪʃən ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "wellness event",
+   "ipa_brE": "BrE /ˈwelnəs ɪˌvent/",
+   "ipa_AmE": "AmE /ˈwɛlnəs ɪˈvɛnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team sport",
+   "ipa_brE": "BrE /ˈtiːm spɔːt/",
+   "ipa_AmE": "AmE /ˈtim ˈspɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gym membership",
+   "ipa_brE": "BrE /ˈdʒɪm ˈmembəʃɪp/",
+   "ipa_AmE": "AmE /ˈdʒɪm ˈmɛmbɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "social connection",
+   "ipa_brE": "BrE /ˌsəʊʃl kəˈnekʃn/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl kəˈnɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team connection",
+   "ipa_brE": "BrE /ˈtiːm kəˌnekʃn/",
+   "ipa_AmE": "AmE /ˈtim kəˈnɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "loneliness",
+   "ipa_brE": "BrE /ˈləʊnlinəs/",
+   "ipa_AmE": "AmE /ˈloʊnlinəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "staff survey",
+   "ipa_brE": "BrE /ˈstɑːf ˌsɜːveɪ/",
+   "ipa_AmE": "AmE /ˈstæf sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "survey response rate",
+   "ipa_brE": "BrE /sɜːveɪ rɪˈspɒns reɪt/",
+   "ipa_AmE": "AmE /sɚˈvéɪ ɹɪˈspɑns ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "open-text comment",
+   "ipa_brE": "BrE /ˌəʊpən ˈtekst ˌkɒment/",
+   "ipa_AmE": "AmE /ˈoʊpən ˈtɛkst ˈkɑmɛnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "corporate social responsibility",
+   "ipa_brE": "BrE /ˌkɔːpərət ˌsəʊʃl rɪˌspɒnsəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈkɔɹpɚət ˈsoʊʃəl ɹiˌspɑnsəˈbɪləti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "charity partner",
+   "ipa_brE": "BrE /ˈtʃærəti ˌpɑːtnə(r)/",
+   "ipa_AmE": "AmE /ˈtʃɛɹɪti ˈpɑɹtnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "volunteering",
+   "ipa_brE": "BrE /ˌvɒləntɪərɪŋ/",
+   "ipa_AmE": "AmE /ˌvɔləˈntɪɹɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "community engagement",
+   "ipa_brE": "BrE /kəˌmjuːnəti ɪnˈɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /kəˈmjunəti ɛˈnɡéɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "social impact",
+   "ipa_brE": "BrE /ˌsəʊʃl ˈɪmpækt/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl ˌɪˈmpækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ESG rating",
+   "ipa_brE": "BrE /ˌiː es ˈdʒiː ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˌi ɛs ˈdʒi ˌɹeɪtɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "employer reputation",
+   "ipa_brE": "BrE /ɪmˈplɔɪər ˌrepjuˈteɪʃn/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪɚ ˌɹɛpjəˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employer ranking",
+   "ipa_brE": "BrE /ɪmˈplɔɪər ˌræŋkɪŋ/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪɚ ˈɹæŋkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employer review score",
+   "ipa_brE": "BrE /ɪmˈplɔɪər rɪˌvjuː skɔː(r)/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪɚ ˌɹiˈvju ˈskɔɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "recommendation score",
+   "ipa_brE": "BrE /ˌrekəmenˈdeɪʃn skɔː(r)/",
+   "ipa_AmE": "AmE /ˌɹɛkəməˈndéɪʃən ˈskɔɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "advocacy intent",
+   "ipa_brE": "BrE /ˈædvəkəsi ɪnˌtent/",
+   "ipa_AmE": "AmE /ˈædvəkəsi ˌɪˈntɛnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "net promoter score",
+   "ipa_brE": "BrE /net prəʊˈməʊtə skɔː(r)/",
+   "ipa_AmE": "AmE /ˈnɛt pɹəˈmoʊtɚ ˈskɔɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "purpose",
+   "ipa_brE": "BrE /ˈpɜːpəs/",
+   "ipa_AmE": "AmE /ˈpɝpəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "purpose statement",
+   "ipa_brE": "BrE /ˈpɜːpəs ˌsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈpɝpəs ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "meaning at work",
+   "ipa_brE": "BrE /ˈmiːnɪŋ ət wɜːk/",
+   "ipa_AmE": "AmE /ˈminɪŋ ˈæt ˈwɝk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "team ritual",
+   "ipa_brE": "BrE /ˈtiːm ˌrɪtʃuəl/",
+   "ipa_AmE": "AmE /ˈtim ˈɹɪtʃuəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team identity",
+   "ipa_brE": "BrE /ˈtiːm aɪˌdentəti/",
+   "ipa_AmE": "AmE /ˈtim ɑɪˈdɛntɪˌti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "team name",
+   "ipa_brE": "BrE /ˈtiːm neɪm/",
+   "ipa_AmE": "AmE /ˈtim ˈnéɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hybrid fairness",
+   "ipa_brE": "BrE /ˈhaɪbrɪd ˌfeənəs/",
+   "ipa_AmE": "AmE /ˈhɑɪbɹəd ˈfɛɹnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proximity bias",
+   "ipa_brE": "BrE /prɒkˈsiməti ˈbaɪəs/",
+   "ipa_AmE": "AmE /pɹɑˈksɪməti ˈbɑɪəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remote inclusion",
+   "ipa_brE": "BrE /rɪˌməʊt ɪnˈkluːʒn/",
+   "ipa_AmE": "AmE /ɹɪˈmoʊt ˌɪˈnkluʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "diversity training",
+   "ipa_brE": "BrE /daɪˈvɜːsəti ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /dɪˈvɝsɪti ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inclusion calendar",
+   "ipa_brE": "BrE /ɪnˈkluːʒn ˌkælɪndə(r)/",
+   "ipa_AmE": "AmE /ˌɪˈnkluʒən ˈkæləndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "celebration calendar",
+   "ipa_brE": "BrE /ˌselɪˈbreɪʃn ˌkælɪndə(r)/",
+   "ipa_AmE": "AmE /ˌsɛləˈbɹéɪʃən ˈkæləndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture metric",
+   "ipa_brE": "BrE /ˈkʌltʃə ˌmetrɪk/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈmɛtɹɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture score",
+   "ipa_brE": "BrE /ˈkʌltʃə skɔː(r)/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈskɔɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture trend",
+   "ipa_brE": "BrE /ˈkʌltʃə trend/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈtɹɛnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m10": [
+  {
+   "word": "HRIS",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑːr ɪ ˈes/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ ɪ ˈɛs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "human resource information system",
+   "ipa_brE": "BrE /ˌhjuːmən rɪˈsɔːs ˌɪnfəˈmeɪʃn ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈhjumən ˈɹisɔɹs ˌɪnfɚˈméɪʃən ˈsɪstəm/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "HR technology",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑːr tekˈnɒlədʒi/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ tɛˈknɑlədʒɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "payroll system",
+   "ipa_brE": "BrE /ˈpeɪrəʊl ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈpéɪˌɹoʊl ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recruitment system",
+   "ipa_brE": "BrE /rɪˈkruːtmənt ˌsɪstəm/",
+   "ipa_AmE": "AmE /ɹəˈkɹutmənt ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance system",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌsɪstəm/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "HR analytics",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑːr əˈnælɪtɪks/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ əˈnælɪtɪks/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "people analytics",
+   "ipa_brE": "BrE /ˈpiːpl əˌnælɪtɪks/",
+   "ipa_AmE": "AmE /ˈpipəl ˌænəˈlɪtɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workforce analytics",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs əˌnælɪtɪks/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs ˌænəˈlɪtɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data pipeline",
+   "ipa_brE": "BrE /ˈdeɪtə ˌpaɪplaɪn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈpɑɪˌplɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data integration",
+   "ipa_brE": "BrE /ˈdeɪtə ˌɪntɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˌɪntəˈɡɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "master data",
+   "ipa_brE": "BrE /ˈmɑːstə ˌdeɪtə/",
+   "ipa_AmE": "AmE /ˈmæstɚ ˈdéɪtə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "single source of truth",
+   "ipa_brE": "BrE /ˌsɪŋɡl sɔːs əv ˈtruːθ/",
+   "ipa_AmE": "AmE /ˈsɪŋɡəl ˈsɔɹs ˈʌv ˈtɹuθ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "data ownership",
+   "ipa_brE": "BrE /ˈdeɪtə ˌəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈoʊnɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data governance",
+   "ipa_brE": "BrE /ˈdeɪtə ˌɡʌvənəns/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈɡʌvɚnəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employee self-service",
+   "ipa_brE": "BrE /ɪmˈplɔɪə ˌself ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ˈsɛlf ˈsɝvəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "manager self-service",
+   "ipa_brE": "BrE /ˈmænɪdʒə ˌself ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈmænədʒɚ ˈsɛlf ˈsɝvəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "self-service portal",
+   "ipa_brE": "BrE /ˌself ˈsɜːvɪs ˌpɔːtl/",
+   "ipa_AmE": "AmE /ˈsɛlf ˈsɝvəs ˈpɔɹtəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "workflow automation",
+   "ipa_brE": "BrE /ˈwɜːkfləʊ ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈwɝˌkfloʊ ɔtəˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "approval workflow",
+   "ipa_brE": "BrE /əˈpruːvl ˈwɜːkfləʊ/",
+   "ipa_AmE": "AmE /əˈpɹuvəl ˈwɝˌkfloʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "automated onboarding",
+   "ipa_brE": "BrE /ˈɔːtəmeɪtɪd ˈɒnbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ˈɔtəˌméɪtɪd ˈɑnbɔdɪŋ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "chatbot",
+   "ipa_brE": "BrE /ˈtʃætbɒt/",
+   "ipa_AmE": "AmE /ˈtʃætbɑt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "virtual assistant",
+   "ipa_brE": "BrE /ˌvɜːtʃuəl əˈsɪstənt/",
+   "ipa_AmE": "AmE /ˈvɝtʃuəl əˈsɪstənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "natural language query",
+   "ipa_brE": "BrE /ˌnætʃrəl ˈlæŋɡwɪdʒ ˈkwɪəri/",
+   "ipa_AmE": "AmE /ˈnætʃɹəl ˈlæŋɡwədʒ ˈkwiɹi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "algorithmic screening",
+   "ipa_brE": "BrE /ˌælɡəˈrɪðmɪk ˈskriːnɪŋ/",
+   "ipa_AmE": "AmE /ˈælɡɚˌɪðəmɪk ˈskɹinɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "CV screening",
+   "ipa_brE": "BrE /ˌsiː viː ˈskriːnɪŋ/",
+   "ipa_AmE": "AmE /ˌsi vi ˈskɹinɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "resume parsing",
+   "ipa_brE": "BrE /ˈrezjumeɪ ˌpɑːzɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɛzəˌméɪ ˈpɑɹsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "algorithmic bias",
+   "ipa_brE": "BrE /ˌælɡəˈrɪðmɪk ˈbaɪəs/",
+   "ipa_AmE": "AmE /ˈælɡɚˌɪðəmɪk ˈbɑɪəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "explainability",
+   "ipa_brE": "BrE /ɪkˌspleɪnəˈbɪləti/",
+   "ipa_AmE": "AmE /ɪˌkspleɪnəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "human oversight",
+   "ipa_brE": "BrE /ˌhjuːmən ˈəʊvəsaɪt/",
+   "ipa_AmE": "AmE /ˈhjumən ˈoʊvɚˌsɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "predictive model",
+   "ipa_brE": "BrE /prɪˌdɪktɪv ˈmɒdl/",
+   "ipa_AmE": "AmE /pɹɪˈdɪktɪv ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "attrition model",
+   "ipa_brE": "BrE /əˈtrɪʃn ˌmɒdl/",
+   "ipa_AmE": "AmE /əˈtɹɪʃən ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision support",
+   "ipa_brE": "BrE /dɪˈsɪʒn səˈpɔːt/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən səˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "biometric attendance",
+   "ipa_brE": "BrE /ˌbaɪəˈmɛtrɪk əˈtendəns/",
+   "ipa_AmE": "AmE /ˌbɑɪəˈmɛtɹək əˈtɛndəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "time and attendance",
+   "ipa_brE": "BrE /ˌtaɪm ən əˈtendəns/",
+   "ipa_AmE": "AmE /ˈtɑɪm ənd əˈtɛndəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "access log",
+   "ipa_brE": "BrE /ˈækses lɒɡ/",
+   "ipa_AmE": "AmE /ˈæˌksɛs ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "location tracking",
+   "ipa_brE": "BrE /ləʊˈkeɪʃn ˌtrækɪŋ/",
+   "ipa_AmE": "AmE /loʊˈkéɪʃən ˈtɹækɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "productivity monitoring",
+   "ipa_brE": "BrE /prəˌdʌkˈtɪvəti ˈmɒnɪtərɪŋ/",
+   "ipa_AmE": "AmE /ˌpɹoʊdəˈktɪvəti ˈmɑnətɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "activity monitoring",
+   "ipa_brE": "BrE /ækˈtɪvəti ˈmɒnɪtərɪŋ/",
+   "ipa_AmE": "AmE /æˈktɪvəti ˈmɑnətɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "system integration",
+   "ipa_brE": "BrE /ˈsɪstəm ˌɪntɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /ˈsɪstəm ˌɪntəˈɡɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "API integration",
+   "ipa_brE": "BrE /ˌeɪ piː ˈaɪ ˌɪntɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /ˌeɪ pi ˈaɪ ˌɪntɪˈɡɹeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "middleware",
+   "ipa_brE": "BrE /ˈmɪdlweə(r)/",
+   "ipa_AmE": "AmE /ˈmɪdlwɛɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "HR tech stack",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑːr ˌtek stæk/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ ˌtɛk stæk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "point solution",
+   "ipa_brE": "BrE /ˈpɔɪnt səˌluːʃn/",
+   "ipa_AmE": "AmE /ˈpɔɪnt səˈluʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "best-of-breed",
+   "ipa_brE": "BrE /ˌbest əv ˈbriːd/",
+   "ipa_AmE": "AmE /ˈbɛst ˈʌv ˈbɹid/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "vendor selection",
+   "ipa_brE": "BrE /ˈvendə sɪˌlekʃn/",
+   "ipa_AmE": "AmE /ˈvɛndɚ səˈlɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "implementation partner",
+   "ipa_brE": "BrE /ˌɪmplɪmenˈteɪʃn ˌpɑːtnə(r)/",
+   "ipa_AmE": "AmE /ˌɪmpləmɛˈntéɪʃən ˈpɑɹtnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "system rollout",
+   "ipa_brE": "BrE /ˈsɪstəm ˌrəʊlaʊt/",
+   "ipa_AmE": "AmE /ˈsɪstəm ˈɹoʊˌlàʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "agile HR",
+   "ipa_brE": "BrE /ˈædʒaɪl ˌeɪtʃ ɑː(r)/",
+   "ipa_AmE": "AmE /ˈædʒaɪl ˌeɪtʃ ɑɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "HR product owner",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑː(r) ˈprɒdʌkt ˌəʊnə(r)/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ ˈpɹɑdʌkt ˌoʊnɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "people operations product",
+   "ipa_brE": "BrE /ˈpiːpl ˌɒpəˈreɪʃnz ˌprɒdʌkt/",
+   "ipa_AmE": "AmE /ˈpipəl ˌɑpɚˈéɪʃənz ˈpɹɑdəkt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "agile methodology",
+   "ipa_brE": "BrE /ˈædʒaɪl ˌmeθəˈdɒlədʒi/",
+   "ipa_AmE": "AmE /ˈædʒəl ˌmɛθəˈdɑlədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sprint cycle",
+   "ipa_brE": "BrE /ˈsprɪnt ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈspɹɪnt ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "product backlog",
+   "ipa_brE": "BrE /ˈprɒdʌkt ˌbæklɒɡ/",
+   "ipa_AmE": "AmE /ˈpɹɑdəkt ˈbæˌklɑɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "user story",
+   "ipa_brE": "BrE /ˈjuːzə ˌstɔːri/",
+   "ipa_AmE": "AmE /ˈjuzɚ ˈstɔɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "acceptance criteria",
+   "ipa_brE": "BrE /əkˈseptəns kraɪˌtɪəriə/",
+   "ipa_AmE": "AmE /æˈksɛptəns kɹɑɪˈtɪɹiə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "definition of done",
+   "ipa_brE": "BrE /ˌdefɪˈnɪʃn əv dʌn/",
+   "ipa_AmE": "AmE /ˌdɛfəˈnɪʃən ˈʌv ˈdʌn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "minimum viable product",
+   "ipa_brE": "BrE /ˌmɪnɪməm ˈvaɪəbl ˌprɒdʌkt/",
+   "ipa_AmE": "AmE /ˈmɪnəməm ˈvɑɪəbəl ˈpɹɑdəkt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "pilot group",
+   "ipa_brE": "BrE /ˈpaɪlət ɡruːp/",
+   "ipa_AmE": "AmE /ˈpɑɪlət ˈɡɹup/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "user acceptance testing",
+   "ipa_brE": "BrE /ˌjuːzə əkˈseptəns ˈtestɪŋ/",
+   "ipa_AmE": "AmE /ˈjuzɚ æˈksɛptəns ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "system adoption",
+   "ipa_brE": "BrE /ˈsɪstəm əˈdɒpʃn/",
+   "ipa_AmE": "AmE /ˈsɪstəm əˈdɑpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "digital literacy",
+   "ipa_brE": "BrE /ˈdɪdʒɪtl ˌlɪtərəsi/",
+   "ipa_AmE": "AmE /ˈdɪdʒətəl ˈlɪtɚəsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "digital training",
+   "ipa_brE": "BrE /ˈdɪdʒɪtl ˌtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈdɪdʒətəl ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data privacy",
+   "ipa_brE": "BrE /ˈdeɪtə ˌprɪvəsi/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈpɹɑɪvəsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data breach notification",
+   "ipa_brE": "BrE /ˈdeɪtə briːtʊ ˌnəʊtɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈbɹitʃ ˌnoʊtəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "retention policy",
+   "ipa_brE": "BrE /rɪˈtenʃn ˌpɒləsi/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pseudonymisation",
+   "ipa_brE": "BrE /ˌsjuːdəˌnɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌsjudəˌnɪmaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "anonymisation",
+   "ipa_brE": "BrE /əˌnɒnɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /əˌnɑnɪmaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "data minimisation",
+   "ipa_brE": "BrE /ˈdeɪtə ˌmɪnɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˌmɪnɪmaɪˈzeɪʃn/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "AI copilot",
+   "ipa_brE": "BrE /ˌeɪ aɪ ˈkəʊpaɪlɒt/",
+   "ipa_AmE": "AmE /ˌeɪ aɪ ˈkoʊpaɪlɑt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "process automation",
+   "ipa_brE": "BrE /ˈprəʊses ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛs ɔtəˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "task automation",
+   "ipa_brE": "BrE /ˈtɑːsk ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈtæsk ɔtəˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "RPA",
+   "ipa_brE": "BrE /ˌɑːr piː ˈeɪ/",
+   "ipa_AmE": "AmE /ˌɑɹ pi ˈeɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "process mining",
+   "ipa_brE": "BrE /ˈprəʊses ˌmaɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛs ˈmɑɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workflow engine",
+   "ipa_brE": "BrE /ˈwɜːkfləʊ ˌendʒɪn/",
+   "ipa_AmE": "AmE /ˈwɝˌkfloʊ ˈɛndʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data migration",
+   "ipa_brE": "BrE /ˈdeɪtə maɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə mɑɪˈɡɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legacy system",
+   "ipa_brE": "BrE /ˈleɡəsi ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈlɛɡəsi ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data cleansing",
+   "ipa_brE": "BrE /ˈdeɪtə ˌklensɪŋ/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈklɛnzɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reporting tool",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ tuːl/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈtul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dashboard",
+   "ipa_brE": "BrE /ˈdæʃbɔːd/",
+   "ipa_AmE": "AmE /ˈdæˌʃbɔɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "self-service report",
+   "ipa_brE": "BrE /ˌself ˈsɜːvɪs rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈsɛlf ˈsɝvəs ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "real-time insight",
+   "ipa_brE": "BrE /ˌrɪəl ˈtaɪm ˌɪnsaɪt/",
+   "ipa_AmE": "AmE /ˈɹil ˈtɑɪm ˈɪˌnsɑɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "predictive dashboard",
+   "ipa_brE": "BrE /prɪˌdɪktɪv ˈdæʃbɔːd/",
+   "ipa_AmE": "AmE /pɹɪˈdɪktɪv ˈdæˌʃbɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "threshold alert",
+   "ipa_brE": "BrE /ˈθreʃhəʊld əˌlɜːt/",
+   "ipa_AmE": "AmE /ˈθɹɛˌʃoʊld əˈlɝt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "case management system",
+   "ipa_brE": "BrE /ˈkeɪs ˌmænɪdʒmənt ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈmænədʒmənt ˈsɪstəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "ticketing system",
+   "ipa_brE": "BrE /ˈtɪkɪtɪŋ ˌsɪstəm/",
+   "ipa_AmE": "AmE /ˈtɪkətɪŋ ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service level agreement",
+   "ipa_brE": "BrE /ˈsɜːvɪs ˌlevl əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈlɛvəl əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "SLA reporting",
+   "ipa_brE": "BrE /ˌes el ˈeɪ rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˌɛs ɛl ˈeɪ ɹɪˌpɔtɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "first-time-right",
+   "ipa_brE": "BrE /ˌfɜːst ˈtaɪm raɪt/",
+   "ipa_AmE": "AmE /ˈfɝst ˈtɑɪm ˈɹɑɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "resolution time",
+   "ipa_brE": "BrE /ˌrezəˈluːʃn taɪm/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈluʃən ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "digital maturity",
+   "ipa_brE": "BrE /ˈdɪdʒɪtl məˌtʃʊərəti/",
+   "ipa_AmE": "AmE /ˈdɪdʒətəl məˈtʃʊɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tech readiness",
+   "ipa_brE": "BrE /ˈtek ˈredinəs/",
+   "ipa_AmE": "AmE /ˈtɛk ˈɹɛdinəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "automation roadmap",
+   "ipa_brE": "BrE /ˌɔːtəˈmeɪʃn ˌrəʊdmæp/",
+   "ipa_AmE": "AmE /ɔtəˈméɪʃən ˈɹoʊˌdmæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m11": [
+  {
+   "word": "business partnering",
+   "ipa_brE": "BrE /ˈbɪznəs ˌpɑːtnərɪŋ/",
+   "ipa_AmE": "AmE /ˈbɪznəs ˈpɑɹtnɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "HR business partner",
+   "ipa_brE": "BrE /ˌeɪtʃ ɑː(r) ˈbɪznəs ˌpɑːtnə(r)/",
+   "ipa_AmE": "AmE /ˌeɪtʃ ɑɹ ˈbɪznəs ˌpɑtnɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "strategic partner",
+   "ipa_brE": "BrE /strəˈtiːdʒɪk ˈpɑːtnə(r)/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˈpɑɹtnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stakeholder engagement",
+   "ipa_brE": "BrE /ˈsteɪkhəʊldər ɪnˌɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈstéɪˌkhoʊldɚ ɛˈnɡéɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "key stakeholder",
+   "ipa_brE": "BrE /ˌkiː ˈsteɪkhəʊldə(r)/",
+   "ipa_AmE": "AmE /ˈki ˈstéɪˌkhoʊldɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "power-interest grid",
+   "ipa_brE": "BrE /ˈpaʊər ˌɪntrəst ɡrɪd/",
+   "ipa_AmE": "AmE /ˈpàʊɚ ˈɪntɹəst ˈɡɹɪd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "expectation management",
+   "ipa_brE": "BrE /ɪkˌspektˈeɪʃn ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˌɛkspɛˈktéɪʃən ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stakeholder analysis",
+   "ipa_brE": "BrE /ˈsteɪkhəʊldər əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈstéɪˌkhoʊldɚ əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "influence mapping",
+   "ipa_brE": "BrE /ˈɪnfluəns ˌmæpɪŋ/",
+   "ipa_AmE": "AmE /ˈɪnfluəns ˈmæpɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "executive summary",
+   "ipa_brE": "BrE /ɪɡˈzekjətɪv ˈsʌməri/",
+   "ipa_AmE": "AmE /ɪˈɡzɛkjətɪv ˈsʌmɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board pack",
+   "ipa_brE": "BrE /ˈbɔːd pæk/",
+   "ipa_AmE": "AmE /ˈbɔɹd ˈpæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people report",
+   "ipa_brE": "BrE /ˈpiːpl rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈpipəl ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people plan",
+   "ipa_brE": "BrE /ˈpiːpl plæn/",
+   "ipa_AmE": "AmE /ˈpipəl ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workforce proposal",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs prəˌpəʊzl/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs pɹəˈpoʊzəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "headcount business case",
+   "ipa_brE": "BrE /ˈhedkaʊnt ˈbɪznəs keɪs/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt ˈbɪznəs ˈkéɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cost of absence",
+   "ipa_brE": "BrE /ˌkɒst əv ˈæbsəns/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈæbsəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "risk quantification",
+   "ipa_brE": "BrE /ˈrɪsk ˌkwɒntɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˌkwɑntɪfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "business impact statement",
+   "ipa_brE": "BrE /ˈbɪznəs ˈɪmpækt ˌsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈbɪznəs ˌɪˈmpækt ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial impact",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈɪmpækt/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˌɪˈmpækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "saving",
+   "ipa_brE": "BrE /ˈseɪvɪŋ/",
+   "ipa_AmE": "AmE /ˈséɪvɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cost avoidance",
+   "ipa_brE": "BrE /ˌkɒst əˈvɔɪdəns/",
+   "ipa_AmE": "AmE /ˈkɑst əˈvɔɪdəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "case for change",
+   "ipa_brE": "BrE /ˌkeɪs fə ˈtʃeɪndʒ/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈfɔɹ ˈtʃéɪndʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "investment case",
+   "ipa_brE": "BrE /ɪnˈvestmənt keɪs/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstmənt ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "benefit realisation",
+   "ipa_brE": "BrE /ˈbenɪfɪt ˌrɪələˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪt ˈɹiləˌzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proof point",
+   "ipa_brE": "BrE /ˈpruːf pɔɪnt/",
+   "ipa_AmE": "AmE /ˈpɹuf ˈpɔɪnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "evidence base",
+   "ipa_brE": "BrE /ˈevɪdəns beɪs/",
+   "ipa_AmE": "AmE /ˈɛvədəns ˈbéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data caveat",
+   "ipa_brE": "BrE /ˈdeɪtə ˈkæviæt/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈkéɪviˌæt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "communication plan",
+   "ipa_brE": "BrE /kəˌmjuːnɪˈkeɪʃn plæn/",
+   "ipa_AmE": "AmE /kəˌmjunəˈkéɪʃən ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "message framing",
+   "ipa_brE": "BrE /ˈmesɪdʒ ˌfreɪmɪŋ/",
+   "ipa_AmE": "AmE /ˈmɛsədʒ ˈfɹéɪmɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audience",
+   "ipa_brE": "BrE /ˈɔːdiəns/",
+   "ipa_AmE": "AmE /ˈɑdiəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "objection handling",
+   "ipa_brE": "BrE /əbˈdʒekʃn ˌhændlɪŋ/",
+   "ipa_AmE": "AmE /əˈbdʒɛkʃən ˈhændlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "concern log",
+   "ipa_brE": "BrE /kənˈsɜːn lɒɒɡ/",
+   "ipa_AmE": "AmE /kəˈnsɝn ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "escalation path",
+   "ipa_brE": "BrE /ˌeskəˈleɪʃn pɑːθ/",
+   "ipa_AmE": "AmE /ˌɛskəˈléɪʃən ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision memo",
+   "ipa_brE": "BrE /dɪˈsɪʒn ˌmeməʊ/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈmɛˌmoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "options paper",
+   "ipa_brE": "BrE /ˈɒpʃnz ˌpeɪpə(r)/",
+   "ipa_AmE": "AmE /ˈɑpʃənz ˈpéɪpɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trade-off statement",
+   "ipa_brE": "BrE /ˈtreɪd ɒf ˌsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈɔf ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cross-functional challenge",
+   "ipa_brE": "BrE /ˌkrɒs ˈfʌŋkʃənl ˈtʃælɪndʒ/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈfʌŋkʃənəl ˈtʃæləndʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "healthy friction",
+   "ipa_brE": "BrE /ˈhelθi ˈfrɪkʃn/",
+   "ipa_AmE": "AmE /ˈhɛlθi ˈfɹɪkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "constructive dissent",
+   "ipa_brE": "BrE /kənˈstrʌktɪv ˈdɪsent/",
+   "ipa_AmE": "AmE /kəˈnstɹʌktɪv dɪˈsɛnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operating rhythm",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌrɪðəm/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈɹɪðəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cadence",
+   "ipa_brE": "BrE /ˈkeɪdəns/",
+   "ipa_AmE": "AmE /ˈkéɪdəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "business review",
+   "ipa_brE": "BrE /ˈbɪznəs rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈbɪznəs ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quarterly business review",
+   "ipa_brE": "BrE /ˌkwɔːtəli ˈbɪznəs rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈkwɔɹtɚli ˈbɪznəs ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "monthly forecast call",
+   "ipa_brE": "BrE /ˌmʌnθli ˈfɔːkɑːst kɔːl/",
+   "ipa_AmE": "AmE /ˈmʌnθli ˈfɔˌɹkæst ˈkɔl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "escalation meeting",
+   "ipa_brE": "BrE /ˌeskəˈleɪʃn ˌmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˌɛskəˈléɪʃən ˈmitɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "influence without authority",
+   "ipa_brE": "BrE /ˈɪnfluəns wɪðˌaʊt ɔːˈθɒrəti/",
+   "ipa_AmE": "AmE /ˈɪnfluəns wɪˈθàʊt əˈθɔɹəti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "persuasion",
+   "ipa_brE": "BrE /pəˈsweɪʒn/",
+   "ipa_AmE": "AmE /pɚˈswéɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "relationship capital",
+   "ipa_brE": "BrE /rɪˈleɪʃnʃɪp ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ɹiˈléɪʃəˌnʃɪp ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "senior sponsor",
+   "ipa_brE": "BrE /ˌseniə ˈspɒnsə(r)/",
+   "ipa_AmE": "AmE /ˈsinjɚ ˈspɑnsɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "business champion",
+   "ipa_brE": "BrE /ˈbɪznəs ˌtʃæmpiən/",
+   "ipa_AmE": "AmE /ˈbɪznəs ˈtʃæmpiən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "coalition building",
+   "ipa_brE": "BrE /kəʊˈlɪʃn ˌbɪldɪŋ/",
+   "ipa_AmE": "AmE /ˌkoʊəˈlɪʃən ˈbɪldɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shared interest",
+   "ipa_brE": "BrE /ˌʃeəd ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈʃɛɹd ˈɪntɹəst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "common ground",
+   "ipa_brE": "BrE /ˈkɒmən ɡraʊnd/",
+   "ipa_AmE": "AmE /ˈkɑmən ˈɡɹàʊnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mutual benefit",
+   "ipa_brE": "BrE /ˌmjuːtʃuəl ˈbenɪfɪt/",
+   "ipa_AmE": "AmE /ˈmjutʃuəl ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "difficult conversation",
+   "ipa_brE": "BrE /ˈdɪfɪkəlt ˌkɒnvəˈseɪʃn/",
+   "ipa_AmE": "AmE /ˈdɪfəkəlt ˌkɑnvɚˈséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hold to account",
+   "ipa_brE": "BrE /ˌhəʊld tə əˈkaʊnt/",
+   "ipa_AmE": "AmE /ˈhoʊld ˈtu əˈkàʊnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "fair challenge",
+   "ipa_brE": "BrE /ˌfeə ˈtʃælɪndʒ/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˈtʃæləndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people risk",
+   "ipa_brE": "BrE /ˈpiːpl rɪsk/",
+   "ipa_AmE": "AmE /ˈpipəl ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workforce risk",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs rɪsk/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "resourcing risk",
+   "ipa_brE": "BrE /rɪˈsɔːsɪŋ rɪsk/",
+   "ipa_AmE": "AmE /ɹɪˈsɔsɪŋ ˈɹɪsk/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "cross-team dependency",
+   "ipa_brE": "BrE /ˌkrɒs ˈtiːm dɪˈpendənsi/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈtim dɪˈpɛndənsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "handover risk",
+   "ipa_brE": "BrE /ˈhændəʊvə rɪsk/",
+   "ipa_AmE": "AmE /ˈhændoʊvɚ ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interface risk",
+   "ipa_brE": "BrE /ˈɪntəfeɪs rɪsk/",
+   "ipa_AmE": "AmE /ˈɪntɚˌféɪs ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "resource planning",
+   "ipa_brE": "BrE /rɪˈsɔːs ˌplænɪŋ/",
+   "ipa_AmE": "AmE /ˈɹisɔɹs ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "demand planning",
+   "ipa_brE": "BrE /dɪˈmɑːnd ˌplænɪŋ/",
+   "ipa_AmE": "AmE /dɪˈmænd ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "talent supply",
+   "ipa_brE": "BrE /ˈtælənt səˌplaɪ/",
+   "ipa_AmE": "AmE /ˈtælənt səˈplɑɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "triage",
+   "ipa_brE": "BrE /traɪˈiːʒ/",
+   "ipa_AmE": "AmE /ˈtɹɑɪɪdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trade-off decision",
+   "ipa_brE": "BrE /ˈtreɪd ɒf dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈɔf dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sequencing",
+   "ipa_brE": "BrE /ˈsiːkwənsɪŋ/",
+   "ipa_AmE": "AmE /ˈsikwənsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "approval gate",
+   "ipa_brE": "BrE /əˈpruːvl ɡeɪt/",
+   "ipa_AmE": "AmE /əˈpɹuvəl ˈɡéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sign-off meeting",
+   "ipa_brE": "BrE /ˈsaɪn ɒf ˌmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˈsɑɪn ˈɔf ˈmitɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "gate review",
+   "ipa_brE": "BrE /ˈɡeɪt rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈɡéɪt ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reporting pack",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ pæk/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈpæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "one-page summary",
+   "ipa_brE": "BrE /ˌwʌn peɪdʒ ˈsʌməri/",
+   "ipa_AmE": "AmE /ˈwʌn ˈpéɪdʒ ˈsʌmɚi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "traffic light",
+   "ipa_brE": "BrE /ˈtræfɪk laɪt/",
+   "ipa_AmE": "AmE /ˈtɹæfɪk ˈlɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "people dashboard",
+   "ipa_brE": "BrE /ˈpiːpl ˌdæʃbɔːd/",
+   "ipa_AmE": "AmE /ˈpipəl ˈdæˌʃbɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "monthly report",
+   "ipa_brE": "BrE /ˈmʌnθli rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈmʌnθli ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quarterly report",
+   "ipa_brE": "BrE /ˈkwɔːtəli rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈkwɔɹtɚli ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "caveat",
+   "ipa_brE": "BrE /ˈkæviæt/",
+   "ipa_AmE": "AmE /ˈkéɪviˌæt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "confidence level",
+   "ipa_brE": "BrE /ˈkɒnfɪdəns ˌlevl/",
+   "ipa_AmE": "AmE /ˈkɑnfədəns ˈlɛvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data limitation",
+   "ipa_brE": "BrE /ˈdeɪtə ˌlɪmɪˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˌlɪmɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "challenge question",
+   "ipa_brE": "BrE /ˈtʃælɪndʒ ˌkwestʃən/",
+   "ipa_AmE": "AmE /ˈtʃæləndʒ ˈkwɛstʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "open question",
+   "ipa_brE": "BrE /ˌəʊpən ˈkwestʃən/",
+   "ipa_AmE": "AmE /ˈoʊpən ˈkwɛstʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reflective question",
+   "ipa_brE": "BrE /rɪˌflektɪv ˈkwestʃən/",
+   "ipa_AmE": "AmE /ɹɪˈflɛktɪv ˈkwɛstʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "meeting objective",
+   "ipa_brE": "BrE /ˈmiːtɪŋ əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /ˈmitɪŋ əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision required",
+   "ipa_brE": "BrE /dɪˈsɪʒn rɪˈkwaɪəd/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ɹiˈkwɑɪɚd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pre-read",
+   "ipa_brE": "BrE /ˌpriː ˈriːd/",
+   "ipa_AmE": "AmE /ˈpɹi ˈɹɛd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "follow-up note",
+   "ipa_brE": "BrE /ˈfɒləʊ ʌp nəʊt/",
+   "ipa_AmE": "AmE /ˈfɑloʊ ˈʌp ˈnoʊt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "action log",
+   "ipa_brE": "BrE /ˈækʃn lɒɡ/",
+   "ipa_AmE": "AmE /ˈækʃən ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "closing summary",
+   "ipa_brE": "BrE /ˈkləʊzɪŋ ˈsʌməri/",
+   "ipa_AmE": "AmE /ˈkloʊzɪŋ ˈsʌmɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m12": [
+  {
+   "word": "leadership",
+   "ipa_brE": "BrE /ˈliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "leadership style",
+   "ipa_brE": "BrE /ˈliːdəʃɪp staɪl/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp ˈstɑɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leadership presence",
+   "ipa_brE": "BrE /ˈliːdəʃɪp ˌprezns/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp ˈpɹɛzəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vision",
+   "ipa_brE": "BrE /ˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈvɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "leadership vision",
+   "ipa_brE": "BrE /ˈliːdəʃɪp ˌvɪʒn/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp ˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "long-term view",
+   "ipa_brE": "BrE /ˌlɒŋ tɜːm vjuː/",
+   "ipa_AmE": "AmE /ˈlɔŋ ˈtɝm ˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "business acumen",
+   "ipa_brE": "BrE /ˈbɪznəs ˈækjəmən/",
+   "ipa_AmE": "AmE /ˈbɪznəs əˈkjumən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commercial awareness",
+   "ipa_brE": "BrE /kəˌmɜːʃl əˈweənəs/",
+   "ipa_AmE": "AmE /kəˈmɝʃəl əˈwɛɹnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "customer mindset",
+   "ipa_brE": "BrE /ˈkʌstəmər ˌmaɪndsaɪt/",
+   "ipa_AmE": "AmE /ˈkʌstəmɚ ˈmɑɪˌndsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic planning",
+   "ipa_brE": "BrE /strəˌtiːdʒɪk ˈplænɪŋ/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic choice",
+   "ipa_brE": "BrE /strəˈtiːdʒɪk tʃɔɪs/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˈtʃɔɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic fit",
+   "ipa_brE": "BrE /strəˈtiːdʒɪk fɪt/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˈfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic execution",
+   "ipa_brE": "BrE /strəˌtiːdʒɪk ˌeksɪˈkjuːʃn/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˌɛksəˈkjuʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "execution gap",
+   "ipa_brE": "BrE /ɪkˈsekjuːʃn ɡæp/",
+   "ipa_AmE": "AmE /ˌɛksəˈkjuʃən ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operational excellence",
+   "ipa_brE": "BrE /ˌɒpəˈreɪʃənəl ˈeksələns/",
+   "ipa_AmE": "AmE /ˌɑpɚˈéɪʃənəl ˈɛksələns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "focus",
+   "ipa_brE": "BrE /ˈfəʊkəs/",
+   "ipa_AmE": "AmE /ˈfoʊkəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discipline",
+   "ipa_brE": "BrE /ˈdɪsəplɪn/",
+   "ipa_AmE": "AmE /ˈdɪsəplən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patience",
+   "ipa_brE": "BrE /ˈpeɪʃns/",
+   "ipa_AmE": "AmE /ˈpéɪʃəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "strategic objective",
+   "ipa_brE": "BrE /strəˈtiːdʒɪk əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "long-term goal",
+   "ipa_brE": "BrE /ˌlɒŋ tɜːm ˈɡəʊl/",
+   "ipa_AmE": "AmE /ˈlɔŋ ˈtɝm ˈɡoʊl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "strategic horizon",
+   "ipa_brE": "BrE /strəˈtiːdʒɪk həˈraɪzn/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk hɚˈɑɪzən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "external scan",
+   "ipa_brE": "BrE /ɪkˈstɜːnl skæn/",
+   "ipa_AmE": "AmE /ɪˈkstɝnəl ˈskæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market signal",
+   "ipa_brE": "BrE /ˈmɑːkɪt ˌsɪɡnəl/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈsɪɡnəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "weak signal",
+   "ipa_brE": "BrE /ˌwiːk ˈsɪɡnəl/",
+   "ipa_AmE": "AmE /ˈwik ˈsɪɡnəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "business scenario",
+   "ipa_brE": "BrE /ˈbɪznəs səˌnɑːriəʊ/",
+   "ipa_AmE": "AmE /ˈbɪznəs sɪˈnɛɹioʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contingency plan",
+   "ipa_brE": "BrE /kənˈtɪndʒənsi plæn/",
+   "ipa_AmE": "AmE /kəˈntɪndʒənsi ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trigger point",
+   "ipa_brE": "BrE /ˈtrɪɡə pɔɪnt/",
+   "ipa_AmE": "AmE /ˈtɹɪɡɚ ˈpɔɪnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision-making",
+   "ipa_brE": "BrE /dɪˈsɪʒn ˌmeɪkɪŋ/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈméɪkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision framework",
+   "ipa_brE": "BrE /dɪˈsɪʒn ˌfreɪmwɜːk/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈfɹéɪˌmwɝk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision quality",
+   "ipa_brE": "BrE /dɪˈsɪʒn ˌkwɒləti/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈkwɑləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "judgement",
+   "ipa_brE": "BrE /ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈdʒʌdʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "professional judgement",
+   "ipa_brE": "BrE /prəˈfeʃənəl ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /pɹəˈfɛʃənəl ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hunch",
+   "ipa_brE": "BrE /hʌntʃ/",
+   "ipa_AmE": "AmE /ˈhʌntʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "risk appetite",
+   "ipa_brE": "BrE /ˈrɪsk ˌæpɪtaɪt/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈæpəˌtɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk tolerance",
+   "ipa_brE": "BrE /ˈrɪsk ˌtɒlərəns/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈtɑlɚəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk-taking",
+   "ipa_brE": "BrE /ˈrɪsk ˌteɪkɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈtéɪkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value creation",
+   "ipa_brE": "BrE /ˌvæljuː kriˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈvælju kɹiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value at stake",
+   "ipa_brE": "BrE /ˌvæljuː ət steɪk/",
+   "ipa_AmE": "AmE /ˈvælju ˈæt ˈstéɪk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "value judgement",
+   "ipa_brE": "BrE /ˈvæljuː ˌdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈvælju ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trust capital",
+   "ipa_brE": "BrE /ˈtrʌst ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈtɹʌst ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "credibility gap",
+   "ipa_brE": "BrE /ˌkredəˈbɪləti ɡæp/",
+   "ipa_AmE": "AmE /ˌkɹɛdəˈbɪlɪti ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reliability",
+   "ipa_brE": "BrE /rɪˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ɹiˌlɑɪəˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "delegation",
+   "ipa_brE": "BrE /ˌdelɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛləˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accountability",
+   "ipa_brE": "BrE /əˌkaʊntəˈbɪləti/",
+   "ipa_AmE": "AmE /əˈkàʊntəˌbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coach-leader",
+   "ipa_brE": "BrE /ˈkəʊtʃ ˌliːdə(r)/",
+   "ipa_AmE": "AmE /ˈkoʊtʃ ˈlidɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "difficult decision",
+   "ipa_brE": "BrE /ˈdɪfɪkəlt dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˈdɪfəkəlt dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "irreversible decision",
+   "ipa_brE": "BrE /ˌɪrɪˈvɜːsəbl dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˌɪɹɪˈvɝsəbəl dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision regret",
+   "ipa_brE": "BrE /dɪˈsɪʒn rɪˌɡret/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ɹəˈɡɹɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "learning agility",
+   "ipa_brE": "BrE /ˈlɜːnɪŋ ˌædʒɪləti/",
+   "ipa_AmE": "AmE /ˈlɝnɪŋ əˈdʒɪləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adaptability",
+   "ipa_brE": "BrE /əˌdæptəˈbɪləti/",
+   "ipa_AmE": "AmE /əˌdæptəˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "growth mindset",
+   "ipa_brE": "BrE /ˈɡrəʊθ ˌmaɪndsaɪt/",
+   "ipa_AmE": "AmE /ˈɡɹoʊθ ˈmɑɪˌndsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "self-awareness",
+   "ipa_brE": "BrE /ˌself əˈweənəs/",
+   "ipa_AmE": "AmE /ˈsɛlf əˈwɛɹnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "blind spot",
+   "ipa_brE": "BrE /ˈblaɪnd spɒt/",
+   "ipa_AmE": "AmE /ˈblɑɪnd ˈspɑt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "feedback reception",
+   "ipa_brE": "BrE /ˈfiːdbæk rɪˌsepʃn/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk ɹɪˈsɛpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "emotional intelligence",
+   "ipa_brE": "BrE /ɪˌməʊʃənəl ɪnˈtelɪdʒəns/",
+   "ipa_AmE": "AmE /ɪˈmoʊʃənəl ˌɪˈntɛlədʒəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "self-regulation",
+   "ipa_brE": "BrE /ˌself ˌreɡjuˈleɪʃn/",
+   "ipa_AmE": "AmE /ˈsɛlf ˌɹɛɡjəˈléɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "social skill",
+   "ipa_brE": "BrE /ˈsəʊʃl skɪl/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl ˈskɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "talent magnet",
+   "ipa_brE": "BrE /ˈtælənt ˌmæɡnɪt/",
+   "ipa_AmE": "AmE /ˈtælənt ˈmæɡnət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "personal brand",
+   "ipa_brE": "BrE /ˌpɜːsənəl ˈbrænd/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl ˈbɹænd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "thought leadership",
+   "ipa_brE": "BrE /ˈθɔːt ˌliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˈθɔt ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board relationship",
+   "ipa_brE": "BrE /ˈbɔːd rɪˌleɪʃnʃɪp/",
+   "ipa_AmE": "AmE /ˈbɔɹd ɹiˈléɪʃəˌnʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board effectiveness",
+   "ipa_brE": "BrE /ˈbɔːd ɪfektˈtɪvnəs/",
+   "ipa_AmE": "AmE /ˈbɔɹd ɪˈfɛktɪvnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board agenda",
+   "ipa_brE": "BrE /ˈbɔːd əˌdʒendə/",
+   "ipa_AmE": "AmE /ˈbɔɹd əˈdʒɛndə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board evaluation",
+   "ipa_brE": "BrE /ˈbɔːd ɪˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈbɔɹd ɪˌvæljuˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board skills",
+   "ipa_brE": "BrE /ˈbɔːd skɪlz/",
+   "ipa_AmE": "AmE /ˈbɔɹd ˈskɪlz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board member onboarding",
+   "ipa_brE": "BrE /ˈbɔːd ˌmembə ˈɒnbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ˈbɔɹd ˈmɛmbɚ ˈɑnbɔdɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "succession risk",
+   "ipa_brE": "BrE /səkˈseʃn rɪsk/",
+   "ipa_AmE": "AmE /səˈksɛʃən ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leadership vacuum",
+   "ipa_brE": "BrE /ˈliːdəʃɪp ˌvækjuːəm/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp ˈvækjum/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "continuity",
+   "ipa_brE": "BrE /ˌkɒntɪˈnjuːəti/",
+   "ipa_AmE": "AmE /ˌkɑntəˈnuəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "transformation leadership",
+   "ipa_brE": "BrE /ˌtrænsfəˈmeɪʃn ˌliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˌtɹænsfɚˈméɪʃən ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change leadership",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ ˌliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "role modelling",
+   "ipa_brE": "BrE /ˈrəʊl ˌmɒdəlɪŋ/",
+   "ipa_AmE": "AmE /ˈɹoʊl ˈmɑdəˌlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "culture carrier",
+   "ipa_brE": "BrE /ˈkʌltʃə ˌkæriə(r)/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ ˈkæɹiɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "symbolic leadership",
+   "ipa_brE": "BrE /sɪmˌbɒlɪk ˈliːdəʃɪp/",
+   "ipa_AmE": "AmE /sɪˈmbɑlɪk ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consistent message",
+   "ipa_brE": "BrE /kənˈsɪstənt ˈmesɪdʒ/",
+   "ipa_AmE": "AmE /kəˈnsɪstənt ˈmɛsədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ethical leadership",
+   "ipa_brE": "BrE /ˈeθɪkl ˌliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˈɛθɪkəl ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "integrity",
+   "ipa_brE": "BrE /ɪnˈteɡrəti/",
+   "ipa_AmE": "AmE /ˌɪˈntɛɡɹəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "moral courage",
+   "ipa_brE": "BrE /ˈmɒrəl ˌkʌrɪdʒ/",
+   "ipa_AmE": "AmE /ˈmɔɹəl ˈkɝədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "long-term value",
+   "ipa_brE": "BrE /ˌlɒŋ tɜːm ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈlɔŋ ˈtɝm ˈvælju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sustainable value",
+   "ipa_brE": "BrE /səˌsteɪnəbl ˌvæljuː/",
+   "ipa_AmE": "AmE /səˈstéɪnəbəl ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legacy outcome",
+   "ipa_brE": "BrE /ˈleɡəsi ˌaʊtkʌm/",
+   "ipa_AmE": "AmE /ˈlɛɡəsi ˈàʊˌtkʌm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic communication",
+   "ipa_brE": "BrE /strəˌtiːdʒɪk kəˌmjuːnɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk kəˌmjunəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "narrative",
+   "ipa_brE": "BrE /ˈnærətɪv/",
+   "ipa_AmE": "AmE /ˈnæɹətɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "message consistency",
+   "ipa_brE": "BrE /ˈmesɪdʒ kənˌsɪstənsi/",
+   "ipa_AmE": "AmE /ˈmɛsədʒ kəˈnsɪstənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "personal resilience",
+   "ipa_brE": "BrE /ˌpɜːsənəl rɪˈzɪliəns/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl ɹɪˈzɪljəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "professional reputation",
+   "ipa_brE": "BrE /prəˌfeʃənəl ˌrepjuˈteɪʃn/",
+   "ipa_AmE": "AmE /pɹəˈfɛʃənəl ˌɹɛpjəˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "career capital",
+   "ipa_brE": "BrE /kəˈrɪə ˌkæpɪtl/",
+   "ipa_AmE": "AmE /kɚˈɪɹ ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "self-management",
+   "ipa_brE": "BrE /ˌself ˈmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈsɛlf ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "time management",
+   "ipa_brE": "BrE /ˈtaɪm ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "energy management",
+   "ipa_brE": "BrE /ˈenədʒi ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈɛnɚdʒi ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lifelong learning",
+   "ipa_brE": "BrE /ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˈlɑɪˌflɔŋ ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "professional identity",
+   "ipa_brE": "BrE /prəˌfeʃənəl aɪˈdentəti/",
+   "ipa_AmE": "AmE /pɹəˈfɛʃənəl ɑɪˈdɛntɪˌti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "career anchor",
+   "ipa_brE": "BrE /kəˈrɪə ˌæŋkə(r)/",
+   "ipa_AmE": "AmE /kɚˈɪɹ ˈæŋkɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ]
+}

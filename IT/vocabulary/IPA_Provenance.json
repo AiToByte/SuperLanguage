@@ -1,0 +1,7691 @@
+{
+ "m01": [
+  {
+   "word": "schedule",
+   "ipa_brE": "BrE /ˈʃedjuːl/",
+   "ipa_AmE": "AmE /ˈskɛdʒʊl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sprint",
+   "ipa_brE": "BrE /sprɪnt/",
+   "ipa_AmE": "AmE /ˈspɹɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "deadline",
+   "ipa_brE": "BrE /ˈdedlaɪn/",
+   "ipa_AmE": "AmE /ˈdɛˌdlɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stand-up",
+   "ipa_brE": "BrE /ˈstænd ʌp/",
+   "ipa_AmE": "AmE /ˈstænd ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "backlog",
+   "ipa_brE": "BrE /ˈbæklɒɡ/",
+   "ipa_AmE": "AmE /ˈbæˌklɑɡ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "retrospective",
+   "ipa_brE": "BrE /ˌretrəˈspektɪv/",
+   "ipa_AmE": "AmE /ˌɹɛtɹəˈspɛktɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stakeholder",
+   "ipa_brE": "BrE /ˈsteɪkhəʊldə(r)/",
+   "ipa_AmE": "AmE /ˈstéɪˌkhoʊldɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "milestone",
+   "ipa_brE": "BrE /ˈmaɪlstəʊn/",
+   "ipa_AmE": "AmE /ˈmɑɪˌlstoʊn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "deliverable",
+   "ipa_brE": "BrE /dɪˈlɪvərəbl/",
+   "ipa_AmE": "AmE /dɪˈlɪvɹəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bandwidth",
+   "ipa_brE": "BrE /ˈbændwɪdθ/",
+   "ipa_AmE": "AmE /ˈbændwɪdθ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "workload",
+   "ipa_brE": "BrE /ˈwɜːkləʊd/",
+   "ipa_AmE": "AmE /ˈwɝˌkloʊd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capacity",
+   "ipa_brE": "BrE /kəˈpæsəti/",
+   "ipa_AmE": "AmE /kəˈpæsəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "roadmap",
+   "ipa_brE": "BrE /ˈrəʊdmæp/",
+   "ipa_AmE": "AmE /ˈɹoʊˌdmæp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "iteration",
+   "ipa_brE": "BrE /ˌɪtəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌɪtɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "velocity",
+   "ipa_brE": "BrE /vəˈlɒsəti/",
+   "ipa_AmE": "AmE /vəˈlɑsəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "grooming",
+   "ipa_brE": "BrE /ˈɡruːmɪŋ/",
+   "ipa_AmE": "AmE /ˈɡɹumɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "refinement",
+   "ipa_brE": "BrE /rɪˈfaɪnmənt/",
+   "ipa_AmE": "AmE /ɹəˈfɑɪnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "prioritization",
+   "ipa_brE": "BrE /praɪˌɒrətaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /pɹaɪˌɑɹətaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "kanban",
+   "ipa_brE": "BrE /kænˈbæn/",
+   "ipa_AmE": "AmE /kæˈnbæn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "swimlane",
+   "ipa_brE": "BrE /ˈswɪmleɪn/",
+   "ipa_AmE": "AmE /ˈswɪmleɪn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "handoff",
+   "ipa_brE": "BrE /ˈhændɒf/",
+   "ipa_AmE": "AmE /ˈhændɑf/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "cross-functional",
+   "ipa_brE": "BrE /ˌkrɒs ˈfʌŋkʃənl/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈfʌŋkʃənəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cohesive",
+   "ipa_brE": "BrE /kəʊˈhiːsɪv/",
+   "ipa_AmE": "AmE /koʊˈhisɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "alignment",
+   "ipa_brE": "BrE /əˈlaɪnmənt/",
+   "ipa_AmE": "AmE /əˈlɑɪnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "buy-in",
+   "ipa_brE": "BrE /ˈbaɪ ɪn/",
+   "ipa_AmE": "AmE /ˈbɑɪ ɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sign-off",
+   "ipa_brE": "BrE /ˈsaɪn ɒf/",
+   "ipa_AmE": "AmE /ˈsɑɪn ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "escalation",
+   "ipa_brE": "BrE /ˌeskəˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌɛskəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "kickoff",
+   "ipa_brE": "BrE /ˈkɪkɒf/",
+   "ipa_AmE": "AmE /ˈkɪˌkɔf/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "wrap-up",
+   "ipa_brE": "BrE /ˈræp ʌp/",
+   "ipa_AmE": "AmE /ˈɹæp ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "follow-up",
+   "ipa_brE": "BrE /ˈfɒləʊ ʌp/",
+   "ipa_AmE": "AmE /ˈfɑloʊ ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workflow",
+   "ipa_brE": "BrE /ˈwɜːkfləʊ/",
+   "ipa_AmE": "AmE /ˈwɝˌkfloʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "checklist",
+   "ipa_brE": "BrE /ˈtʃeklɪst/",
+   "ipa_AmE": "AmE /ˈtʃɛˌklɪst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "template",
+   "ipa_brE": "BrE /ˈtempleɪt/",
+   "ipa_AmE": "AmE /ˈtɛmplət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "timeline",
+   "ipa_brE": "BrE /ˈtaɪmlaɪn/",
+   "ipa_AmE": "AmE /ˈtɑɪmlɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "benchmark",
+   "ipa_brE": "BrE /ˈbentʃmɑːk/",
+   "ipa_AmE": "AmE /ˈbɛˌntʃmɑɹk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scope",
+   "ipa_brE": "BrE /skəʊp/",
+   "ipa_AmE": "AmE /ˈskoʊp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dependency",
+   "ipa_brE": "BrE /dɪˈpendənsi/",
+   "ipa_AmE": "AmE /dɪˈpɛndənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "blocker",
+   "ipa_brE": "BrE /ˈblɒkə(r)/",
+   "ipa_AmE": "AmE /ˈblɑkɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "contingency",
+   "ipa_brE": "BrE /kənˈtɪndʒənsi/",
+   "ipa_AmE": "AmE /kəˈntɪndʒənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "allocate",
+   "ipa_brE": "BrE /ˈæləkeɪt/",
+   "ipa_AmE": "AmE /ˈæləˌkéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "delegate",
+   "ipa_brE": "BrE /ˈdelɪɡeɪt/",
+   "ipa_AmE": "AmE /ˈdɛləˌɡéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coordinate",
+   "ipa_brE": "BrE /kəʊˈɔːdɪneɪt/",
+   "ipa_AmE": "AmE /koʊˈɔɹdənət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "streamline",
+   "ipa_brE": "BrE /ˈstriːmlaɪn/",
+   "ipa_AmE": "AmE /ˈstɹiˌmlɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consolidate",
+   "ipa_brE": "BrE /kənˈsɒlɪdeɪt/",
+   "ipa_AmE": "AmE /kəˈnsɑlɪˌdéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "validate",
+   "ipa_brE": "BrE /ˈvælɪdeɪt/",
+   "ipa_AmE": "AmE /ˈvælədéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "feasible",
+   "ipa_brE": "BrE /ˈfiːzəbl/",
+   "ipa_AmE": "AmE /ˈfizəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "viable",
+   "ipa_brE": "BrE /ˈvaɪəbl/",
+   "ipa_AmE": "AmE /ˈvɑɪəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sustainable",
+   "ipa_brE": "BrE /səˈsteɪnəbl/",
+   "ipa_AmE": "AmE /səˈstéɪnəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "proactive",
+   "ipa_brE": "BrE /ˌprəʊˈæktɪv/",
+   "ipa_AmE": "AmE /ˌpɹoʊˈæktɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "responsive",
+   "ipa_brE": "BrE /rɪˈspɒnsɪv/",
+   "ipa_AmE": "AmE /ɹɪˈspɑnsɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "punctual",
+   "ipa_brE": "BrE /ˈpʌŋktʃuəl/",
+   "ipa_AmE": "AmE /ˈpʌŋktʃuəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clarify",
+   "ipa_brE": "BrE /ˈklærəfaɪ/",
+   "ipa_AmE": "AmE /ˈklɛɹəˌfɑɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "elaborate",
+   "ipa_brE": "BrE /ɪˈlæbəreɪt/",
+   "ipa_AmE": "AmE /ɪˈlæbɚˌéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "paraphrase",
+   "ipa_brE": "BrE /ˈpærəfreɪz/",
+   "ipa_AmE": "AmE /ˈpɛɹəˌfɹéɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "concise",
+   "ipa_brE": "BrE /kənˈsaɪs/",
+   "ipa_AmE": "AmE /kəˈnsɑɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coherent",
+   "ipa_brE": "BrE /kəʊˈhɪərənt/",
+   "ipa_AmE": "AmE /koʊˈhɪɹənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "articulate",
+   "ipa_brE": "BrE /ɑːˈtɪkjuleɪt/",
+   "ipa_AmE": "AmE /ɑˈɹtɪkjəˌléɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "facilitate",
+   "ipa_brE": "BrE /fəˈsɪlɪteɪt/",
+   "ipa_AmE": "AmE /fəˈsɪləˌtéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "moderate",
+   "ipa_brE": "BrE /ˈmɒdəreɪt/",
+   "ipa_AmE": "AmE /ˈmɑdɚət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mediate",
+   "ipa_brE": "BrE /ˈmiːdieɪt/",
+   "ipa_AmE": "AmE /ˈmidiˌéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "agenda",
+   "ipa_brE": "BrE /əˈdʒendə/",
+   "ipa_AmE": "AmE /əˈdʒɛndə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "minutes",
+   "ipa_brE": "BrE /ˈmɪnɪts/",
+   "ipa_AmE": "AmE /ˈmɪnəts/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "action item",
+   "ipa_brE": "BrE /ˈækʃn ˈaɪtəm/",
+   "ipa_AmE": "AmE /ˈækʃən ˈɑɪtəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "attendance",
+   "ipa_brE": "BrE /əˈtendəns/",
+   "ipa_AmE": "AmE /əˈtɛndəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quorum",
+   "ipa_brE": "BrE /ˈkwɔːrəm/",
+   "ipa_AmE": "AmE /ˈkwɔɹəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "abstain",
+   "ipa_brE": "BrE /əbˈsteɪn/",
+   "ipa_AmE": "AmE /əˈbstéɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "postpone",
+   "ipa_brE": "BrE /pəˈspəʊn/",
+   "ipa_AmE": "AmE /poʊˈstpoʊn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reschedule",
+   "ipa_brE": "BrE /ˌriːˈʃedjuːl/",
+   "ipa_AmE": "AmE /ɹiˈskɛdʒul/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "defer",
+   "ipa_brE": "BrE /dɪˈfɜː(r)/",
+   "ipa_AmE": "AmE /dɪˈfɝ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "urgent",
+   "ipa_brE": "BrE /ˈɜːdʒənt/",
+   "ipa_AmE": "AmE /ˈɝdʒənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "overdue",
+   "ipa_brE": "BrE /ˌəʊvəˈdjuː/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌdu/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "imminent",
+   "ipa_brE": "BrE /ˈɪmɪnənt/",
+   "ipa_AmE": "AmE /ˈɪmənənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reminder",
+   "ipa_brE": "BrE /rɪˈmaɪndə(r)/",
+   "ipa_AmE": "AmE /ɹiˈmɑɪndɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "notification",
+   "ipa_brE": "BrE /ˌnəʊtɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌnoʊtəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "alert",
+   "ipa_brE": "BrE /əˈlɜːt/",
+   "ipa_AmE": "AmE /əˈlɝt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tracking",
+   "ipa_brE": "BrE /ˈtrækɪŋ/",
+   "ipa_AmE": "AmE /ˈtɹækɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "monitoring",
+   "ipa_brE": "BrE /ˈmɒnɪtərɪŋ/",
+   "ipa_AmE": "AmE /ˈmɑnətɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reporting",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "update",
+   "ipa_brE": "BrE /ˌʌpˈdeɪt/",
+   "ipa_AmE": "AmE /əˈpdéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sync",
+   "ipa_brE": "BrE /sɪŋk/",
+   "ipa_AmE": "AmE /ˈsɪŋk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "catch-up",
+   "ipa_brE": "BrE /ˈkætʃ ʌp/",
+   "ipa_AmE": "AmE /ˈkætʃ ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pending",
+   "ipa_brE": "BrE /ˈpendɪŋ/",
+   "ipa_AmE": "AmE /ˈpɛndɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "resolved",
+   "ipa_brE": "BrE /rɪˈzɒlvd/",
+   "ipa_AmE": "AmE /ɹiˈzɑlvd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "unblock",
+   "ipa_brE": "BrE /ˌʌnˈblɒk/",
+   "ipa_AmE": "AmE /ˌʌˈnblɑk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "assignment",
+   "ipa_brE": "BrE /əˈsaɪnmənt/",
+   "ipa_AmE": "AmE /əˈsɑɪnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ticket",
+   "ipa_brE": "BrE /ˈtɪkɪt/",
+   "ipa_AmE": "AmE /ˈtɪkət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "collaboration",
+   "ipa_brE": "BrE /kəˌlæbəˈreɪʃn/",
+   "ipa_AmE": "AmE /kəˌlæbɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "communication",
+   "ipa_brE": "BrE /kəˌmjuːnɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /kəˌmjunəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coordination",
+   "ipa_brE": "BrE /kəʊˌɔːdɪˈneɪʃn/",
+   "ipa_AmE": "AmE /koʊˌɔɹdəˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "productivity",
+   "ipa_brE": "BrE /ˌprɒdʌkˈtɪvəti/",
+   "ipa_AmE": "AmE /ˌpɹoʊdəˈktɪvəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "efficiency",
+   "ipa_brE": "BrE /ɪˈfɪʃnsi/",
+   "ipa_AmE": "AmE /ɪˈfɪʃənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "multitasking",
+   "ipa_brE": "BrE /ˌmʌltiˈtæskɪŋ/",
+   "ipa_AmE": "AmE /ˈmʌltiˌtæskɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cadence",
+   "ipa_brE": "BrE /ˈkeɪdəns/",
+   "ipa_AmE": "AmE /ˈkéɪdəns/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m02": [
+  {
+   "word": "pull request",
+   "ipa_brE": "BrE /ˈpʊl ˈpriːzənt/",
+   "ipa_AmE": "AmE /ˈpʊl ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "code review",
+   "ipa_brE": "BrE /ˌkəʊd rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˈkoʊd ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "merge",
+   "ipa_brE": "BrE /mɜːdʒ/",
+   "ipa_AmE": "AmE /ˈmɝdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "branch",
+   "ipa_brE": "BrE /brɑːntʃ/",
+   "ipa_AmE": "AmE /ˈbɹæntʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "commit",
+   "ipa_brE": "BrE /kəˈmɪt/",
+   "ipa_AmE": "AmE /kəˈmɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pull",
+   "ipa_brE": "BrE /pʊl/",
+   "ipa_AmE": "AmE /ˈpʊl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "diff",
+   "ipa_brE": "BrE /dɪf/",
+   "ipa_AmE": "AmE /ˈdɪf/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "refactor",
+   "ipa_brE": "BrE /ˌriːˈfæktə(r)/",
+   "ipa_AmE": "AmE /ˌɹiˈfæktɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "regression",
+   "ipa_brE": "BrE /rɪˈɡreʃn/",
+   "ipa_AmE": "AmE /ɹəˈɡɹɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "peer",
+   "ipa_brE": "BrE /pɪə(r)/",
+   "ipa_AmE": "AmE /ˈpɪɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "approval",
+   "ipa_brE": "BrE /əˈpruːvl/",
+   "ipa_AmE": "AmE /əˈpɹuvəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "authorize",
+   "ipa_brE": "BrE /ˈɔːθəraɪz/",
+   "ipa_AmE": "AmE /ˈɔθɚˌɑɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lint",
+   "ipa_brE": "BrE /lɪnt/",
+   "ipa_AmE": "AmE /ˈlɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "convention",
+   "ipa_brE": "BrE /kənˈvenʃn/",
+   "ipa_AmE": "AmE /kəˈnvɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "boilerplate",
+   "ipa_brE": "BrE /ˈbɔɪləpleɪt/",
+   "ipa_AmE": "AmE /ˈbɔɪlɚˌpléɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "technical debt",
+   "ipa_brE": "BrE /ˌteknɪkl ˈdet/",
+   "ipa_AmE": "AmE /ˈtɛknɪkəl ˈdɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hotspot",
+   "ipa_brE": "BrE /ˈhɒtspɒt/",
+   "ipa_AmE": "AmE /ˈhɑˌtspɑt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "complexity",
+   "ipa_brE": "BrE /kəmˈpleksəti/",
+   "ipa_AmE": "AmE /kəˈmplɛksəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "unit test",
+   "ipa_brE": "BrE /ˌjuːnɪt ˈtest/",
+   "ipa_AmE": "AmE /ˈjunət ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "integration test",
+   "ipa_brE": "BrE /ˌɪntɪˈɡreɪʃn ˈtest/",
+   "ipa_AmE": "AmE /ˌɪntəˈɡɹéɪʃən ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "coverage",
+   "ipa_brE": "BrE /ˈkʌvərɪdʒ/",
+   "ipa_AmE": "AmE /ˈkʌvɚədʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "test case",
+   "ipa_brE": "BrE /ˈtest keɪs/",
+   "ipa_AmE": "AmE /ˈtɛst ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assertion",
+   "ipa_brE": "BrE /əˈsɜːʃn/",
+   "ipa_AmE": "AmE /əˈsɝʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fixture",
+   "ipa_brE": "BrE /ˈfɪkstʃə(r)/",
+   "ipa_AmE": "AmE /ˈfɪkstʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bug report",
+   "ipa_brE": "BrE /ˈbʌɡ rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈbʌɡ ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reproduction",
+   "ipa_brE": "BrE /ˌriːprəˈdʌkʃn/",
+   "ipa_AmE": "AmE /ˌɹipɹəˈdʌkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "root cause",
+   "ipa_brE": "BrE /ˌruːt ˈkɔːz/",
+   "ipa_AmE": "AmE /ˈɹut ˈkɑz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "debugging",
+   "ipa_brE": "BrE /ˌdiːˈbʌɡɪŋ/",
+   "ipa_AmE": "AmE /diˈbʌɡɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patch",
+   "ipa_brE": "BrE /pætʃ/",
+   "ipa_AmE": "AmE /ˈpætʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hotfix",
+   "ipa_brE": "BrE /ˈhɒtfɪks/",
+   "ipa_AmE": "AmE /ˈhɑtfɪks/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "changelog",
+   "ipa_brE": "BrE /ˈtʃeɪndʒlɒɡ/",
+   "ipa_AmE": "AmE /ˈtʃeɪndʒlɑɡ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "version",
+   "ipa_brE": "BrE /ˈvɜːʃn/",
+   "ipa_AmE": "AmE /ˈvɝʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "build",
+   "ipa_brE": "BrE /bɪld/",
+   "ipa_AmE": "AmE /ˈbɪld/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "asynchronous",
+   "ipa_brE": "BrE /eɪˈsɪŋkrənəs/",
+   "ipa_AmE": "AmE /ˈéɪˌsɪŋkɹənəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "synchronous",
+   "ipa_brE": "BrE /ˈsɪŋkrənəs/",
+   "ipa_AmE": "AmE /ˈsɪŋkɹənəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "timezone",
+   "ipa_brE": "BrE /ˈtaɪmzaʊn/",
+   "ipa_AmE": "AmE /ˈtɑɪˌmzoʊn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "one-on-one",
+   "ipa_brE": "BrE /ˌwʌn ɒn ˈwʌn/",
+   "ipa_AmE": "AmE /ˈwʌn ˈɑn ˈwʌn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "all-hands",
+   "ipa_brE": "BrE /ˈɔːl hændz/",
+   "ipa_AmE": "AmE /ˈɔl ˈhændz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "roundtable",
+   "ipa_brE": "BrE /ˈraʊndtaʊl/",
+   "ipa_AmE": "AmE /ˈɹàʊˌndtéɪbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "feedback",
+   "ipa_brE": "BrE /ˈfiːdbæk/",
+   "ipa_AmE": "AmE /ˈfiˌdbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "constructive",
+   "ipa_brE": "BrE /kənˈstrʌktɪv/",
+   "ipa_AmE": "AmE /kəˈnstɹʌktɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "praise",
+   "ipa_brE": "BrE /preɪz/",
+   "ipa_AmE": "AmE /ˈpɹéɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "conflict",
+   "ipa_brE": "BrE /ˈkɒnflɪkt/",
+   "ipa_AmE": "AmE /ˈkɑnflɪkt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tension",
+   "ipa_brE": "BrE /ˈtenʃn/",
+   "ipa_AmE": "AmE /ˈtɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dispute",
+   "ipa_brE": "BrE /dɪˈspjuːt/",
+   "ipa_AmE": "AmE /dɪˈspjut/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "compromise",
+   "ipa_brE": "BrE /ˈkɒmprəmaɪz/",
+   "ipa_AmE": "AmE /ˈkɑmpɹəˌmɑɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consensus",
+   "ipa_brE": "BrE /kənˈsensəs/",
+   "ipa_AmE": "AmE /kəˈnsɛnsəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trade-off",
+   "ipa_brE": "BrE /ˈtreɪd ɒf/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "objective",
+   "ipa_brE": "BrE /əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /əˈbdʒɛktɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "goal",
+   "ipa_brE": "BrE /ɡəʊl/",
+   "ipa_AmE": "AmE /ˈɡoʊl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "key result",
+   "ipa_brE": "BrE /ˌkiː rɪˈzʌlt/",
+   "ipa_AmE": "AmE /ˈki ɹɪˈzʌlt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "metric",
+   "ipa_brE": "BrE /ˈmetrɪk/",
+   "ipa_AmE": "AmE /ˈmɛtɹɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "baseline",
+   "ipa_brE": "BrE /ˈbeɪslaɪn/",
+   "ipa_AmE": "AmE /ˈbéɪˌslɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "target",
+   "ipa_brE": "BrE /ˈtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "vision",
+   "ipa_brE": "BrE /ˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈvɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mission",
+   "ipa_brE": "BrE /ˈmɪʃn/",
+   "ipa_AmE": "AmE /ˈmɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "strategy",
+   "ipa_brE": "BrE /ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˈstɹætədʒi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "risk",
+   "ipa_brE": "BrE /rɪsk/",
+   "ipa_AmE": "AmE /ˈɹɪsk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "likelihood",
+   "ipa_brE": "BrE /ˈlaɪklihʊd/",
+   "ipa_AmE": "AmE /ˈlɑɪkliˌhʊd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "impact",
+   "ipa_brE": "BrE /ˈɪmpækt/",
+   "ipa_AmE": "AmE /ˌɪˈmpækt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mitigation",
+   "ipa_brE": "BrE /ˌmɪtɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌmɪtɪˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fallback",
+   "ipa_brE": "BrE /ˈfɔːlbæk/",
+   "ipa_AmE": "AmE /ˈfɔˌlbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "resilience",
+   "ipa_brE": "BrE /rɪˈzɪliəns/",
+   "ipa_AmE": "AmE /ɹɪˈzɪliəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "documentation",
+   "ipa_brE": "BrE /ˌdɒkmenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌdɑkjəmɛˈntéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "wiki",
+   "ipa_brE": "BrE /ˈwiːki/",
+   "ipa_AmE": "AmE /ˈwɪˌki/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "onboarding",
+   "ipa_brE": "BrE /ˈɒnbɔːdɪŋ/",
+   "ipa_AmE": "AmE /ˈɑnbɔɹdɪŋ/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "knowledge base",
+   "ipa_brE": "BrE /ˈnɒlɪdʒ beɪs/",
+   "ipa_AmE": "AmE /ˈnɑlədʒ ˈbéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "best practice",
+   "ipa_brE": "BrE /ˌbest ˈpræktɪs/",
+   "ipa_AmE": "AmE /ˈbɛst ˈpɹæktəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insight",
+   "ipa_brE": "BrE /ˈɪnsaɪt/",
+   "ipa_AmE": "AmE /ˈɪˌnsɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tone",
+   "ipa_brE": "BrE /təʊn/",
+   "ipa_AmE": "AmE /ˈtoʊn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "candid",
+   "ipa_brE": "BrE /ˈkændɪd/",
+   "ipa_AmE": "AmE /ˈkændəd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "empathy",
+   "ipa_brE": "BrE /ˈempəθi/",
+   "ipa_AmE": "AmE /ˈɛmpəθi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "attendee",
+   "ipa_brE": "BrE /əˈtendiː/",
+   "ipa_AmE": "AmE /əˈtɛˌndi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "presenter",
+   "ipa_brE": "BrE /prɪˈzentə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɛzəntɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "actionable",
+   "ipa_brE": "BrE /ˈækʃənəbl/",
+   "ipa_AmE": "AmE /ˈækʃənəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "decision",
+   "ipa_brE": "BrE /dɪˈsɪʒn/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reversible",
+   "ipa_brE": "BrE /rɪˈvɜːsəbl/",
+   "ipa_AmE": "AmE /ɹɪˈvɝsəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "irreversible",
+   "ipa_brE": "BrE /ˌɪrɪˈvɜːsəbl/",
+   "ipa_AmE": "AmE /ˌɪɹɪˈvɝsəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "empower",
+   "ipa_brE": "BrE /ɪmˈpaʊə(r)/",
+   "ipa_AmE": "AmE /ɪˈmpàʊɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ownership",
+   "ipa_brE": "BrE /ˈəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈoʊnɚˌʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accountability",
+   "ipa_brE": "BrE /əˌkaʊntəˈbɪləti/",
+   "ipa_AmE": "AmE /əˈkàʊntəˌbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "momentum",
+   "ipa_brE": "BrE /məˈmentəm/",
+   "ipa_AmE": "AmE /moʊˈmɛntəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "burnout",
+   "ipa_brE": "BrE /ˈbɜːnaʊt/",
+   "ipa_AmE": "AmE /ˈbɝˌnàʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "wellbeing",
+   "ipa_brE": "BrE /ˌwelˈbiːɪŋ/",
+   "ipa_AmE": "AmE /ˌwɛˈlbiɪŋ/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m03": [
+  {
+   "word": "user research",
+   "ipa_brE": "BrE /ˈjuːzə rɪˌsɜːtʃ/",
+   "ipa_AmE": "AmE /ˈjuzɚ ɹiˈsɝtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "persona",
+   "ipa_brE": "BrE /pəˈsəʊnə/",
+   "ipa_AmE": "AmE /pɚˈsoʊnə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "journey map",
+   "ipa_brE": "BrE /ˈdʒɜːni mæp/",
+   "ipa_AmE": "AmE /ˈdʒɝni ˈmæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "wireframe",
+   "ipa_brE": "BrE /ˈwaɪəfreɪm/",
+   "ipa_AmE": "AmE /ˈwaɪəfɹeɪm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "prototype",
+   "ipa_brE": "BrE /ˈprəʊtətaɪp/",
+   "ipa_AmE": "AmE /ˈpɹoʊtəˌtɑɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mockup",
+   "ipa_brE": "BrE /ˈmɒkʌp/",
+   "ipa_AmE": "AmE /ˈmɑkʌp/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "usability testing",
+   "ipa_brE": "BrE /ˌjuːzəˈbɪləti ˈtestɪŋ/",
+   "ipa_AmE": "AmE /ˌjuzəˈbɪlətɪ ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "first impression",
+   "ipa_brE": "BrE /ˌfɜːst ɪmˈpreʃn/",
+   "ipa_AmE": "AmE /ˈfɝst ˌɪˈmpɹɛʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accessibility",
+   "ipa_brE": "BrE /əˌsesəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌæksɛsəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interface",
+   "ipa_brE": "BrE /ˈɪntəfeɪs/",
+   "ipa_AmE": "AmE /ˈɪntɚˌféɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "layout",
+   "ipa_brE": "BrE /ˈleɪaʊt/",
+   "ipa_AmE": "AmE /ˈléɪˌàʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "typography",
+   "ipa_brE": "BrE /taɪˈpɒɡrəfi/",
+   "ipa_AmE": "AmE /təˈpɑɡɹəfi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "colour palette",
+   "ipa_brE": "BrE /ˈkʌlə ˈpælət/",
+   "ipa_AmE": "AmE /ˈkʌlɚ ˈpælət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contrast ratio",
+   "ipa_brE": "BrE /ˈkɒntrɑːst ˈreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈkɑntɹæst ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "whitespace",
+   "ipa_brE": "BrE /ˈwaɪtspəs/",
+   "ipa_AmE": "AmE /ˈwaɪtspəs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "icon",
+   "ipa_brE": "BrE /ˈaɪkɒn/",
+   "ipa_AmE": "AmE /ˈɑɪkɑn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tooltip",
+   "ipa_brE": "BrE /ˈtuːltɪp/",
+   "ipa_AmE": "AmE /ˈtultɪp/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "breadcrumb",
+   "ipa_brE": "BrE /ˈbredkrʌm/",
+   "ipa_AmE": "AmE /ˈbɹɛˌdkɹʌm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "responsive design",
+   "ipa_brE": "BrE /rɪˌspɒnsɪv dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ɹɪˈspɑnsɪv dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "breakpoint",
+   "ipa_brE": "BrE /ˈbreɪkpɔɪnt/",
+   "ipa_AmE": "AmE /ˈbɹeɪkpɔɪnt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "viewport",
+   "ipa_brE": "BrE /ˈvjuːtpɔːt/",
+   "ipa_AmE": "AmE /ˈvjutpɔt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "design system",
+   "ipa_brE": "BrE /dɪˈzaɪn ˈsɪstəm/",
+   "ipa_AmE": "AmE /dɪˈzɑɪn ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "component",
+   "ipa_brE": "BrE /kəmˈpəʊnənt/",
+   "ipa_AmE": "AmE /kəˈmpoʊnənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "token",
+   "ipa_brE": "BrE /ˈtəʊkən/",
+   "ipa_AmE": "AmE /ˈtoʊkən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consistency",
+   "ipa_brE": "BrE /kənˈsɪstənsi/",
+   "ipa_AmE": "AmE /kəˈnsɪstənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hierarchy",
+   "ipa_brE": "BrE /ˈhaɪərɑːki/",
+   "ipa_AmE": "AmE /ˈhɑɪɚˌɑɹki/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "affordance",
+   "ipa_brE": "BrE /əˈfɔːdəns/",
+   "ipa_AmE": "AmE /əˈfɔdəns/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "activation",
+   "ipa_brE": "BrE /ˌæktɪˈveɪʃn/",
+   "ipa_AmE": "AmE /ˌæktəˈvéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "retention",
+   "ipa_brE": "BrE /rɪˈtenʃn/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "churn",
+   "ipa_brE": "BrE /tʃɜːn/",
+   "ipa_AmE": "AmE /ˈtʃɝn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "conversion rate",
+   "ipa_brE": "BrE /kənˈvɜːʃn reɪt/",
+   "ipa_AmE": "AmE /kəˈnvɝʒən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "funnel",
+   "ipa_brE": "BrE /ˈfʌnl/",
+   "ipa_AmE": "AmE /ˈfʌnəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "drop-off",
+   "ipa_brE": "BrE /ˈdrɒp ɒf/",
+   "ipa_AmE": "AmE /ˈdɹɑp ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "engagement",
+   "ipa_brE": "BrE /ɪnˈɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ɛˈnɡéɪdʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "session",
+   "ipa_brE": "BrE /ˈseʃn/",
+   "ipa_AmE": "AmE /ˈsɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cohort",
+   "ipa_brE": "BrE /ˈkəʊhɔːt/",
+   "ipa_AmE": "AmE /ˈkoʊhɔɹt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trend",
+   "ipa_brE": "BrE /trend/",
+   "ipa_AmE": "AmE /ˈtɹɛnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "variance",
+   "ipa_brE": "BrE /ˈveəriəns/",
+   "ipa_AmE": "AmE /ˈvɛɹiəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "outlier",
+   "ipa_brE": "BrE /ˈaʊtlaɪə(r)/",
+   "ipa_AmE": "AmE /ˈàʊtlɑɪɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "segment",
+   "ipa_brE": "BrE /ˈseɡmənt/",
+   "ipa_AmE": "AmE /ˈsɛɡmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "demographic",
+   "ipa_brE": "BrE /ˌdeməˈɡræfɪk/",
+   "ipa_AmE": "AmE /ˌdɛməˈɡɹæfɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "behaviour",
+   "ipa_brE": "BrE /bɪˈheɪvjə(r)/",
+   "ipa_AmE": "AmE /bɪˈhéɪvjɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hypothesis",
+   "ipa_brE": "BrE /haɪˈpɒθəsɪs/",
+   "ipa_AmE": "AmE /hɑɪˈpɑθəsəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "experiment",
+   "ipa_brE": "BrE /ɪkˈsperɪmənt/",
+   "ipa_AmE": "AmE /ɪˈkspɛɹəmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "A/B test",
+   "ipa_brE": "BrE /ˌeɪ ˈbiː test/",
+   "ipa_AmE": "AmE /ˌeɪ ˈbi tɛst/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "control group",
+   "ipa_brE": "BrE /kənˈtrəʊl ɡruːp/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ˈɡɹup/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sample size",
+   "ipa_brE": "BrE /ˈsɑːmpl saɪz/",
+   "ipa_AmE": "AmE /ˈsæmpəl ˈsɑɪz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "significance",
+   "ipa_brE": "BrE /sɪɡˈnɪfɪkəns/",
+   "ipa_AmE": "AmE /səˈɡnɪfɪkəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "attribution",
+   "ipa_brE": "BrE /ˌætrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /ˌætɹɪˈbjuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "correlation",
+   "ipa_brE": "BrE /ˌkɒrəˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌkɔɹəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "causation",
+   "ipa_brE": "BrE /kɔːˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌkɔˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "visualisation",
+   "ipa_brE": "BrE /ˌvɪʒuəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌvɪʒwələˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "chart",
+   "ipa_brE": "BrE /tʃɑːt/",
+   "ipa_AmE": "AmE /ˈtʃɑɹt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "legend",
+   "ipa_brE": "BrE /ˈledʒənd/",
+   "ipa_AmE": "AmE /ˈlɛdʒənd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "query",
+   "ipa_brE": "BrE /ˈkwɪəri/",
+   "ipa_AmE": "AmE /ˈkwiɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "aggregate",
+   "ipa_brE": "BrE /ˈæɡrɪɡət/",
+   "ipa_AmE": "AmE /ˈæɡɹəɡət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "filter",
+   "ipa_brE": "BrE /ˈfɪltə(r)/",
+   "ipa_AmE": "AmE /ˈfɪltɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "warehouse",
+   "ipa_brE": "BrE /ˈweəhaʊs/",
+   "ipa_AmE": "AmE /ˈwɛˌɹhàʊs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pipeline",
+   "ipa_brE": "BrE /ˈpaɪplaɪn/",
+   "ipa_AmE": "AmE /ˈpɑɪˌplɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "schema",
+   "ipa_brE": "BrE /ˈskiːmə/",
+   "ipa_AmE": "AmE /ˈskimə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dimension",
+   "ipa_brE": "BrE /dɪˈmenʃn/",
+   "ipa_AmE": "AmE /dɪˈmɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "granularity",
+   "ipa_brE": "BrE /ˌɡrænjuˈlærəti/",
+   "ipa_AmE": "AmE /ˌɡɹænjuˈlæɹətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "anomaly",
+   "ipa_brE": "BrE /əˈnɒməli/",
+   "ipa_AmE": "AmE /əˈnɑməli/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dashboard",
+   "ipa_brE": "BrE /ˈdæʃbɔːd/",
+   "ipa_AmE": "AmE /ˈdæˌʃbɔɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "report",
+   "ipa_brE": "BrE /rɪˈpɔːt/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "threshold",
+   "ipa_brE": "BrE /ˈθreʃhəʊld/",
+   "ipa_AmE": "AmE /ˈθɹɛˌʃoʊld/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "privacy",
+   "ipa_brE": "BrE /ˈprɪvəsi/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvəsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "anonymise",
+   "ipa_brE": "BrE /əˈnɒnɪmaɪz/",
+   "ipa_AmE": "AmE /əˈnɑnəˌmɑɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consent",
+   "ipa_brE": "BrE /kənˈsent/",
+   "ipa_AmE": "AmE /kəˈnsɛnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "compliance",
+   "ipa_brE": "BrE /kəmˈplaɪəns/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "audit",
+   "ipa_brE": "BrE /ˈɔːdɪt/",
+   "ipa_AmE": "AmE /ˈɔdɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "breach",
+   "ipa_brE": "BrE /briːtʃ/",
+   "ipa_AmE": "AmE /ˈbɹitʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interview",
+   "ipa_brE": "BrE /ˈɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈɪntɚˌvju/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "survey",
+   "ipa_brE": "BrE /ˈsɜːveɪ/",
+   "ipa_AmE": "AmE /sɚˈvéɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "questionnaire",
+   "ipa_brE": "BrE /ˌkwestɪəˈneə(r)/",
+   "ipa_AmE": "AmE /ˌkwɛstʃəˈnɛɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "usability",
+   "ipa_brE": "BrE /ˌjuːzəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌjuzəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "heuristic",
+   "ipa_brE": "BrE /hjuˈrɪstɪk/",
+   "ipa_AmE": "AmE /hjʊˈɹɪstɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "friction",
+   "ipa_brE": "BrE /ˈfrɪkʃn/",
+   "ipa_AmE": "AmE /ˈfɹɪkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "microcopy",
+   "ipa_brE": "BrE /ˈmaɪkrəʊkɒpi/",
+   "ipa_AmE": "AmE /ˈmaɪkɹoʊkɑpɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "localisation",
+   "ipa_brE": "BrE /ˌləʊkəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌloʊkələˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "terminology",
+   "ipa_brE": "BrE /ˌtɜːmɪˈnɒlədʒi/",
+   "ipa_AmE": "AmE /ˌtɝmɪˈnɑlədʒi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "brand",
+   "ipa_brE": "BrE /brænd/",
+   "ipa_AmE": "AmE /ˈbɹænd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "positioning",
+   "ipa_brE": "BrE /pəˈzɪʃənɪŋ/",
+   "ipa_AmE": "AmE /pəˈzɪʃənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "messaging",
+   "ipa_brE": "BrE /ˈmesɪdʒɪŋ/",
+   "ipa_AmE": "AmE /ˈmɛsɪdʒɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pricing",
+   "ipa_brE": "BrE /ˈpraɪsɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑɪsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "freemium",
+   "ipa_brE": "BrE /ˈfriːmiəm/",
+   "ipa_AmE": "AmE /ˈfɹimɪəm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "subscription",
+   "ipa_brE": "BrE /səbˈskrɪpʃn/",
+   "ipa_AmE": "AmE /səˈbskɹɪpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "adoption",
+   "ipa_brE": "BrE /əˈdɒpʃn/",
+   "ipa_AmE": "AmE /əˈdɑpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "advocacy",
+   "ipa_brE": "BrE /ˈædvəkəsi/",
+   "ipa_AmE": "AmE /ˈædvəkəsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "referral",
+   "ipa_brE": "BrE /rɪˈfɜːrəl/",
+   "ipa_AmE": "AmE /ɹɪˈfɝəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "traction",
+   "ipa_brE": "BrE /ˈtrækʃn/",
+   "ipa_AmE": "AmE /ˈtɹækʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "growth",
+   "ipa_brE": "BrE /ɡrəʊθ/",
+   "ipa_AmE": "AmE /ˈɡɹoʊθ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scale",
+   "ipa_brE": "BrE /skeɪl/",
+   "ipa_AmE": "AmE /ˈskéɪl/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m04": [
+  {
+   "word": "procurement",
+   "ipa_brE": "BrE /prəˈkjʊəmənt/",
+   "ipa_AmE": "AmE /pɹoʊˈkjʊɹmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "vendor",
+   "ipa_brE": "BrE /ˈvendə(r)/",
+   "ipa_AmE": "AmE /ˈvɛndɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "licence",
+   "ipa_brE": "BrE /ˈlaɪsns/",
+   "ipa_AmE": "AmE /ˈlɑɪsəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "seat",
+   "ipa_brE": "BrE /siːt/",
+   "ipa_AmE": "AmE /ˈsit/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "implementation",
+   "ipa_brE": "BrE /ˌɪmplɪmenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɪmpləmɛˈntéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "integration",
+   "ipa_brE": "BrE /ˌɪntɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /ˌɪntəˈɡɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "migration",
+   "ipa_brE": "BrE /maɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /mɑɪˈɡɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "legacy system",
+   "ipa_brE": "BrE /ˈleɡəsi ˈsɪstəm/",
+   "ipa_AmE": "AmE /ˈlɛɡəsi ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compatibility",
+   "ipa_brE": "BrE /kəmˌpætəˈbɪləti/",
+   "ipa_AmE": "AmE /kəˌmpætəˈbɪləˌti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "renewal",
+   "ipa_brE": "BrE /rɪˈnjuːəl/",
+   "ipa_AmE": "AmE /ɹɪˈnuəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budget cycle",
+   "ipa_brE": "BrE /ˈbʌdʒet ˈsaɪkl/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost centre",
+   "ipa_brE": "BrE /ˈkɒst ˌsentə(r)/",
+   "ipa_AmE": "AmE /ˈkɑst ˈsɛntɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lifecycle",
+   "ipa_brE": "BrE /ˈlaɪfsaɪkl/",
+   "ipa_AmE": "AmE /ˈlɑɪˌfsɑɪkəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "win-back",
+   "ipa_brE": "BrE /ˈwɪn bæk/",
+   "ipa_AmE": "AmE /ˈwɪn ˈbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "upsell",
+   "ipa_brE": "BrE /ˈʌpsel/",
+   "ipa_AmE": "AmE /ˈʌpsɛl/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "cross-sell",
+   "ipa_brE": "BrE /ˌkrɒs ˈsel/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈsɛl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "downgrade",
+   "ipa_brE": "BrE /ˌdaʊnˈɡreɪd/",
+   "ipa_AmE": "AmE /ˈdàʊˌnɡɹéɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "expansion",
+   "ipa_brE": "BrE /ɪkˈspænʃn/",
+   "ipa_AmE": "AmE /ɪˈkspænʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "product analytics",
+   "ipa_brE": "BrE /ˌprɒdʌkt əˈnælɪtɪks/",
+   "ipa_AmE": "AmE /ˈpɹɑdəkt ˌænəˈlɪtɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "path analysis",
+   "ipa_brE": "BrE /ˈpɑːθ əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈpæθ əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "event tracking",
+   "ipa_brE": "BrE /ɪˈvent ˌtrækɪŋ/",
+   "ipa_AmE": "AmE /ɪˈvɛnt ˈtɹækɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data quality",
+   "ipa_brE": "BrE /ˈdeɪtə ˌkwɒləti/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈkwɑləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "provenance",
+   "ipa_brE": "BrE /ˈprɒvənəns/",
+   "ipa_AmE": "AmE /ˈpɹɑvənəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lineage",
+   "ipa_brE": "BrE /ˈlɪnjɪɪdʒ/",
+   "ipa_AmE": "AmE /ˈlɪniədʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sampling",
+   "ipa_brE": "BrE /ˈsɑːmplɪŋ/",
+   "ipa_AmE": "AmE /ˈsæmplɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "freshness",
+   "ipa_brE": "BrE /ˈfreʃnəs/",
+   "ipa_AmE": "AmE /ˈfɹɛʃnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "backfill",
+   "ipa_brE": "BrE /ˈbækfɪl/",
+   "ipa_AmE": "AmE /ˈbækfɪl/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "idempotent",
+   "ipa_brE": "BrE /ˌaɪˈdempətənt/",
+   "ipa_AmE": "AmE /ˌaɪˈdɛmpətənt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "deduplication",
+   "ipa_brE": "BrE /ˌdiːdjuːplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌdidjuplɪˈkeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "reconciliation",
+   "ipa_brE": "BrE /ˌrekənsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛkəˌnsɪliˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "diary study",
+   "ipa_brE": "BrE /ˈdaɪrɪ ˈstʌdi/",
+   "ipa_AmE": "AmE /ˈdɑɪɹi ˈstʌdi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intercept survey",
+   "ipa_brE": "BrE /ˈɪntəsept ˈsɜːveɪ/",
+   "ipa_AmE": "AmE /ˌɪntɚˈsɛpt sɚˈvéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "concept test",
+   "ipa_brE": "BrE /ˈkɒnsept ˈtest/",
+   "ipa_AmE": "AmE /ˈkɑnsɛpt ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recruitment",
+   "ipa_brE": "BrE /rɪˈkruːtmənt/",
+   "ipa_AmE": "AmE /ɹəˈkɹutmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "incentive",
+   "ipa_brE": "BrE /ɪnˈsentɪv/",
+   "ipa_AmE": "AmE /ˌɪˈnsɛntɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "screener",
+   "ipa_brE": "BrE /ˈskriːnə(r)/",
+   "ipa_AmE": "AmE /ˈskɹinɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "alt text",
+   "ipa_brE": "BrE /ˈælt tekst/",
+   "ipa_AmE": "AmE /ˈɑlt ˈtɛkst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "caption",
+   "ipa_brE": "BrE /ˈkæpʃn/",
+   "ipa_AmE": "AmE /ˈkæpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "screen reader",
+   "ipa_brE": "BrE /ˈskriːn ˌriːdə(r)/",
+   "ipa_AmE": "AmE /ˈskɹin ˈɹidɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "keyboard navigation",
+   "ipa_brE": "BrE /ˈkiːbɔːd ˌnævɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈkiˌbɔɹd ˈnævəˌɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "focus indicator",
+   "ipa_brE": "BrE /ˈfəʊkəs ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /ˈfoʊkəs ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "colour vision deficiency",
+   "ipa_brE": "BrE /ˌkʌlə ˈvɪʒn dɪˈfɪʃnsi/",
+   "ipa_AmE": "AmE /ˈkʌlɚ ˈvɪʒən dɪˈfɪʃənsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "content design",
+   "ipa_brE": "BrE /ˈkɒntent dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˈkɑntɛnt dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "information scent",
+   "ipa_brE": "BrE /ˌɪnfəˈmeɪʃn ˈskent/",
+   "ipa_AmE": "AmE /ˌɪnfɚˈméɪʃən ˈsɛnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "label",
+   "ipa_brE": "BrE /ˈleɪbl/",
+   "ipa_AmE": "AmE /ˈléɪbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "error message",
+   "ipa_brE": "BrE /ˈerə ˌmesɪdʒ/",
+   "ipa_AmE": "AmE /ˈɛɹɚ ˈmɛsədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "empty state",
+   "ipa_brE": "BrE /ˈempti steɪt/",
+   "ipa_AmE": "AmE /ˈɛmpti ˈstéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "destructive action",
+   "ipa_brE": "BrE /dɪˈstrʌktɪv ˈækʃn/",
+   "ipa_AmE": "AmE /dɪˈstɹʌktɪv ˈækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "design critique",
+   "ipa_brE": "BrE /dɪˈzaɪn krɪˈtiːk/",
+   "ipa_AmE": "AmE /dɪˈzɑɪn kɹəˈtik/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annotation",
+   "ipa_brE": "BrE /ˌænəˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌænəˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "grid",
+   "ipa_brE": "BrE /ɡrɪd/",
+   "ipa_AmE": "AmE /ˈɡɹɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "spacing",
+   "ipa_brE": "BrE /ˈspeɪsɪŋ/",
+   "ipa_AmE": "AmE /ˈspéɪsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "padding",
+   "ipa_brE": "BrE /ˈpædɪŋ/",
+   "ipa_AmE": "AmE /ˈpædɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "iconography",
+   "ipa_brE": "BrE /aɪˈkɒnəɡrəfi/",
+   "ipa_AmE": "AmE /ˌɑɪkəˈnɑɡɹəfi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "glyph",
+   "ipa_brE": "BrE /ɡlɪf/",
+   "ipa_AmE": "AmE /ɡlɪf/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "visual weight",
+   "ipa_brE": "BrE /ˈvɪʒuəl weɪt/",
+   "ipa_AmE": "AmE /ˈvɪʒəwəl ˈwéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "user story",
+   "ipa_brE": "BrE /ˈjuːzə ˈstɔːri/",
+   "ipa_AmE": "AmE /ˈjuzɚ ˈstɔɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scenario",
+   "ipa_brE": "BrE /səˈnɑːriəʊ/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "edge case",
+   "ipa_brE": "BrE /ˈedʒ keɪs/",
+   "ipa_AmE": "AmE /ˈɛdʒ ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "happy path",
+   "ipa_brE": "BrE /ˈhæpi pɑːθ/",
+   "ipa_AmE": "AmE /ˈhæpi ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "corner case",
+   "ipa_brE": "BrE /ˈkɔːnə keɪs/",
+   "ipa_AmE": "AmE /ˈkɔɹnɚ ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "graceful degradation",
+   "ipa_brE": "BrE /ˌɡreɪsfl ˌdeɡrəˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˈɡɹéɪsfəl ˌdɛɡɹəˈdéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "latency",
+   "ipa_brE": "BrE /ˈleɪtənsi/",
+   "ipa_AmE": "AmE /ˈléɪtənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "throughput",
+   "ipa_brE": "BrE /ˈθruːpʊt/",
+   "ipa_AmE": "AmE /ˈθɹuˌpʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cold start",
+   "ipa_brE": "BrE /ˌkəʊld ˈstɑːt/",
+   "ipa_AmE": "AmE /ˈkoʊld ˈstɑɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "caching",
+   "ipa_brE": "BrE /ˈkæʃɪŋ/",
+   "ipa_AmE": "AmE /ˈkæʃɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "compression",
+   "ipa_brE": "BrE /kəmˈpreʃn/",
+   "ipa_AmE": "AmE /kəˈmpɹɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "payload",
+   "ipa_brE": "BrE /ˈpeɪləʊd/",
+   "ipa_AmE": "AmE /ˈpéɪˌloʊd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pagination",
+   "ipa_brE": "BrE /ˌpeɪdʒɪˈneɪʃn/",
+   "ipa_AmE": "AmE /ˌpædʒəˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "infinite scroll",
+   "ipa_brE": "BrE /ˈɪnfɪnət skrəʊl/",
+   "ipa_AmE": "AmE /ˈɪnfənət ˈskɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lazy loading",
+   "ipa_brE": "BrE /ˌleɪzi ˈləʊdɪŋ/",
+   "ipa_AmE": "AmE /ˈléɪzi ˈloʊdɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "metadata",
+   "ipa_brE": "BrE /ˈmetədɑːtə/",
+   "ipa_AmE": "AmE /ˈmɛtədɑtə/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "indexing",
+   "ipa_brE": "BrE /ˈɪndeksɪŋ/",
+   "ipa_AmE": "AmE /ˈɪndɛksɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "crawler",
+   "ipa_brE": "BrE /ˈkrɔːlə(r)/",
+   "ipa_AmE": "AmE /ˈkɹɔlɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "qualitative",
+   "ipa_brE": "BrE /ˌkwɒlɪˈteɪtɪv/",
+   "ipa_AmE": "AmE /ˈkwɑləˌtéɪtɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quantitative",
+   "ipa_brE": "BrE /ˈkwɒntɪteɪtɪv/",
+   "ipa_AmE": "AmE /ˈkwɑntɪˌtéɪtɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mixed method",
+   "ipa_brE": "BrE /ˌmɪkst ˈmeθəd/",
+   "ipa_AmE": "AmE /ˈmɪkst ˈmɛθəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bias",
+   "ipa_brE": "BrE /ˈbaɪəs/",
+   "ipa_AmE": "AmE /ˈbɑɪəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "noise",
+   "ipa_brE": "BrE /nɔɪz/",
+   "ipa_AmE": "AmE /ˈnɔɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "signal",
+   "ipa_brE": "BrE /ˈsɪɡnəl/",
+   "ipa_AmE": "AmE /ˈsɪɡnəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "self-serve",
+   "ipa_brE": "BrE /ˌself ˈsɜːv/",
+   "ipa_AmE": "AmE /ˈsɛlf ˈsɝv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "semantic layer",
+   "ipa_brE": "BrE /sɪˈmentɪk ˌleɪə(r)/",
+   "ipa_AmE": "AmE /sɪˈmæntɪk ˈléɪɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "certified metric",
+   "ipa_brE": "BrE /səˌtɪfaɪd ˈmetrɪk/",
+   "ipa_AmE": "AmE /ˈsɝtəˌfɑɪd ˈmɛtɹɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "discovery",
+   "ipa_brE": "BrE /dɪˈskʌvəri/",
+   "ipa_AmE": "AmE /dɪˈskʌvɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "exploration",
+   "ipa_brE": "BrE /ˌekspləˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌɛksplɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "opportunity",
+   "ipa_brE": "BrE /ˌɒpəˈtjuːnəti/",
+   "ipa_AmE": "AmE /ˌɑpɚˈtunəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "requirement",
+   "ipa_brE": "BrE /rɪˈkwaɪəmənt/",
+   "ipa_AmE": "AmE /ɹɪˈkwɑɪɹmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "constraint",
+   "ipa_brE": "BrE /kənˈstreɪnt/",
+   "ipa_AmE": "AmE /kəˈnstɹéɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "assumption",
+   "ipa_brE": "BrE /əˈsʌmpʃn/",
+   "ipa_AmE": "AmE /əˈsʌmpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "workaround",
+   "ipa_brE": "BrE /ˈwɜːkəraʊnd/",
+   "ipa_AmE": "AmE /ˈwɝkɚˌàʊnd/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m05": [
+  {
+   "word": "architecture",
+   "ipa_brE": "BrE /ˈɑːkɪtektʃə(r)/",
+   "ipa_AmE": "AmE /ˈɑɹkəˌtɛktʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scalability",
+   "ipa_brE": "BrE /ˌskeɪləˈbɪləti/",
+   "ipa_AmE": "AmE /ˈskéɪləˌbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "availability",
+   "ipa_brE": "BrE /əˌveɪləˈbɪləti/",
+   "ipa_AmE": "AmE /əˌvéɪləˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "redundancy",
+   "ipa_brE": "BrE /rɪˈdʌndənsi/",
+   "ipa_AmE": "AmE /ɹɪˈdʌndənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fault tolerance",
+   "ipa_brE": "BrE /ˌfɔːlt ˈtɒlərəns/",
+   "ipa_AmE": "AmE /ˈfɔlt ˈtɑlɚəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "single point of failure",
+   "ipa_brE": "BrE /ˌsɪŋɡl pɔɪnt əv ˈfəʊljə(r)/",
+   "ipa_AmE": "AmE /ˈsɪŋɡəl ˈpɔɪnt ˈʌv ˈféɪljɚ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "load balancing",
+   "ipa_brE": "BrE /ˈləʊd ˌbælənsɪŋ/",
+   "ipa_AmE": "AmE /ˈloʊd ˈbælənsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "horizontal scaling",
+   "ipa_brE": "BrE /ˌhɒrɪˈzɒntl ˈskeɪlɪŋ/",
+   "ipa_AmE": "AmE /ˌhɔɹəˈzɑntəl ˈskéɪlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vertical scaling",
+   "ipa_brE": "BrE /ˌvɜːtɪkl ˈskeɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈvɝtɪkəl ˈskéɪlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "container",
+   "ipa_brE": "BrE /kənˈteɪnə(r)/",
+   "ipa_AmE": "AmE /kəˈntéɪnɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "virtual machine",
+   "ipa_brE": "BrE /ˈvɜːtʃuəl məˌʃiːn/",
+   "ipa_AmE": "AmE /ˈvɝtʃuəl məˈʃin/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "orchestration",
+   "ipa_brE": "BrE /ˌɔːrɪˈstreɪʃn/",
+   "ipa_AmE": "AmE /ˌɔɹkəˈstɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "Kubernetes",
+   "ipa_brE": "BrE /ˌkjuːbəˈnɜːtɪs/",
+   "ipa_AmE": "AmE /ˌkjubəˈnɝtɪs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "service mesh",
+   "ipa_brE": "BrE /ˈsɜːvɪs meʃ/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈmɛʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sidecar",
+   "ipa_brE": "BrE /ˈsaɪdkɑː(r)/",
+   "ipa_AmE": "AmE /ˈsaɪdkɑɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "infrastructure as code",
+   "ipa_brE": "BrE /ˌɪnfrəˈstrʌktʃə əz ˈkəʊd/",
+   "ipa_AmE": "AmE /ˌɪnfɹəˈstɹʌktʃɚ ˈæz ˈkoʊd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "provisioning",
+   "ipa_brE": "BrE /prəˈvɪʒənɪŋ/",
+   "ipa_AmE": "AmE /pɹəˈvɪʒənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "configuration management",
+   "ipa_brE": "BrE /kənˌfɪɡəˈreɪʃn ˈmænɪdʒmənt/",
+   "ipa_AmE": "AmE /kəˌnfɪɡjɚˈéɪʃən ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cloud",
+   "ipa_brE": "BrE /klaʊd/",
+   "ipa_AmE": "AmE /ˈklàʊd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "region",
+   "ipa_brE": "BrE /ˈriːdʒən/",
+   "ipa_AmE": "AmE /ˈɹidʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "availability zone",
+   "ipa_brE": "BrE /əˌveɪləˈbɪləti zəʊn/",
+   "ipa_AmE": "AmE /əˌvéɪləˈbɪləti ˈzoʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "serverless",
+   "ipa_brE": "BrE /ˈsɜːvələs/",
+   "ipa_AmE": "AmE /ˈsɝvələs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "runtime",
+   "ipa_brE": "BrE /ˈrʊntaɪm/",
+   "ipa_AmE": "AmE /ˈɹʊntaɪm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "elasticity",
+   "ipa_brE": "BrE /ˌiːlæsˈtɪsəti/",
+   "ipa_AmE": "AmE /ˌiˌlæˈstɪsəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "continuous integration",
+   "ipa_brE": "BrE /kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+   "ipa_AmE": "AmE /kəˈntɪnjuəs ˌɪntəˈɡɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "continuous deployment",
+   "ipa_brE": "BrE /kənˌtɪnjuəs dɪˈplɔɪmənt/",
+   "ipa_AmE": "AmE /kəˈntɪnjuəs dɪˈplɔɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "artifact",
+   "ipa_brE": "BrE /ˈɑːtɪfækt/",
+   "ipa_AmE": "AmE /ˈɑɹtəˌfækt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "blue-green deployment",
+   "ipa_brE": "BrE /ˌbluː ˈɡriːn dɪˌplɔɪmənt/",
+   "ipa_AmE": "AmE /ˈblu ˈɡɹin dɪˈplɔɪmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "canary release",
+   "ipa_brE": "BrE /ˈkænəri rɪˌliːz/",
+   "ipa_AmE": "AmE /kəˈnɛɹi ɹiˈlis/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "feature flag",
+   "ipa_brE": "BrE /ˈfiːtʃə flæɡ/",
+   "ipa_AmE": "AmE /ˈfitʃɚ ˈflæɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "observability",
+   "ipa_brE": "BrE /əbˌzɜːvəˈbɪləti/",
+   "ipa_AmE": "AmE /əˌbzɝvəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "telemetry",
+   "ipa_brE": "BrE /təˈlemətri/",
+   "ipa_AmE": "AmE /təˈlɛmətɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tracing",
+   "ipa_brE": "BrE /ˈtreɪsɪŋ/",
+   "ipa_AmE": "AmE /ˈtɹéɪsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "log aggregation",
+   "ipa_brE": "BrE /ˌlɒɡ ˌæɡrɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈlɔɡ ˌæɡɹəˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "span",
+   "ipa_brE": "BrE /spæn/",
+   "ipa_AmE": "AmE /ˈspæn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "service level",
+   "ipa_brE": "BrE /ˈsɜːvɪs ˌlevl/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈlɛvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "SLA",
+   "ipa_brE": "BrE /ˌes el ˈeɪ/",
+   "ipa_AmE": "AmE /ˌɛs ɛl ˈeɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "SLO",
+   "ipa_brE": "BrE /ˌes el ˈəʊ/",
+   "ipa_AmE": "AmE /ˌɛs ɛl ˈoʊ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "error budget",
+   "ipa_brE": "BrE /ˈerə ˌbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈɛɹɚ ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "incident",
+   "ipa_brE": "BrE /ˈɪnsɪdənt/",
+   "ipa_AmE": "AmE /ˈɪnsədənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "postmortem",
+   "ipa_brE": "BrE /ˌpəʊstˈmɔːtəm/",
+   "ipa_AmE": "AmE /ˌpoʊˈstmɔɹtɛm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "runbook",
+   "ipa_brE": "BrE /ˈrʌnbʊk/",
+   "ipa_AmE": "AmE /ˈɹʌnbʊk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "on-call",
+   "ipa_brE": "BrE /ˌɒn ˈkɔːl/",
+   "ipa_AmE": "AmE /ˈɑn ˈkɔl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "handover",
+   "ipa_brE": "BrE /ˈhændəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈhændoʊvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "paging",
+   "ipa_brE": "BrE /ˈpeɪdʒɪŋ/",
+   "ipa_AmE": "AmE /ˈpéɪdʒɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "authentication",
+   "ipa_brE": "BrE /ɔːˌθentɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ɔˌθɛntəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "authorisation",
+   "ipa_brE": "BrE /ɔːˌθəraɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌɔθɚəˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "encryption",
+   "ipa_brE": "BrE /ɪnˈkrɪpʃn/",
+   "ipa_AmE": "AmE /ɛˈnkɹɪpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "vulnerability",
+   "ipa_brE": "BrE /ˌvʌlnərəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌvʌlnɚəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "exploit",
+   "ipa_brE": "BrE /ɪkˈsplɔɪt/",
+   "ipa_AmE": "AmE /ˈɛˌksplɔɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hardening",
+   "ipa_brE": "BrE /ˈhɑːdənɪŋ/",
+   "ipa_AmE": "AmE /ˈhɑɹdənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "phishing",
+   "ipa_brE": "BrE /ˈfɪʃɪŋ/",
+   "ipa_AmE": "AmE /ˈfɪʃɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "malware",
+   "ipa_brE": "BrE /ˈmælweə(r)/",
+   "ipa_AmE": "AmE /ˈmæˌlwɛɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ransomware",
+   "ipa_brE": "BrE /ˈrænsəmwɔː(r)/",
+   "ipa_AmE": "AmE /ˈɹænsəmwɔɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "firewall",
+   "ipa_brE": "BrE /ˈfaɪəwɔːl/",
+   "ipa_AmE": "AmE /ˈfɑɪɹwɑl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "intrusion detection",
+   "ipa_brE": "BrE /ɪnˈtruːʒn dɪˌtektʃn/",
+   "ipa_AmE": "AmE /ˌɪˈntɹuʒən dɪˈtɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "penetration testing",
+   "ipa_brE": "BrE /ˌpenəˈtreɪʃn ˈtestɪŋ/",
+   "ipa_AmE": "AmE /ˌpɛnəˈtɹéɪʃən ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "least privilege",
+   "ipa_brE": "BrE /ˌliːst ˈprɪvəlɪdʒ/",
+   "ipa_AmE": "AmE /ˈlist ˈpɹɪvɪlədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "access control",
+   "ipa_brE": "BrE /ˈækses kənˌtrəʊl/",
+   "ipa_AmE": "AmE /ˈæˌksɛs kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit log",
+   "ipa_brE": "BrE /ˈɔːdɪt lɒɡ/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "key management",
+   "ipa_brE": "BrE /ˈkiː ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈki ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "certificate",
+   "ipa_brE": "BrE /səˈtɪfɪkət/",
+   "ipa_AmE": "AmE /sɚˈtɪfɪkət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "single sign-on",
+   "ipa_brE": "BrE /ˌsɪŋɡl ˈsaɪn ɒn/",
+   "ipa_AmE": "AmE /ˈsɪŋɡəl ˈsɑɪn ˈɑn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "release",
+   "ipa_brE": "BrE /rɪˈliːs/",
+   "ipa_AmE": "AmE /ɹiˈlis/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "version control",
+   "ipa_brE": "BrE /ˈvɜːʃn kənˌtrəʊl/",
+   "ipa_AmE": "AmE /ˈvɝʒən kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "branching strategy",
+   "ipa_brE": "BrE /ˈbrɑːntʃɪŋ ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˈbɹæntʃɪŋ ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "repository",
+   "ipa_brE": "BrE /rɪˈpɒzətri/",
+   "ipa_AmE": "AmE /ɹiˈpɑzəˌtɔɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "codebase",
+   "ipa_brE": "BrE /ˈkəʊdbəs/",
+   "ipa_AmE": "AmE /ˈkoʊˌdbéɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "static analysis",
+   "ipa_brE": "BrE /ˌstætɪk əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˈstætɪk əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "package",
+   "ipa_brE": "BrE /ˈpækɪdʒ/",
+   "ipa_AmE": "AmE /ˈpækədʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "library",
+   "ipa_brE": "BrE /ˈlaɪbrəri/",
+   "ipa_AmE": "AmE /ˈlɑɪbɹɛˌɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "framework",
+   "ipa_brE": "BrE /ˈfreɪmwɜːk/",
+   "ipa_AmE": "AmE /ˈfɹéɪˌmwɝk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "abstraction",
+   "ipa_brE": "BrE /æbˈstrækʃn/",
+   "ipa_AmE": "AmE /æˈbstɹækʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "encapsulation",
+   "ipa_brE": "BrE /ɪnˌkæpsjuˈleɪʃn/",
+   "ipa_AmE": "AmE /ɪˌnkæpsjuˈleɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "modularity",
+   "ipa_brE": "BrE /ˌmɒdjuˈlærəti/",
+   "ipa_AmE": "AmE /ˌmɑdjuˈlæɹətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "coupling",
+   "ipa_brE": "BrE /ˈkʌplɪŋ/",
+   "ipa_AmE": "AmE /ˈkʌplɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dependency injection",
+   "ipa_brE": "BrE /dɪˈpendənsi ɪnˈdʒekʃn/",
+   "ipa_AmE": "AmE /dɪˈpɛndənsi ˌɪˈndʒɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service",
+   "ipa_brE": "BrE /ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈsɝvəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "endpoint",
+   "ipa_brE": "BrE /ˈendpɔɪnt/",
+   "ipa_AmE": "AmE /ˈɛˌndpɔɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "versioning",
+   "ipa_brE": "BrE /ˈvɜːʃənɪŋ/",
+   "ipa_AmE": "AmE /ˈvɝʃənɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "deprecation",
+   "ipa_brE": "BrE /ˌdeprɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛpɹɪˈkeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "rate limiting",
+   "ipa_brE": "BrE /ˈreɪt ˌlɪmɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈɹéɪt ˈlɪmətɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "throttling",
+   "ipa_brE": "BrE /ˈθrɒtlɪŋ/",
+   "ipa_AmE": "AmE /ˈθɹɑtlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "circuit breaker",
+   "ipa_brE": "BrE /ˈsɜːkɪt ˌbreɪkə(r)/",
+   "ipa_AmE": "AmE /ˈsɝkət ˈbɹéɪkɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "message queue",
+   "ipa_brE": "BrE /ˈmesɪdʒ kjuː/",
+   "ipa_AmE": "AmE /ˈmɛsədʒ ˈkju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "event-driven",
+   "ipa_brE": "BrE /ɪˈvent ˌdrɪvən/",
+   "ipa_AmE": "AmE /ɪˈvɛnt ˈdɹɪvən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "eventual consistency",
+   "ipa_brE": "BrE /ɪˌventʃuəl kənˈsɪstənsi/",
+   "ipa_AmE": "AmE /əˈvɛntʃuəl kəˈnsɪstənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "replication",
+   "ipa_brE": "BrE /ˌreplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛpləˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sharding",
+   "ipa_brE": "BrE /ˈʃɑːdɪŋ/",
+   "ipa_AmE": "AmE /ˈʃɑɹdɪŋ/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "partitioning",
+   "ipa_brE": "BrE /pɑːˈtɪʃənɪŋ/",
+   "ipa_AmE": "AmE /pɑˈɹtɪʃənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "uptime",
+   "ipa_brE": "BrE /ˈʌptaɪm/",
+   "ipa_AmE": "AmE /ˈʌptaɪm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "failover",
+   "ipa_brE": "BrE /ˈfeɪləʊvə(r)/",
+   "ipa_AmE": "AmE /ˈfeɪloʊvɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "disaster recovery",
+   "ipa_brE": "BrE /dɪˈzɑːstə rɪˌkʌvəri/",
+   "ipa_AmE": "AmE /dɪˈzæstɚ ɹɪˈkʌvɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m06": [
+  {
+   "word": "push",
+   "ipa_brE": "BrE /pʊʃ/",
+   "ipa_AmE": "AmE /ˈpʊʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rebase",
+   "ipa_brE": "BrE /ˈriːbeɪs/",
+   "ipa_AmE": "AmE /ˈɹibeɪs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "cherry-pick",
+   "ipa_brE": "BrE /ˈtʃeri pɪk/",
+   "ipa_AmE": "AmE /ˈtʃɛɹi ˈpɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "merge conflict",
+   "ipa_brE": "BrE /ˌmɜːdʒ ˈkɒnflɪkt/",
+   "ipa_AmE": "AmE /ˈmɝdʒ ˈkɑnflɪkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "resolution",
+   "ipa_brE": "BrE /ˌrezəˈluːʃn/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈluʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rollback",
+   "ipa_brE": "BrE /ˈrəʊlbæk/",
+   "ipa_AmE": "AmE /ˈɹoʊˌlbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "environment",
+   "ipa_brE": "BrE /ɪnˈvaɪrənmənt/",
+   "ipa_AmE": "AmE /ɪˈnvɑɪɹənmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "staging",
+   "ipa_brE": "BrE /ˈsteɪdʒɪŋ/",
+   "ipa_AmE": "AmE /ˈstéɪdʒɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "production",
+   "ipa_brE": "BrE /prəˈdʌkʃn/",
+   "ipa_AmE": "AmE /pɹəˈdʌkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "secret",
+   "ipa_brE": "BrE /ˈsiːkrət/",
+   "ipa_AmE": "AmE /ˈsikɹət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "environment variable",
+   "ipa_brE": "BrE /ɪnˈvaɪrənmənt ˌveəriəbl/",
+   "ipa_AmE": "AmE /ɪˈnvɑɪɹənmənt ˈvɛɹiəbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exposure",
+   "ipa_brE": "BrE /ɪkˈspəʊʒə(r)/",
+   "ipa_AmE": "AmE /ɪˈkspoʊʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "logging",
+   "ipa_brE": "BrE /ˈlɒɡɪŋ/",
+   "ipa_AmE": "AmE /ˈlɔɡɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "log level",
+   "ipa_brE": "BrE /ˈlɒɡ ˌlevl/",
+   "ipa_AmE": "AmE /ˈlɔɡ ˈlɛvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "verbosity",
+   "ipa_brE": "BrE /vɜːˈbɒsəti/",
+   "ipa_AmE": "AmE /vɝˈbɑsətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "synthetic monitoring",
+   "ipa_brE": "BrE /sɪnˈθetɪk ˈmɒnɪtərɪŋ/",
+   "ipa_AmE": "AmE /sɪˈnθɛtɪk ˈmɑnətɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "health check",
+   "ipa_brE": "BrE /ˈhelθ tʃek/",
+   "ipa_AmE": "AmE /ˈhɛlθ ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "heartbeat",
+   "ipa_brE": "BrE /ˈhɑːtbiːt/",
+   "ipa_AmE": "AmE /ˈhɑˌɹtbit/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "backpressure",
+   "ipa_brE": "BrE /ˈbækpreʃə(r)/",
+   "ipa_AmE": "AmE /ˈbækpɹɛʃɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "buffer",
+   "ipa_brE": "BrE /ˈbʌfə(r)/",
+   "ipa_AmE": "AmE /ˈbʌfɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "burst",
+   "ipa_brE": "BrE /bɜːst/",
+   "ipa_AmE": "AmE /ˈbɝst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "load test",
+   "ipa_brE": "BrE /ˈləʊd test/",
+   "ipa_AmE": "AmE /ˈloʊd ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stress test",
+   "ipa_brE": "BrE /ˈstres test/",
+   "ipa_AmE": "AmE /ˈstɹɛs ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bottleneck",
+   "ipa_brE": "BrE /ˈbɒtlnek/",
+   "ipa_AmE": "AmE /ˈbɑtəˌlnɛk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "autoscaling",
+   "ipa_brE": "BrE /ˈɔːtəʊskeɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈɔtoʊskeɪlɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "scheduling",
+   "ipa_brE": "BrE /ˈʃedjuːlɪŋ/",
+   "ipa_AmE": "AmE /ˈskɛdʒʊlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quota",
+   "ipa_brE": "BrE /ˈkwəʊtə/",
+   "ipa_AmE": "AmE /ˈkwoʊtə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "spend",
+   "ipa_brE": "BrE /spend/",
+   "ipa_AmE": "AmE /ˈspɛnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rightsizing",
+   "ipa_brE": "BrE /ˈraɪtsaɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈɹaɪtsaɪzɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "egress",
+   "ipa_brE": "BrE /ˈiːɡres/",
+   "ipa_AmE": "AmE /ɪˈɡɹɛs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "microservice",
+   "ipa_brE": "BrE /ˈmaɪkrəʊsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈmaɪkɹoʊsɝvɪs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "monolith",
+   "ipa_brE": "BrE /ˈmɒnəlɪθ/",
+   "ipa_AmE": "AmE /ˈmɑnəˌlɪθ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "distributed system",
+   "ipa_brE": "BrE /dɪˈstrɪbjjuːtɪd ˈsɪstəm/",
+   "ipa_AmE": "AmE /dɪˈstɹɪbjətəd ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cohesion",
+   "ipa_brE": "BrE /kəʊˈhiːʒn/",
+   "ipa_AmE": "AmE /koʊˈhiʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "refactoring",
+   "ipa_brE": "BrE /ˌriːˈfæktərɪŋ/",
+   "ipa_AmE": "AmE /ˌɹiˈfæktəɹɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "legacy",
+   "ipa_brE": "BrE /ˈleɡəsi/",
+   "ipa_AmE": "AmE /ˈlɛɡəsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "domain",
+   "ipa_brE": "BrE /dəˈmeɪn/",
+   "ipa_AmE": "AmE /doʊˈméɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "entity",
+   "ipa_brE": "BrE /ˈentəti/",
+   "ipa_AmE": "AmE /ˈɛntəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "invariant",
+   "ipa_brE": "BrE /ɪnˈveəriənt/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛɹiənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "boundary",
+   "ipa_brE": "BrE /ˈbaʊndri/",
+   "ipa_AmE": "AmE /ˈbàʊndɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "anti-pattern",
+   "ipa_brE": "BrE /ˈænti ˌpætən/",
+   "ipa_AmE": "AmE /ˈæˌnti ˈpætɚn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pattern",
+   "ipa_brE": "BrE /ˈpætn/",
+   "ipa_AmE": "AmE /ˈpætɚn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "design pattern",
+   "ipa_brE": "BrE /dɪˈzaɪn ˌpætn/",
+   "ipa_AmE": "AmE /dɪˈzɑɪn ˈpætɚn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "factory",
+   "ipa_brE": "BrE /ˈfæktri/",
+   "ipa_AmE": "AmE /ˈfæktɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "proxy",
+   "ipa_brE": "BrE /ˈprɒksi/",
+   "ipa_AmE": "AmE /ˈpɹɑksi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "retry",
+   "ipa_brE": "BrE /ˈriːtraɪ/",
+   "ipa_AmE": "AmE /ɹiˈtɹɑɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "backoff",
+   "ipa_brE": "BrE /ˈbækɒf/",
+   "ipa_AmE": "AmE /ˈbækɑf/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "timeout",
+   "ipa_brE": "BrE /ˈtaɪmaʊt/",
+   "ipa_AmE": "AmE /ˈtɑɪˌmàʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "race condition",
+   "ipa_brE": "BrE /ˌreɪs kənˈdɪʃn/",
+   "ipa_AmE": "AmE /ˈɹéɪs kəˈndɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deadlock",
+   "ipa_brE": "BrE /ˈdedlɒk/",
+   "ipa_AmE": "AmE /ˈdɛˌdlɑk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lock",
+   "ipa_brE": "BrE /lɒk/",
+   "ipa_AmE": "AmE /ˈlɑk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "thread",
+   "ipa_brE": "BrE /θred/",
+   "ipa_AmE": "AmE /ˈθɹɛd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "process",
+   "ipa_brE": "BrE /ˈprəʊses/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "concurrency",
+   "ipa_brE": "BrE /kənˈkʌrənsi/",
+   "ipa_AmE": "AmE /kəˈnkʌɹənsɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "parallelism",
+   "ipa_brE": "BrE /ˈpærəlelɪzəm/",
+   "ipa_AmE": "AmE /ˈpɛɹəˌlɛˌlɪzəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "virtualisation",
+   "ipa_brE": "BrE /ˌvɜːtʃuəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌvɝtʃʊəlaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "namespace",
+   "ipa_brE": "BrE /ˈnaɪməspeɪs/",
+   "ipa_AmE": "AmE /ˈnaɪməspeɪs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "scheduler",
+   "ipa_brE": "BrE /ˈʃedjuːlə(r)/",
+   "ipa_AmE": "AmE /ˈskɛdʒʊlɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "daemon",
+   "ipa_brE": "BrE /ˈdiːmən/",
+   "ipa_AmE": "AmE /ˈdimən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "worker",
+   "ipa_brE": "BrE /ˈwɜːkə(r)/",
+   "ipa_AmE": "AmE /ˈwɝkɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scripting",
+   "ipa_brE": "BrE /ˈskrɪptɪŋ/",
+   "ipa_AmE": "AmE /ˈskɹɪptɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "automation",
+   "ipa_brE": "BrE /ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ɔtəˈméɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tooling",
+   "ipa_brE": "BrE /ˈtuːlɪŋ/",
+   "ipa_AmE": "AmE /ˈtulɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "argument",
+   "ipa_brE": "BrE /ˈɑːɡjumənt/",
+   "ipa_AmE": "AmE /ˈɑɹɡjəmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "parameter",
+   "ipa_brE": "BrE /pəˈræmɪtə(r)/",
+   "ipa_AmE": "AmE /pɚˈæmətɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "syntax",
+   "ipa_brE": "BrE /ˈsɪntæks/",
+   "ipa_AmE": "AmE /ˈsɪˌntæks/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "formatting",
+   "ipa_brE": "BrE /ˈfɔːmætɪŋ/",
+   "ipa_AmE": "AmE /ˈfɔˌɹmætɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "naming",
+   "ipa_brE": "BrE /ˈneɪmɪŋ/",
+   "ipa_AmE": "AmE /ˈnéɪmɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "readability",
+   "ipa_brE": "BrE /ˌriːdəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌɹidəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mock",
+   "ipa_brE": "BrE /mɒk/",
+   "ipa_AmE": "AmE /ˈmɑk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stub",
+   "ipa_brE": "BrE /stʌb/",
+   "ipa_AmE": "AmE /ˈstʌb/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "spy",
+   "ipa_brE": "BrE /spaɪ/",
+   "ipa_AmE": "AmE /ˈspɑɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "smoke test",
+   "ipa_brE": "BrE /ˈsməʊk test/",
+   "ipa_AmE": "AmE /ˈsmoʊk ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regression test",
+   "ipa_brE": "BrE /rɪˈɡreʃn test/",
+   "ipa_AmE": "AmE /ɹəˈɡɹɛʃən ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sanity check",
+   "ipa_brE": "BrE /ˈsænɪti tʃek/",
+   "ipa_AmE": "AmE /ˈsænəti ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "flaky",
+   "ipa_brE": "BrE /ˈflæki/",
+   "ipa_AmE": "AmE /ˈfléɪki/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "deterministic",
+   "ipa_brE": "BrE /dɪˌtɜːmɪˈnɪstɪk/",
+   "ipa_AmE": "AmE /dɪˌtɝməˈnɪstɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "isolation",
+   "ipa_brE": "BrE /ˌaɪsəˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌɑɪsəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "security patch",
+   "ipa_brE": "BrE /sɪˈkjʊərəti pætʃ/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈpætʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "zero-day",
+   "ipa_brE": "BrE /ˈzɪərə deɪ/",
+   "ipa_AmE": "AmE /ˈzɪɹoʊ ˈdéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "supply chain",
+   "ipa_brE": "BrE /səˈplaɪ tʃeɪn/",
+   "ipa_AmE": "AmE /səˈplɑɪ ˈtʃéɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "backup",
+   "ipa_brE": "BrE /ˈbækʌp/",
+   "ipa_AmE": "AmE /ˈbæˌkʌp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "restore",
+   "ipa_brE": "BrE /rɪˈstɔː(r)/",
+   "ipa_AmE": "AmE /ɹɪˈstɔɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "snapshot",
+   "ipa_brE": "BrE /ˈsnæpʃɒt/",
+   "ipa_AmE": "AmE /ˈsnæˌpʃɑt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "data residency",
+   "ipa_brE": "BrE /ˈdeɪtə ˌrezɪdənsi/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈɹɛzɪdənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tokenisation",
+   "ipa_brE": "BrE /ˌtəʊkənaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌtoʊkənaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "masking",
+   "ipa_brE": "BrE /ˈmɑːskɪŋ/",
+   "ipa_AmE": "AmE /ˈmæskɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "containment",
+   "ipa_brE": "BrE /kənˈteɪnmənt/",
+   "ipa_AmE": "AmE /kəˈntéɪnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "eradication",
+   "ipa_brE": "BrE /ɪˌrædɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ɪˌɹædəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "attack surface",
+   "ipa_brE": "BrE /əˈtæk ˌsɜːfɪs/",
+   "ipa_AmE": "AmE /əˈtæk ˈsɝfəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m07": [
+  {
+   "word": "artificial intelligence",
+   "ipa_brE": "BrE /ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+   "ipa_AmE": "AmE /ˌɑɹtəˈfɪʃəl ˌɪˈntɛlədʒəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "machine learning",
+   "ipa_brE": "BrE /məˌʃiːn ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /məˈʃin ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "neural network",
+   "ipa_brE": "BrE /ˈnjʊərəl ˌnetwɜːk/",
+   "ipa_AmE": "AmE /ˈnʊɹəl ˈnɛˌtwɝk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "model",
+   "ipa_brE": "BrE /ˈmɒdl/",
+   "ipa_AmE": "AmE /ˈmɑdəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "training",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inference",
+   "ipa_brE": "BrE /ˈɪnfərəns/",
+   "ipa_AmE": "AmE /ˈɪnfɚəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dataset",
+   "ipa_brE": "BrE /ˈdeɪtəset/",
+   "ipa_AmE": "AmE /ˈdéɪtəˌsɛt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "feature",
+   "ipa_brE": "BrE /ˈfiːtʃə(r)/",
+   "ipa_AmE": "AmE /ˈfitʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ground truth",
+   "ipa_brE": "BrE /ˌɡraʊnd ˈtruːθ/",
+   "ipa_AmE": "AmE /ˈɡɹàʊnd ˈtɹuθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "supervised learning",
+   "ipa_brE": "BrE /ˌsuːpəvaɪzd ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˈsupɚˌvɑɪzd ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unsupervised learning",
+   "ipa_brE": "BrE /ˌʌnsjuːˈpaɪzd ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /əˈnsupɚˌvɑɪzd ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reinforcement learning",
+   "ipa_brE": "BrE /ˌriːɪnfɔːsmənt ˈlɜːnɪŋ/",
+   "ipa_AmE": "AmE /ˌɹiɪˈnfɔɹsmənt ˈlɝnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "classification",
+   "ipa_brE": "BrE /ˌklæsɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌklæsəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clustering",
+   "ipa_brE": "BrE /ˈklʌstərɪŋ/",
+   "ipa_AmE": "AmE /ˈklʌstɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ranking",
+   "ipa_brE": "BrE /ˈræŋkɪŋ/",
+   "ipa_AmE": "AmE /ˈɹæŋkɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accuracy",
+   "ipa_brE": "BrE /ˈækjərəsi/",
+   "ipa_AmE": "AmE /ˈækjɚəsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "precision",
+   "ipa_brE": "BrE /prɪˈsɪʃn/",
+   "ipa_AmE": "AmE /pɹiˈsɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recall",
+   "ipa_brE": "BrE /rɪˈkɔːl/",
+   "ipa_AmE": "AmE /ˈɹiˌkɔl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "overfitting",
+   "ipa_brE": "BrE /ˌəʊvəˈfɪtɪŋ/",
+   "ipa_AmE": "AmE /ˌoʊvəˈfɪtɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "underfitting",
+   "ipa_brE": "BrE /ˌʌndəˈfɪtɪŋ/",
+   "ipa_AmE": "AmE /ˌʌndəˈfɪtɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "cross-validation",
+   "ipa_brE": "BrE /ˌkrɒs ˌvælɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˌvæləˈdéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hyperparameter",
+   "ipa_brE": "BrE /ˌhaɪpəˈpærəmɪtə(r)/",
+   "ipa_AmE": "AmE /ˌhaɪpəˈpæɹəmɪtɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "gradient",
+   "ipa_brE": "BrE /ˈɡreɪdiənt/",
+   "ipa_AmE": "AmE /ˈɡɹéɪdiənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "epoch",
+   "ipa_brE": "BrE /ˈepəʊk/",
+   "ipa_AmE": "AmE /ˈɛpək/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "layer",
+   "ipa_brE": "BrE /ˈleɪə(r)/",
+   "ipa_AmE": "AmE /ˈléɪɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "weight",
+   "ipa_brE": "BrE /weɪt/",
+   "ipa_AmE": "AmE /ˈwéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "backpropagation",
+   "ipa_brE": "BrE /ˌbækprɒpəˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌbækpɹɑpəˈɡeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "transformer",
+   "ipa_brE": "BrE /trænsˈfɔːmə(r)/",
+   "ipa_AmE": "AmE /tɹæˈnsfɔɹmɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "attention",
+   "ipa_brE": "BrE /əˈtenʃn/",
+   "ipa_AmE": "AmE /əˈtɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "embedding",
+   "ipa_brE": "BrE /ɪmˈbedɪŋ/",
+   "ipa_AmE": "AmE /ɛˈmbɛdɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "large language model",
+   "ipa_brE": "BrE /ˌlɑːdʒ ˈlæŋɡwɪdʒ ˈmɒdl/",
+   "ipa_AmE": "AmE /ˈlɑɹdʒ ˈlæŋɡwədʒ ˈmɑdəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "prompt",
+   "ipa_brE": "BrE /prɒmpt/",
+   "ipa_AmE": "AmE /ˈpɹɑmpt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fine-tuning",
+   "ipa_brE": "BrE /ˌfaɪn ˈtjuːnɪŋ/",
+   "ipa_AmE": "AmE /ˈfɑɪn ˈtunɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "context window",
+   "ipa_brE": "BrE /ˈkɒntekst ˌwɪndəʊ/",
+   "ipa_AmE": "AmE /ˈkɑntɛkst ˈwɪndoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hallucination",
+   "ipa_brE": "BrE /həˌluːsɪˈneɪʃn/",
+   "ipa_AmE": "AmE /həˌlusəˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "guardrail",
+   "ipa_brE": "BrE /ˈɡɑːdreɪl/",
+   "ipa_AmE": "AmE /ˈɡɑˌɹdɹéɪl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "evaluation",
+   "ipa_brE": "BrE /ɪˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ɪˌvæljuˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "drift",
+   "ipa_brE": "BrE /drɪft/",
+   "ipa_AmE": "AmE /ˈdɹɪft/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reproducibility",
+   "ipa_brE": "BrE /ˌriːprəˌdjuːsəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌɹipɹəˌdjusəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "natural language processing",
+   "ipa_brE": "BrE /ˌnætʃrəl ˌlæŋɡwɪdʒ ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /ˈnætʃɹəl ˈlæŋɡwədʒ ˈpɹɑsɛsɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sentiment analysis",
+   "ipa_brE": "BrE /ˈsentɪmənt əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈsɛntəmənt əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "entity recognition",
+   "ipa_brE": "BrE /ˈentəti ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈɛntəti ˌɹɛkəˈɡnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "computer vision",
+   "ipa_brE": "BrE /kəmˌpjuːtə ˈvɪʒn/",
+   "ipa_AmE": "AmE /kəˈmpjutɚ ˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "image recognition",
+   "ipa_brE": "BrE /ˈɪmɪdʒ ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈɪmədʒ ˌɹɛkəˈɡnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "object detection",
+   "ipa_brE": "BrE /ˈɒbdʒɪkt dɪˌtektʃn/",
+   "ipa_AmE": "AmE /ˈɑbdʒɛkt dɪˈtɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "speech recognition",
+   "ipa_brE": "BrE /ˈspiːtʃ ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈspitʃ ˌɹɛkəˈɡnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "text-to-speech",
+   "ipa_brE": "BrE /ˌtekst tə ˈspiːtʃ/",
+   "ipa_AmE": "AmE /ˈtɛkst ˈtu ˈspitʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "transcription",
+   "ipa_brE": "BrE /trænˈskrɪpʃn/",
+   "ipa_AmE": "AmE /ˌtɹæˈnskɹɪpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "generative",
+   "ipa_brE": "BrE /ˈdʒenərətɪv/",
+   "ipa_AmE": "AmE /ˈdʒɛnɚətɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "diffusion",
+   "ipa_brE": "BrE /dɪˈfjuːʒn/",
+   "ipa_AmE": "AmE /dɪˈfjuʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "prompt engineering",
+   "ipa_brE": "BrE /ˈprɒmpt ˌendʒɪˈnɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑmpt ˈɛndʒəˌnɪɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data mining",
+   "ipa_brE": "BrE /ˈdeɪtə ˌmaɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈmɑɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "feature engineering",
+   "ipa_brE": "BrE /ˈfiːtʃə ˌendʒɪˈnɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈfitʃɚ ˈɛndʒəˌnɪɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "web scraping",
+   "ipa_brE": "BrE /ˈweb ˌskreɪpɪŋ/",
+   "ipa_AmE": "AmE /ˈwɛb ˈskɹéɪpɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "GPU",
+   "ipa_brE": "BrE /ˌdʒiː piː ˈjuː/",
+   "ipa_AmE": "AmE /ˌdʒi pi ˈju/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "accelerator",
+   "ipa_brE": "BrE /əkˈseləreɪtə(r)/",
+   "ipa_AmE": "AmE /æˈksɛlɚˌéɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quantisation",
+   "ipa_brE": "BrE /ˌkwɒntɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌkwɑntɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "on-device",
+   "ipa_brE": "BrE /ˌɒn dɪˈvaɪs/",
+   "ipa_AmE": "AmE /ˈɑn dɪˈvɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "distillation",
+   "ipa_brE": "BrE /ˌdɪstɪˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌdɪstəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pruning",
+   "ipa_brE": "BrE /ˈpruːnɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹunɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "governance",
+   "ipa_brE": "BrE /ˈɡʌvənəns/",
+   "ipa_AmE": "AmE /ˈɡʌvɚnəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "transparency",
+   "ipa_brE": "BrE /trænsˈpærənsi/",
+   "ipa_AmE": "AmE /tɹæˈnspɛɹənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "explainability",
+   "ipa_brE": "BrE /ɪkˌspleɪnəˈbɪləti/",
+   "ipa_AmE": "AmE /ɪˌkspleɪnəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "fairness",
+   "ipa_brE": "BrE /ˈfeənəs/",
+   "ipa_AmE": "AmE /ˈfɛɹnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "oversight",
+   "ipa_brE": "BrE /ˈəʊvəsaɪt/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌsɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "auditability",
+   "ipa_brE": "BrE /ˌɔːdɪtəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌɔdɪtəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "robotics",
+   "ipa_brE": "BrE /rəʊˈbɒtɪks/",
+   "ipa_AmE": "AmE /ˌɹoʊˈbɑtɪks/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sensor",
+   "ipa_brE": "BrE /ˈsensə(r)/",
+   "ipa_AmE": "AmE /ˈsɛnsɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "actuator",
+   "ipa_brE": "BrE /ˈæktjueɪtə(r)/",
+   "ipa_AmE": "AmE /ˈæktjuˌéɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "blockchain",
+   "ipa_brE": "BrE /ˈblɒkkeɪn/",
+   "ipa_AmE": "AmE /ˈblɑˌktʃéɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "distributed ledger",
+   "ipa_brE": "BrE /dɪˌstrɪbjjuːtɪd ˈledʒə(r)/",
+   "ipa_AmE": "AmE /dɪˈstɹɪbjətəd ˈlɛdʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "smart contract",
+   "ipa_brE": "BrE /ˌsmɑːt ˈkɒntrækt/",
+   "ipa_AmE": "AmE /ˈsmɑɹt ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "edge computing",
+   "ipa_brE": "BrE /ˈedʒ kəmˌpjuːtɪŋ/",
+   "ipa_AmE": "AmE /ˈɛdʒ kəˈmpjutɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "IoT",
+   "ipa_brE": "BrE /ˌaɪ əʊ ˈtiː/",
+   "ipa_AmE": "AmE /ˌaɪ oʊ ˈti/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "wearable",
+   "ipa_brE": "BrE /ˈweərəbl/",
+   "ipa_AmE": "AmE /ˈwɛɹəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "biometric",
+   "ipa_brE": "BrE /ˌbaɪəˈmɛtrɪk/",
+   "ipa_AmE": "AmE /ˌbɑɪəˈmɛtɹək/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "facial recognition",
+   "ipa_brE": "BrE /ˌfeɪʃl ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈféɪʃəl ˌɹɛkəˈɡnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "voice assistant",
+   "ipa_brE": "BrE /ˈvɔɪs əˌsɪstənt/",
+   "ipa_AmE": "AmE /ˈvɔɪs əˈsɪstənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "augmented reality",
+   "ipa_brE": "BrE /ɔːɡˌmentɪd riˈæləti/",
+   "ipa_AmE": "AmE /ɑˈɡmɛntɪd ˌɹiˈæləˌti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "virtual reality",
+   "ipa_brE": "BrE /ˌvɜːtʃuəl riˈæləti/",
+   "ipa_AmE": "AmE /ˈvɝtʃuəl ˌɹiˈæləˌti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "metaverse",
+   "ipa_brE": "BrE /ˈmetəvɜːs/",
+   "ipa_AmE": "AmE /ˈmɛtəvɝs/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "open source",
+   "ipa_brE": "BrE /ˌəʊpən ˈsɔːs/",
+   "ipa_AmE": "AmE /ˈoʊpən ˈsɔɹs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proprietary",
+   "ipa_brE": "BrE /prəˈpraɪətri/",
+   "ipa_AmE": "AmE /pɹəˈpɹɑɪəˌtɛɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fork",
+   "ipa_brE": "BrE /fɔːk/",
+   "ipa_AmE": "AmE /ˈfɔɹk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patent",
+   "ipa_brE": "BrE /ˈpætənt/",
+   "ipa_AmE": "AmE /ˈpætənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trademark",
+   "ipa_brE": "BrE /ˈtreɪdmɑːk/",
+   "ipa_AmE": "AmE /ˈtɹéɪˌdmɑɹk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "algorithm",
+   "ipa_brE": "BrE /ˈælɡərɪðəm/",
+   "ipa_AmE": "AmE /ˈælɡɚˌɪðəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scaling law",
+   "ipa_brE": "BrE /ˈskeɪlɪŋ lɔː/",
+   "ipa_AmE": "AmE /ˈskéɪlɪŋ ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "benchmark suite",
+   "ipa_brE": "BrE /ˈbentʃmɑːk swiːt/",
+   "ipa_AmE": "AmE /ˈbɛˌntʃmɑɹk ˈswit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leaderboard",
+   "ipa_brE": "BrE /ˈliːdəbɔːd/",
+   "ipa_AmE": "AmE /ˈlidɚˌbɔɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "readiness",
+   "ipa_brE": "BrE /ˈredinəs/",
+   "ipa_AmE": "AmE /ˈɹɛdinəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capability",
+   "ipa_brE": "BrE /ˌkeɪpəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌkéɪpəˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "proof of concept",
+   "ipa_brE": "BrE /ˌpruːf əv ˈkɒnsept/",
+   "ipa_AmE": "AmE /ˈpɹuf ˈʌv ˈkɑnsɛpt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  }
+ ],
+ "m08": [
+  {
+   "word": "agent",
+   "ipa_brE": "BrE /ˈeɪdʒənt/",
+   "ipa_AmE": "AmE /ˈéɪdʒənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tool call",
+   "ipa_brE": "BrE /ˈtuːl kɔːl/",
+   "ipa_AmE": "AmE /ˈtul ˈkɔl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "memory",
+   "ipa_brE": "BrE /ˈmeməri/",
+   "ipa_AmE": "AmE /ˈmɛmɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "vector search",
+   "ipa_brE": "BrE /ˈvektə ˌsɜːtʃ/",
+   "ipa_AmE": "AmE /ˈvɛktɚ ˈsɝtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "chunking",
+   "ipa_brE": "BrE /ˈtʃʌŋkɪŋ/",
+   "ipa_AmE": "AmE /ˈtʃʌŋkɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "vector database",
+   "ipa_brE": "BrE /ˈvektə ˌdeɪtəbeɪs/",
+   "ipa_AmE": "AmE /ˈvɛktɚ ˈdéɪtəˌbéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "grounding",
+   "ipa_brE": "BrE /ˈɡraʊndɪŋ/",
+   "ipa_AmE": "AmE /ˈɡɹàʊndɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "citation",
+   "ipa_brE": "BrE /saɪˈteɪʃn/",
+   "ipa_AmE": "AmE /sɑɪˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "verification",
+   "ipa_brE": "BrE /ˌverɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌvɛɹəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "system prompt",
+   "ipa_brE": "BrE /ˈsɪstəm ˌprɒmpt/",
+   "ipa_AmE": "AmE /ˈsɪstəm ˈpɹɑmpt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intent",
+   "ipa_brE": "BrE /ɪnˈtent/",
+   "ipa_AmE": "AmE /ˌɪˈntɛnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dialogue",
+   "ipa_brE": "BrE /ˈdaɪəlɒɡ/",
+   "ipa_AmE": "AmE /ˈdɑɪəˌlɔɡ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "streaming",
+   "ipa_brE": "BrE /ˈstriːmɪŋ/",
+   "ipa_AmE": "AmE /ˈstɹimɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "batching",
+   "ipa_brE": "BrE /ˈbætʃɪŋ/",
+   "ipa_AmE": "AmE /ˈbætʃɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "parallelisation",
+   "ipa_brE": "BrE /ˌpærəlelaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌpæɹəlɛlaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "model registry",
+   "ipa_brE": "BrE /ˈmɒdl ˌredʒɪstri/",
+   "ipa_AmE": "AmE /ˈmɑdəl ˈɹɛdʒɪstɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "training pipeline",
+   "ipa_brE": "BrE /ˈtreɪnɪŋ ˌpaɪplaɪn/",
+   "ipa_AmE": "AmE /ˈtɹéɪnɪŋ ˈpɑɪˌplɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "model card",
+   "ipa_brE": "BrE /ˈmɒdl kɑːd/",
+   "ipa_AmE": "AmE /ˈmɑdəl ˈkɑɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "experiment tracking",
+   "ipa_brE": "BrE /ɪkˈsperɪmənt ˌtrækɪŋ/",
+   "ipa_AmE": "AmE /ɪˈkspɛɹəmənt ˈtɹækɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "random seed",
+   "ipa_brE": "BrE /ˈrændəm siːd/",
+   "ipa_AmE": "AmE /ˈɹændəm ˈsid/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ablation",
+   "ipa_brE": "BrE /əˈbleɪʃn/",
+   "ipa_AmE": "AmE /ˌʌˈbléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cluster",
+   "ipa_brE": "BrE /ˈklʌstə(r)/",
+   "ipa_AmE": "AmE /ˈklʌstɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "checkpoint",
+   "ipa_brE": "BrE /ˈtʃekpɔɪnt/",
+   "ipa_AmE": "AmE /ˈtʃɛˌkpɔɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "resume",
+   "ipa_brE": "BrE /ˈrezjuːm/",
+   "ipa_AmE": "AmE /ɹɪˈzum/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rule engine",
+   "ipa_brE": "BrE /ˈruːl ˌendʒɪn/",
+   "ipa_AmE": "AmE /ˈɹul ˈɛndʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision table",
+   "ipa_brE": "BrE /dɪˈsɪʃn ˌteɪbl/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈtéɪbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "state machine",
+   "ipa_brE": "BrE /ˈsteɪt məˌʃiːn/",
+   "ipa_AmE": "AmE /ˈstéɪt məˈʃin/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trigger",
+   "ipa_brE": "BrE /ˈtrɪɡə(r)/",
+   "ipa_AmE": "AmE /ˈtɹɪɡɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "webhook",
+   "ipa_brE": "BrE /ˈwebhʊk/",
+   "ipa_AmE": "AmE /ˈwɛbhʊk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "polling",
+   "ipa_brE": "BrE /ˈpəʊlɪŋ/",
+   "ipa_AmE": "AmE /ˈpoʊlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "queue",
+   "ipa_brE": "BrE /kjuː/",
+   "ipa_AmE": "AmE /ˈkju/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "priority",
+   "ipa_brE": "BrE /praɪˈɒrəti/",
+   "ipa_AmE": "AmE /pɹɑɪˈɔɹəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "starvation",
+   "ipa_brE": "BrE /ˌstɑːvˈveɪʃn/",
+   "ipa_AmE": "AmE /stɑˈɹvéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scaling",
+   "ipa_brE": "BrE /ˈskeɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈskéɪlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "autoscaler",
+   "ipa_brE": "BrE /ˈɔːtəʊskeɪlə(r)/",
+   "ipa_AmE": "AmE /ˈɔtoʊskeɪlɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "headroom",
+   "ipa_brE": "BrE /ˈhedruːm/",
+   "ipa_AmE": "AmE /ˈhɛˌdɹum/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quantum computing",
+   "ipa_brE": "BrE /ˈkwɒntəm kəmˌpjuːtɪŋ/",
+   "ipa_AmE": "AmE /ˈkwɑntəm kəˈmpjutɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "synthetic biology",
+   "ipa_brE": "BrE /sɪnˈθetɪk baɪˈɒlədʒi/",
+   "ipa_AmE": "AmE /sɪˈnθɛtɪk bɑɪˈɑlədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "neurotechnology",
+   "ipa_brE": "BrE /ˌnjʊərəʊtekˈnɒlədʒi/",
+   "ipa_AmE": "AmE /ˌnjʊɹoʊtɛˈknɑlədʒɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "digital twin",
+   "ipa_brE": "BrE /ˈdɪdʒɪtl twɪn/",
+   "ipa_AmE": "AmE /ˈdɪdʒətəl ˈtwɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "simulation",
+   "ipa_brE": "BrE /ˌsɪmjuˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌsɪmjəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scenario planning",
+   "ipa_brE": "BrE /səˈnɑːriəʊ ˌplænɪŋ/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "autonomous vehicle",
+   "ipa_brE": "BrE /ɔːˈtɒnəməs ˌviːəkl/",
+   "ipa_AmE": "AmE /ɔˈtɑnəməs ˈvihɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lidar",
+   "ipa_brE": "BrE /ˈlaɪdɑː(r)/",
+   "ipa_AmE": "AmE /ˈlaɪdɑɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "sensor fusion",
+   "ipa_brE": "BrE /ˈsensə ˌfjuːʒn/",
+   "ipa_AmE": "AmE /ˈsɛnsɚ ˈfjuʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "5G",
+   "ipa_brE": "BrE /ˌfaɪv ˈdʒiː/",
+   "ipa_AmE": "AmE /ˌfaɪv ˈdʒi/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "wireless",
+   "ipa_brE": "BrE /ˈwaɪələs/",
+   "ipa_AmE": "AmE /ˈwɑɪɹlɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "spectrum",
+   "ipa_brE": "BrE /ˈspektrəm/",
+   "ipa_AmE": "AmE /ˈspɛktɹəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clean energy",
+   "ipa_brE": "BrE /ˌkliːn ˈenədʒi/",
+   "ipa_AmE": "AmE /ˈklin ˈɛnɚdʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "carbon footprint",
+   "ipa_brE": "BrE /ˈkɑːbən ˌfʊtprɪnt/",
+   "ipa_AmE": "AmE /ˈkɑɹbən ˈfʊˌtpɹɪnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sustainability",
+   "ipa_brE": "BrE /səˌsteɪnəˈbɪləti/",
+   "ipa_AmE": "AmE /səˌstéɪnəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "digital transformation",
+   "ipa_brE": "BrE /ˈdɪdʒɪtl ˌtrænsfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈdɪdʒətəl ˌtɹænsfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cloud-native",
+   "ipa_brE": "BrE /ˌklaʊd ˈneɪtɪv/",
+   "ipa_AmE": "AmE /ˈklàʊd ˈnéɪtɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "golden path",
+   "ipa_brE": "BrE /ˌɡʊldən ˈpɑːθ/",
+   "ipa_AmE": "AmE /ˈɡoʊldən ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "developer experience",
+   "ipa_brE": "BrE /dɪˌveləpər ɪkˈspɪəriəns/",
+   "ipa_AmE": "AmE /dɪˈvɛləpɚ ɪˈkspɪɹiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "psychological safety",
+   "ipa_brE": "BrE /ˌsaɪkəˈlɒdʒɪkl ˈseɪfti/",
+   "ipa_AmE": "AmE /ˌsɑɪkəˈlɑdʒɪkəl ˈséɪfti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rotation",
+   "ipa_brE": "BrE /rəʊˈteɪʃn/",
+   "ipa_AmE": "AmE /ɹoʊˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hiring",
+   "ipa_brE": "BrE /ˈhaɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈhɑɪɹɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "talent",
+   "ipa_brE": "BrE /ˈtælənt/",
+   "ipa_AmE": "AmE /ˈtælənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "upskilling",
+   "ipa_brE": "BrE /ˈʌpskɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈʌpskɪlɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "regulation",
+   "ipa_brE": "BrE /ˌreɡjuˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛɡjəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "policy",
+   "ipa_brE": "BrE /ˈpɒləsi/",
+   "ipa_AmE": "AmE /ˈpɑləsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "standard",
+   "ipa_brE": "BrE /ˈstændəd/",
+   "ipa_AmE": "AmE /ˈstændɚd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "specification",
+   "ipa_brE": "BrE /ˌspesɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌspɛsɪfɪˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interoperability",
+   "ipa_brE": "BrE /ˌɪntərˌɒpərəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌɪntəˌɹɑpəɹəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "ecosystem",
+   "ipa_brE": "BrE /ˈiːkəʊsɪstəm/",
+   "ipa_AmE": "AmE /ˈikoʊˌsɪstəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lock-in",
+   "ipa_brE": "BrE /ˈlɒk ɪn/",
+   "ipa_AmE": "AmE /ˈlɑk ɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit strategy",
+   "ipa_brE": "BrE /ˈeksɪt ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "portability",
+   "ipa_brE": "BrE /ˌpɔːtəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌpɔɹtəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "running cost",
+   "ipa_brE": "BrE /ˈrʌnɪŋ kɒst/",
+   "ipa_AmE": "AmE /ˈɹʌnɪŋ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sunk cost",
+   "ipa_brE": "BrE /ˌsʌŋk ˈkɒst/",
+   "ipa_AmE": "AmE /ˈsʌŋk ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opportunity cost",
+   "ipa_brE": "BrE /ˌɒpəˈtjuːnəti kɒst/",
+   "ipa_AmE": "AmE /ˌɑpɚˈtunəti ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sponsor",
+   "ipa_brE": "BrE /ˈspɒnsə(r)/",
+   "ipa_AmE": "AmE /ˈspɑnsɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "champion",
+   "ipa_brE": "BrE /ˈtʃæmpiən/",
+   "ipa_AmE": "AmE /ˈtʃæmpiən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "advocate",
+   "ipa_brE": "BrE /ˈædvəkeɪt/",
+   "ipa_AmE": "AmE /ˈædvəkət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pilot",
+   "ipa_brE": "BrE /ˈpaɪlət/",
+   "ipa_AmE": "AmE /ˈpɑɪlət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rollout",
+   "ipa_brE": "BrE /ˈrəʊlaʊt/",
+   "ipa_AmE": "AmE /ˈɹoʊˌlàʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sandbox",
+   "ipa_brE": "BrE /ˈsændbɒks/",
+   "ipa_AmE": "AmE /ˈsæˌndbɑks/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "instrumentation",
+   "ipa_brE": "BrE /ˌɪnstrəmenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɪnstɹəˌmɛˈntéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "profiling",
+   "ipa_brE": "BrE /ˈprəʊfaɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹoʊˌfɑɪlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hot path",
+   "ipa_brE": "BrE /ˈhɒt pɑːθ/",
+   "ipa_AmE": "AmE /ˈhɑt ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cutover",
+   "ipa_brE": "BrE /ˈkʌtəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈkʌtoʊvɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "rehearsal",
+   "ipa_brE": "BrE /rɪˈhɜːsl/",
+   "ipa_AmE": "AmE /ɹɪˈhɝsəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "blast radius",
+   "ipa_brE": "BrE /ˈblɑːst ˌreɪdiəs/",
+   "ipa_AmE": "AmE /ˈblæst ˈɹéɪdiəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disruption",
+   "ipa_brE": "BrE /dɪsˈrʌpʃn/",
+   "ipa_AmE": "AmE /dɪˈsɹʌpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "commoditisation",
+   "ipa_brE": "BrE /kəˌmɒdɪtaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /kəˌmɑdɪtaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "differentiation",
+   "ipa_brE": "BrE /ˌdɪfərenʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /dɪfɚˌɛnʃiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "moat",
+   "ipa_brE": "BrE /məʊt/",
+   "ipa_AmE": "AmE /ˈmoʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "network effect",
+   "ipa_brE": "BrE /ˈnetwɜːk ɪˌfekt/",
+   "ipa_AmE": "AmE /ˈnɛˌtwɝk ɪˈfɛkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "switching cost",
+   "ipa_brE": "BrE /ˈswɪtʃɪŋ kɒst/",
+   "ipa_AmE": "AmE /ˈswɪtʃɪŋ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "horizon",
+   "ipa_brE": "BrE /həˈraɪzn/",
+   "ipa_AmE": "AmE /hɚˈɑɪzən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bet",
+   "ipa_brE": "BrE /bet/",
+   "ipa_AmE": "AmE /ˈbɛt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "option",
+   "ipa_brE": "BrE /ˈɒpʃn/",
+   "ipa_AmE": "AmE /ˈɑpʃən/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m09": [
+  {
+   "word": "negotiate",
+   "ipa_brE": "BrE /nɪˈɡəʊʃieɪt/",
+   "ipa_AmE": "AmE /nəˈɡoʊʃiˌéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counteroffer",
+   "ipa_brE": "BrE /ˈkaʊntərˌɒfə(r)/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌɔfɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "concession",
+   "ipa_brE": "BrE /kənˈseʃn/",
+   "ipa_AmE": "AmE /kəˈnsɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "leverage",
+   "ipa_brE": "BrE /ˈliːvərɪdʒ/",
+   "ipa_AmE": "AmE /ˈlɛvɚɪdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bargaining chip",
+   "ipa_brE": "BrE /ˈbɑːɡɪnɪŋ tʃɪp/",
+   "ipa_AmE": "AmE /ˈbɑɹɡɪnɪŋ ˈtʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "BATNA",
+   "ipa_brE": "BrE /ˈbætnə/",
+   "ipa_AmE": "AmE /ˈbætnə/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "objection",
+   "ipa_brE": "BrE /əbˈdʒekʃn/",
+   "ipa_AmE": "AmE /əˈbdʒɛkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterargument",
+   "ipa_brE": "BrE /ˈkaʊntərˌɑːɡjumənt/",
+   "ipa_AmE": "AmE /ˈkaʊntəˌɹɑɡjumənt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "impasse",
+   "ipa_brE": "BrE /ɪmˈpæs/",
+   "ipa_AmE": "AmE /ˌɪˈmpæs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "terms",
+   "ipa_brE": "BrE /tɜːmz/",
+   "ipa_AmE": "AmE /ˈtɝmz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clause",
+   "ipa_brE": "BrE /klɔːz/",
+   "ipa_AmE": "AmE /ˈklɔz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "amendment",
+   "ipa_brE": "BrE /əˈmendmənt/",
+   "ipa_AmE": "AmE /əˈmɛndmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "contract",
+   "ipa_brE": "BrE /ˈkɒntrækt/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "agreement",
+   "ipa_brE": "BrE /əˈɡriːmənt/",
+   "ipa_AmE": "AmE /əˈɡɹimənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "addendum",
+   "ipa_brE": "BrE /əˈdendəm/",
+   "ipa_AmE": "AmE /əˈdɛndəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "liability",
+   "ipa_brE": "BrE /ˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌlɑɪəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "indemnity",
+   "ipa_brE": "BrE /ɪnˈdemnəti/",
+   "ipa_AmE": "AmE /ˌɪˈndɛmnəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "warranty",
+   "ipa_brE": "BrE /ˈwɒrənti/",
+   "ipa_AmE": "AmE /ˈwɔɹənti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "slippage",
+   "ipa_brE": "BrE /ˈslɪpɪdʒ/",
+   "ipa_AmE": "AmE /ˈslɪpɪdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "force majeure",
+   "ipa_brE": "BrE /ˌfɔːs mæˈʒɜː(r)/",
+   "ipa_AmE": "AmE /ˈfɔɹs məˈdʒuɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "termination",
+   "ipa_brE": "BrE /ˌtɜːmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "negotiable",
+   "ipa_brE": "BrE /nɪˌɡəʊʃiˈəbl/",
+   "ipa_AmE": "AmE /nəˈɡoʊʃəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "binding",
+   "ipa_brE": "BrE /ˈbaɪndɪŋ/",
+   "ipa_AmE": "AmE /ˈbɑɪndɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "non-binding",
+   "ipa_brE": "BrE /ˌnɒn ˈbaɪndɪŋ/",
+   "ipa_AmE": "AmE /ˈnɑn ˈbɑɪndɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liaison",
+   "ipa_brE": "BrE /liˈeɪzɒn/",
+   "ipa_AmE": "AmE /liˈéɪˌzɑn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "briefing",
+   "ipa_brE": "BrE /ˈbriːfɪŋ/",
+   "ipa_AmE": "AmE /ˈbɹifɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "escalate",
+   "ipa_brE": "BrE /ˈeskəleɪt/",
+   "ipa_AmE": "AmE /ˈɛskəˌléɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clarification",
+   "ipa_brE": "BrE /ˌklærɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌklɛɹəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "confusion",
+   "ipa_brE": "BrE /kənˈfjuːʒn/",
+   "ipa_AmE": "AmE /kəˈnfjuʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ambiguity",
+   "ipa_brE": "BrE /ˌæmbɪˈɡjuːəti/",
+   "ipa_AmE": "AmE /ˌæmbɪˈɡjuəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "executive summary",
+   "ipa_brE": "BrE /ɪɡˈzekjətɪv ˈsʌməri/",
+   "ipa_AmE": "AmE /ɪˈɡzɛkjətɪv ˈsʌmɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recommendation",
+   "ipa_brE": "BrE /ˌrekəmenˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛkəməˈndéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rationale",
+   "ipa_brE": "BrE /ˌræʃəˈnɑːl/",
+   "ipa_AmE": "AmE /ˌɹæʃəˈnæl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pushback",
+   "ipa_brE": "BrE /ˈpʊʃbæk/",
+   "ipa_AmE": "AmE /ˈpʊʃbæk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "resistance",
+   "ipa_brE": "BrE /rɪˈzɪstəns/",
+   "ipa_AmE": "AmE /ɹɪˈzɪstəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coalition",
+   "ipa_brE": "BrE /ˌkəʊəˈlɪʃn/",
+   "ipa_AmE": "AmE /ˌkoʊəˈlɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "performance review",
+   "ipa_brE": "BrE /pəˈfɔːməns rɪˌvjuː/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "appraisal",
+   "ipa_brE": "BrE /əˈpreɪzl/",
+   "ipa_AmE": "AmE /əˈpɹéɪzəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rating",
+   "ipa_brE": "BrE /ˈreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈɹéɪtɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "underperformance",
+   "ipa_brE": "BrE /ˌʌndəpəˈfɔːməns/",
+   "ipa_AmE": "AmE /əndɚpɚˈfɔɹməns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "improvement plan",
+   "ipa_brE": "BrE /ɪmˈpruːvmənt plæn/",
+   "ipa_AmE": "AmE /ˌɪˈmpɹuvmənt ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "counselling",
+   "ipa_brE": "BrE /ˈkaʊnsəlɪŋ/",
+   "ipa_AmE": "AmE /ˈkaʊnsəlɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "promotion",
+   "ipa_brE": "BrE /prəˈməʊʃn/",
+   "ipa_AmE": "AmE /pɹəˈmoʊʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "compensation",
+   "ipa_brE": "BrE /ˌkɒmpenˈseɪʃn/",
+   "ipa_AmE": "AmE /ˌkɑmpəˈnséɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bonus",
+   "ipa_brE": "BrE /ˈbəʊnəs/",
+   "ipa_AmE": "AmE /ˈboʊnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "self-assessment",
+   "ipa_brE": "BrE /ˌself əˈsesmənt/",
+   "ipa_AmE": "AmE /ˈsɛlf əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "calibration",
+   "ipa_brE": "BrE /ˌkælɪˈbreɪʃn/",
+   "ipa_AmE": "AmE /ˌkæləˈbɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "competency",
+   "ipa_brE": "BrE /ˈkɒmpɪtənsi/",
+   "ipa_AmE": "AmE /ˈkɑmpətɪnsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "potential",
+   "ipa_brE": "BrE /pəˈtenʃl/",
+   "ipa_AmE": "AmE /pəˈtɛnʃəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "succession",
+   "ipa_brE": "BrE /səkˈseʃn/",
+   "ipa_AmE": "AmE /səˈksɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mobility",
+   "ipa_brE": "BrE /məʊˈbɪləti/",
+   "ipa_AmE": "AmE /moʊˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "strategic",
+   "ipa_brE": "BrE /strəˈtiːdʒɪk/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tactic",
+   "ipa_brE": "BrE /ˈtæktɪk/",
+   "ipa_AmE": "AmE /ˈtæktɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "portfolio",
+   "ipa_brE": "BrE /pɔːtˈfəʊliəʊ/",
+   "ipa_AmE": "AmE /pɔˈɹtfoʊliˌoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "initiative",
+   "ipa_brE": "BrE /ɪˈnɪʃətɪv/",
+   "ipa_AmE": "AmE /ˌɪˈnɪʃətɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "programme",
+   "ipa_brE": "BrE /ˈprəʊɡræm/",
+   "ipa_AmE": "AmE /ˈpɹoʊˌɡɹæm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mandate",
+   "ipa_brE": "BrE /ˈmændeɪt/",
+   "ipa_AmE": "AmE /ˈmæˌndéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "business case",
+   "ipa_brE": "BrE /ˈbɪznəs keɪs/",
+   "ipa_AmE": "AmE /ˈbɪznəs ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost-benefit",
+   "ipa_brE": "BrE /ˌkɒst ˈbenɪfɪt/",
+   "ipa_AmE": "AmE /ˈkɑst ˈbɛnəfɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payback",
+   "ipa_brE": "BrE /ˈpeɪbæk/",
+   "ipa_AmE": "AmE /ˈpéɪˌbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "critical path",
+   "ipa_brE": "BrE /ˈkrɪtɪkl pɑːθ/",
+   "ipa_AmE": "AmE /ˈkɹɪtɪkəl ˈpæθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "slack",
+   "ipa_brE": "BrE /slæk/",
+   "ipa_AmE": "AmE /ˈslæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "precedence",
+   "ipa_brE": "BrE /ˈpresɪdəns/",
+   "ipa_AmE": "AmE /ˈpɹɛsədəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budget",
+   "ipa_brE": "BrE /ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "headcount",
+   "ipa_brE": "BrE /ˈhedkaʊnt/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "forecast",
+   "ipa_brE": "BrE /ˈfɔːkɑːst/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scorecard",
+   "ipa_brE": "BrE /ˈskɔːkɑːd/",
+   "ipa_AmE": "AmE /ˈskɔˌɹkɑɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "weighting",
+   "ipa_brE": "BrE /ˈweɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈwéɪtɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trajectory",
+   "ipa_brE": "BrE /trəˈjektəri/",
+   "ipa_AmE": "AmE /tɹəˈdʒɛktɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "board",
+   "ipa_brE": "BrE /bɔːd/",
+   "ipa_AmE": "AmE /ˈbɔɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "executive",
+   "ipa_brE": "BrE /ɪɡˈzekjətɪv/",
+   "ipa_AmE": "AmE /ɪˈɡzɛkjətɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "committee",
+   "ipa_brE": "BrE /kəˈmɪti/",
+   "ipa_AmE": "AmE /kəˈmɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "motion",
+   "ipa_brE": "BrE /ˈməʊʃn/",
+   "ipa_AmE": "AmE /ˈmoʊʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "adjournment",
+   "ipa_brE": "BrE /əˈdʒɜːnmənt/",
+   "ipa_AmE": "AmE /əˈdʒɝnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "grievance",
+   "ipa_brE": "BrE /ˈɡriːvəns/",
+   "ipa_AmE": "AmE /ˈɡɹivəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mediation",
+   "ipa_brE": "BrE /ˌmiːdiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˌmidiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "arbitration",
+   "ipa_brE": "BrE /ˌɑːbɪˈtreɪʃn/",
+   "ipa_AmE": "AmE /ˌɑɹbɪˈtɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "litigation",
+   "ipa_brE": "BrE /ˌlɪtɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌlɪtəˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "due diligence",
+   "ipa_brE": "BrE /ˌdjuː ˈdɪlɪdʒəns/",
+   "ipa_AmE": "AmE /ˈdu ˈdɪlədʒəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "disclosure",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "authority",
+   "ipa_brE": "BrE /ɔːˈθɒrəti/",
+   "ipa_AmE": "AmE /əˈθɔɹəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "signatory",
+   "ipa_brE": "BrE /ˈsɪɡnətri/",
+   "ipa_AmE": "AmE /ˈsɪɡnəˌtɔɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterpart",
+   "ipa_brE": "BrE /ˈkaʊntəpɑːt/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌpɑɹt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discretion",
+   "ipa_brE": "BrE /dɪˈskrɪʃn/",
+   "ipa_AmE": "AmE /dɪˈskɹɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "prudent",
+   "ipa_brE": "BrE /ˈpruːdnt/",
+   "ipa_AmE": "AmE /ˈpɹudənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "material",
+   "ipa_brE": "BrE /məˈtɪəriəl/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trust",
+   "ipa_brE": "BrE /trʌst/",
+   "ipa_AmE": "AmE /ˈtɹʌst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "credibility",
+   "ipa_brE": "BrE /ˌkredəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌkɹɛdəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reputation",
+   "ipa_brE": "BrE /ˌrepjuˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛpjəˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m10": [
+  {
+   "word": "change management",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ ˈmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transition",
+   "ipa_brE": "BrE /trænˈzɪʃn/",
+   "ipa_AmE": "AmE /tɹæˈnzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "morale",
+   "ipa_brE": "BrE /məˈrɑːl/",
+   "ipa_AmE": "AmE /mɚˈæl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "culture",
+   "ipa_brE": "BrE /ˈkʌltʃə(r)/",
+   "ipa_AmE": "AmE /ˈkʌltʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "norm",
+   "ipa_brE": "BrE /nɔːm/",
+   "ipa_AmE": "AmE /ˈnɔɹm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ritual",
+   "ipa_brE": "BrE /ˈrɪtʃuəl/",
+   "ipa_AmE": "AmE /ˈɹɪtʃuəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "conflict of interest",
+   "ipa_brE": "BrE /ˈkɒnflɪkt əv ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈkɑnflɪkt ˈʌv ˈɪntɹəst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "recusal",
+   "ipa_brE": "BrE /rɪˈkjuːzl/",
+   "ipa_AmE": "AmE /ɹɪˈkjuzəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "impartiality",
+   "ipa_brE": "BrE /ˌɪmpɑːʃiˈæləti/",
+   "ipa_AmE": "AmE /ˌɪˌmpɑɹʃiˈælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "de-escalation",
+   "ipa_brE": "BrE /ˌdiː ˌeskəˈleɪʃn/",
+   "ipa_AmE": "AmE /ˈdi ˌɛskəˈléɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "conciliation",
+   "ipa_brE": "BrE /ˌkɔːnsɪˈleɪʃn/",
+   "ipa_AmE": "AmE /kəˌnsɪliˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rapport",
+   "ipa_brE": "BrE /ræˈpɔː(r)/",
+   "ipa_AmE": "AmE /ɹæˈpɔɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "nuance",
+   "ipa_brE": "BrE /ˈnjuːɑːns/",
+   "ipa_AmE": "AmE /ˈnuɑns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "etiquette",
+   "ipa_brE": "BrE /ˈetɪket/",
+   "ipa_AmE": "AmE /ˈɛtəkət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stereotype",
+   "ipa_brE": "BrE /ˈsteriətaɪp/",
+   "ipa_AmE": "AmE /ˈstɛɹiəˌtɑɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cross-cultural",
+   "ipa_brE": "BrE /ˌkrɒs ˈkʌltʃərəl/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈkʌltʃɚəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inclusive",
+   "ipa_brE": "BrE /ɪnˈkluːsɪv/",
+   "ipa_AmE": "AmE /ˌɪˈnklusɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "belonging",
+   "ipa_brE": "BrE /bɪˈlɒŋɪŋ/",
+   "ipa_AmE": "AmE /bɪˈlɔŋɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "diversity",
+   "ipa_brE": "BrE /daɪˈvɜːsəti/",
+   "ipa_AmE": "AmE /dɪˈvɝsɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "representation",
+   "ipa_brE": "BrE /ˌreprɪzenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛpɹəzɛˈntéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "equity",
+   "ipa_brE": "BrE /ˈekwəti/",
+   "ipa_AmE": "AmE /ˈɛkwəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "leadership",
+   "ipa_brE": "BrE /ˈliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˈlidɚˌʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "delegation",
+   "ipa_brE": "BrE /ˌdelɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛləˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mentoring",
+   "ipa_brE": "BrE /ˈmentɔːrɪŋ/",
+   "ipa_AmE": "AmE /ˈmɛntɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coaching",
+   "ipa_brE": "BrE /ˈkəʊtʃɪŋ/",
+   "ipa_AmE": "AmE /ˈkoʊtʃɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mentorship",
+   "ipa_brE": "BrE /ˈmentʃɪp/",
+   "ipa_AmE": "AmE /ˈmɛntɚˌʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "probation",
+   "ipa_brE": "BrE /prəˈbeɪʃn/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "empowerment",
+   "ipa_brE": "BrE /ɪmˈpaʊəmənt/",
+   "ipa_AmE": "AmE /ɪˈmpàʊɚmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "autonomy",
+   "ipa_brE": "BrE /ɔːˈtɒnəmi/",
+   "ipa_AmE": "AmE /ɔˈtɑnəmi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "candour",
+   "ipa_brE": "BrE /ˈkandə/",
+   "ipa_AmE": "AmE /ˈkændɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "workforce",
+   "ipa_brE": "BrE /ˈwɜːkfɔːs/",
+   "ipa_AmE": "AmE /ˈwɝˌkfɔɹs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "attrition",
+   "ipa_brE": "BrE /əˈtrɪʃn/",
+   "ipa_AmE": "AmE /əˈtɹɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "utilisation",
+   "ipa_brE": "BrE /ˌjuːtɪlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌjutələˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "succession planning",
+   "ipa_brE": "BrE /səkˈseʃn ˌplænɪŋ/",
+   "ipa_AmE": "AmE /səˈksɛʃən ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "knowledge transfer",
+   "ipa_brE": "BrE /ˈnɒlɪdʒ ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /ˈnɑlədʒ tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cross-training",
+   "ipa_brE": "BrE /ˌkrɒs ˈtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "segmentation",
+   "ipa_brE": "BrE /ˌseɡmenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌsɛɡməˈntéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "niche",
+   "ipa_brE": "BrE /niːʃ/",
+   "ipa_AmE": "AmE /ˈnɪtʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "incumbent",
+   "ipa_brE": "BrE /ɪnˈkʌmbənt/",
+   "ipa_AmE": "AmE /ˌɪˈnkʌmbənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "commodity",
+   "ipa_brE": "BrE /kəˈmɒdəti/",
+   "ipa_AmE": "AmE /kəˈmɑdəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "substitution",
+   "ipa_brE": "BrE /ˌsʌbstɪˈtjuːʃn/",
+   "ipa_AmE": "AmE /ˌsʌbstɪˈtuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "threat",
+   "ipa_brE": "BrE /θret/",
+   "ipa_AmE": "AmE /ˈθɹɛt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "weakness",
+   "ipa_brE": "BrE /ˈwiːknəs/",
+   "ipa_AmE": "AmE /ˈwiknəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "strength",
+   "ipa_brE": "BrE /streŋθ/",
+   "ipa_AmE": "AmE /ˈstɹɛŋkθ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "advantage",
+   "ipa_brE": "BrE /ədˈvɑːntɪdʒ/",
+   "ipa_AmE": "AmE /æˈdvæntɪdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "operating model",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value chain",
+   "ipa_brE": "BrE /ˈvæljuː tʃeɪn/",
+   "ipa_AmE": "AmE /ˈvælju ˈtʃéɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "margin",
+   "ipa_brE": "BrE /ˈmɑːdʒɪn/",
+   "ipa_AmE": "AmE /ˈmɑɹdʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "revenue",
+   "ipa_brE": "BrE /ˈrevənjuː/",
+   "ipa_AmE": "AmE /ˈɹɛvəˌnu/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bookings",
+   "ipa_brE": "BrE /ˈbʊkɪŋz/",
+   "ipa_AmE": "AmE /ˈbʊkɪŋz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discount",
+   "ipa_brE": "BrE /ˈdɪskaʊnt/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cash flow",
+   "ipa_brE": "BrE /ˈkæʃ fləʊ/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈfloʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "receivable",
+   "ipa_brE": "BrE /rɪˈsiːvəbl/",
+   "ipa_AmE": "AmE /ɹɪˈsivəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "payable",
+   "ipa_brE": "BrE /ˈpeɪəbl/",
+   "ipa_AmE": "AmE /ˈpéɪəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sensitivity",
+   "ipa_brE": "BrE /ˌsensəˈtɪvəti/",
+   "ipa_AmE": "AmE /ˌsɛnsɪˈtɪvɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "variable",
+   "ipa_brE": "BrE /ˈveəriəbl/",
+   "ipa_AmE": "AmE /ˈvɛɹiəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "projection",
+   "ipa_brE": "BrE /prəˈdʒekʃn/",
+   "ipa_AmE": "AmE /pɹəˈdʒɛkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "risk register",
+   "ipa_brE": "BrE /ˈrɪsk ˌredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "severity",
+   "ipa_brE": "BrE /sɪˈverəti/",
+   "ipa_AmE": "AmE /sɪˈvɛɹɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "warning sign",
+   "ipa_brE": "BrE /ˈwɔːnɪŋ saɪn/",
+   "ipa_AmE": "AmE /ˈwɔɹnɪŋ ˈsɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "paradigm",
+   "ipa_brE": "BrE /ˈpærədaɪm/",
+   "ipa_AmE": "AmE /ˈpɛɹəˌdɑɪm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "principle",
+   "ipa_brE": "BrE /ˈprɪnsəpl/",
+   "ipa_AmE": "AmE /ˈpɹɪnsəpəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scepticism",
+   "ipa_brE": "BrE /ˈskeptɪsɪzəm/",
+   "ipa_AmE": "AmE /ˈskɛptɪsɪzəm/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "diplomacy",
+   "ipa_brE": "BrE /dɪˈpləʊməsi/",
+   "ipa_AmE": "AmE /dɪˈploʊməsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "courtesy",
+   "ipa_brE": "BrE /ˈkɜːtəsi/",
+   "ipa_AmE": "AmE /ˈkɝtəsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tact",
+   "ipa_brE": "BrE /tækt/",
+   "ipa_AmE": "AmE /ˈtækt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "assertiveness",
+   "ipa_brE": "BrE /əˈsɜːtɪvnəs/",
+   "ipa_AmE": "AmE /əˈsɝtɪvnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "listening",
+   "ipa_brE": "BrE /ˈlɪsənɪŋ/",
+   "ipa_AmE": "AmE /ˈlɪsənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "humility",
+   "ipa_brE": "BrE /hjuːˈmɪləti/",
+   "ipa_AmE": "AmE /hjuˈmɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "chain of command",
+   "ipa_brE": "BrE /ˌtʃeɪn əv kəˈmɑːnd/",
+   "ipa_AmE": "AmE /ˈtʃéɪn ˈʌv kəˈmænd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "span of control",
+   "ipa_brE": "BrE /ˌspæn əv kənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˈspæn ˈʌv kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "centralisation",
+   "ipa_brE": "BrE /ˌsentrəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌsɛntɹəlɪˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "decentralisation",
+   "ipa_brE": "BrE /ˌdiːsentrəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /dɪˌsɛntɹəlɪˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "subsidiary",
+   "ipa_brE": "BrE /səbˈsɪdiəri/",
+   "ipa_AmE": "AmE /səˈbsɪdiˌɛɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consortium",
+   "ipa_brE": "BrE /kənˈsɔːʃiəm/",
+   "ipa_AmE": "AmE /kəˈnsɔɹʃiəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "outsourcing",
+   "ipa_brE": "BrE /ˈɔːtsəʊsɪŋ/",
+   "ipa_AmE": "AmE /ˌàʊˈtsɔɹsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offshoring",
+   "ipa_brE": "BrE /ˌɒfˈʃɔːrɪŋ/",
+   "ipa_AmE": "AmE /ˌɑˈfʃɔɹɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "insourcing",
+   "ipa_brE": "BrE /ˈɪnsɔːsɪŋ/",
+   "ipa_AmE": "AmE /ˈɪnsɔɹsɪŋ/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "contractor",
+   "ipa_brE": "BrE /kənˈtræktə(r)/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹæktɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "turnover",
+   "ipa_brE": "BrE /ˈtɜːnəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈtɝˌnoʊvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "notice period",
+   "ipa_brE": "BrE /ˈnəʊtɪs ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈnoʊtəs ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "timesheet",
+   "ipa_brE": "BrE /ˈtaɪmʃiːt/",
+   "ipa_AmE": "AmE /ˈtaɪmʃit/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "billable",
+   "ipa_brE": "BrE /ˈbɪləbl/",
+   "ipa_AmE": "AmE /ˈbɪləbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "overhead",
+   "ipa_brE": "BrE /ˈəʊvəhed/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌhɛd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fiscal",
+   "ipa_brE": "BrE /ˈfɪskl/",
+   "ipa_AmE": "AmE /ˈfɪskəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quarter",
+   "ipa_brE": "BrE /ˈkwɔːtə(r)/",
+   "ipa_AmE": "AmE /ˈkwɔɹtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "run rate",
+   "ipa_brE": "BrE /ˈrʌn reɪt/",
+   "ipa_AmE": "AmE /ˈɹʌn ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "steering committee",
+   "ipa_brE": "BrE /ˈstɪərɪŋ kəˌmɪti/",
+   "ipa_AmE": "AmE /ˈstɪɹɪŋ kəˈmɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision log",
+   "ipa_brE": "BrE /dɪˈsɪʒn lɒɡ/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dissent",
+   "ipa_brE": "BrE /dɪˈsent/",
+   "ipa_AmE": "AmE /dɪˈsɛnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tenure",
+   "ipa_brE": "BrE /ˈtenjə(r)/",
+   "ipa_AmE": "AmE /ˈtɛnjɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accomplishment",
+   "ipa_brE": "BrE /əˈkʌmplɪʃmənt/",
+   "ipa_AmE": "AmE /əˈkɑmplɪʃmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "integrity",
+   "ipa_brE": "BrE /ɪnˈteɡrəti/",
+   "ipa_AmE": "AmE /ˌɪˈntɛɡɹəti/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m11": [
+  {
+   "word": "market share",
+   "ipa_brE": "BrE /ˈmɑːkɪt ʃeə(r)/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈʃɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "penetration",
+   "ipa_brE": "BrE /ˌpenɪˈtreɪʃn/",
+   "ipa_AmE": "AmE /ˌpɛnəˈtɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "target audience",
+   "ipa_brE": "BrE /ˈtɑːɡɪt ˌɔːdiəns/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət ˈɑdiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "awareness",
+   "ipa_brE": "BrE /əˈweənəs/",
+   "ipa_AmE": "AmE /əˈwɛɹnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consideration",
+   "ipa_brE": "BrE /kənˌsɪdəˈreɪʃn/",
+   "ipa_AmE": "AmE /kəˌnsɪdɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "brand equity",
+   "ipa_brE": "BrE /ˌbrænd ˈekwəti/",
+   "ipa_AmE": "AmE /ˈbɹænd ˈɛkwəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "perception",
+   "ipa_brE": "BrE /pəˈsepʃn/",
+   "ipa_AmE": "AmE /pɚˈsɛpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "loyalty",
+   "ipa_brE": "BrE /ˈlɔɪəlti/",
+   "ipa_AmE": "AmE /ˈlɔɪəlti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "campaign",
+   "ipa_brE": "BrE /kæmˈpeɪn/",
+   "ipa_AmE": "AmE /kæˈmpéɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "channel",
+   "ipa_brE": "BrE /ˈtʃænl/",
+   "ipa_AmE": "AmE /ˈtʃænəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "touchpoint",
+   "ipa_brE": "BrE /ˈtʌtʃpɔɪnt/",
+   "ipa_AmE": "AmE /ˈtʌtʃpɔɪnt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "content marketing",
+   "ipa_brE": "BrE /ˈkɒntent ˌmɑːkɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑntɛnt ˈmɑɹkətɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "search visibility",
+   "ipa_brE": "BrE /ˌsɜːtʃ ˌvɪzəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈsɝtʃ ˌvɪzəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "impression",
+   "ipa_brE": "BrE /ɪmˈpreʃn/",
+   "ipa_AmE": "AmE /ˌɪˈmpɹɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "click-through rate",
+   "ipa_brE": "BrE /ˌklɪk θruː ˈreɪt/",
+   "ipa_AmE": "AmE /ˈklɪk ˈθɹu ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cost per click",
+   "ipa_brE": "BrE /ˌkɒst pə ˈklɪk/",
+   "ipa_AmE": "AmE /ˈkɑst ˈpɝ ˈklɪk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "impression share",
+   "ipa_brE": "BrE /ɪmˌpreʃn ˈʃeə(r)/",
+   "ipa_AmE": "AmE /ˌɪˈmpɹɛʃən ˈʃɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "return on investment",
+   "ipa_brE": "BrE /rɪˌtɜːn ɒn ɪnˈvestmənt/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈɑn ˌɪˈnvɛstmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "profitability",
+   "ipa_brE": "BrE /ˌprɒfɪtəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌpɹɑfɪtəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "break-even",
+   "ipa_brE": "BrE /ˈbreɪk iːvən/",
+   "ipa_AmE": "AmE /ˈbɹéɪk ˈivɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "customer journey",
+   "ipa_brE": "BrE /ˈkʌstəmə ˈdʒɜːni/",
+   "ipa_AmE": "AmE /ˈkʌstəmɚ ˈdʒɝni/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "word of mouth",
+   "ipa_brE": "BrE /ˌwɜːd əv ˈmaʊθ/",
+   "ipa_AmE": "AmE /ˈwɝd ˈʌv ˈmàʊθ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "testimonial",
+   "ipa_brE": "BrE /ˌtestɪˈməʊniəl/",
+   "ipa_AmE": "AmE /ˌtɛstəˈmoʊniəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "social proof",
+   "ipa_brE": "BrE /ˌsəʊʃl ˈpruːf/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl ˈpɹuf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "case study",
+   "ipa_brE": "BrE /ˈkeɪs ˌstʌdi/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈstʌdi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "review",
+   "ipa_brE": "BrE /rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˌɹiˈvju/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "product launch",
+   "ipa_brE": "BrE /ˈprɒdʌkt lɔːntʃ/",
+   "ipa_AmE": "AmE /ˈpɹɑdəkt ˈlɔntʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "go-to-market",
+   "ipa_brE": "BrE /ˌɡəʊ tə ˈmɑːkɪt/",
+   "ipa_AmE": "AmE /ˈɡoʊ ˈtu ˈmɑɹkət/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "narrative",
+   "ipa_brE": "BrE /ˈnærətɪv/",
+   "ipa_AmE": "AmE /ˈnæɹətɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fundraising",
+   "ipa_brE": "BrE /ˈfʌndreɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈfʌˌndɹéɪsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "shareholder",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə(r)/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "liquidity",
+   "ipa_brE": "BrE /lɪˈkwɪdəti/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "venture capital",
+   "ipa_brE": "BrE /ˈventʃə ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈvɛntʃɚ ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "term sheet",
+   "ipa_brE": "BrE /ˈtɜːm ʃiːt/",
+   "ipa_AmE": "AmE /ˈtɝm ˈʃit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cap table",
+   "ipa_brE": "BrE /ˈkæp ˌteɪbl/",
+   "ipa_AmE": "AmE /ˈkæp ˈtéɪbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pitch",
+   "ipa_brE": "BrE /pɪtʃ/",
+   "ipa_AmE": "AmE /ˈpɪtʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "data room",
+   "ipa_brE": "BrE /ˈdeɪtə ruːm/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈɹum/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "runway",
+   "ipa_brE": "BrE /ˈrʌnweɪ/",
+   "ipa_AmE": "AmE /ˈɹʌˌnwéɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "acquisition",
+   "ipa_brE": "BrE /ˌækwɪˈzɪʃn/",
+   "ipa_AmE": "AmE /ˌækwəˈzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "merger",
+   "ipa_brE": "BrE /ˈmɜːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈmɝdʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "divestiture",
+   "ipa_brE": "BrE /daɪˈvestɪtʃə(r)/",
+   "ipa_AmE": "AmE /dɪˈvɛstɪtʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "shareholder value",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "earnings",
+   "ipa_brE": "BrE /ˈɜːnɪŋz/",
+   "ipa_AmE": "AmE /ˈɝnɪŋz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dividend",
+   "ipa_brE": "BrE /ˈdɪvɪdend/",
+   "ipa_AmE": "AmE /ˈdɪvɪˌdɛnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "credit rating",
+   "ipa_brE": "BrE /ˈkredɪt ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈkɹɛdət ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant",
+   "ipa_brE": "BrE /ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˈkʌvənənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capital expenditure",
+   "ipa_brE": "BrE /ˈkæpɪtl ɪkˌspendɪtʃə/",
+   "ipa_AmE": "AmE /ˈkæpətəl ɪˈkspɛndətʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operating expenditure",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ɪkˌspendɪtʃə/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ɪˈkspɛndətʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "subsidy",
+   "ipa_brE": "BrE /ˈsʌbsədi/",
+   "ipa_AmE": "AmE /ˈsʌbsɪdi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "grant",
+   "ipa_brE": "BrE /ɡrɑːnt/",
+   "ipa_AmE": "AmE /ˈɡɹænt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rebate",
+   "ipa_brE": "BrE /ˈriːbeɪt/",
+   "ipa_AmE": "AmE /ˈɹiˌbéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tax credit",
+   "ipa_brE": "BrE /ˈtæks ˌkredɪt/",
+   "ipa_AmE": "AmE /ˈtæks ˈkɹɛdət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tender",
+   "ipa_brE": "BrE /ˈtendə(r)/",
+   "ipa_AmE": "AmE /ˈtɛndɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bid",
+   "ipa_brE": "BrE /bɪd/",
+   "ipa_AmE": "AmE /ˈbɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ESG",
+   "ipa_brE": "BrE /ˌiː es ˈdʒiː/",
+   "ipa_AmE": "AmE /ˌi ɛs ˈdʒi/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "stewardship",
+   "ipa_brE": "BrE /ˈstjuːədʃɪp/",
+   "ipa_AmE": "AmE /ˈstuɚˌdʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "materiality",
+   "ipa_brE": "BrE /məˌtɪəriˈæləti/",
+   "ipa_AmE": "AmE /məˌtɪɹiˈælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "market trend",
+   "ipa_brE": "BrE /ˈmɑːkɪt trend/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈtɹɛnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "headwind",
+   "ipa_brE": "BrE /ˈhedwɪnd/",
+   "ipa_AmE": "AmE /ˈhɛˌdwɪnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tailwind",
+   "ipa_brE": "BrE /ˈteɪlwɪnd/",
+   "ipa_AmE": "AmE /ˈteɪlwɪnd/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "cycle",
+   "ipa_brE": "BrE /ˈsaɪkl/",
+   "ipa_AmE": "AmE /ˈsɑɪkəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "seasonality",
+   "ipa_brE": "BrE /ˌsiːzənˈæləti/",
+   "ipa_AmE": "AmE /ˈsizəˌnælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "slowdown",
+   "ipa_brE": "BrE /ˈsləʊdaʊn/",
+   "ipa_AmE": "AmE /ˈsloʊˌdàʊn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "adjacency",
+   "ipa_brE": "BrE /əˈdʒeɪsənsi/",
+   "ipa_AmE": "AmE /əˈdʒeɪsənsɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "mindshare",
+   "ipa_brE": "BrE /ˈmaɪndʃeə(r)/",
+   "ipa_AmE": "AmE /ˈmaɪndʃɛɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "platform",
+   "ipa_brE": "BrE /ˈplætfɔːm/",
+   "ipa_AmE": "AmE /ˈplæˌtfɔɹm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "takeaway",
+   "ipa_brE": "BrE /ˈteɪkəweɪ/",
+   "ipa_AmE": "AmE /ˈtéɪkəˌwéɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bottom line",
+   "ipa_brE": "BrE /ˈbɒtəm laɪn/",
+   "ipa_AmE": "AmE /ˈbɑtəm ˈlɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "synopsis",
+   "ipa_brE": "BrE /ˈsɪnəpsɪs/",
+   "ipa_AmE": "AmE /sɪˈnɑpsɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "caveat",
+   "ipa_brE": "BrE /ˈkæviæt/",
+   "ipa_AmE": "AmE /ˈkéɪviˌæt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "premise",
+   "ipa_brE": "BrE /ˈpremɪs/",
+   "ipa_AmE": "AmE /ˈpɹɛmɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rationalisation",
+   "ipa_brE": "BrE /ˌræʃnəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹæʃənəlɪˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bottom-up",
+   "ipa_brE": "BrE /ˌbɒtəm ˈʌp/",
+   "ipa_AmE": "AmE /ˈbɑtəm ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "top-down",
+   "ipa_brE": "BrE /ˌtɒp ˈdaʊn/",
+   "ipa_AmE": "AmE /ˈtɑp ˈdàʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "systemic",
+   "ipa_brE": "BrE /sɪˈstemɪk/",
+   "ipa_AmE": "AmE /sɪˈstɛmɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "outcome",
+   "ipa_brE": "BrE /ˈaʊtkʌm/",
+   "ipa_AmE": "AmE /ˈàʊˌtkʌm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "precedent",
+   "ipa_brE": "BrE /ˈpresɪdənt/",
+   "ipa_AmE": "AmE /ˈpɹɛsɪdənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "implication",
+   "ipa_brE": "BrE /ˌɪmplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪmpləˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clarity",
+   "ipa_brE": "BrE /ˈklærəti/",
+   "ipa_AmE": "AmE /ˈklɛɹəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "concision",
+   "ipa_brE": "BrE /kənˈsɪʃn/",
+   "ipa_AmE": "AmE /kəˈnsɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "emphasis",
+   "ipa_brE": "BrE /ˈemfəsɪs/",
+   "ipa_AmE": "AmE /ˈɛmfəsəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "highlight",
+   "ipa_brE": "BrE /ˈhaɪlaɪt/",
+   "ipa_AmE": "AmE /ˈhɑɪˌlɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "underline",
+   "ipa_brE": "BrE /ˌʌndəˈlaɪn/",
+   "ipa_AmE": "AmE /ˈʌndɚˌlɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reinforce",
+   "ipa_brE": "BrE /ˌriːɪnˈfɔːs/",
+   "ipa_AmE": "AmE /ˌɹiɪˈnfɔɹs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recap",
+   "ipa_brE": "BrE /ˈriːkæp/",
+   "ipa_AmE": "AmE /ˈɹiˌkæp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "summary",
+   "ipa_brE": "BrE /ˈsʌməri/",
+   "ipa_AmE": "AmE /ˈsʌmɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "distil",
+   "ipa_brE": "BrE /dɪˈstɪl/",
+   "ipa_AmE": "AmE /dɪˈstɪl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "showcase",
+   "ipa_brE": "BrE /ˈʃəʊkeɪs/",
+   "ipa_AmE": "AmE /ˈʃoʊˌkéɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "spotlight",
+   "ipa_brE": "BrE /ˈspɒtlaɪt/",
+   "ipa_AmE": "AmE /ˈspɑˌtlɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "yardstick",
+   "ipa_brE": "BrE /ˈjɑːdstɪk/",
+   "ipa_AmE": "AmE /ˈjɑˌɹdstɪk/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m12": [
+  {
+   "word": "innovation",
+   "ipa_brE": "BrE /ˌɪnəˈveɪʃn/",
+   "ipa_AmE": "AmE /ˌɪnəˈvéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "incumbency",
+   "ipa_brE": "BrE /ɪnˈkʌmbənsi/",
+   "ipa_AmE": "AmE /ˌɪˈnkʌmbənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "obsolescence",
+   "ipa_brE": "BrE /ˌɒbsəˈlesns/",
+   "ipa_AmE": "AmE /ˌɑbsəˈlɛsəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "adaptability",
+   "ipa_brE": "BrE /əˌdæptəˈbɪləti/",
+   "ipa_AmE": "AmE /əˌdæptəˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "agility",
+   "ipa_brE": "BrE /əˈdʒɪləti/",
+   "ipa_AmE": "AmE /əˈdʒɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "versatility",
+   "ipa_brE": "BrE /ˌvɜːsəˈtɪləti/",
+   "ipa_AmE": "AmE /ˌvɝsəˈtɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "early adopter",
+   "ipa_brE": "BrE /ˌɜːli əˈdɒptə(r)/",
+   "ipa_AmE": "AmE /ˈɝli əˈdɑptɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fast follower",
+   "ipa_brE": "BrE /ˌfɑːst ˈfɒləʊə(r)/",
+   "ipa_AmE": "AmE /ˈfæst ˈfɑloʊɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "laggard",
+   "ipa_brE": "BrE /ˈlæɡɑːd/",
+   "ipa_AmE": "AmE /ˈlæɡɚd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "progression",
+   "ipa_brE": "BrE /prəˈɡreʃn/",
+   "ipa_AmE": "AmE /pɹəˈɡɹɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "apprenticeship",
+   "ipa_brE": "BrE /əˈprentɪʃɪp/",
+   "ipa_AmE": "AmE /əˈpɹɛntəˌsʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "secondment",
+   "ipa_brE": "BrE /sɪˈkɒndmənt/",
+   "ipa_AmE": "AmE /sɪˈkɑndmənt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "networking",
+   "ipa_brE": "BrE /ˈnetwɜːkɪŋ/",
+   "ipa_AmE": "AmE /ˈnɛˌtwɝkɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "visibility",
+   "ipa_brE": "BrE /ˌvɪzəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌvɪzəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "track record",
+   "ipa_brE": "BrE /ˈtræk ˌrekɔːd/",
+   "ipa_AmE": "AmE /ˈtɹæk ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reference",
+   "ipa_brE": "BrE /ˈrefrəns/",
+   "ipa_AmE": "AmE /ˈɹɛfɹəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "credential",
+   "ipa_brE": "BrE /krəˈdenʃl/",
+   "ipa_AmE": "AmE /kɹɪˈdɛnʃəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accreditation",
+   "ipa_brE": "BrE /əˌkredɪˈteɪʃn/",
+   "ipa_AmE": "AmE /əˌkɹɛdəˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "disruptor",
+   "ipa_brE": "BrE /dɪsˈrʌptə(r)/",
+   "ipa_AmE": "AmE /dɪˈsɹʌptɚ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "saturation",
+   "ipa_brE": "BrE /ˌsætʃəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌsætʃɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inertia",
+   "ipa_brE": "BrE /ɪˈnɜːʃə/",
+   "ipa_AmE": "AmE /ˌɪˈnɝʃə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bargaining power",
+   "ipa_brE": "BrE /ˈbɑːɡɪnɪŋ ˌpaʊə(r)/",
+   "ipa_AmE": "AmE /ˈbɑɹɡɪnɪŋ ˈpàʊɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consolidation",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /kəˌnsɑləˈdéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pricing power",
+   "ipa_brE": "BrE /ˈpraɪsɪŋ ˌpaʊə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɑɪsɪŋ ˈpàʊɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fixed cost",
+   "ipa_brE": "BrE /ˌfɪkst ˈkɒst/",
+   "ipa_AmE": "AmE /ˈfɪkst ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contribution",
+   "ipa_brE": "BrE /ˌkɒntrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /ˌkɑntɹəˈbjuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "marginal cost",
+   "ipa_brE": "BrE /ˌmɑːdʒɪnl ˈkɒst/",
+   "ipa_AmE": "AmE /ˈmɑɹdʒənəl ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "succinct",
+   "ipa_brE": "BrE /səkˈsɪŋkt/",
+   "ipa_AmE": "AmE /səˈksɪŋkt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "eloquent",
+   "ipa_brE": "BrE /ˈeləkwənt/",
+   "ipa_AmE": "AmE /ˈɛləkwənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "nuanced",
+   "ipa_brE": "BrE /ˈnjuːɑːnst/",
+   "ipa_AmE": "AmE /ˈnuɑnst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "blunt",
+   "ipa_brE": "BrE /blʌnt/",
+   "ipa_AmE": "AmE /ˈblʌnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "frank",
+   "ipa_brE": "BrE /fræŋk/",
+   "ipa_AmE": "AmE /ˈfɹæŋk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pragmatic",
+   "ipa_brE": "BrE /præɡˈmætɪk/",
+   "ipa_AmE": "AmE /pɹæˈɡmætɪk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "restraint",
+   "ipa_brE": "BrE /rɪˈstreɪnt/",
+   "ipa_AmE": "AmE /ɹɪˈstɹéɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "impartial",
+   "ipa_brE": "BrE /ɪmˈpɑːʃl/",
+   "ipa_AmE": "AmE /ˌɪˈmpɑɹʃəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "objectivity",
+   "ipa_brE": "BrE /ˌɒbdʒekˈtɪvəti/",
+   "ipa_AmE": "AmE /ˌɑbdʒɛˈktɪvɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "synthesis",
+   "ipa_brE": "BrE /ˈsɪnθəsɪs/",
+   "ipa_AmE": "AmE /ˈsɪnθəsəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "curate",
+   "ipa_brE": "BrE /kjʊˈreɪt/",
+   "ipa_AmE": "AmE /ˈkjʊɹət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "salient",
+   "ipa_brE": "BrE /ˈseɪliənt/",
+   "ipa_AmE": "AmE /ˈséɪliənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "underlying",
+   "ipa_brE": "BrE /ˌʌndəˈlaɪɪŋ/",
+   "ipa_AmE": "AmE /ˌʌndɚˈlɑɪɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "aspiration",
+   "ipa_brE": "BrE /ˌæspəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌæspɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "acumen",
+   "ipa_brE": "BrE /ˈækjəmən/",
+   "ipa_AmE": "AmE /əˈkjumən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "foresight",
+   "ipa_brE": "BrE /ˈfɔːsaɪt/",
+   "ipa_AmE": "AmE /ˈfɔˌɹsɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "prudence",
+   "ipa_brE": "BrE /ˈpruːdns/",
+   "ipa_AmE": "AmE /ˈpɹudəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "impetus",
+   "ipa_brE": "BrE /ˈɪmpɪtəs/",
+   "ipa_AmE": "AmE /ˈɪmpətəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "watershed",
+   "ipa_brE": "BrE /ˈwɔːtʃed/",
+   "ipa_AmE": "AmE /ˈwɔtɚˌʃɛd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inflection",
+   "ipa_brE": "BrE /ɪnˈflekʃn/",
+   "ipa_AmE": "AmE /ˌɪˈnflɛkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "zenith",
+   "ipa_brE": "BrE /ˈzenɪθ/",
+   "ipa_AmE": "AmE /ˈzinəθ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "upgrade",
+   "ipa_brE": "BrE /ˌʌpˈɡreɪd/",
+   "ipa_AmE": "AmE /əˈpɡɹéɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "maintenance",
+   "ipa_brE": "BrE /ˈmeɪntənəns/",
+   "ipa_AmE": "AmE /ˈméɪntənəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "longevity",
+   "ipa_brE": "BrE /lɒnˈdʒevəti/",
+   "ipa_AmE": "AmE /lɔˈndʒɛvəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "transform",
+   "ipa_brE": "BrE /trænsˈfɔːm/",
+   "ipa_AmE": "AmE /tɹæˈnsfɔɹm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "overhaul",
+   "ipa_brE": "BrE /ˈəʊvəhɔːl/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌhɔl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "replacement",
+   "ipa_brE": "BrE /rɪˈpleɪsmənt/",
+   "ipa_AmE": "AmE /ɹɪˈpléɪsmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "decommission",
+   "ipa_brE": "BrE /ˌdiːkəˈmɪʃn/",
+   "ipa_AmE": "AmE /dikəˈmɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "retire",
+   "ipa_brE": "BrE /rɪˈtaɪə(r)/",
+   "ipa_AmE": "AmE /ˌɹiˈtɑɪɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sunset",
+   "ipa_brE": "BrE /ˈsʌnset/",
+   "ipa_AmE": "AmE /ˈsʌˌnsɛt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stipulate",
+   "ipa_brE": "BrE /ˈstɪpjuleɪt/",
+   "ipa_AmE": "AmE /ˈstɪpjəˌléɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "notwithstanding",
+   "ipa_brE": "BrE /ˌnɒtwɪðˈstændɪŋ/",
+   "ipa_AmE": "AmE /ˌnɑtwɪˈθstændɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "amend",
+   "ipa_brE": "BrE /əˈmend/",
+   "ipa_AmE": "AmE /əˈmɛnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "alleviate",
+   "ipa_brE": "BrE /əˈliːvieɪt/",
+   "ipa_AmE": "AmE /əˈliviˌéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterbalance",
+   "ipa_brE": "BrE /ˈkaʊntəbæləns/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌbæləns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offset",
+   "ipa_brE": "BrE /ˈɒfset/",
+   "ipa_AmE": "AmE /ɔˈfsɛt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "persistence",
+   "ipa_brE": "BrE /pəˈsɪstəns/",
+   "ipa_AmE": "AmE /pɚˈsɪstəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "diligence",
+   "ipa_brE": "BrE /ˈdɪlɪdʒəns/",
+   "ipa_AmE": "AmE /ˈdɪlədʒəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tenacity",
+   "ipa_brE": "BrE /təˈnæsəti/",
+   "ipa_AmE": "AmE /təˈnæsɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cyclical",
+   "ipa_brE": "BrE /ˈsɪklɪkl/",
+   "ipa_AmE": "AmE /ˈsɑɪklɪkəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "countercyclical",
+   "ipa_brE": "BrE /ˌkaʊntəˈsɪklɪkl/",
+   "ipa_AmE": "AmE /ˌkaʊntəˈsɪklɪkl/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "structural",
+   "ipa_brE": "BrE /ˈstrʌktʃərəl/",
+   "ipa_AmE": "AmE /ˈstɹʌktʃɚəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "frugality",
+   "ipa_brE": "BrE /fruːˈɡæləti/",
+   "ipa_AmE": "AmE /fɹuˈɡæləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lean",
+   "ipa_brE": "BrE /liːn/",
+   "ipa_AmE": "AmE /ˈlin/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discipline",
+   "ipa_brE": "BrE /ˈdɪsəplɪn/",
+   "ipa_AmE": "AmE /ˈdɪsəplən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hype",
+   "ipa_brE": "BrE /haɪp/",
+   "ipa_AmE": "AmE /ˈhɑɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hype cycle",
+   "ipa_brE": "BrE /ˈhaɪp ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈhɑɪp ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disillusionment",
+   "ipa_brE": "BrE /ˌdɪsɪˈluːznənt/",
+   "ipa_AmE": "AmE /ˌdɪsɪˈluʒənmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "proof",
+   "ipa_brE": "BrE /pruːf/",
+   "ipa_AmE": "AmE /ˈpɹuf/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "validation",
+   "ipa_brE": "BrE /ˌvælɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˌvæləˈdéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "evidence",
+   "ipa_brE": "BrE /ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˈɛvədəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "precondition",
+   "ipa_brE": "BrE /ˌpriːkənˈdɪʃn/",
+   "ipa_AmE": "AmE /ˌpɹikəˈndɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "safeguard",
+   "ipa_brE": "BrE /ˈseɪfɡɑːd/",
+   "ipa_AmE": "AmE /ˈséɪˌfɡɑɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "vigilance",
+   "ipa_brE": "BrE /ˈvɪdʒɪləns/",
+   "ipa_AmE": "AmE /ˈvɪdʒələns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "protocol",
+   "ipa_brE": "BrE /ˈprəʊtəkɒl/",
+   "ipa_AmE": "AmE /ˈpɹoʊtəˌkɑl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "guideline",
+   "ipa_brE": "BrE /ˈɡaɪdlaɪn/",
+   "ipa_AmE": "AmE /ˈɡɑɪˌdlɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "manual",
+   "ipa_brE": "BrE /ˈmænjuəl/",
+   "ipa_AmE": "AmE /ˈmænjuəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "uniformity",
+   "ipa_brE": "BrE /ˌjuːnɪˈfɔːməti/",
+   "ipa_AmE": "AmE /ˌjunəˈfɔɹməti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "jargon",
+   "ipa_brE": "BrE /ˈdʒɑːɡən/",
+   "ipa_AmE": "AmE /ˈdʒɑɹɡən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "register",
+   "ipa_brE": "BrE /ˈredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈɹɛdʒɪstɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "articulation",
+   "ipa_brE": "BrE /ɑːˌtɪkjʊˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌɑɹtɪkjəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "poise",
+   "ipa_brE": "BrE /pɔɪz/",
+   "ipa_AmE": "AmE /ˈpɔɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "composure",
+   "ipa_brE": "BrE /kəmˈpəʊʒə(r)/",
+   "ipa_AmE": "AmE /kəˈmpoʊʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mastery",
+   "ipa_brE": "BrE /ˈmɑːstəri/",
+   "ipa_AmE": "AmE /ˈmæstɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fluency",
+   "ipa_brE": "BrE /ˈfluːənsi/",
+   "ipa_AmE": "AmE /ˈfluənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "intuition",
+   "ipa_brE": "BrE /ˌɪntjuˈɪʃn/",
+   "ipa_AmE": "AmE /ˌɪntuˈɪʃən/",
+   "source": "cmu",
+   "note": ""
+  }
+ ]
+}

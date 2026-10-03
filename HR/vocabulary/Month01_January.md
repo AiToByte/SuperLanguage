@@ -1,0 +1,376 @@
+# Month 01 · January
+
+> **年度主题（阶段 1 / 共 12 阶段）**：招聘与猎头（Recruitment, Sourcing, Talent Acquisition, Candidate Experience）
+>
+> **Theme (EN)**：Recruitment, Sourcing, Talent Acquisition & Candidate Experience
+>
+> **Day 001 – Day 031** ｜ 本月 31 天 ｜ 93 个单词
+>
+> **难度**：B2–C1（牛津高阶 / 朗文当代 / 柯林斯高阶）
+
+---
+
+## 模块一 · 每日单词
+
+格式：`[英文单词/短语] → [英式音标] ｜ [美式音标] → [中文释义]`，两条音标各自带有 `BrE` / `AmE` 标识，例句以该词或其变体开头。
+
+| 标识 | 含义 | 依据 |
+| --- | --- | --- |
+| `BrE` | 英国英语（RP） | 牛津 / 朗文 / 柯林斯高阶词典 |
+| `AmE` | 美国英语（General American） | CMU 发音词典 |
+
+### Day 001　（January 1）
+
+1. **job description** → `BrE /ˌdʒɒb dɪˈskrɪpʃn/` ｜ `AmE /ˈdʒɑb dɪˈskɹɪpʃən/` → 职位描述；岗位说明书
+   例句：Job descriptions written once and never updated attract the wrong people.（写完就从不更新的职位描述，只会吸引错误的人。）
+
+2. **vacancy** → `BrE /ˈveɪkənsi/` ｜ `AmE /ˈvéɪkənsi/` → 空缺职位；招聘名额
+   例句：Vacancies stay open longer when the salary range is left blank.（薪资区间留白时，职位空缺会开放得更久。）
+
+3. **headcount** → `BrE /ˈhedkaʊnt/` ｜ `AmE /ˈhɛˌdkàʊnt/` → 人员编制；人头数
+   例句：Headcount approval should happen before the role is advertised.（编制审批应当在岗位发布之前完成。）
+
+### Day 002　（January 2）
+
+1. **recruitment** → `BrE /rɪˈkruːtmənt/` ｜ `AmE /ɹəˈkɹutmənt/` → 招聘
+   例句：Recruitment is a sales activity that most teams under-invest in.（招聘本质上是销售活动，而多数团队在这上面投入不足。）
+
+2. **applicant** → `BrE /ˈæplɪkənt/` ｜ `AmE /ˈæplɪkənt/` → 申请人
+   例句：Applicants notice response times more than they notice your brand.（申请人注意到的其实是响应速度，而不是你的雇主品牌。）
+
+3. **application** → `BrE /ˌæplɪˈkeɪʃn/` ｜ `AmE /ˌæpləˈkéɪʃən/` → 申请；应聘申请
+   例句：Application forms that take twenty minutes attract twenty-minute candidates.（需要填二十分钟的申请表，只会招来愿意花二十分钟的候选人。）
+
+### Day 003　（January 3）
+
+1. **resume** → `BrE /ˈrezjumeɪ/` ｜ `AmE /ˈɹɛzəˌméɪ/` → 简历
+   例句：Resumes should show outcomes rather than list duties.（简历应当呈现成果，而不是罗列职责。）
+
+2. **cover letter** → `BrE /ˈkʌvə ˌletə(r)/` ｜ `AmE /ˈkʌvɚ ˈlɛtɚ/` → 求职信
+   例句：Cover letters earn an interview when they answer one question the resume cannot.（求职信如果能回答简历答不了的一个问题，就有价值。）
+
+3. **portfolio** → `BrE /pɔːtˈfəʊliəʊ/` ｜ `AmE /pɔˈɹtfoʊliˌoʊ/` → 作品集
+   例句：Portfolios decide design and writing candidates faster than interviews do.（对设计与写作岗位来说，作品集比面试筛人更快。）
+
+### Day 004　（January 4）
+
+1. **screening** → `BrE /ˈskriːnɪŋ/` ｜ `AmE /ˈskɹinɪŋ/` → 初步筛选
+   例句：Screening against four criteria is fairer than screening on instinct.（按四条标准筛选，比凭直觉筛选更公平。）
+
+2. **shortlist** → `BrE /ˈʃɔːtlɪst/` ｜ `AmE /ˈʃɔɹtlɪst/` → 候选名单；入围名单
+   例句：Shortlists of eight save time and improve the offer you get.（八人的候选名单既省时间，也能提高你拿到的 offer 质量。）
+
+3. **interview** → `BrE /ˈɪntəvjuː/` ｜ `AmE /ˈɪntɚˌvju/` → 面试
+   例句：Interviews predict performance better when structured and repeated.（结构化且多次进行的面试，对绩效的预测力更强。）
+
+### Day 005　（January 5）
+
+1. **job posting** → `BrE /ˈdʒɒb ˌpəʊstɪŋ/` ｜ `AmE /ˈdʒɑb ˈpoʊstɪŋ/` → 职位发布
+   例句：Job postings with a clear team purpose attract stronger applicants.（写清团队使命的职位发布，能吸引更强的申请人。）
+
+2. **job ad** → `BrE /ˈdʒɒb æd/` ｜ `AmE /ˈdʒɑb ˈæd/` → 招聘广告
+   例句：Job ads written by recruiters convert worse than ads written by the team.（由招聘方写的招聘广告，转化率不如由团队自己写的。）
+
+3. **employer brand** → `BrE /ɪmˈplɔɪə ˌbrænd/` ｜ `AmE /ɛˈmplɔɪɚ ˈbɹænd/` → 雇主品牌
+   例句：Employer brand is what candidates believe about you after they leave.（雇主品牌，是候选人离职后对你的评价。）
+
+### Day 006　（January 6）
+
+1. **sourcing** → `BrE /ˈsɔːsɪŋ/` ｜ `AmE /ˈsɔɹsɪŋ/` → 人才寻访；主动搜寻
+   例句：Sourcing proactively beats waiting for applications to arrive.（主动寻访人才，胜过坐等简历投递。）
+
+2. **headhunting** → `BrE /ˈhedhʌntɪŋ/` ｜ `AmE /ˈhɛdhʌntɪŋ/` → 猎头挖角
+   例句：Headhunting senior engineers is a long game with thin margins.（猎头挖高级工程师是一场胜率很低的长期游戏。）
+
+3. **outreach** → `BrE /ˈaʊtriːtʃ/` ｜ `AmE /ˈàʊˌtɹitʃ/` → 主动触达
+   例句：Outreach messages that mention the person's work get ten times more replies.（提及对方作品的外联邮件，回复率会高十倍。）
+
+### Day 007　（January 7）
+
+1. **talent pool** → `BrE /ˈtælənt puːl/` ｜ `AmE /ˈtælənt ˈpul/` → 人才库
+   例句：Talent pools rot unless someone reviews them every quarter.（如果没人每季度整理一次，人才库很快就会失效。）
+
+2. **pipeline** → `BrE /ˈpaɪplaɪn/` ｜ `AmE /ˈpɑɪˌplɑɪn/` → 人才管道
+   例句：Pipeline stages need exit criteria or they become a wish list.（人才管道的每个阶段都需要退出标准，否则就成了一张愿望清单。）
+
+3. **network** → `BrE /ˈnetwɜːk/` ｜ `AmE /ˈnɛˌtwɝk/` → 人脉网络
+   例句：Networks find referrals that job boards never will.（人脉网络能找到招聘网站永远找不到的内推。）
+
+### Day 008　（January 8）
+
+1. **candidate experience** → `BrE /ˈkændɪdət ɪkˌspɪəriəns/` ｜ `AmE /ˈkændədéɪt ɪˈkspɪɹiəns/` → 候选人体验
+   例句：Candidate experience determines whether your alumni apply again.（候选人体验决定你的前员工将来会不会再来应聘。）
+
+2. **candidate journey** → `BrE /ˈkændɪdət ˌdʒɜːni/` ｜ `AmE /ˈkændədéɪt ˈdʒɝni/` → 候选人旅程
+   例句：Candidate journey maps expose where strong people quietly drop out.（候选人旅程图能揭示优秀候选人是在哪一步悄悄退出的。）
+
+3. **rejection** → `BrE /rɪˈdʒekʃn/` ｜ `AmE /ɹɪˈdʒɛkʃən/` → 拒绝；婉拒
+   例句：Rejection delivered with feedback is a long-term investment.（带着反馈的拒绝是一项长期投资。）
+
+### Day 009　（January 9）
+
+1. **first-round interview** → `BrE /ˌfɜːst ˈraʊnd ˌɪntəvjuː/` ｜ `AmE /ˈfɝst ˈɹàʊnd ˈɪntɚˌvju/` → 初轮面试
+   例句：First-round interviews should test motivation rather than trivia.（初轮面试应当考察动机，而不是琐碎知识。）
+
+2. **panel interview** → `BrE /ˈpænl ˌɪntəvjuː/` ｜ `AmE /ˈpænəl ˈɪntɚˌvju/` → 小组面试；多面试官面试
+   例句：Panel interviews reduce bias only when interviewers prepare independently.（只有在面试官各自独立准备时，小组面试才能减少偏见。）
+
+3. **final interview** → `BrE /ˈfaɪnl ˌɪntəvjuː/` ｜ `AmE /ˈfɑɪnəl ˈɪntɚˌvju/` → 终轮面试
+   例句：Final interviews work best with the future manager, not the recruiter.（终轮面试最好由未来的直属经理，而不是招聘顾问来面。）
+
+### Day 010　（January 10）
+
+1. **behavioural interview** → `BrE /bɪˈheɪvjərəl ˌɪntəvjuː/` ｜ `AmE /bɪˈheɪvjəɹəl ˈɪntɚˌvju/` → 行为面试
+   例句：Behavioural interviews are hard to fake when evidence is requested.（当被要求提供具体事例时，行为面试很难伪装。）
+
+2. **competency-based interview** → `BrE /ˈkɒmpɪtənsi beɪst ˌɪntəvjuː/` ｜ `AmE /ˈkɑmpətɪnsi ˈbéɪst ˈɪntɚˌvju/` → 基于胜任力的面试
+   例句：Competency-based interviews separate coaching from recruitment.（基于胜任力的面试能把培养与招聘区分开。）
+
+3. **technical interview** → `BrE /ˈteknɪkl ˌɪntəvjuː/` ｜ `AmE /ˈtɛknɪkəl ˈɪntɚˌvju/` → 技术面试
+   例句：Technical interviews should look at real problems from your own backlog.（技术面试应当拿你自己 backlog 里的真实问题来考。）
+
+### Day 011　（January 11）
+
+1. **telephone screen** → `BrE /ˈtelɪfəʊn skriːn/` ｜ `AmE /ˈtɛləˌfoʊn ˈskɹin/` → 电话初筛
+   例句：Telephone screens are the cheapest filter and the easiest to rush.（电话初筛是最便宜的过滤器，也是最容易草率的一环。）
+
+2. **screening call** → `BrE /ˈskriːnɪŋ kɔːl/` ｜ `AmE /ˈskɹinɪŋ ˈkɔl/` → 筛选电话
+   例句：Screening calls should end with a clear reason to say yes or no.（筛选电话应当以明确的“yes/no”理由收尾。）
+
+3. **debrief** → `BrE /ˌdiːˈbriːf/` ｜ `AmE /dɪˈbɹif/` → 面试复盘会
+   例句：Debriefs held within an hour produce far better decisions.（在一小时内开的复盘会，能带来好得多的决策。）
+
+### Day 012　（January 12）
+
+1. **scorecard** → `BrE /ˈskɔːkɑːd/` ｜ `AmE /ˈskɔˌɹkɑɹd/` → 评估表；评分卡
+   例句：Scorecards submitted after discussion do not prevent bias.（讨论之后才填写的评估表，无法防止偏见。）
+
+2. **evaluation** → `BrE /ɪˌvæljuˈeɪʃn/` ｜ `AmE /ɪˌvæljuˈéɪʃən/` → 评估；评价
+   例句：Evaluation criteria agreed before the interview beats opinions after.（面试前就商定的评估标准，胜过面试后的主观意见。）
+
+3. **feedback** → `BrE /ˈfiːdbæk/` ｜ `AmE /ˈfiˌdbæk/` → 反馈
+   例句：Feedback to rejected candidates is free reputation insurance.（给被拒候选人的反馈，是免费的口碑保险。）
+
+### Day 013　（January 13）
+
+1. **offer** → `BrE /ˈɒfə(r)/` ｜ `AmE /ˈɔfɚ/` → 录用通知；offer
+   例句：Offers expire faster than most recruiters assume.（offer 失效的速度，比多数招聘顾问以为的更快。）
+
+2. **offer letter** → `BrE /ˈɒfə ˌletə(r)/` ｜ `AmE /ˈɔfɚ ˈlɛtɚ/` → 录用通知书
+   例句：Offer letters should state probation terms and the exact start date.（录用通知书应当写明试用期条款和确切入职日期。）
+
+3. **negotiation** → `BrE /nɪˌɡəʊʃiˈeɪʃn/` ｜ `AmE /nɪˌɡoʊʃiˈéɪʃən/` → 薪酬谈判
+   例句：Negotiation starts the moment you mention money, not at the offer.（谈判从你提到薪酬的那一刻就开始了，而不是等到 offer 阶段。）
+
+### Day 014　（January 14）
+
+1. **offer approval** → `BrE /ˈɒfə əˌpruːvl/` ｜ `AmE /ˈɔfɚ əˈpɹuvəl/` → offer 审批
+   例句：Offer approvals take fewer steps when the band is agreed in advance.（提前谈定薪资带宽后，offer 审批的环节会更少。）
+
+2. **verbal offer** → `BrE /ˈvɜːbəl ˈɒfə(r)/` ｜ `AmE /ˈvɝbəl ˈɔfɚ/` → 口头 offer
+   例句：Verbal offers made on the phone should always be followed by email.（在电话里做出的口头 offer，之后一定要补一封邮件。）
+
+3. **written offer** → `BrE /ˌrɪtn ˈɒfə(r)/` ｜ `AmE /ˈɹɪtən ˈɔfɚ/` → 书面 offer
+   例句：Written offers protect everyone once terms start changing.（一旦条件开始变动，书面 offer 能保护所有人。）
+
+### Day 015　（January 15）
+
+1. **pre-employment check** → `BrE /ˌpriː ɪmˈplɔɪmənt tʃek/` ｜ `AmE /ˈpɹi ɛˈmplɔɪmənt ˈtʃɛk/` → 入职前核查
+   例句：Pre-employment checks that run long create offer-acceptance risk.（拖得很久的入职前核查，会带来 offer 被拒的风险。）
+
+2. **background check** → `BrE /ˈbækɡraʊnd tʃek/` ｜ `AmE /ˈbæˌkɡɹàʊnd ˈtʃɛk/` → 背景调查
+   例句：Background checks need written consent before they start.（背景调查在开始前需要获得书面同意。）
+
+3. **reference check** → `BrE /ˈrefrəns tʃek/` ｜ `AmE /ˈɹɛfɹəns ˈtʃɛk/` → 推荐人核查
+   例句：Reference checks should target specific claims, not general character.（推荐人核查应当针对具体陈述，而不是笼统评价品行。）
+
+### Day 016　（January 16）
+
+1. **start date** → `BrE /ˈstɑːt deɪt/` ｜ `AmE /ˈstɑɹt ˈdéɪt/` → 入职日期
+   例句：Start dates slip when notice periods are assumed rather than confirmed.（当通知期靠猜而不是靠确认时，入职日期就会延后。）
+
+2. **relocation** → `BrE /ˌriːləʊˈkeɪʃn/` ｜ `AmE /ˌɹiˈloʊˌkéɪʃən/` → 搬迁；异地调动
+   例句：Relocation support costs less than losing the hire in month two.（搬迁支持的成本，低于在第二个月失去这个新人。）
+
+3. **visa sponsorship** → `BrE /ˈviːzə ˌspɒnsəʃɪp/` ｜ `AmE /ˈvizə ˈspɑnsɚˌʃɪp/` → 签证担保
+   例句：Visa sponsorship timelines should be built into the offer stage.（签证担保的周期应当在 offer 阶段就纳入计划。）
+
+### Day 017　（January 17）
+
+1. **talent acquisition** → `BrE /ˈtælənt ˌækwɪˈzɪʃn/` ｜ `AmE /ˈtælənt ˌækwəˈzɪʃən/` → 人才获取；招聘中心
+   例句：Talent acquisition earns its budget by reducing hiring cost, not volume.（人才获取是靠降低招聘成本来赢得预算，而不是靠招聘量。）
+
+2. **value proposition** → `BrE /ˌvæljuː ˌprɒpəˈzɪʃn/` ｜ `AmE /ˈvælju ˌpɹɑpəˈzɪʃən/` → 价值主张
+   例句：Value propositions that could describe any company are worthless.（如果候选人的价值主张放在任何公司都成立，那它毫无价值。）
+
+3. **candidate source** → `BrE /ˈkændɪdət sɔːs/` ｜ `AmE /ˈkændədéɪt ˈsɔɹs/` → 候选人来源
+   例句：Candidate source data tells you which channels actually pay.（候选人来源数据能告诉你哪些渠道真正有效。）
+
+### Day 018　（January 18）
+
+1. **time to hire** → `BrE /ˌtaɪm tə ˈhaɪə(r)/` ｜ `AmE /ˈtɑɪm ˈtu ˈhɑɪɚ/` → 从发布到录用的周期
+   例句：Time to hire correlates more strongly with offer acceptance than salary does.（招聘周期与 offer 接受率的相关性，强于薪资。）
+
+2. **time to fill** → `BrE /ˌtaɪm tə ˈfɪl/` ｜ `AmE /ˈtɑɪm ˈtu ˈfɪl/` → 补员周期；空缺填补时间
+   例句：Time to fill above ninety days usually signals a process problem.（补员周期超过九十天，通常意味着流程出了问题。）
+
+3. **cost per hire** → `BrE /ˌkɒst pə ˈhaɪə(r)/` ｜ `AmE /ˈkɑst ˈpɝ ˈhɑɪɚ/` → 单次招聘成本
+   例句：Cost per hire should include agency fees, not just advertising spend.（单次招聘成本应当包含猎头费用，而不只是广告投放。）
+
+### Day 019　（January 19）
+
+1. **requisition** → `BrE /ˌrekwɪˈzɪʃn/` ｜ `AmE /ˌɹɛkwəˈzɪʃən/` → 用人申请；编制申请单
+   例句：Requisitions without a named hiring manager are almost always stale.（没有指定招聘经理的用人申请，几乎总是过时的。）
+
+2. **approval** → `BrE /əˈpruːvl/` ｜ `AmE /əˈpɹuvəl/` → 审批；批准
+   例句：Approval chains that HR does not own become the biggest hiring bottleneck.（不由 HR 掌握的审批链，往往是招聘最大的瓶颈。）
+
+3. **headcount plan** → `BrE /ˈhedkaʊnt plæn/` ｜ `AmE /ˈhɛˌdkàʊnt ˈplæn/` → 编制计划
+   例句：Headcount plans that ignore attrition quietly turn into over-hiring.（不考虑流失的编制计划，会悄悄变成超编。）
+
+### Day 020　（January 20）
+
+1. **referral** → `BrE /rɪˈfɜːrəl/` ｜ `AmE /ɹɪˈfɝəl/` → 内推
+   例句：Referrals are the cheapest source and the one most often underused.（内推是最便宜的候选人来源，也是最常被闲置的。）
+
+2. **employee referral** → `BrE /ɪmˈplɔɪə ˌrefrəl/` ｜ `AmE /ɛˈmplɔɪi ɹɪˈfɝəl/` → 员工内推
+   例句：Employee referral schemes work when the referral bonus is immediate.（员工内推机制在奖金即时发放时才有效。）
+
+3. **referral bonus** → `BrE /rɪˈfɜːrəl ˌbəʊnəs/` ｜ `AmE /ɹɪˈfɝəl ˈboʊnəs/` → 内推奖金
+   例句：Referral bonuses paid at probation end attract only serious referrals.（在试用期结束时发放的内推奖金，只会吸引认真的内推。）
+
+### Day 021　（January 21）
+
+1. **Boolean search** → `BrE /ˌbuːliːən ˈsɜːtʃ/` ｜ `AmE /buˈliən ˈsɝtʃ/` → 布尔检索
+   例句：Boolean searches with three excludes find people no keyword search misses.（带三个排除条件的布尔检索能找到关键词搜索遗漏的人。）
+
+2. **search criteria** → `BrE /ˈsɜːtʃ kraɪˈtɪəriə/` ｜ `AmE /ˈsɝtʃ kɹɑɪˈtɪɹiə/` → 检索条件
+   例句：Search criteria agreed with the hiring manager prevent endless argument.（与招聘经理事先商定检索条件，能避免无休止的争论。）
+
+3. **longlist** → `BrE /ˈlɒŋlɪst/` ｜ `AmE /ˈlɑŋlɪst/` → 长名单
+   例句：Longlists keep options open but create more work than value.（长名单保留了选择，但带来的工作量通常大于价值。）
+
+### Day 022　（January 22）
+
+1. **recruitment agency** → `BrE /rɪˈkruːtmənt ˌeɪdʒənsi/` ｜ `AmE /ɹəˈkɹutmənt ˈéɪdʒənsi/` → 招聘代理机构
+   例句：Recruitment agencies earn their fee only when the retention period holds.（只有在留存期达标时，猎头才算赚到了费用。）
+
+2. **retained search** → `BrE /rɪˌteɪnd ˈsɜːtʃ/` ｜ `AmE /ɹɪˈtéɪnd ˈsɝtʃ/` → 委托寻访（预付模式）
+   例句：Retained search suits senior roles where exclusivity matters.（委托寻访适合那些需要排他性的高级岗位。）
+
+3. **fee** → `BrE /fiː/` ｜ `AmE /ˈfi/` → 费用；服务费
+   例句：Fees should be tied to a clear retention period.（中介服务费应当与明确的留存期挂钩。）
+
+### Day 023　（January 23）
+
+1. **offer acceptance rate** → `BrE /ˈɒfə əkˌseptəns reɪt/` ｜ `AmE /ˈɔfɚ æˈksɛptəns ˈɹéɪt/` → 录用接受率
+   例句：Offer acceptance rate is the clearest scorecard your process has.（offer 接受率是你现有流程中最清晰的成绩单。）
+
+2. **candidate drop-off** → `BrE /ˈkændɪdət ˌdrɒp ɒf/` ｜ `AmE /ˈkændədéɪt ˈdɹɑp ˈɔf/` → 候选人流失
+   例句：Candidate drop-off spikes when assessment takes more than two weeks.（当评估流程超过两周时，候选人流失会陡增。）
+
+3. **candidate survey** → `BrE /ˈkændɪdət ˌsɜːveɪ/` ｜ `AmE /ˈkændədéɪt sɚˈvéɪ/` → 候选人问卷
+   例句：Candidate surveys work best when they ask about specific moments.（候选人问卷在询问具体时刻时最有效。）
+
+### Day 024　（January 24）
+
+1. **hiring manager** → `BrE /ˈhaɪərɪŋ ˌmænɪdʒə(r)/` ｜ `AmE /ˈhɑɪɹɪŋ ˈmænədʒɚ/` → 用人经理
+   例句：Hiring managers who never read the shortlist waste everyone else's time.（从不看候选名单的用人经理，会浪费所有人的时间。）
+
+2. **recruiter** → `BrE /rɪˈkruːtə(r)/` ｜ `AmE /ɹɪˈkɹutɚ/` → 招聘顾问
+   例句：Recruiters should reject roles without scope as often as candidates.（招聘顾问拒绝没有明确职责的岗位，应当像拒绝候选人一样频繁。）
+
+3. **talent partner** → `BrE /ˈtælənt ˌpɑːtnə(r)/` ｜ `AmE /ˈtælənt ˈpɑɹtnɚ/` → 人才伙伴；HRBP
+   例句：Talent partners work best when business leaders treat them as peers.（当业务负责人把人才伙伴当同侪时，他们发挥最好。）
+
+### Day 025　（January 25）
+
+1. **job level** → `BrE /ˈdʒɒb ˌlevl/` ｜ `AmE /ˈdʒɑb ˈlɛvəl/` → 职级
+   例句：Job levels should be defined by scope, not by negotiation.（职级应由职责范围界定，而不是靠谈判。）
+
+2. **grade** → `BrE /ɡreɪd/` ｜ `AmE /ˈɡɹéɪd/` → 职级；级别
+   例句：Grades without published criteria turn into office politics.（没有公开标准的职级，终将变成办公室政治。）
+
+3. **band** → `BrE /bænd/` ｜ `AmE /ˈbænd/` → 薪资带宽
+   例句：Band width tells you whether the role can grow without a new title.（带宽宽度说明这个岗位能否在不换头衔的情况下成长。）
+
+### Day 026　（January 26）
+
+1. **job analysis** → `BrE /ˈdʒɒb əˌnæləsɪs/` ｜ `AmE /ˈdʒɑb əˈnæləsəs/` → 职位分析
+   例句：Job analysis done once at creation quietly goes stale within two years.（仅在岗位创建时做一次的职位分析，两年内就会悄悄过时。）
+
+2. **role definition** → `BrE /ˈrəʊl ˌdefɪˈnɪʃn/` ｜ `AmE /ˈɹoʊl ˌdɛfəˈnɪʃən/` → 角色界定；职责界定
+   例句：Role definition prevents two teams from hiring the same person twice.（角色界定能避免两个团队重复招同一个人。）
+
+3. **job scope** → `BrE /ˈdʒɒb skəʊp/` ｜ `AmE /ˈdʒɑb ˈskoʊp/` → 岗位职责范围
+   例句：Job scope should be written before the first interview.（岗位职责范围应当在第一场面试之前就写好。）
+
+### Day 027　（January 27）
+
+1. **talent mapping** → `BrE /ˈtælənt ˌmæpɪŋ/` ｜ `AmE /ˈtælənt ˈmæpɪŋ/` → 人才地图
+   例句：Talent mapping for critical roles takes months, so start now.（关键岗位的人才地图要花几个月，所以现在就开始。）
+
+2. **hard skill** → `BrE /ˌhɑːd ˈskɪl/` ｜ `AmE /ˈhɑɹd ˈskɪl/` → 硬技能
+   例句：Hard skills are easy to verify and easy to train.（硬技能既容易验证，也容易培养。）
+
+3. **soft skill** → `BrE /ˌsɒft ˈskɪl/` ｜ `AmE /ˈsɑft ˈskɪl/` → 软技能
+   例句：Soft skills are best judged by asking for specific stories.（软技能最好通过要求讲述具体事例来判断。）
+
+### Day 028　（January 28）
+
+1. **structured interview** → `BrE /ˈstrʌktʃəd ˌɪntəvjuː/` ｜ `AmE /ˈstɹʌktʃɚd ˈɪntɚˌvju/` → 结构化面试
+   例句：Structured interviews are the cheapest defence against hiring bias.（结构化面试是抵御招聘偏见最廉价的手段。）
+
+2. **situational question** → `BrE /ˌsɪtʃuˈeɪʃnəl ˈkwestʃən/` ｜ `AmE /ˌsɪtʃuˈéɪʃənəl ˈkwɛstʃən/` → 情景问题
+   例句：Situational questions reveal priorities better than hypothetical praise.（情景问题比假设性的赞美更能反映候选人的优先级。）
+
+3. **probing question** → `BrE /ˈprəʊbɪŋ ˌkwestʃən/` ｜ `AmE /ˈpɹoʊbɪŋ ˈkwɛstʃən/` → 追问
+   例句：Probing questions are where most interviews decide anything.（一个恰到好处的追问，胜过三个客套的问题。）
+
+### Day 029　（January 29）
+
+1. **applicant tracking system** → `BrE /əˈplɪkənt ˈtrækɪŋ ˌsɪstəm/` ｜ `AmE /ˈæplɪkənt ˈtɹækɪŋ ˈsɪstəm/` → 申请人跟踪系统（ATS）
+   例句：Applicant tracking systems reward volume unless someone reviews the funnel.（若无人复核漏斗，ATS 会奖励数量而非质量。）
+
+2. **talent CRM** → `BrE /ˈtælənt ˌsiːɑːr ˈem/` ｜ `AmE /ˈtælənt ˌsiɑɹ ˈɛm/` → 人才客户关系库
+   例句：Talent CRM relationships decay fastest when nobody is accountable for them.（当无人负责时，人才 CRM 里的关系衰减得最快。）
+
+3. **candidate database** → `BrE /ˈkændɪdət ˌdeɪtəbeɪs/` ｜ `AmE /ˈkændədéɪt ˈdéɪtəˌbéɪs/` → 候选人数据库
+   例句：Candidate databases are only legal while people still consent to being there.（只有当候选人仍同意被收录时，候选人数据库才合规。）
+
+### Day 030　（January 30）
+
+1. **must-have** → `BrE /ˈmʌst hæv/` ｜ `AmE /ˈmʌst ˈhæv/` → 必备条件
+   例句：Must-haves listed honestly shrink the pool and raise quality.（如实列出的必备条件会缩小候选池，但提升质量。）
+
+2. **nice-to-have** → `BrE /ˌnaɪs tə ˈhæv/` ｜ `AmE /ˈnɑɪs ˈtu ˈhæv/` → 加分条件
+   例句：Nice-to-haves become must-haves the moment you downlevel the search.（一旦你降低搜索级别，加分条件就会变成必备条件。）
+
+3. **candidate profile** → `BrE /ˈkændɪdət ˌprəʊfaɪl/` ｜ `AmE /ˈkændədéɪt ˈpɹoʊˌfɑɪl/` → 候选人画像
+   例句：Candidate profiles written before sourcing keep outreach personal.（寻访前就写好的候选人画像，能让外联保持个性化。）
+
+### Day 031　（January 31）
+
+1. **hiring plan** → `BrE /ˈhaɪərɪŋ plæn/` ｜ `AmE /ˈhɑɪɹɪŋ ˈplæn/` → 招聘计划
+   例句：Hiring plans that ignore notice periods are fiction.（不考虑通知期的招聘计划只是虚构。）
+
+2. **workforce planning** → `BrE /ˈwɜːkfɔːs ˌplænɪŋ/` ｜ `AmE /ˈwɝˌkfɔɹs ˈplænɪŋ/` → 人力规划
+   例句：Workforce planning should start from demand, not from last year's budget.（人力规划应当从需求出发，而不是从去年的预算出发。）
+
+3. **sourcing strategy** → `BrE /ˈsɔːsɪŋ ˌstrætədʒi/` ｜ `AmE /ˈsɔɹsɪŋ ˈstɹætədʒi/` → 寻访策略
+   例句：Sourcing strategies work only when channels are tested quarterly.（寻访策略只有按季度检验渠道时才有效。）
+
+---
+
+## 模块二 · 日常动作映射
+
+完整动作映射树（9 大场景 / 308 条）见 [`../actions/Daily_Actions_Mapping.md`](../actions/Daily_Actions_Mapping.md)。
+
+| 场景 | 本模块示例动作 |
+| --- | --- |
+| 晨间与洗漱 | 醒来 — waking up |
+| 晨间与洗漱 | 起床 — getting up |
+| 晨间与洗漱 | 拉开窗帘 — pulling the curtains open |
+| HR 办公与工作日常 | 筛选简历 — screening resumes |
+| HR 办公与工作日常 | 排查简历 — filtering out resumes |
+| HR 办公与工作日常 | 更新招聘看板 — updating the pipeline board |

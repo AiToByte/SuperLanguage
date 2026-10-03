@@ -1,0 +1,7691 @@
+{
+ "m01": [
+  {
+   "word": "legal system",
+   "ipa_brE": "BrE /ˈliːɡl ˈsɪstəm/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈsɪstəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "jurisdiction",
+   "ipa_brE": "BrE /ˌdʒʊərɪsˈdɪkʃn/",
+   "ipa_AmE": "AmE /ˌdʒʊɹəˈsdɪkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "court",
+   "ipa_brE": "BrE /kɔːt/",
+   "ipa_AmE": "AmE /ˈkɔɹt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "courtroom",
+   "ipa_brE": "BrE /ˈkɔːtruːm/",
+   "ipa_AmE": "AmE /ˈkɔˌɹtɹum/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "judge",
+   "ipa_brE": "BrE /dʒʌdʒ/",
+   "ipa_AmE": "AmE /ˈdʒʌdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "plaintiff",
+   "ipa_brE": "BrE /ˈpleɪntɪf/",
+   "ipa_AmE": "AmE /ˈpléɪntəf/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "defendant",
+   "ipa_brE": "BrE /dɪˈfɛndənt/",
+   "ipa_AmE": "AmE /dɪˈfɛndənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "claim",
+   "ipa_brE": "BrE /kleɪm/",
+   "ipa_AmE": "AmE /ˈkléɪm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "defence",
+   "ipa_brE": "BrE /dɪˈfɛns/",
+   "ipa_AmE": "AmE /dɪˈfɛns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterclaim",
+   "ipa_brE": "BrE /ˈkaʊntəkleɪm/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌkléɪm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cause of action",
+   "ipa_brE": "BrE /kɔːz əv ˈækʃn/",
+   "ipa_AmE": "AmE /ˈkɑz ˈʌv ˈækʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "statute",
+   "ipa_brE": "BrE /ˈstætʃuːt/",
+   "ipa_AmE": "AmE /ˈstætʃut/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "legislation",
+   "ipa_brE": "BrE /ˌledʒɪsˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌlɛdʒəˈsléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "regulation",
+   "ipa_brE": "BrE /ˌreɡjuˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛɡjəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "common law",
+   "ipa_brE": "BrE /ˌkɒmən lɔː/",
+   "ipa_AmE": "AmE /ˈkɑmən ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "precedent",
+   "ipa_brE": "BrE /ˈpresɪdənt/",
+   "ipa_AmE": "AmE /ˈpɹɛsɪdənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stare decisis",
+   "ipa_brE": "BrE /ˌstɑːriː deɪˈsaɪsɪs/",
+   "ipa_AmE": "AmE /ˈstɛɹ deɪˈsaɪsɪs/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "case law",
+   "ipa_brE": "BrE /ˈkeɪs lɔː/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "appeal",
+   "ipa_brE": "BrE /əˈpiːl/",
+   "ipa_AmE": "AmE /əˈpil/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "appellant",
+   "ipa_brE": "BrE /əˈpelənt/",
+   "ipa_AmE": "AmE /əˈpɛlɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cross-appeal",
+   "ipa_brE": "BrE /ˌkrɒs əˈpiːl/",
+   "ipa_AmE": "AmE /ˈkɹɔs əˈpil/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tribunal",
+   "ipa_brE": "BrE /traɪˈbjuːnl/",
+   "ipa_AmE": "AmE /tɹəˈbjunəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "arbitration",
+   "ipa_brE": "BrE /ˌɑːbɪˈtreɪʃn/",
+   "ipa_AmE": "AmE /ˌɑɹbɪˈtɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mediation",
+   "ipa_brE": "BrE /ˌmiːdiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˌmidiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inquest",
+   "ipa_brE": "BrE /ˈɪŋkwest/",
+   "ipa_AmE": "AmE /ˈɪˌnkwɛst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "witness",
+   "ipa_brE": "BrE /ˈwɪtnəs/",
+   "ipa_AmE": "AmE /ˈwɪtnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "evidence",
+   "ipa_brE": "BrE /ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˈɛvədəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "exhibit",
+   "ipa_brE": "BrE /ɪɡˈzɪbɪt/",
+   "ipa_AmE": "AmE /ɪˈɡzɪbɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hearing",
+   "ipa_brE": "BrE /ˈhɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈhiɹɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trial",
+   "ipa_brE": "BrE /ˈtraɪəl/",
+   "ipa_AmE": "AmE /ˈtɹɑɪəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "verdict",
+   "ipa_brE": "BrE /ˈvɜːdɪkt/",
+   "ipa_AmE": "AmE /ˈvɝdɪkt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "judgment",
+   "ipa_brE": "BrE /ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈdʒʌdʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "order",
+   "ipa_brE": "BrE /ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈɔɹdɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "injunction",
+   "ipa_brE": "BrE /ɪnˈdʒʌŋkʃn/",
+   "ipa_AmE": "AmE /ˌɪˈndʒʌŋkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "subpoena",
+   "ipa_brE": "BrE /səˈpiːnə/",
+   "ipa_AmE": "AmE /səˈpinə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discovery",
+   "ipa_brE": "BrE /dɪˈskʌvəri/",
+   "ipa_AmE": "AmE /dɪˈskʌvɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "deposition",
+   "ipa_brE": "BrE /ˌdepəˈzɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛpəˈzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "affidavit",
+   "ipa_brE": "BrE /ˌæfɪˈdævɪt/",
+   "ipa_AmE": "AmE /ˌæfəˈdéɪvət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "witness statement",
+   "ipa_brE": "BrE /ˈwɪtnəs ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈwɪtnəs ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expert witness",
+   "ipa_brE": "BrE /ˈekspɜːt ˈwɪtnəs/",
+   "ipa_AmE": "AmE /ˈɛkspɚt ˈwɪtnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal representation",
+   "ipa_brE": "BrE /ˈliːɡl ˌreprɪzenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈliɡəl ˌɹɛpɹəzɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "solicitor",
+   "ipa_brE": "BrE /səˈlɪsɪtə(r)/",
+   "ipa_AmE": "AmE /səˈlɪsətɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "barrister",
+   "ipa_brE": "BrE /ˈbærɪstə(r)/",
+   "ipa_AmE": "AmE /ˈbæɹɪstɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "paralegal",
+   "ipa_brE": "BrE /ˌpærəˈliːɡl/",
+   "ipa_AmE": "AmE /ˌpɛɹəˈliɡəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "legal counsel",
+   "ipa_brE": "BrE /ˈliːɡl ˈkaʊnsl/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈkàʊnsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal advice",
+   "ipa_brE": "BrE /ˈliːɡl ədˈvaɪs/",
+   "ipa_AmE": "AmE /ˈliɡəl æˈdvɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "privilege",
+   "ipa_brE": "BrE /ˈprɪvəlɪdʒ/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "litigation",
+   "ipa_brE": "BrE /ˌlɪtɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌlɪtəˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "legal entity",
+   "ipa_brE": "BrE /ˈliːɡl ˈentəti/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈɛntəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liable",
+   "ipa_brE": "BrE /ˈlaɪəbl/",
+   "ipa_AmE": "AmE /ˈlɑɪəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "liability",
+   "ipa_brE": "BrE /ˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌlɑɪəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "indemnity",
+   "ipa_brE": "BrE /ɪnˈdemnəti/",
+   "ipa_AmE": "AmE /ˌɪˈndɛmnəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "damages",
+   "ipa_brE": "BrE /ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˈdæmədʒəz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "restitution",
+   "ipa_brE": "BrE /ˌrestɪˈtjuːʃn/",
+   "ipa_AmE": "AmE /ˌɹɛstɪˈtuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "injured party",
+   "ipa_brE": "BrE /ˈɪndʒəd ˈpɑːti/",
+   "ipa_AmE": "AmE /ˈɪndʒɚd ˈpɑɹti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service of process",
+   "ipa_brE": "BrE /ˈsɜːvɪs əv ˈprəʊses/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈʌv ˈpɹɑˌsɛs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "filing",
+   "ipa_brE": "BrE /ˈfaɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈfɑɪlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pleading",
+   "ipa_brE": "BrE /ˈpliːdɪŋ/",
+   "ipa_AmE": "AmE /ˈplidɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "motion",
+   "ipa_brE": "BrE /ˈməʊʃn/",
+   "ipa_AmE": "AmE /ˈmoʊʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interim relief",
+   "ipa_brE": "BrE /ˈɪntəriəm rɪˌliːf/",
+   "ipa_AmE": "AmE /ˈɪntɚəm ɹɪˈlif/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stay of proceedings",
+   "ipa_brE": "BrE /ˈsteɪ əv ˈprəʊsiːdɪŋz/",
+   "ipa_AmE": "AmE /ˈstéɪ ˈʌv pɹoʊˈsidɪŋz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "default judgment",
+   "ipa_brE": "BrE /dɪˈfɔːlt ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /dɪˈfɔlt ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "summary judgment",
+   "ipa_brE": "BrE /ˈsʌməri ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈsʌmɚi ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "settlement",
+   "ipa_brE": "BrE /ˈsetlmənt/",
+   "ipa_AmE": "AmE /ˈsɛtəlmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "consent order",
+   "ipa_brE": "BrE /kənˈsent ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /kəˈnsɛnt ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "undertaking",
+   "ipa_brE": "BrE /ˌʌndəˈteɪkɪŋ/",
+   "ipa_AmE": "AmE /ˈʌndɚˌtéɪkɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tribunal ruling",
+   "ipa_brE": "BrE /traɪˈbjuːnl ˈruːlɪŋ/",
+   "ipa_AmE": "AmE /tɹəˈbjunəl ˈɹulɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal aid",
+   "ipa_brE": "BrE /ˈliːɡl eɪd/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈéɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pro bono",
+   "ipa_brE": "BrE /prəʊ ˈbəʊnəʊ/",
+   "ipa_AmE": "AmE /ˈpɹoʊ ˈboʊnoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal ethics",
+   "ipa_brE": "BrE /ˈliːɡl ˈeθɪks/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈɛθɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "conflict of interest",
+   "ipa_brE": "BrE /ˈkɒnflɪkt əv ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈkɑnflɪkt ˈʌv ˈɪntɹəst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "duty of care",
+   "ipa_brE": "BrE /ˈdjuːti əv ˈkeə(r)/",
+   "ipa_AmE": "AmE /ˈduti ˈʌv ˈkɛɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "negligence",
+   "ipa_brE": "BrE /ˈneɡlɪdʒəns/",
+   "ipa_AmE": "AmE /ˈnɛɡlədʒəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "standard of proof",
+   "ipa_brE": "BrE /ˈstændəd əv pruːf/",
+   "ipa_AmE": "AmE /ˈstændɚd ˈʌv ˈpɹuf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "burden of proof",
+   "ipa_brE": "BrE /ˈbɜːdn əv pruːf/",
+   "ipa_AmE": "AmE /ˈbɝdən ˈʌv ˈpɹuf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "liability cap",
+   "ipa_brE": "BrE /ˌlaɪəˈbɪləti kæp/",
+   "ipa_AmE": "AmE /ˌlɑɪəˈbɪlɪti ˈkæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "force majeure",
+   "ipa_brE": "BrE /ˌfɔːs mæˈʒɜː(r)/",
+   "ipa_AmE": "AmE /ˈfɔɹs məˈdʒuɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "governing law",
+   "ipa_brE": "BrE /ˈɡʌvnɪŋ lɔː/",
+   "ipa_AmE": "AmE /ˈɡʌvɚnɪŋ ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service provider",
+   "ipa_brE": "BrE /ˈsɜːvɪs prəˌvaɪdə(r)/",
+   "ipa_AmE": "AmE /ˈsɝvəs pɹəˈvɑɪdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contractual party",
+   "ipa_brE": "BrE /kənˈstræktʃuəl ˈpɑːti/",
+   "ipa_AmE": "AmE /kəˈntɹæktʃuəl ˈpɑɹti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "court fee",
+   "ipa_brE": "BrE /ˈkɔːt fiː/",
+   "ipa_AmE": "AmE /ˈkɔɹt ˈfi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "enforcement",
+   "ipa_brE": "BrE /ɪnˈfɔːsmənt/",
+   "ipa_AmE": "AmE /ɛˈnfɔɹsmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "appeal court",
+   "ipa_brE": "BrE /əˌpiːl ˈkɔːt/",
+   "ipa_AmE": "AmE /əˈpil ˈkɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "supreme court",
+   "ipa_brE": "BrE /suˌpriːm ˈkɔːt/",
+   "ipa_AmE": "AmE /səˈpɹim ˈkɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory interpretation",
+   "ipa_brE": "BrE /stəˌtjuːtri ˌɪntərprəˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˌɪˌntɝpɹɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal doctrine",
+   "ipa_brE": "BrE /ˈliːɡl ˈdɒktrɪn/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈdɑktɹən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "custom",
+   "ipa_brE": "BrE /ˈkʌstəm/",
+   "ipa_AmE": "AmE /ˈkʌstəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "jurisdiction clause",
+   "ipa_brE": "BrE /ˌdʒʊərɪsˈdɪkʃn kleɪz/",
+   "ipa_AmE": "AmE /ˌdʒʊɹəˈsdɪkʃən ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal proceedings",
+   "ipa_brE": "BrE /ˈliːɡl prəˌsiːdɪŋz/",
+   "ipa_AmE": "AmE /ˈliɡəl pɹoʊˈsidɪŋz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "party to the case",
+   "ipa_brE": "BrE /ˈpɑːti tuː ðə keɪs/",
+   "ipa_AmE": "AmE /ˈpɑɹti ˈtu ðə ˈkéɪs/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "litigation risk",
+   "ipa_brE": "BrE /lɪˈtɪɡeɪʃn rɪsk/",
+   "ipa_AmE": "AmE /ˌlɪtəˈɡéɪʃən ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deponent",
+   "ipa_brE": "BrE /dɪˈpənənt/",
+   "ipa_AmE": "AmE /dɪˈpənənt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "without prejudice",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m02": [
+  {
+   "word": "contract",
+   "ipa_brE": "BrE /ˈkɒntrækt/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "agreement",
+   "ipa_brE": "BrE /əˈɡriːmənt/",
+   "ipa_AmE": "AmE /əˈɡɹimənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "party",
+   "ipa_brE": "BrE /ˈpɑːti/",
+   "ipa_AmE": "AmE /ˈpɑɹti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterparty",
+   "ipa_brE": "BrE /ˈkaʊntəpɑːti/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌpɑɹti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offer",
+   "ipa_brE": "BrE /ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈɔfɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "acceptance",
+   "ipa_brE": "BrE /əkˈseptəns/",
+   "ipa_AmE": "AmE /æˈksɛptəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "offer letter",
+   "ipa_brE": "BrE /ˈɒfə ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈɔfɚ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "letter of intent",
+   "ipa_brE": "BrE /ˌletər əv ɪnˈtent/",
+   "ipa_AmE": "AmE /ˈlɛtɚ ˈʌv ˌɪˈntɛnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "memorandum of understanding",
+   "ipa_brE": "BrE /ˌmeməˈrændəm əv ˌʌndəˈstændɪŋ/",
+   "ipa_AmE": "AmE /ˌmɛmɚˈændəm ˈʌv ˌʌndɚˈstændɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "term",
+   "ipa_brE": "BrE /tɜːm/",
+   "ipa_AmE": "AmE /ˈtɝm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "condition",
+   "ipa_brE": "BrE /kənˈdɪʃn/",
+   "ipa_AmE": "AmE /kəˈndɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "precondition",
+   "ipa_brE": "BrE /ˌpriːkənˈdɪʃn/",
+   "ipa_AmE": "AmE /ˌpɹikəˈndɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "condition precedent",
+   "ipa_brE": "BrE /kənˈdɪʃn ˈpresɪdənt/",
+   "ipa_AmE": "AmE /kəˈndɪʃən ˈpɹɛsɪdənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant",
+   "ipa_brE": "BrE /ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˈkʌvənənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "representations and warranties",
+   "ipa_brE": "BrE /ˌreprɪzenˈteɪʃnz ənd ˈwɒrəntiz/",
+   "ipa_AmE": "AmE /ˌɹɛpɹəzəˈntéɪʃənz ənd ˈwɔɹəntiz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "indemnity clause",
+   "ipa_brE": "BrE /ɪnˈdemnəti kleɪz/",
+   "ipa_AmE": "AmE /ˌɪˈndɛmnəti ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "limitation of liability",
+   "ipa_brE": "BrE /ˌlɪmɪˈteɪʃn əv ˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌlɪmɪˈtéɪʃən ˈʌv ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "warranty period",
+   "ipa_brE": "BrE /ˈwɒrənti ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈwɔɹənti ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liability threshold",
+   "ipa_brE": "BrE /ˈlaɪəbl ˈθreʃhəʊld/",
+   "ipa_AmE": "AmE /ˌlɑɪəˈbɪlɪti ˈθɹɛˌʃoʊld/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "termination",
+   "ipa_brE": "BrE /ˌtɜːmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "termination for convenience",
+   "ipa_brE": "BrE /tɜːmɪˈneɪʃn fə kənˈviːniəns/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən ˈfɔɹ kəˈnvinjəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "material breach",
+   "ipa_brE": "BrE /məˌtɪəriəl breɪtʃ/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cure period",
+   "ipa_brE": "BrE /ˈkjʊə(r) ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈkjʊɹ ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "severability",
+   "ipa_brE": "BrE /ˌsevərəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌsɛvəɹəˈbɪlətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "entire agreement",
+   "ipa_brE": "BrE /ɪnˌtaɪər əˈɡriːmənt/",
+   "ipa_AmE": "AmE /ɪˈntɑɪɚ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assignment",
+   "ipa_brE": "BrE /əˈsaɪnmənt/",
+   "ipa_AmE": "AmE /əˈsɑɪnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "novation",
+   "ipa_brE": "BrE /nəʊˈveɪʃn/",
+   "ipa_AmE": "AmE /noʊˈveɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "subcontract",
+   "ipa_brE": "BrE /ˈsʌbkəntrækt/",
+   "ipa_AmE": "AmE /səˈbkɑˌntɹækt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "frustration of purpose",
+   "ipa_brE": "BrE /frʌˈstreɪʃn əv ˈpɜːpəs/",
+   "ipa_AmE": "AmE /fɹəˈstɹéɪʃən ˈʌv ˈpɝpəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "change of control",
+   "ipa_brE": "BrE /tʃeɪndʒ əv kənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈʌv kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "applicable law",
+   "ipa_brE": "BrE /əˈplɪkəbl lɔː/",
+   "ipa_AmE": "AmE /ˈæpləkəbəl ˈlɔ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forum selection clause",
+   "ipa_brE": "BrE /ˈfɔːrəm sɪˌlekʃn kleɪz/",
+   "ipa_AmE": "AmE /ˈfɔɹəm səˈlɛkʃən ˈklɔz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "arbitration clause",
+   "ipa_brE": "BrE /ˌɑːbɪˈtreɪʃn kleɪz/",
+   "ipa_AmE": "AmE /ˌɑɹbɪˈtɹéɪʃən ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "confidentiality clause",
+   "ipa_brE": "BrE /ˌkɒnfɪdenʃiˈæləti kleɪz/",
+   "ipa_AmE": "AmE /ˌkɑnfəˌdɛnʃiˈæləti ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-disclosure agreement",
+   "ipa_brE": "BrE /ˌnɒn dɪsˈkləʊʒə(r) əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈnɑn dɪˈskloʊʒɚ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "non-compete",
+   "ipa_brE": "BrE /ˌnɒn ˈkɒmpiːt/",
+   "ipa_AmE": "AmE /ˈnɑn kəˈmpit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-solicitation",
+   "ipa_brE": "BrE /ˌnɒn səˌlɪsɪˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈnɑn səˌlɪsɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exclusivity",
+   "ipa_brE": "BrE /ˌekskluːˈsɪvəti/",
+   "ipa_AmE": "AmE /ˌɛˌkskluˈsɪvəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "most favoured customer",
+   "ipa_brE": "BrE /məʊst ˈfɑːvərid ˈkʌstəmə(r)/",
+   "ipa_AmE": "AmE /ˈmoʊst ˈféɪvɚd ˈkʌstəmɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "severability clause",
+   "ipa_brE": "BrE /ˌsevərəˈbɪləti kleɪz/",
+   "ipa_AmE": "AmE /ˌsɛvəɹəˈbɪlətɪ ˈklɔz/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "payment term",
+   "ipa_brE": "BrE /ˈpeɪmənt tɜːm/",
+   "ipa_AmE": "AmE /ˈpéɪmənt ˈtɝm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "invoice",
+   "ipa_brE": "BrE /ˈɪnvɔɪs/",
+   "ipa_AmE": "AmE /ˈɪnvɔɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "late payment interest",
+   "ipa_brE": "BrE /ˌleɪt ˈpeɪmənt ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈléɪt ˈpéɪmənt ˈɪntɹəst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "set-off",
+   "ipa_brE": "BrE /ˈset ɒf/",
+   "ipa_AmE": "AmE /ˈsɛt ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "withholding tax",
+   "ipa_brE": "BrE /wɪðˈhəʊldɪŋ tæks/",
+   "ipa_AmE": "AmE /wɪˈθhoʊldɪŋ ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stamp duty",
+   "ipa_brE": "BrE /ˈstæmp ˌdjuːti/",
+   "ipa_AmE": "AmE /ˈstæmp ˈduti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consideration",
+   "ipa_brE": "BrE /kənˈsɪdəreɪʃn/",
+   "ipa_AmE": "AmE /kəˌnsɪdɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "deed",
+   "ipa_brE": "BrE /diːd/",
+   "ipa_AmE": "AmE /ˈdid/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "warranty deed",
+   "ipa_brE": "BrE /ˈwɒrənti diːd/",
+   "ipa_AmE": "AmE /ˈwɔɹənti ˈdid/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "execution",
+   "ipa_brE": "BrE /ˌeksɪˈkjuːʃn/",
+   "ipa_AmE": "AmE /ˌɛksəˈkjuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterpart",
+   "ipa_brE": "BrE /ˈkaʊntəpɑːt/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌpɑɹt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "e-signature",
+   "ipa_brE": "BrE /ˈiː ˌsɪɡnətʃə(r)/",
+   "ipa_AmE": "AmE /ˈi ˈsɪɡnətʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "wet signature",
+   "ipa_brE": "BrE /ˌwet ˈsɪɡnətʃə(r)/",
+   "ipa_AmE": "AmE /ˈwɛt ˈsɪɡnətʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "draft",
+   "ipa_brE": "BrE /drɑːft/",
+   "ipa_AmE": "AmE /ˈdɹæft/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "redline",
+   "ipa_brE": "BrE /ˈredlaɪn/",
+   "ipa_AmE": "AmE /ˈɹɛdlaɪn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "turn",
+   "ipa_brE": "BrE /tɜːn/",
+   "ipa_AmE": "AmE /ˈtɝn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "head of terms",
+   "ipa_brE": "BrE /ˌhed əv ˈtɜːmz/",
+   "ipa_AmE": "AmE /ˈhɛd ˈʌv ˈtɝmz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "binding effect",
+   "ipa_brE": "BrE /ˈbaɪndɪŋ ɪˌfekt/",
+   "ipa_AmE": "AmE /ˈbɑɪndɪŋ ɪˈfɛkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "signature block",
+   "ipa_brE": "BrE /ˈsɪɡnətʃə(r) blɒk/",
+   "ipa_AmE": "AmE /ˈsɪɡnətʃɚ ˈblɑk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "authorised signatory",
+   "ipa_brE": "BrE /ɔːˈθaɪzəd ˈsɪɡnətri/",
+   "ipa_AmE": "AmE /ˈɔθɚˌɑɪzd ˈsɪɡnəˌtɔɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract value",
+   "ipa_brE": "BrE /ˈkɒntrækt ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commercial terms",
+   "ipa_brE": "BrE /kəˌmɜːʃl ˈtɜːmz/",
+   "ipa_AmE": "AmE /kəˈmɝʃəl ˈtɝmz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legally binding",
+   "ipa_brE": "BrE /ˈliːɡli ˈbaɪndɪŋ/",
+   "ipa_AmE": "AmE /ˈliɡəli ˈbɑɪndɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "purchase order",
+   "ipa_brE": "BrE /ˈpɜːtʃəs ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈpɝtʃəs ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statement of work",
+   "ipa_brE": "BrE /ˈsteɪtmənt əv wɜːk/",
+   "ipa_AmE": "AmE /ˈstéɪtmənt ˈʌv ˈwɝk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "schedule",
+   "ipa_brE": "BrE /ˈʃedjuːl/",
+   "ipa_AmE": "AmE /ˈskɛdʒʊl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "appendix",
+   "ipa_brE": "BrE /əˈpendɪks/",
+   "ipa_AmE": "AmE /əˈpɛndɪks/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "clause",
+   "ipa_brE": "BrE /klɔːz/",
+   "ipa_AmE": "AmE /ˈklɔz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "subclause",
+   "ipa_brE": "BrE /ˈsʌbkleɪz/",
+   "ipa_AmE": "AmE /ˈsʌbkleɪz/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "definition",
+   "ipa_brE": "BrE /ˌdefɪˈnɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛfəˈnɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recital",
+   "ipa_brE": "BrE /rɪˈsaɪtl/",
+   "ipa_AmE": "AmE /ɹəˈsɑɪtəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "operative provision",
+   "ipa_brE": "BrE /ˈɒpərətɪv prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈɑpɚətɪv pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "boilerplate",
+   "ipa_brE": "BrE /ˈbɔɪləpleɪt/",
+   "ipa_AmE": "AmE /ˈbɔɪlɚˌpléɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "execution version",
+   "ipa_brE": "BrE /ˌeksɪˈkjuːʃn ˈvɜːʒn/",
+   "ipa_AmE": "AmE /ˌɛksəˈkjuʃən ˈvɝʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract management",
+   "ipa_brE": "BrE /ˈkɒntrækt ˈmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "renewal notice",
+   "ipa_brE": "BrE /rɪˈnjuːəl ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ɹɪˈnuəl ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "breach notice",
+   "ipa_brE": "BrE /briːtʃ ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ˈbɹitʃ ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remedy",
+   "ipa_brE": "BrE /ˈremədi/",
+   "ipa_AmE": "AmE /ˈɹɛmədi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recital clause",
+   "ipa_brE": "BrE /rɪˈsaɪtl kleɪz/",
+   "ipa_AmE": "AmE /ɹəˈsɑɪtəl ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operative clause",
+   "ipa_brE": "BrE /ˈɒpərətɪv kleɪz/",
+   "ipa_AmE": "AmE /ˈɑpɚətɪv ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant clause",
+   "ipa_brE": "BrE /ˈkʌvənənt kleɪz/",
+   "ipa_AmE": "AmE /ˈkʌvənənt ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "condition subsequent",
+   "ipa_brE": "BrE /kənˈdɪʃn səbˈsiːkwənt/",
+   "ipa_AmE": "AmE /kəˈndɪʃən ˈsʌbsəkwənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance bond",
+   "ipa_brE": "BrE /pəˈfɔːməns bɒnd/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈbɑnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "advance payment",
+   "ipa_brE": "BrE /ədˈvɑːns ˈpeɪmənt/",
+   "ipa_AmE": "AmE /əˈdvæns ˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m03": [
+  {
+   "word": "drafting",
+   "ipa_brE": "BrE /ˈdrɑːftɪŋ/",
+   "ipa_AmE": "AmE /ˈdɹæftɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "first draft",
+   "ipa_brE": "BrE /ˌfɜːst ˈdrɑːft/",
+   "ipa_AmE": "AmE /ˈfɝst ˈdɹæft/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "revise",
+   "ipa_brE": "BrE /rɪˈvaɪz/",
+   "ipa_AmE": "AmE /ɹɪˈvɑɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "amendment",
+   "ipa_brE": "BrE /əˈmendmənt/",
+   "ipa_AmE": "AmE /əˈmɛndmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "addendum",
+   "ipa_brE": "BrE /əˈdendəm/",
+   "ipa_AmE": "AmE /əˈdɛndəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "side letter",
+   "ipa_brE": "BrE /ˈsaɪd ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈsɑɪd ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "letter of comfort",
+   "ipa_brE": "BrE /ˈletər əv ˈkʌmfət/",
+   "ipa_AmE": "AmE /ˈlɛtɚ ˈʌv ˈkʌmfɚt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "version control",
+   "ipa_brE": "BrE /ˈvɜːʃn kənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˈvɝʒən kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tracked changes",
+   "ipa_brE": "BrE /trækt ˈtʃeɪndʒɪz/",
+   "ipa_AmE": "AmE /ˈtɹækt ˈtʃéɪndʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consolidate",
+   "ipa_brE": "BrE /kənˈsɒlɪdeɪt/",
+   "ipa_AmE": "AmE /kəˈnsɑlɪˌdéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mark-up round",
+   "ipa_brE": "BrE /ˈmɑːk ʌp raʊnd/",
+   "ipa_AmE": "AmE /ˈmɑɹk ˈʌp ˈɹàʊnd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "clause library",
+   "ipa_brE": "BrE /klɔːz ˌlaɪbrəri/",
+   "ipa_AmE": "AmE /ˈklɔz ˈlɑɪbɹɛˌɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "playbook",
+   "ipa_brE": "BrE /ˈpleɪbʊk/",
+   "ipa_AmE": "AmE /ˈpléɪbʊk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fallback position",
+   "ipa_brE": "BrE /ˈfɔːlbæk pəˈzɪʃn/",
+   "ipa_AmE": "AmE /ˈfɔˌlbæk pəˈzɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "must-have",
+   "ipa_brE": "BrE /ˈmʌst hæv/",
+   "ipa_AmE": "AmE /ˈmʌst ˈhæv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "nice-to-have",
+   "ipa_brE": "BrE /ˌnaɪs tə ˈhæv/",
+   "ipa_AmE": "AmE /ˈnɑɪs ˈtu ˈhæv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "concession",
+   "ipa_brE": "BrE /kənˈseʃn/",
+   "ipa_AmE": "AmE /kəˈnsɛʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trade-off",
+   "ipa_brE": "BrE /ˈtreɪd ɒf/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reservation of rights",
+   "ipa_brE": "BrE /ˌrezəveɪʃn əv ˈraɪts/",
+   "ipa_AmE": "AmE /ˌɹɛzɚˈvéɪʃən ˈʌv ˈɹɑɪts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice save",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs seɪv/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs ˈséɪv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "loss shifting",
+   "ipa_brE": "BrE /lɒs ˈʃɪftɪŋ/",
+   "ipa_AmE": "AmE /ˈlɔs ˈʃɪftɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hold harmless",
+   "ipa_brE": "BrE /həʊld ˈhɑːmləs/",
+   "ipa_AmE": "AmE /ˈhoʊld ˈhɑɹmləs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cap",
+   "ipa_brE": "BrE /kæp/",
+   "ipa_AmE": "AmE /ˈkæp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "carve-out",
+   "ipa_brE": "BrE /ˈkɑːv aʊt/",
+   "ipa_AmE": "AmE /ˈkɑɹv ˈàʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proviso",
+   "ipa_brE": "BrE /prəˈvaɪzəʊ/",
+   "ipa_AmE": "AmE /pɹəˈvɑɪzoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "save as",
+   "ipa_brE": "BrE /seɪv əz/",
+   "ipa_AmE": "AmE /ˈséɪv ˈæz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "negotiating position",
+   "ipa_brE": "BrE /nɪˈɡəʊʃieɪtɪŋ pəˈzɪʃn/",
+   "ipa_AmE": "AmE /nɪˈɡoʊʃiˌéɪtɪŋ pəˈzɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "counterproposal",
+   "ipa_brE": "BrE /ˌkaʊntəprəˈpəʊzl/",
+   "ipa_AmE": "AmE /ˈkàʊntɚpɹəˌpoʊzəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "zinger",
+   "ipa_brE": "BrE /ˈzɪŋɡə(r)/",
+   "ipa_AmE": "AmE /ˈzɪŋɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "term sheet",
+   "ipa_brE": "BrE /ˈtɜːm ʃiːt/",
+   "ipa_AmE": "AmE /ˈtɝm ˈʃit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "binding offer",
+   "ipa_brE": "BrE /ˈbaɪndɪŋ ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈbɑɪndɪŋ ˈɔfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "escrow",
+   "ipa_brE": "BrE /ˈeskrəʊ/",
+   "ipa_AmE": "AmE /ɛˈskɹoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "release",
+   "ipa_brE": "BrE /rɪˈliːs/",
+   "ipa_AmE": "AmE /ɹiˈlis/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "waiver",
+   "ipa_brE": "BrE /ˈweɪvə(r)/",
+   "ipa_AmE": "AmE /ˈwéɪvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "estoppel",
+   "ipa_brE": "BrE /ɪˈstɒpl/",
+   "ipa_AmE": "AmE /ɪˈstɑpl/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "construction",
+   "ipa_brE": "BrE /kənˈstrʌkʃn/",
+   "ipa_AmE": "AmE /kəˈnstɹʌkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "contra proferentem",
+   "ipa_brE": "BrE /ˌkɒntrə prəˌfəˈrentem/",
+   "ipa_AmE": "AmE /ˈkɑntɹə pɹəˌfəˈɹɛntɛm/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "plain meaning",
+   "ipa_brE": "BrE /ˌpleɪn ˈmiːnɪŋ/",
+   "ipa_AmE": "AmE /ˈpléɪn ˈminɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contextual reading",
+   "ipa_brE": "BrE /kənˈtekstʃuəl ˈriːdɪŋ/",
+   "ipa_AmE": "AmE /ˌkɑˈntɛˌkstʃuəl ˈɹidɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "customary interpretation",
+   "ipa_brE": "BrE /ˈkʌstəməri ˌɪntərprəˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈkʌstəˌmɛɹi ˌɪˌntɝpɹɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "penalty clause",
+   "ipa_brE": "BrE /ˈpenəlti kleɪz/",
+   "ipa_AmE": "AmE /ˈpɛnəlti ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidated damages clause",
+   "ipa_brE": "BrE /ˈlɪkɪdeɪtɪd ˈdæmɪdʒɪz kleɪz/",
+   "ipa_AmE": "AmE /ˈlɪkwɪˌdéɪtɪd ˈdæmədʒəz ˈklɔz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "exclusion clause",
+   "ipa_brE": "BrE /ɪkˈskluːʒn kleɪz/",
+   "ipa_AmE": "AmE /ɪˈkskluʒən ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scope of work",
+   "ipa_brE": "BrE /ˌskəʊp əv ˈwɜːk/",
+   "ipa_AmE": "AmE /ˈskoʊp ˈʌv ˈwɝk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "deliverable",
+   "ipa_brE": "BrE /dɪˈlɪvərəbl/",
+   "ipa_AmE": "AmE /dɪˈlɪvɹəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "milestone payment",
+   "ipa_brE": "BrE /ˈmaɪlstəʊn ˈpeɪmənt/",
+   "ipa_AmE": "AmE /ˈmɑɪˌlstoʊn ˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service credit",
+   "ipa_brE": "BrE /ˈsɜːvɪs ˈkredɪt/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈkɹɛdət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "step-in rights",
+   "ipa_brE": "BrE /ˈstep ɪn raɪts/",
+   "ipa_AmE": "AmE /ˈstɛp ɪn ˈɹɑɪts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "termination assistance",
+   "ipa_brE": "BrE /tˌmɪnɪˈneɪʃn əˈsɪstəns/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən əˈsɪstəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transitional services agreement",
+   "ipa_brE": "BrE /trænˈzɪʃənəl ˈsɜːvɪsɪz əˌɡriːmənt/",
+   "ipa_AmE": "AmE /tɹæˈnsɪʃənəl ˈsɝvəsəz əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "schedule of liabilities",
+   "ipa_brE": "BrE /ˈʃedjuːl əv ˌlaɪəˈbɪlətiz/",
+   "ipa_AmE": "AmE /ˈskɛdʒʊl ˈʌv ˌlɑɪəˈbɪlətiz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "indemnity basket",
+   "ipa_brE": "BrE /ɪnˈdemnəti ˈbɑːskɪt/",
+   "ipa_AmE": "AmE /ˌɪˈndɛmnəti ˈbæskət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tipping basket",
+   "ipa_brE": "BrE /ˈtɪpɪŋ ˈbɑːskɪt/",
+   "ipa_AmE": "AmE /ˈtɪpɪŋ ˈbæskət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "de minimis",
+   "ipa_brE": "BrE /ˌdeɪ ˈmɪnɪmɪs/",
+   "ipa_AmE": "AmE /ˈdi ˈmɪnɪmɪs/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "survival",
+   "ipa_brE": "BrE /səˈvaɪvl/",
+   "ipa_AmE": "AmE /sɚˈvɑɪvəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "claims barrier",
+   "ipa_brE": "BrE /ˈkleɪmz ˈbærɪə(r)/",
+   "ipa_AmE": "AmE /ˈkléɪmz ˈbæɹiɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insurance covenant",
+   "ipa_brE": "BrE /ɪnˈʃʊərəns ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˌɪˈnʃʊɹəns ˈkʌvənənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "anti-assignment",
+   "ipa_brE": "BrE /ˌænti əˈsaɪnmənt/",
+   "ipa_AmE": "AmE /ˈæˌnti əˈsɑɪnmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change of law",
+   "ipa_brE": "BrE /tʃeɪndʒ əv lɔː/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈʌv ˈlɔ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "time is of the essence",
+   "ipa_brE": "BrE /taɪm ɪz əv ði ˈesəns/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈɪz ˈʌv ðə ˈɛsəns/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "extension of time",
+   "ipa_brE": "BrE /ɪkˈstenʃn əv taɪm/",
+   "ipa_AmE": "AmE /ɪˈkstɛnʃən ˈʌv ˈtɑɪm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "milestone",
+   "ipa_brE": "BrE /ˈmaɪlstəʊn/",
+   "ipa_AmE": "AmE /ˈmɑɪˌlstoʊn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "turnaround time",
+   "ipa_brE": "BrE /ˈtɜːnəraʊnd taɪm/",
+   "ipa_AmE": "AmE /ˈtɝnɚˌàʊnd ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "review of draft",
+   "ipa_brE": "BrE /rɪˈvjuː əv drɑːft/",
+   "ipa_AmE": "AmE /ˌɹiˈvju ˈʌv ˈdɹæft/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "mark-up by counsel",
+   "ipa_brE": "BrE /ˈmɑːk ʌp baɪ ˈkaʊnsl/",
+   "ipa_AmE": "AmE /ˈmɑɹk ˈʌp ˈbɑɪ ˈkàʊnsəl/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "internal review",
+   "ipa_brE": "BrE /ɪnˌtɜːnl rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sign-off",
+   "ipa_brE": "BrE /ˈsaɪn ɒf/",
+   "ipa_AmE": "AmE /ˈsɑɪn ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "approval matrix",
+   "ipa_brE": "BrE /əˈpruːvl ˈmeɪtrɪks/",
+   "ipa_AmE": "AmE /əˈpɹuvəl ˈméɪtɹɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "authority to bind",
+   "ipa_brE": "BrE /ɔːˈθɒrəti tuː baɪnd/",
+   "ipa_AmE": "AmE /əˈθɔɹəti ˈtu ˈbɑɪnd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "template",
+   "ipa_brE": "BrE /ˈtempleɪt/",
+   "ipa_AmE": "AmE /ˈtɛmplət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "unusual terms",
+   "ipa_brE": "BrE /ɪnˈjuːʒuəl tɜːmz/",
+   "ipa_AmE": "AmE /əˈnjuʒwəl ˈtɝmz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "material change",
+   "ipa_brE": "BrE /məˌtɪəriəl tʃeɪndʒ/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl ˈtʃéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal review",
+   "ipa_brE": "BrE /ˈliːɡl rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˈliɡəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commercial review",
+   "ipa_brE": "BrE /kəˌmɜːʃl rɪˈvjuː/",
+   "ipa_AmE": "AmE /kəˈmɝʃəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "drafting principle",
+   "ipa_brE": "BrE /ˈdrɑːftɪŋ ˈprɪnsəpl/",
+   "ipa_AmE": "AmE /ˈdɹæftɪŋ ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "plain language drafting",
+   "ipa_brE": "BrE /ˌpleɪn ˈlæŋɡwɪdʒ ˈdrɑːftɪŋ/",
+   "ipa_AmE": "AmE /ˈpléɪn ˈlæŋɡwədʒ ˈdɹæftɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "definitional cross-reference",
+   "ipa_brE": "BrE /dɪˌfɪnɪˈʃənəl ˌkrɒs ˈreferəns/",
+   "ipa_AmE": "AmE /dɪˌfɪnɪˈʃənəl ˈkɹɔs ˈɹɛfɚəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "defined term",
+   "ipa_brE": "BrE /dɪˈfaɪnd tɜːm/",
+   "ipa_AmE": "AmE /dɪˈfɑɪnd ˈtɝm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "construction clause",
+   "ipa_brE": "BrE /kənˈstrʌkʃn kleɪz/",
+   "ipa_AmE": "AmE /kəˈnstɹʌkʃən ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "precedence clause",
+   "ipa_brE": "BrE /ˈpresɪdəns kleɪz/",
+   "ipa_AmE": "AmE /ˈpɹɛsədəns ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "survival clause",
+   "ipa_brE": "BrE /səˈvaɪvl kleɪz/",
+   "ipa_AmE": "AmE /sɚˈvɑɪvəl ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "notices clause",
+   "ipa_brE": "BrE /ˈnəʊtɪsɪz kleɪz/",
+   "ipa_AmE": "AmE /ˈnoʊtəsəz ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "service of notices",
+   "ipa_brE": "BrE /ˈsɜːvɪs əv ˈnəʊtɪsɪz/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈʌv ˈnoʊtəsəz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "counterpart signature",
+   "ipa_brE": "BrE /ˈkaʊntəpɑːt ˈsɪɡnətʃə(r)/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌpɑɹt ˈsɪɡnətʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "execution page",
+   "ipa_brE": "BrE /ˌeksɪˈkjuːʃn peɪdʒ/",
+   "ipa_AmE": "AmE /ˌɛksəˈkjuʃən ˈpéɪdʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract completion",
+   "ipa_brE": "BrE /ˈkɒntrækt kəmˈpliːʃn/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt kəˈmpliʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "obligations matrix",
+   "ipa_brE": "BrE /ˌɒblɪˈɡeɪʃnz ˈmeɪtrɪks/",
+   "ipa_AmE": "AmE /ˌɑbləˈɡéɪʃənz ˈméɪtɹɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk allocation",
+   "ipa_brE": "BrE /rɪsk əˌlɒˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˌæləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gap analysis",
+   "ipa_brE": "BrE /ɡæp əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˈɡæp əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compliance clause",
+   "ipa_brE": "BrE /kəmˈplaɪəns kleɪz/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit right",
+   "ipa_brE": "BrE /ˈɔːdɪt raɪt/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈɹɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "record-keeping obligation",
+   "ipa_brE": "BrE /ˈrekɔːd ˌkiːpɪŋ əˌblɪɡeɪʃn/",
+   "ipa_AmE": "AmE /ɹəˈkɔɹd ˈkipɪŋ ˌɑbləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data return",
+   "ipa_brE": "BrE /ˈdeɪtə rɪˌtɜːn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m04": [
+  {
+   "word": "breach",
+   "ipa_brE": "BrE /briːtʃ/",
+   "ipa_AmE": "AmE /ˈbɹitʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "repudiation",
+   "ipa_brE": "BrE /rɪˌpjuːdiˈeɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˌpjudiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "anticipatory breach",
+   "ipa_brE": "BrE /ænˌtɪsɪpətəri ˈbriːtʃ/",
+   "ipa_AmE": "AmE /æˈntɪsəpəˌtɔɹi ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fundamental breach",
+   "ipa_brE": "BrE /ˌfʌndəˈmentl ˈbriːtʃ/",
+   "ipa_AmE": "AmE /ˌfʌndəˈmɛntəl ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "persistent breach",
+   "ipa_brE": "BrE /pəˈsɪstənt ˈbriːtʃ/",
+   "ipa_AmE": "AmE /pɚˈsɪstənt ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cure",
+   "ipa_brE": "BrE /kjʊə(r)/",
+   "ipa_AmE": "AmE /ˈkjʊɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "notice of breach",
+   "ipa_brE": "BrE /ˈnəʊtɪs əv ˈbriːtʃ/",
+   "ipa_AmE": "AmE /ˈnoʊtəs ˈʌv ˈbɹitʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "demand letter",
+   "ipa_brE": "BrE /dɪˈmɑːnd ˌletə(r)/",
+   "ipa_AmE": "AmE /dɪˈmænd ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cure period expiry",
+   "ipa_brE": "BrE /ˈkjʊə(r) ˌpɪəriəd ɪkˈspaɪəri/",
+   "ipa_AmE": "AmE /ˈkjʊɹ ˈpɪɹiəd ˌɛˈkspɑɪɹi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "termination notice",
+   "ipa_brE": "BrE /ˌtɜːmɪˈneɪʃn ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "acceptance of breach",
+   "ipa_brE": "BrE /əkˈseptəns əv ˈbriːtʃ/",
+   "ipa_AmE": "AmE /æˈksɛptəns ˈʌv ˈbɹitʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "rescission",
+   "ipa_brE": "BrE /rɪˈsɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˈsɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "restitution in specie",
+   "ipa_brE": "BrE /rɪˈstɪtjuːʃn ɪn ˈspiːsiː/",
+   "ipa_AmE": "AmE /ˌɹɛstɪˈtuʃən ɪn ˈspisi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "loss of profit",
+   "ipa_brE": "BrE /lɒs əv ˈprɒfɪt/",
+   "ipa_AmE": "AmE /ˈlɔs ˈʌv ˈpɹɑfət/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "compensatory damages",
+   "ipa_brE": "BrE /kəmˌpensətəri ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /kəˈmpɛnsəˌtɔɹi ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consequential damages",
+   "ipa_brE": "BrE /ˌkɒnsɪˈkwenʃl ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˌkɑnsəˈkwɛnʃəl ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expectation damages",
+   "ipa_brE": "BrE /ˌekspekˈteɪʃn ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˌɛkspɛˈktéɪʃən ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reliance damages",
+   "ipa_brE": "BrE /rɪˈlaɪəns ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ɹɪˈlɑɪəns ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "nominal damages",
+   "ipa_brE": "BrE /ˌnɒmɪnl ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˈnɑmənəl ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidated damages",
+   "ipa_brE": "BrE /ˈlɪkɪdeɪtɪd ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˈlɪkwɪˌdéɪtɪd ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "penalty",
+   "ipa_brE": "BrE /ˈpenəlti/",
+   "ipa_AmE": "AmE /ˈpɛnəlti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "debtor",
+   "ipa_brE": "BrE /ˈdetə(r)/",
+   "ipa_AmE": "AmE /ˈdɛtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "creditor",
+   "ipa_brE": "BrE /ˈkredɪtə(r)/",
+   "ipa_AmE": "AmE /ˈkɹɛdətɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "winding-up",
+   "ipa_brE": "BrE /ˈwɪndɪŋ ʌp/",
+   "ipa_AmE": "AmE /ˈwɑɪndɪŋ ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insolvency",
+   "ipa_brE": "BrE /ɪnˈsɒlvənsi/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑlvənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "abatement",
+   "ipa_brE": "BrE /əˈbeɪtmənt/",
+   "ipa_AmE": "AmE /əˈbéɪtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "recoupment",
+   "ipa_brE": "BrE /rɪˈkuːpmənt/",
+   "ipa_AmE": "AmE /ɹɪˈkupmənt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "mandatory injunction",
+   "ipa_brE": "BrE /ˈmændətəri ɪnˈdʒʌŋkʃn/",
+   "ipa_AmE": "AmE /ˈmændəˌtɔɹi ˌɪˈndʒʌŋkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interim injunction",
+   "ipa_brE": "BrE /ˈɪntərɪm ɪnˈdʒʌŋkʃn/",
+   "ipa_AmE": "AmE /ˈɪntɚəm ˌɪˈndʒʌŋkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "permanent injunction",
+   "ipa_brE": "BrE /ˈpɜːmənənt ɪnˈdʒʌŋkʃn/",
+   "ipa_AmE": "AmE /ˈpɝmənənt ˌɪˈndʒʌŋkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "specific performance",
+   "ipa_brE": "BrE /spəˌsɪfɪk ˈpɪːfɔːməns/",
+   "ipa_AmE": "AmE /spəˈsɪfɪk pɚˈfɔɹməns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "discharge",
+   "ipa_brE": "BrE /dɪsˈtʃɑːdʒ/",
+   "ipa_AmE": "AmE /dɪˈstʃɑɹdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accord and satisfaction",
+   "ipa_brE": "BrE /ˈækɔːd ən sætɪsˈfækʃn/",
+   "ipa_AmE": "AmE /əˈkɔɹd ənd ˌsætəˈsfækʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "payment",
+   "ipa_brE": "BrE /ˈpeɪmənt/",
+   "ipa_AmE": "AmE /ˈpéɪmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "release in full",
+   "ipa_brE": "BrE /rɪˈliːz ɪn fʊl/",
+   "ipa_AmE": "AmE /ɹiˈlis ɪn ˈfʊl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "covenant not to sue",
+   "ipa_brE": "BrE /ˈkʌvənənt nɒt tuː ˈsuː/",
+   "ipa_AmE": "AmE /ˈkʌvənənt ˈnɑt ˈtu ˈsu/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "waiver of notice",
+   "ipa_brE": "BrE /ˈweɪvə(r) əv ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ˈwéɪvɚ ˈʌv ˈnoʊtəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "promissory estoppel",
+   "ipa_brE": "BrE /prəˌmɪsəri ɪˈstɒpl/",
+   "ipa_AmE": "AmE /ˈpɹɑməˌsɔɹi ɪˈstɑpl/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "reservation of claim",
+   "ipa_brE": "BrE /ˌrezəveɪʃn əv ˈkleɪm/",
+   "ipa_AmE": "AmE /ˌɹɛzɚˈvéɪʃən ˈʌv ˈkléɪm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice offer",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs ˈɒfə(r)/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs ˈɔfɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "early neutral evaluation",
+   "ipa_brE": "BrE /ˈɜːli njuːtrəl ˌevæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈɝli ˈnutɹəl ɪˌvæljuˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "conciliation",
+   "ipa_brE": "BrE /ˌkɒnsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /kəˌnsɪliˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "arbitral award",
+   "ipa_brE": "BrE /ˈɑːbɪtrəl əˈwɔːd/",
+   "ipa_AmE": "AmE /ˈɑbɪtɹəl əˈwɔɹd/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "arbitrator",
+   "ipa_brE": "BrE /ˈɑːbɪtreɪtə(r)/",
+   "ipa_AmE": "AmE /ˈɑɹbɪˌtɹéɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "seat of arbitration",
+   "ipa_brE": "BrE /ˈsiːt əv ˌɑːbɪˈtreɪʃn/",
+   "ipa_AmE": "AmE /ˈsit ˈʌv ˌɑɹbɪˈtɹéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "institution rules",
+   "ipa_brE": "BrE /ˌɪnstɪˈtjuːʃn ruːlz/",
+   "ipa_AmE": "AmE /ˌɪnstɪˈtuʃən ˈɹulz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expert determination",
+   "ipa_brE": "BrE /ˈekspɜːt dɪˌtɜːmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /ˈɛkspɚt dɪˌtɝməˈnéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adjudication",
+   "ipa_brE": "BrE /əˌdʒuːdɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /əˌdʒudəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dispute resolution clause",
+   "ipa_brE": "BrE /dɪˈspjuːt rɪˌzɒljuːʃn kleɪz/",
+   "ipa_AmE": "AmE /dɪˈspjut ˌɹɛzəˈluʃən ˈklɔz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "multi-tiered clause",
+   "ipa_brE": "BrE /ˌmʌlti ˈtɪəd kleɪz/",
+   "ipa_AmE": "AmE /ˈmʌlti ˈtiɹd ˈklɔz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "litigation hold",
+   "ipa_brE": "BrE /lɪˈtɪɡeɪʃn həʊld/",
+   "ipa_AmE": "AmE /ˌlɪtəˈɡéɪʃən ˈhoʊld/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "preservation of evidence",
+   "ipa_brE": "BrE /ˌprezəveɪʃn əv ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˌpɹɛzɚˈvéɪʃən ˈʌv ˈɛvədəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "privilege review",
+   "ipa_brE": "BrE /ˈprɪvəlɪdʒ rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "spoliation",
+   "ipa_brE": "BrE /spəʊliˈeɪʃn/",
+   "ipa_AmE": "AmE /spoʊlɪˈeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "adverse inference",
+   "ipa_brE": "BrE /ˈædvɜːs ɪnˈfɜːəns/",
+   "ipa_AmE": "AmE /æˈdvɝs ˈɪnfɚəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "document disclosure",
+   "ipa_brE": "BrE /ˈdɒkjumənt dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈdɑkjəmɛnt dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "e-disclosure",
+   "ipa_brE": "BrE /ˈiː dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈi dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "privilege log",
+   "ipa_brE": "BrE /ˈprɪvəlɪdʒ lɒɡ/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "relevance",
+   "ipa_brE": "BrE /ˈreləvəns/",
+   "ipa_AmE": "AmE /ˈɹɛləvəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "admissibility",
+   "ipa_brE": "BrE /ədˌmɪsəˈbɪləti/",
+   "ipa_AmE": "AmE /əˌdmɪsəˈbɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "hearsay",
+   "ipa_brE": "BrE /ˈhɪəsi/",
+   "ipa_AmE": "AmE /ˈhiˌɹséɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "expert evidence",
+   "ipa_brE": "BrE /ˈekspɜːt ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˈɛkspɚt ˈɛvədəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "evidential burden",
+   "ipa_brE": "BrE /ˌevɪˈdenʃl ˈbɜːdn/",
+   "ipa_AmE": "AmE /ˌɛvɪˈdɛnʃl ˈbɝdən/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "balance of probabilities",
+   "ipa_brE": "BrE /ˌbæləns əv ˌprɒbəˈbɪlətiz/",
+   "ipa_AmE": "AmE /ˈbæləns ˈʌv ˌpɹɑbəˈbɪləˌtiz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "witness box",
+   "ipa_brE": "BrE /ˈwɪtnəks bɒks/",
+   "ipa_AmE": "AmE /ˈwɪtnəs ˈbɑks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "skeleton argument",
+   "ipa_brE": "BrE /ˈskelɪtn ˈɑːɡjumənt/",
+   "ipa_AmE": "AmE /ˈskɛlətən ˈɑɹɡjəmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opening submissions",
+   "ipa_brE": "BrE /ˌəʊpənɪŋ səbˈmɪʃnz/",
+   "ipa_AmE": "AmE /ˈoʊpənɪŋ səˈbmɪʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "judgment creditor",
+   "ipa_brE": "BrE /ˈdʒʌdʒmənt kredɪtə(r)/",
+   "ipa_AmE": "AmE /ˈdʒʌdʒmənt ˈkɹɛdətɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "writ of execution",
+   "ipa_brE": "BrE /ˈrɪt əv ˌeksɪˈkjuːʃn/",
+   "ipa_AmE": "AmE /ˈɹɪt ˈʌv ˌɛksəˈkjuʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "attachment",
+   "ipa_brE": "BrE /əˈtætʃmənt/",
+   "ipa_AmE": "AmE /əˈtætʃmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "committal order",
+   "ipa_brE": "BrE /kəˈmɪtl ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /kəˈmɪtəl ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contempt",
+   "ipa_brE": "BrE /kənˈtempt/",
+   "ipa_AmE": "AmE /kəˈntɛmpt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "undertaking as to damages",
+   "ipa_brE": "BrE /ˈʌndəteɪkɪŋ əz tuː ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˈʌndɚˌtéɪkɪŋ ˈæz ˈtu ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "security for costs",
+   "ipa_brE": "BrE /sɪˈkjʊərəti fə kɒsts/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈfɔɹ ˈkɑsts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "costs order",
+   "ipa_brE": "BrE /kɒsts ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈkɑsts ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "costs of the action",
+   "ipa_brE": "BrE /kɒsts əv ði ˈækʃn/",
+   "ipa_AmE": "AmE /ˈkɑsts ˈʌv ðə ˈækʃən/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "offer of judgment",
+   "ipa_brE": "BrE /ˈɒfə(r) əv ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈɔfɚ ˈʌv ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "Tomlin order",
+   "ipa_brE": "BrE /ˈtɒmlɪn ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈtɑmlɪn ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payment schedule",
+   "ipa_brE": "BrE /ˈpeɪmənt ˈʃedjuːl/",
+   "ipa_AmE": "AmE /ˈpéɪmənt ˈskɛdʒʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compulsory mediation order",
+   "ipa_brE": "BrE /kəmˌpʌlsəri ˌmiːdiˈeɪʃn ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /kəˈmpʌlsɚi ˌmidiˈéɪʃən ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "gagging order",
+   "ipa_brE": "BrE /ˈɡæɡɪŋ ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈɡæɡɪŋ ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "public interest",
+   "ipa_brE": "BrE /ˌpʌblɪk ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈpʌblɪk ˈɪntɹəst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "professional misconduct",
+   "ipa_brE": "BrE /prəˌfeʃənəl mɪsˈkɒndʌkt/",
+   "ipa_AmE": "AmE /pɹəˈfɛʃənəl mɪˈskɑndəkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "redress",
+   "ipa_brE": "BrE /ˈriːdres/",
+   "ipa_AmE": "AmE /ɹɪˈdɹɛs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "restorative justice",
+   "ipa_brE": "BrE /rɪˌstɒrətɪv ˈdʒʌstɪs/",
+   "ipa_AmE": "AmE /ɹəˈstɔɹətɪv ˈdʒʌstəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compulsory settlement",
+   "ipa_brE": "BrE /kəmˌpʌlsəri ˈsetlmənt/",
+   "ipa_AmE": "AmE /kəˈmpʌlsɚi ˈsɛtəlmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "summons",
+   "ipa_brE": "BrE /ˈsʌmənz/",
+   "ipa_AmE": "AmE /ˈsʌmənz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "garnishment",
+   "ipa_brE": "BrE /ˈɡɑːnɪʃmənt/",
+   "ipa_AmE": "AmE /ˈɡɑɹnɪʃmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trust of the proceeds",
+   "ipa_brE": "BrE /trʌst əv ðə ˈprəʊsiːdz/",
+   "ipa_AmE": "AmE /ˈtɹʌst ˈʌv ðə pɹəˈsidz/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "charging clause",
+   "ipa_brE": "BrE /ˈtʃɑːdʒɪŋ kleɪz/",
+   "ipa_AmE": "AmE /ˈtʃɑɹdʒɪŋ ˈklɔz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m05": [
+  {
+   "word": "claim form",
+   "ipa_brE": "BrE /ˈkleɪm fɔːm/",
+   "ipa_AmE": "AmE /ˈkléɪm ˈfɔɹm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statement of case",
+   "ipa_brE": "BrE /ˈsteɪtmənt əv keɪs/",
+   "ipa_AmE": "AmE /ˈstéɪtmənt ˈʌv ˈkéɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reply",
+   "ipa_brE": "BrE /rɪˈplaɪ/",
+   "ipa_AmE": "AmE /ɹɪˈplɑɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "plea in bar",
+   "ipa_brE": "BrE /pliː ɪn bɑː(r)/",
+   "ipa_AmE": "AmE /ˈpli ɪn ˈbɑɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "particulars of claim",
+   "ipa_brE": "BrE /pəˈtɪkjʊləz əv ˈkleɪm/",
+   "ipa_AmE": "AmE /pɚˈtɪkjəlɚz ˈʌv ˈkléɪm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "set-off counterclaim",
+   "ipa_brE": "BrE /ˈset ɒf ˈkaʊntəkleɪm/",
+   "ipa_AmE": "AmE /ˈsɛt ˈɔf ˈkàʊntɚˌkléɪm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "set aside",
+   "ipa_brE": "BrE /ˈset əsaɪd/",
+   "ipa_AmE": "AmE /ˈsɛt əˈsɑɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strike out",
+   "ipa_brE": "BrE /ˈstraɪk aʊt/",
+   "ipa_AmE": "AmE /ˈstɹɑɪk ˈàʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disposal hearing",
+   "ipa_brE": "BrE /dɪˈspəʊzl ˈhɪərɪŋ/",
+   "ipa_AmE": "AmE /dɪˈspoʊzəl ˈhiɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disposal",
+   "ipa_brE": "BrE /dɪˈspəʊzl/",
+   "ipa_AmE": "AmE /dɪˈspoʊzəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "default",
+   "ipa_brE": "BrE /ˈdiːfɔːlt/",
+   "ipa_AmE": "AmE /dɪˈfɔlt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "notice of intent",
+   "ipa_brE": "BrE /ˈnəʊtɪs əv ɪnˈtent/",
+   "ipa_AmE": "AmE /ˈnoʊtəs ˈʌv ˌɪˈntɛnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "acknowledgement of service",
+   "ipa_brE": "BrE /əkˈnɒlɪdʒmənt əv ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /æˈknɑlɪdʒmənt ˈʌv ˈsɝvəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "service by post",
+   "ipa_brE": "BrE /ˈsɜːvɪs baɪ pəʊst/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈbɑɪ ˈpoʊst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "certificate of service",
+   "ipa_brE": "BrE /səˈtɪfɪkət əv ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /sɚˈtɪfɪkət ˈʌv ˈsɝvəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "interlocutory application",
+   "ipa_brE": "BrE /ˌɪntələˈkjuːtəri ˌæplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪntələˈkjutəɹɪ ˌæpləˈkéɪʃən/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "case management",
+   "ipa_brE": "BrE /ˈkeɪs ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "directions questionnaire",
+   "ipa_brE": "BrE /dəˈrekʃnz ˌkwestʃəˌneə/",
+   "ipa_AmE": "AmE /dɚˈɛkʃənz ˌkwɛstʃəˈnɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pre-action protocol",
+   "ipa_brE": "BrE /ˌpriː ˈækʃn ˈprəʊtəkɒl/",
+   "ipa_AmE": "AmE /ˈpɹi ˈækʃən ˈpɹoʊtəˌkɑl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "limitation period",
+   "ipa_brE": "BrE /ˌlɪmɪˈteɪʃn ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˌlɪmɪˈtéɪʃən ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclosure",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "standard disclosure",
+   "ipa_brE": "BrE /ˌstændəd dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈstændɚd dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "preservation notice",
+   "ipa_brE": "BrE /prɪˌzɜːveɪʃn ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ˌpɹɛzɚˈvéɪʃən ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "document collection",
+   "ipa_brE": "BrE /dɒkjumənt kəˈlekʃn/",
+   "ipa_AmE": "AmE /ˈdɑkjəmɛnt kəˈlɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "review",
+   "ipa_brE": "BrE /rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˌɹiˈvju/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "redaction",
+   "ipa_brE": "BrE /rɪˈdækʃn/",
+   "ipa_AmE": "AmE /ɹɪˈdækʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "clawback",
+   "ipa_brE": "BrE /ˈklɔːbæk/",
+   "ipa_AmE": "AmE /ˈklɔbæk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "privilege waiver",
+   "ipa_brE": "BrE /ˈprɪvəlɪdʒ ˈweɪvə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ ˈwéɪvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "third-party disclosure",
+   "ipa_brE": "BrE /ˌθɜːd ˈpɑːti dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "discovery conference",
+   "ipa_brE": "BrE /dɪˈskʌvəri ˈkɒnfərəns/",
+   "ipa_AmE": "AmE /dɪˈskʌvɚi ˈkɑnfɚəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deponent bundle",
+   "ipa_brE": "BrE /dɪˈpənənt ˈbʌndl/",
+   "ipa_AmE": "AmE /dɪˈpənənt ˈbʌndəl/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "witness of fact",
+   "ipa_brE": "BrE /ˈwɪtnəs əv fækt/",
+   "ipa_AmE": "AmE /ˈwɪtnəs ˈʌv ˈfækt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "expert",
+   "ipa_brE": "BrE /ˈekspɜːt/",
+   "ipa_AmE": "AmE /ˈɛkspɚt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "single joint expert",
+   "ipa_brE": "BrE /ˌsɪŋɡl ˈdʒɔɪnt ˈekspɜːt/",
+   "ipa_AmE": "AmE /ˈsɪŋɡəl ˈdʒɔɪnt ˈɛkspɚt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "court expert",
+   "ipa_brE": "BrE /ˈkɔːt ˈekspɜːt/",
+   "ipa_AmE": "AmE /ˈkɔɹt ˈɛkspɚt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expert report",
+   "ipa_brE": "BrE /ˈekspɜːt rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈɛkspɚt ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hearsay exception",
+   "ipa_brE": "BrE /ˈhɪəsi ɪkˈsepʃn/",
+   "ipa_AmE": "AmE /ˈhiˌɹséɪ ɪˈksɛpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "res gestae",
+   "ipa_brE": "BrE /rez ˈdʒestiː/",
+   "ipa_AmE": "AmE /ˈɹéɪz ˈdʒɛsti/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "public policy",
+   "ipa_brE": "BrE /ˌpʌblɪk ˈpɒləsi/",
+   "ipa_AmE": "AmE /ˈpʌblɪk ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "similar fact evidence",
+   "ipa_brE": "BrE /ˈsɪmələr fækt ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˈsɪməlɚ ˈfækt ˈɛvədəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "character evidence",
+   "ipa_brE": "BrE /ˈkærəktə(r) ˈevɪdəns/",
+   "ipa_AmE": "AmE /ˈkɛɹɪktɚ ˈɛvədəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expert opinion",
+   "ipa_brE": "BrE /ˈekspɜːt əˈpɪnjən/",
+   "ipa_AmE": "AmE /ˈɛkspɚt əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal burden",
+   "ipa_brE": "BrE /ˈliːɡl ˈbɜːdn/",
+   "ipa_AmE": "AmE /ˈliɡəl ˈbɝdən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proof of fact",
+   "ipa_brE": "BrE /pruːf əv fækt/",
+   "ipa_AmE": "AmE /ˈpɹuf ˈʌv ˈfækt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "inadmissible",
+   "ipa_brE": "BrE /ˌɪnədˈmɪsəbl/",
+   "ipa_AmE": "AmE /ˌɪnəˈdmɪsəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "in limine",
+   "ipa_brE": "BrE /ɪn ˈlɪmiːneɪ/",
+   "ipa_AmE": "AmE /ɪn lɪˈmɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "voir dire",
+   "ipa_brE": "BrE /ˈvwɑː diːr/",
+   "ipa_AmE": "AmE /ˈvwɑɹ ˈdɑɪɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "jury directions",
+   "ipa_brE": "BrE /ˈdʒʊəri dəˈrekʃnz/",
+   "ipa_AmE": "AmE /ˈdʒʊɹi dɚˈɛkʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trial counsel",
+   "ipa_brE": "BrE /ˈtraɪəl ˈkaʊnsl/",
+   "ipa_AmE": "AmE /ˈtɹɑɪəl ˈkàʊnsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opening",
+   "ipa_brE": "BrE /ˈəʊpənɪŋ/",
+   "ipa_AmE": "AmE /ˈoʊpənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "closing submissions",
+   "ipa_brE": "BrE /ˌkləʊzɪŋ səbˈmɪʃnz/",
+   "ipa_AmE": "AmE /ˈkloʊzɪŋ səˈbmɪʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reasons for judgment",
+   "ipa_brE": "BrE /ˈriːznz fə ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈɹizənz ˈfɔɹ ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reasons",
+   "ipa_brE": "BrE /ˈriːznz/",
+   "ipa_AmE": "AmE /ˈɹizənz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "appellant case",
+   "ipa_brE": "BrE /əˈpelənt keɪs/",
+   "ipa_AmE": "AmE /əˈpɛlɪnt ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "permission to appeal",
+   "ipa_brE": "BrE /pəˈmɪʃn tuː əˈpiːl/",
+   "ipa_AmE": "AmE /pɚˈmɪʃən ˈtu əˈpil/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "second appeal",
+   "ipa_brE": "BrE /ˌsekənd əˈpiːl/",
+   "ipa_AmE": "AmE /ˈsɛkənd əˈpil/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cross-appeal costs",
+   "ipa_brE": "BrE /ˌkrɒs əˈpiːl kɒsts/",
+   "ipa_AmE": "AmE /ˈkɹɔs əˈpil ˈkɑsts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "remittal",
+   "ipa_brE": "BrE /rɪˈmɪtl/",
+   "ipa_AmE": "AmE /ɹɪˈmɪtl/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "consequential order",
+   "ipa_brE": "BrE /kənˈsekʌnʃl ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˌkɑnsəˈkwɛnʃəl ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "costs on the case",
+   "ipa_brE": "BrE /kɒsts ɒn ðə keɪs/",
+   "ipa_AmE": "AmE /ˈkɑsts ˈɑn ðə ˈkéɪs/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "interests",
+   "ipa_brE": "BrE /ˈɪntrəsts/",
+   "ipa_AmE": "AmE /ˈɪntɹəsts/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "judgment debt",
+   "ipa_brE": "BrE /ˈdʒʌdʒmənt det/",
+   "ipa_AmE": "AmE /ˈdʒʌdʒmənt ˈdɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stay",
+   "ipa_brE": "BrE /steɪ/",
+   "ipa_AmE": "AmE /ˈstéɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "suspension",
+   "ipa_brE": "BrE /səˈspenʃn/",
+   "ipa_AmE": "AmE /səˈspɛnʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "acknowledgement",
+   "ipa_brE": "BrE /əkˈnɒlɪdʒmənt/",
+   "ipa_AmE": "AmE /æˈknɑlɪdʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "garnishee order",
+   "ipa_brE": "BrE /ˌɡɑːnɪˈʃiː ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˌɡɑnɪˈʃi ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "third-party funding",
+   "ipa_brE": "BrE /ˌθɜːd ˈpɑːti ˈfʌndɪŋ/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti ˈfʌndɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "maintenance",
+   "ipa_brE": "BrE /ˈmeɪntənəns/",
+   "ipa_AmE": "AmE /ˈméɪntənəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "witness fee",
+   "ipa_brE": "BrE /ˈwɪtnəs fiː/",
+   "ipa_AmE": "AmE /ˈwɪtnəs ˈfi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hot witness",
+   "ipa_brE": "BrE /ˌhɒt ˈwɪtnəs/",
+   "ipa_AmE": "AmE /ˈhɑt ˈwɪtnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hostile witness",
+   "ipa_brE": "BrE /ˈhɒstaɪl ˈwɪtnəs/",
+   "ipa_AmE": "AmE /ˈhɑstəl ˈwɪtnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "obstruction",
+   "ipa_brE": "BrE /əbˈstrʌkʃn/",
+   "ipa_AmE": "AmE /əˈbstɹʌkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "perverting the course of justice",
+   "ipa_brE": "BrE /pəˈvɜːtɪŋ ðə kɔːs əv ˈdʒʌstɪs/",
+   "ipa_AmE": "AmE /pɚˈvɝtɪŋ ðə ˈkɔɹs ˈʌv ˈdʒʌstəs/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "contempt of court",
+   "ipa_brE": "BrE /kənˈtempt əv ˈkɔːt/",
+   "ipa_AmE": "AmE /kəˈntɛmpt ˈʌv ˈkɔɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "adjournment",
+   "ipa_brE": "BrE /əˈdʒɜːnmənt/",
+   "ipa_AmE": "AmE /əˈdʒɝnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "unless orders to the contrary",
+   "ipa_brE": "BrE /ənˈles ˈɔːdəz tuː ðə ˈkɒntrəri/",
+   "ipa_AmE": "AmE /əˈnlɛs ˈɔɹdɚz ˈtu ðə ˈkɑntɹɛɹi/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "thereafter",
+   "ipa_brE": "BrE /ˌðeərˈɑːftə(r)/",
+   "ipa_AmE": "AmE /ðɛˈɹæftɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "such other relief as the court thinks fit",
+   "ipa_brE": "BrE /sʌt ʌˈðə rɪˈliːf əz ðə kɔːt θɪŋks fɪt/",
+   "ipa_AmE": "AmE /ˈsʌtʃ ˈʌðɚ ɹɪˈlif ˈæz ðə ˈkɔɹt ˈθɪŋks ˈfɪt/",
+   "source": "parts",
+   "note": "8 part(s) from CMU"
+  },
+  {
+   "word": "liberty to apply",
+   "ipa_brE": "BrE /ˈlɪbəti tuː əˈplaɪ/",
+   "ipa_AmE": "AmE /ˈlɪbɚˌti ˈtu əˈplɑɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "case note",
+   "ipa_brE": "BrE /ˈkeɪs nəʊt/",
+   "ipa_AmE": "AmE /ˈkéɪs ˈnoʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annotation",
+   "ipa_brE": "BrE /ˌænəˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌænəˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "textbook treatment",
+   "ipa_brE": "BrE /ˈtekstbʊk ˈtrætmənt/",
+   "ipa_AmE": "AmE /ˈtɛˌkstbʊk ˈtɹitmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "distinguishable",
+   "ipa_brE": "BrE /dɪˈstɪŋɡwɪʃəbl/",
+   "ipa_AmE": "AmE /dɪˈstɪŋɡwɪʃəbəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "binding authority",
+   "ipa_brE": "BrE /ˈbaɪndɪŋ ɔːˈθɒrəti/",
+   "ipa_AmE": "AmE /ˈbɑɪndɪŋ əˈθɔɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "persuasive authority",
+   "ipa_brE": "BrE /pəˈsweɪzɪv ɔːˈθɒrəti/",
+   "ipa_AmE": "AmE /pɚˈswéɪsɪv əˈθɔɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ratio decidendi",
+   "ipa_brE": "BrE /ˈreɪʃiəʊ dɪˌsaɪdəndi/",
+   "ipa_AmE": "AmE /ˈɹéɪʃiˌoʊ dɪˌsaɪdəndɪ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "obiter dictum",
+   "ipa_brE": "BrE /ˈəʊbɪtə(r) ˈdɪktəm/",
+   "ipa_AmE": "AmE /ˈoʊbɪtɚ ˈdɪktəm/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "ratio",
+   "ipa_brE": "BrE /ˈreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈɹéɪʃiˌoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "judicial review",
+   "ipa_brE": "BrE /dʒuˌdɪʃl rɪˈvjuː/",
+   "ipa_AmE": "AmE /dʒuˈdɪʃəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reviewable error",
+   "ipa_brE": "BrE /rɪˈvjuːəbl ˈerə(r)/",
+   "ipa_AmE": "AmE /ɹɪˈvjuəbl ˈɛɹɚ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "further and better relief",
+   "ipa_brE": "BrE /ˈfɜːðə(r) ənd ˈbetə(r) rɪˈliːf/",
+   "ipa_AmE": "AmE /ˈfɝðɚ ənd ˈbɛtɚ ɹɪˈlif/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "trial de novo",
+   "ipa_brE": "BrE /ˌtraɪəl di ˈnəʊvəʊ/",
+   "ipa_AmE": "AmE /ˈtɹɑɪəl ˈdi ˈnoʊvoʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "constitutional challenge",
+   "ipa_brE": "BrE /ˌkɒnstɪˈtjuːʃənəl ˈtʃælɪndʒ/",
+   "ipa_AmE": "AmE /ˌkɑnstəˈtuʃənəl ˈtʃæləndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m06": [
+  {
+   "word": "compliance",
+   "ipa_brE": "BrE /kəmˈplaɪəns/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "regulator",
+   "ipa_brE": "BrE /ˈreɡjuleɪtə(r)/",
+   "ipa_AmE": "AmE /ˈɹɛɡjəˌléɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rulebook",
+   "ipa_brE": "BrE /ˈruːlbʊk/",
+   "ipa_AmE": "AmE /ˈɹuˌlbʊk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "code of conduct",
+   "ipa_brE": "BrE /ˌkəʊd əv ˈkɒndʌkt/",
+   "ipa_AmE": "AmE /ˈkoʊd ˈʌv ˈkɑndəkt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "policy",
+   "ipa_brE": "BrE /ˈpɒləsi/",
+   "ipa_AmE": "AmE /ˈpɑləsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "standard operating procedure",
+   "ipa_brE": "BrE /ˌstændəd ˈɒpəreɪtɪŋ prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈstændɚd ˈɑpɚˌéɪtɪŋ pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "guidance",
+   "ipa_brE": "BrE /ˈɡaɪdns/",
+   "ipa_AmE": "AmE /ˈɡɑɪdəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "enforcement action",
+   "ipa_brE": "BrE /ɪnˈfɔːsmənt ˈækʃn/",
+   "ipa_AmE": "AmE /ɛˈnfɔɹsmənt ˈækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sanction",
+   "ipa_brE": "BrE /ˈsæŋkʃn/",
+   "ipa_AmE": "AmE /ˈsæŋkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "penalty notice",
+   "ipa_brE": "BrE /ˈpenəlti ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ˈpɛnəlti ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fined",
+   "ipa_brE": "BrE /ˈfaɪnd/",
+   "ipa_AmE": "AmE /ˈfɑɪnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cease and desist order",
+   "ipa_brE": "BrE /ˌsiːs ənd dɪˈzɪst ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈsis ənd dɪˈsɪst ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "compliance undertaking",
+   "ipa_brE": "BrE /kəmˈplaɪəns ˌʌndəˈteɪkɪŋ/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈʌndɚˌtéɪkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warning notice",
+   "ipa_brE": "BrE /ˈwɔːnɪŋ ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ˈwɔɹnɪŋ ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remediation plan",
+   "ipa_brE": "BrE /rɪˌmiːdiˈeɪʃn plæn/",
+   "ipa_AmE": "AmE /ɹɪˌmidiˈéɪʃən ˈplæn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "root cause analysis",
+   "ipa_brE": "BrE /ˌruːt ˈkɔːz əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈɹut ˈkɑz əˈnæləsəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "whistleblowing",
+   "ipa_brE": "BrE /ˈwɪsəlˌbləʊɪŋ/",
+   "ipa_AmE": "AmE /ˈwɪsəˌlbloʊɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "whistleblower protection",
+   "ipa_brE": "BrE /ˈwɪsəlˌbləʊə(r) prəˈtekʃn/",
+   "ipa_AmE": "AmE /ˈwɪsəˌlbloʊɚ pɹəˈtɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "internal reporting channel",
+   "ipa_brE": "BrE /ɪnˌtɜːnl rɪˈpɔːtɪŋ ˈtʃænl/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ɹiˈpɔɹtɪŋ ˈtʃænəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "hotline",
+   "ipa_brE": "BrE /ˈhɒtlaɪn/",
+   "ipa_AmE": "AmE /ˈhɑˌtlɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "investigation",
+   "ipa_brE": "BrE /ˌɪnvɛstɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˌnvɛstəˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "internal investigation",
+   "ipa_brE": "BrE /ɪnˌtɜːnl ˌɪnvɛstɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˌɪˌnvɛstəˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "external investigation",
+   "ipa_brE": "BrE /ɪkˌstɜːnl ˌɪnvɛstɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ɪˈkstɝnəl ˌɪˌnvɛstəˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regulatory inspection",
+   "ipa_brE": "BrE /ˈreɡjələtri ɪnˌspekʃn/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ˌɪˈnspɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "on-site inspection",
+   "ipa_brE": "BrE /ˌɒn saɪt ɪnˌspekʃn/",
+   "ipa_AmE": "AmE /ˈɑn ˈsɑɪt ˌɪˈnspɛkʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "site visit",
+   "ipa_brE": "BrE /ˈsaɪt vɪzɪt/",
+   "ipa_AmE": "AmE /ˈsɑɪt ˈvɪzɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "document request",
+   "ipa_brE": "BrE /dɒkjumənt rɪˈkwest/",
+   "ipa_AmE": "AmE /ˈdɑkjəmɛnt ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sampling",
+   "ipa_brE": "BrE /ˈsɑːmplɪŋ/",
+   "ipa_AmE": "AmE /ˈsæmplɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sampling risk",
+   "ipa_brE": "BrE /ˈsɑːmplɪŋ rɪsk/",
+   "ipa_AmE": "AmE /ˈsæmplɪŋ ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "material weakness",
+   "ipa_brE": "BrE /məˌtɪəriəl ˈwiːknəs/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl ˈwiknəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "significant deficiency",
+   "ipa_brE": "BrE /sɪɡˈnɪfɪkənt dɪˈfɪʃənsi/",
+   "ipa_AmE": "AmE /səˈɡnɪfɪkənt dɪˈfɪʃənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control environment",
+   "ipa_brE": "BrE /kənˈtrəʊl ɪnˈvaɪrənmənt/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ɪˈnvɑɪɹənmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compliance monitoring",
+   "ipa_brE": "BrE /kəmˈplaɪəns ˈmɒnɪtərɪŋ/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈmɑnətɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk-based approach",
+   "ipa_brE": "BrE /ˈrɪsk ˈkeɪbd əˌprəʊtʃ/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈbéɪst əˈpɹoʊtʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "risk assessment",
+   "ipa_brE": "BrE /rɪsk əˈsesmənt/",
+   "ipa_AmE": "AmE /ˈɹɪsk əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk register",
+   "ipa_brE": "BrE /rɪsk ˈredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk appetite",
+   "ipa_brE": "BrE /ˈrɪsk ˌæpɪˈtaɪt/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈæpəˌtɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk mitigation",
+   "ipa_brE": "BrE /rɪsk ˌmɪtɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˌmɪtɪˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "residual risk",
+   "ipa_brE": "BrE /rɪˌzɪdjuəl ˈrɪsk/",
+   "ipa_AmE": "AmE /ɹɪˈzɪdʒuəl ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "due diligence",
+   "ipa_brE": "BrE /ˌdjuː ˈdɪlɪdʒəns/",
+   "ipa_AmE": "AmE /ˈdu ˈdɪlədʒəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "third-party risk",
+   "ipa_brE": "BrE /ˈθɜːd ˌpɑːti rɪsk/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti ˈɹɪsk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "outsourcing",
+   "ipa_brE": "BrE /ˈaʊtsɔːsɪŋ/",
+   "ipa_AmE": "AmE /ˌàʊˈtsɔɹsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "supply chain due diligence",
+   "ipa_brE": "BrE /səˌplaɪ tʃeɪn djuː ˈdɪlɪdʒəns/",
+   "ipa_AmE": "AmE /səˈplɑɪ ˈtʃéɪn ˈdu ˈdɪlədʒəns/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "anti-bribery",
+   "ipa_brE": "BrE /ˌænti ˈbraɪbəri/",
+   "ipa_AmE": "AmE /ˈæˌnti ˈbɹɑɪbɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bribery",
+   "ipa_brE": "BrE /ˈbraɪbri/",
+   "ipa_AmE": "AmE /ˈbɹɑɪbɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "facilitation payment",
+   "ipa_brE": "BrE /fəˌsɪlɪˈteɪʃn ˈpeɪmənt/",
+   "ipa_AmE": "AmE /fəˌsɪləˈtéɪʃən ˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "kickback",
+   "ipa_brE": "BrE /ˈkɪkbæk/",
+   "ipa_AmE": "AmE /ˈkɪˌkbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "conflicts of interest",
+   "ipa_brE": "BrE /ˈkɒnflɪkts əv ˈɪntrəst/",
+   "ipa_AmE": "AmE /kəˈnflɪkts ˈʌv ˈɪntɹəst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "related-party transaction",
+   "ipa_brE": "BrE /rɪˌleɪtid ˈpɑːti trænˈzækʃn/",
+   "ipa_AmE": "AmE /ɹɪˈléɪtɪd ˈpɑɹti tɹæˈnzækʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "insider dealing",
+   "ipa_brE": "BrE /ˈɪnsaɪdə(r) ˌdiːlɪŋ/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑɪdɚ ˈdilɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market abuse",
+   "ipa_brE": "BrE /ˈmɑːkɪt əˌbjuːz/",
+   "ipa_AmE": "AmE /ˈmɑɹkət əˈbjus/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "money laundering",
+   "ipa_brE": "BrE /ˈmʌni ˌlɔːndrɪŋ/",
+   "ipa_AmE": "AmE /ˈmʌni ˈlɔndɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proceeds of crime",
+   "ipa_brE": "BrE /prəˈsiːdz əv ˈkraɪm/",
+   "ipa_AmE": "AmE /pɹəˈsidz ˈʌv ˈkɹɑɪm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "asset freezing",
+   "ipa_brE": "BrE /ˈæset ˌfriːzɪŋ/",
+   "ipa_AmE": "AmE /ˈæˌsɛt ˈfɹizɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forfeiture",
+   "ipa_brE": "BrE /ˈfɔːfɪtʃə(r)/",
+   "ipa_AmE": "AmE /ˈfɔɹfətʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tax evasion",
+   "ipa_brE": "BrE /tæks ɪˈveɪʒn/",
+   "ipa_AmE": "AmE /ˈtæks ɪˈvéɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax compliance",
+   "ipa_brE": "BrE /tæks kəmˈplaɪəns/",
+   "ipa_AmE": "AmE /ˈtæks kəˈmplɑɪəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "filing deadline",
+   "ipa_brE": "BrE /ˈfaɪlɪŋ ˈdedlaɪn/",
+   "ipa_AmE": "AmE /ˈfɑɪlɪŋ ˈdɛˌdlɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory return",
+   "ipa_brE": "BrE /stəˈtjuːtri rɪˈtɜːn/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit trail",
+   "ipa_brE": "BrE /ˈɔːdɪt treɪl/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈtɹéɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "record keeping",
+   "ipa_brE": "BrE /ˈrekɔːd ˌkiːpɪŋ/",
+   "ipa_AmE": "AmE /ɹəˈkɔɹd ˈkipɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data retention",
+   "ipa_brE": "BrE /ˈdeɪtə rɪˌtenʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ɹiˈtɛnʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "evidence destruction",
+   "ipa_brE": "BrE /ˈevɪdəns dɪˈstrʌkʃn/",
+   "ipa_AmE": "AmE /ˈɛvədəns dɪˈstɹʌkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regulatory register",
+   "ipa_brE": "BrE /ˈreɡjələtri ˌredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "licence",
+   "ipa_brE": "BrE /ˈlaɪsns/",
+   "ipa_AmE": "AmE /ˈlɑɪsəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "licensing condition",
+   "ipa_brE": "BrE /ˈlaɪsnsɪŋ kənˌdɪʃn/",
+   "ipa_AmE": "AmE /ˈlɑɪsənsɪŋ kəˈndɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "authorisation",
+   "ipa_brE": "BrE /ɔːθəraɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌɔθɚəˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dual authorisation",
+   "ipa_brE": "BrE /ˌdjuːəl ɔːˌθaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈduəl ˌɔθɚəˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "segregation of duties",
+   "ipa_brE": "BrE /ˌseɡrɪˈɡeɪʃn əv ˈdjuːts/",
+   "ipa_AmE": "AmE /ˌsɛɡɹəˈɡéɪʃən ˈʌv ˈdutiz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "access control",
+   "ipa_brE": "BrE /ˈækses kənˌtrəʊl/",
+   "ipa_AmE": "AmE /ˈæˌksɛs kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "system of record",
+   "ipa_brE": "BrE /ˈsɪstəm əv ˈrekɔːd/",
+   "ipa_AmE": "AmE /ˈsɪstəm ˈʌv ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "compliance sign-off",
+   "ipa_brE": "BrE /kəmˈplaɪəns ˈsaɪn ɒf/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈsɑɪn ˈɔf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "mandatory training",
+   "ipa_brE": "BrE /ˈmændətəri ˈtreɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈmændəˌtɔɹi ˈtɹéɪnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "policy breach",
+   "ipa_brE": "BrE /ˈpɒləsi briːtʃ/",
+   "ipa_AmE": "AmE /ˈpɑləsi ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "misconduct",
+   "ipa_brE": "BrE /ˈmɪskɒndʌkt/",
+   "ipa_AmE": "AmE /mɪˈskɑndəkt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "disciplinary procedure",
+   "ipa_brE": "BrE /ˌdɪsəˈplɪnəri prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈdɪsəpləˌnɛɹi pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "suspension from office",
+   "ipa_brE": "BrE /səˈspenʃn frəm ˈɒfɪs/",
+   "ipa_AmE": "AmE /səˈspɛnʃən ˈfɹʌm ˈɔfɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "dismissal",
+   "ipa_brE": "BrE /dɪsˈmɪsl/",
+   "ipa_AmE": "AmE /dɪˈsmɪsəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "regulatory engagement",
+   "ipa_brE": "BrE /rɪˌɡjələtri ɪnˈɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ɛˈnɡéɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "openness",
+   "ipa_brE": "BrE /ˈəʊpənnəs/",
+   "ipa_AmE": "AmE /ˈoʊpənnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cooperation",
+   "ipa_brE": "BrE /kəʊˌɒpəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌkwɑpɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "self-reporting",
+   "ipa_brE": "BrE /ˌself rəˈpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈsɛlf ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "enforcement notice",
+   "ipa_brE": "BrE /ɪnˈfɔːsmənt ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ɛˈnfɔɹsmənt ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "settlement agreement",
+   "ipa_brE": "BrE /ˈsetlmənt əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈsɛtəlmənt əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "monitoring",
+   "ipa_brE": "BrE /ˈmɒnɪtərɪŋ/",
+   "ipa_AmE": "AmE /ˈmɑnətɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "repeat breach",
+   "ipa_brE": "BrE /rɪˌpiːt ˈbriːtʃ/",
+   "ipa_AmE": "AmE /ɹɪˈpit ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "escalation protocol",
+   "ipa_brE": "BrE /ˌeskəˈleɪʃn ˈprəʊtəkɒl/",
+   "ipa_AmE": "AmE /ˌɛskəˈléɪʃən ˈpɹoʊtəˌkɑl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "serious incident",
+   "ipa_brE": "BrE /ˈsɪəriəs ˈɪnsɪdənt/",
+   "ipa_AmE": "AmE /ˈsɪɹiəs ˈɪnsədənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "near miss",
+   "ipa_brE": "BrE /ˌnɪə ˈmɪs/",
+   "ipa_AmE": "AmE /ˈnɪɹ ˈmɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "breach log",
+   "ipa_brE": "BrE /briːtʃ lɒɡ/",
+   "ipa_AmE": "AmE /ˈbɹitʃ ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m07": [
+  {
+   "word": "incorporation",
+   "ipa_brE": "BrE /ɪnˌkɔːpəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˌnkɔɹpɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "articles of association",
+   "ipa_brE": "BrE /ˈɑːtɪklz əv əˌsəʊsiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈɑɹtəkəlz ˈʌv əˌsoʊsiˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "memorandum of association",
+   "ipa_brE": "BrE /ˌmeməˈrændəm əv əˌsəʊsiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˌmɛmɚˈændəm ˈʌv əˌsoʊsiˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "share certificate",
+   "ipa_brE": "BrE /ˈʃeə səˌtɪfɪkət/",
+   "ipa_AmE": "AmE /ˈʃɛɹ sɚˈtɪfɪkət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "register of members",
+   "ipa_brE": "BrE /ˈredʒɪstə(r) əv ˈmembəz/",
+   "ipa_AmE": "AmE /ˈɹɛdʒɪstɚ ˈʌv ˈmɛmbɚz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "statutory book",
+   "ipa_brE": "BrE /stəˈtjuːtri bʊk/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˈbʊk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share capital",
+   "ipa_brE": "BrE /ˈʃeə ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "allotment",
+   "ipa_brE": "BrE /əˈlɒtmənt/",
+   "ipa_AmE": "AmE /əˈlɑtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pre-emption right",
+   "ipa_brE": "BrE /ˌpriː ɪˈmepʃn raɪt/",
+   "ipa_AmE": "AmE /ˈpɹi ˈɛmpʃən ˈɹɑɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "transfer instrument",
+   "ipa_brE": "BrE /ˈtrænsfɜː(r) ˌɪnstruːmənt/",
+   "ipa_AmE": "AmE /tɹæˈnsfɝ ˈɪnstɹəmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "member",
+   "ipa_brE": "BrE /ˈmembə(r)/",
+   "ipa_AmE": "AmE /ˈmɛmbɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "resolution",
+   "ipa_brE": "BrE /ˌrezəˈluːʃn/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈluʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "written resolution",
+   "ipa_brE": "BrE /ˈraɪtn ˌrezəˈluːʃn/",
+   "ipa_AmE": "AmE /ˈɹɪtən ˌɹɛzəˈluʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quorum",
+   "ipa_brE": "BrE /ˈkwɔːrəm/",
+   "ipa_AmE": "AmE /ˈkwɔɹəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "chair",
+   "ipa_brE": "BrE /tʃeə(r)/",
+   "ipa_AmE": "AmE /ˈtʃɛɹ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "board meeting",
+   "ipa_brE": "BrE /bɔːd ˈmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˈbɔɹd ˈmitɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "minutes",
+   "ipa_brE": "BrE /ˈmɪnɪts/",
+   "ipa_AmE": "AmE /ˈmɪnəts/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "director",
+   "ipa_brE": "BrE /dəˈrektə(r)/",
+   "ipa_AmE": "AmE /dɚˈɛktɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fiduciary duty",
+   "ipa_brE": "BrE /fɪˈdjuːʃəri ˈdjuːti/",
+   "ipa_AmE": "AmE /fəˈduʃiˌɛɹi ˈduti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "duty of skill",
+   "ipa_brE": "BrE /ˈdjuːti əv ˈskɪl/",
+   "ipa_AmE": "AmE /ˈduti ˈʌv ˈskɪl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "duty of loyalty",
+   "ipa_brE": "BrE /ˈdjuːti əv ˈlɔɪəlti/",
+   "ipa_AmE": "AmE /ˈduti ˈʌv ˈlɔɪəlti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "duty to disclose",
+   "ipa_brE": "BrE /ˈdjuːti tuː dɪsˈkləʊz/",
+   "ipa_AmE": "AmE /ˈduti ˈtu dɪˈskloʊz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "conflict",
+   "ipa_brE": "BrE /ˈkɒnflɪkt/",
+   "ipa_AmE": "AmE /ˈkɑnflɪkt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "connected person",
+   "ipa_brE": "BrE /kəˌnektɪd ˈpɜːsn/",
+   "ipa_AmE": "AmE /kəˈnɛktɪd ˈpɝsən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "substantial shareholder",
+   "ipa_brE": "BrE /səbˈstænʃl ˈʃeəhəʊldə(r)/",
+   "ipa_AmE": "AmE /səˈbstænʃəl ˈʃɛˌɹhoʊldɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shareholding disclosure",
+   "ipa_brE": "BrE /ˈʃeəhəʊldɪŋ dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɪŋ dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annual return",
+   "ipa_brE": "BrE /ˈænjuəl rɪˌtɜːn/",
+   "ipa_AmE": "AmE /ˈænjuəl ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "filing date",
+   "ipa_brE": "BrE /ˈfaɪlɪŋ deɪt/",
+   "ipa_AmE": "AmE /ˈfɑɪlɪŋ ˈdéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accounts",
+   "ipa_brE": "BrE /əˈkaʊnts/",
+   "ipa_AmE": "AmE /əˈkàʊnts/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "distribution",
+   "ipa_brE": "BrE /ˌdɪstrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /ˌdɪstɹəˈbjuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dividend",
+   "ipa_brE": "BrE /ˈdɪvɪdend/",
+   "ipa_AmE": "AmE /ˈdɪvɪˌdɛnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capital reduction",
+   "ipa_brE": "BrE /ˈkæpɪtl rɪˌdʌkʃn/",
+   "ipa_AmE": "AmE /ˈkæpətəl ɹəˈdʌkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "solvency test",
+   "ipa_brE": "BrE /ˈsɒlvənsi test/",
+   "ipa_AmE": "AmE /ˈsɔlvənsi ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insolvent",
+   "ipa_brE": "BrE /ɪnˈsɒlvənt/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑlvənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "members' voluntary liquidation",
+   "ipa_brE": "BrE /ˈmembəz vɒləntri ˌlɪkwɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˈmɛmbɚz ˈvɑləntɛɹi ˌlɪkwɪˈdéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "liquidator",
+   "ipa_brE": "BrE /ˈlɪkwɪdeɪtə(r)/",
+   "ipa_AmE": "AmE /ˈlɪkwɪˌdéɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "distributable reserve",
+   "ipa_brE": "BrE /dɪˈstrɪbjətəbl rɪˌzɜːv/",
+   "ipa_AmE": "AmE /dɪˈstɹɪbjətəbl ɹɪˈzɝv/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "share buyback",
+   "ipa_brE": "BrE /ˈʃeə ˈbaɪbæk/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈbɑɪˌbæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "treasury shares",
+   "ipa_brE": "BrE /ˈtreʒəri ʃeəz/",
+   "ipa_AmE": "AmE /ˈtɹɛʒɚi ˈʃɛɹz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "option scheme",
+   "ipa_brE": "BrE /ˈɒpʃn skiːm/",
+   "ipa_AmE": "AmE /ˈɑpʃən ˈskim/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vesting",
+   "ipa_brE": "BrE /ˈvestɪŋ/",
+   "ipa_AmE": "AmE /ˈvɛstɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "remuneration",
+   "ipa_brE": "BrE /rɪˌmjuːnəˈreɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˌmjunɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bonus",
+   "ipa_brE": "BrE /ˈbəʊnəs/",
+   "ipa_AmE": "AmE /ˈboʊnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pension scheme",
+   "ipa_brE": "BrE /ˈpenʃn skiːm/",
+   "ipa_AmE": "AmE /ˈpɛnʃən ˈskim/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit",
+   "ipa_brE": "BrE /ˈɔːdɪt/",
+   "ipa_AmE": "AmE /ˈɔdɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "auditor",
+   "ipa_brE": "BrE /ˈɔːdɪtə(r)/",
+   "ipa_AmE": "AmE /ˈɔdɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "independent auditor",
+   "ipa_brE": "BrE /ˌɪndɪˈpendənt ˈɔːdɪtə(r)/",
+   "ipa_AmE": "AmE /ˌɪndɪˈpɛndənt ˈɔdɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit fee",
+   "ipa_brE": "BrE /ˈɔːdɪt fiː/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈfi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-audit service",
+   "ipa_brE": "BrE /ˌnɒn ˈɔːdɪt ˈsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈnɑn ˈɔdɪt ˈsɝvəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "going concern",
+   "ipa_brE": "BrE /ˌɡəʊɪŋ kənˈsɜːn/",
+   "ipa_AmE": "AmE /ˈɡoʊɪŋ kəˈnsɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "emphasis of matter",
+   "ipa_brE": "BrE /ˈemfəsɪs əv ˈmætə(r)/",
+   "ipa_AmE": "AmE /ˈɛmfəsəs ˈʌv ˈmætɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "qualified opinion",
+   "ipa_brE": "BrE /ˈkwɒlɪfaɪd əˌpɪnjən/",
+   "ipa_AmE": "AmE /ˈkwɑləˌfɑɪd əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adverse opinion",
+   "ipa_brE": "BrE /ˈædvɜːs əˌpɪnjən/",
+   "ipa_AmE": "AmE /æˈdvɝs əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclaimer of opinion",
+   "ipa_brE": "BrE /dɪsˈkleɪmə(r) əv əˌpɪnjən/",
+   "ipa_AmE": "AmE /dɪˈskléɪmɚ ˈʌv əˈpɪnjən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "merger",
+   "ipa_brE": "BrE /ˈmɜːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈmɝdʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "acquisition",
+   "ipa_brE": "BrE /ˌækwɪˈzɪʃn/",
+   "ipa_AmE": "AmE /ˌækwəˈzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scheme of arrangement",
+   "ipa_brE": "BrE /skiːm əv əˈreɪŋsmənt/",
+   "ipa_AmE": "AmE /ˈskim ˈʌv ɚˈéɪndʒmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "takeover",
+   "ipa_brE": "BrE /ˈteɪkəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈtéɪˌkoʊvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "mandatory offer",
+   "ipa_brE": "BrE /ˈmændətəri ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈmændəˌtɔɹi ˈɔfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "put option",
+   "ipa_brE": "BrE /pʊt ˈɒpʃn/",
+   "ipa_AmE": "AmE /ˈpʊt ˈɑpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "call option",
+   "ipa_brE": "BrE /kɔːl ˈɒpʃn/",
+   "ipa_AmE": "AmE /ˈkɔl ˈɑpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consideration for shares",
+   "ipa_brE": "BrE /kənˌsɪdəreɪʃn fə ʃeəz/",
+   "ipa_AmE": "AmE /kəˌnsɪdɚˈéɪʃən ˈfɔɹ ˈʃɛɹz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cash consideration",
+   "ipa_brE": "BrE /kæʃ kənˌsɪdəreɪʃn/",
+   "ipa_AmE": "AmE /ˈkæʃ kəˌnsɪdɚˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share exchange",
+   "ipa_brE": "BrE /ˈʃeə ɪksˌtʃeɪndʒ/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ɪˈkstʃéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vendor",
+   "ipa_brE": "BrE /ˈvendə(r)/",
+   "ipa_AmE": "AmE /ˈvɛndɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "purchaser",
+   "ipa_brE": "BrE /ˈpɜːtʃəsə(r)/",
+   "ipa_AmE": "AmE /ˈpɝtʃəsɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "completion accounts",
+   "ipa_brE": "BrE /kəmˈpliːʃn əˈkaʊnts/",
+   "ipa_AmE": "AmE /kəˈmpliʃən əˈkàʊnts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "locked box",
+   "ipa_brE": "BrE /lɒkt bɒks/",
+   "ipa_AmE": "AmE /ˈlɑkt ˈbɑks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warranty",
+   "ipa_brE": "BrE /ˈwɒrənti/",
+   "ipa_AmE": "AmE /ˈwɔɹənti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "general warranty",
+   "ipa_brE": "BrE /ˈdʒenrəl ˈwɒrənti/",
+   "ipa_AmE": "AmE /ˈdʒɛnɹəl ˈwɔɹənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "specific warranty",
+   "ipa_brE": "BrE /spəˈsɪfɪk ˈwɒrənti/",
+   "ipa_AmE": "AmE /spəˈsɪfɪk ˈwɔɹənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax covenant",
+   "ipa_brE": "BrE /tæks ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˈtæks ˈkʌvənənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fundamental warranty",
+   "ipa_brE": "BrE /ˌfʌndəˈmentl ˈwɒrənti/",
+   "ipa_AmE": "AmE /ˌfʌndəˈmɛntəl ˈwɔɹənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclosure letter",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə(r) ˈletə(r)/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "escrow of shares",
+   "ipa_brE": "BrE /ˈeskrəʊ əv ʃeəz/",
+   "ipa_AmE": "AmE /ɛˈskɹoʊ ˈʌv ˈʃɛɹz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "earn-out",
+   "ipa_brE": "BrE /ˈɜːn aʊt/",
+   "ipa_AmE": "AmE /ˈɝn ˈàʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-compete covenant",
+   "ipa_brE": "BrE /ˌnɒn ˈkɒmpiːt ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˈnɑn kəˈmpit ˈkʌvənənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "non-solicitation covenant",
+   "ipa_brE": "BrE /ˌnɒn səˌlɪsɪˈteɪʃn ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˈnɑn səˌlɪsɪˈtéɪʃən ˈkʌvənənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "share purchase agreement",
+   "ipa_brE": "BrE /ˈʃeə ˈpɜːtʃəs əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈpɝtʃəs əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "asset purchase agreement",
+   "ipa_brE": "BrE /ˈæset ˈpɜːtʃəs əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈæˌsɛt ˈpɝtʃəs əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "completion",
+   "ipa_brE": "BrE /kəmˈpliːʃn/",
+   "ipa_AmE": "AmE /kəˈmpliʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pre-completion",
+   "ipa_brE": "BrE /ˌpriː kəmˈpliːʃn/",
+   "ipa_AmE": "AmE /ˈpɹi kəˈmpliʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "post-completion",
+   "ipa_brE": "BrE /ˌpəʊst kəmˈpliːʃn/",
+   "ipa_AmE": "AmE /ˈpoʊst kəˈmpliʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "condition satisfaction",
+   "ipa_brE": "BrE /kənˈdɪʃn sˌsætɪsˈfækʃn/",
+   "ipa_AmE": "AmE /kəˈndɪʃən ˌsætəˈsfækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "conditionality",
+   "ipa_brE": "BrE /kənˌdɪʃəˈnæləti/",
+   "ipa_AmE": "AmE /kəˌndɪʃəˈnælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "material adverse change",
+   "ipa_brE": "BrE /məˌtɪəriəl ˈædvɜːz tʃeɪndʒ/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl æˈdvɝs ˈtʃéɪndʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "long stop date",
+   "ipa_brE": "BrE /ˌlɒŋ stɒp ˈdeɪt/",
+   "ipa_AmE": "AmE /ˈlɔŋ ˈstɑp ˈdéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "break fee",
+   "ipa_brE": "BrE /ˈbreɪk fiː/",
+   "ipa_AmE": "AmE /ˈbɹéɪk ˈfi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expenses reimbursement",
+   "ipa_brE": "BrE /ɪkˈspensɪz rɪˌɪmbəːsmənt/",
+   "ipa_AmE": "AmE /ɪˈkspɛnsəz ˌɹiɪˈmbɝsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reverse break fee",
+   "ipa_brE": "BrE /rɪˈvɜːs ˈbreɪk fiː/",
+   "ipa_AmE": "AmE /ɹɪˈvɝs ˈbɹéɪk ˈfi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "fiduciary out",
+   "ipa_brE": "BrE /fɪˈdjuːʃəri aʊt/",
+   "ipa_AmE": "AmE /fəˈduʃiˌɛɹi ˈàʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shareholder approval",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə(r) əˈpruːvl/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ əˈpɹuvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regulatory clearance",
+   "ipa_brE": "BrE /ˈreɡjələtri ˈklɪərəns/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ˈklɪɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m08": [
+  {
+   "word": "intellectual property",
+   "ipa_brE": "BrE /ˌɪntəlˈektʃuəl ˈprɒpəti/",
+   "ipa_AmE": "AmE /ˌɪntəˈlɛktʃuəl ˈpɹɑpɚti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patent",
+   "ipa_brE": "BrE /ˈpætnt/",
+   "ipa_AmE": "AmE /ˈpætənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patent application",
+   "ipa_brE": "BrE /ˈpætnt əˌplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈpætənt ˌæpləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "prior art",
+   "ipa_brE": "BrE /ˈpraɪər ɑːt/",
+   "ipa_AmE": "AmE /ˈpɹɑɪɚ ˈɑɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "novelty",
+   "ipa_brE": "BrE /ˈnɒvəlti/",
+   "ipa_AmE": "AmE /ˈnɑvəlti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inventive step",
+   "ipa_brE": "BrE /ɪnˈventɪv step/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛntɪv ˈstɛp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "industrial applicability",
+   "ipa_brE": "BrE /ɪnˈdʌstriəl ˌæplɪkəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌɪˈndʌstɹiəl ˌæpləkəˈbɪləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patent specification",
+   "ipa_brE": "BrE /ˈpænt ˌspesɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈpætənt ˌspɛsɪfɪˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "claims",
+   "ipa_brE": "BrE /ˈkleɪmz/",
+   "ipa_AmE": "AmE /ˈkléɪmz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patent family",
+   "ipa_brE": "BrE /ˈpænt ˈfæməli/",
+   "ipa_AmE": "AmE /ˈpætənt ˈfæməli/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patent office",
+   "ipa_brE": "BrE /ˈpænt ˌɒfɪs/",
+   "ipa_AmE": "AmE /ˈpætənt ˈɔfɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "examiner",
+   "ipa_brE": "BrE /ɪɡˈzæmɪnə(r)/",
+   "ipa_AmE": "AmE /ɪˈɡzæmənɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patent prosecution",
+   "ipa_brE": "BrE /ˈpænt ˌprəʊsekjuːʃn/",
+   "ipa_AmE": "AmE /ˈpætənt ˌpɹɑsəˈkjuʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "prosecution amendment",
+   "ipa_brE": "BrE /ˌprəʊsekˈjuːʃn əˈmendmənt/",
+   "ipa_AmE": "AmE /ˌpɹɑsəˈkjuʃən əˈmɛndmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "divisional application",
+   "ipa_brE": "BrE /dɪˈvɪʒənl əˌplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /dɪˈvɪʒənəl ˌæpləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "continuation application",
+   "ipa_brE": "BrE /kənˌtɪnjuˈeɪʃn əˌplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /kəˌntɪnjuˈéɪʃən ˌæpləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patent term",
+   "ipa_brE": "BrE /ˈpænt tɜːm/",
+   "ipa_AmE": "AmE /ˈpætənt ˈtɝm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annuity",
+   "ipa_brE": "BrE /ˈænjuəti/",
+   "ipa_AmE": "AmE /əˈnuəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "patent lapse",
+   "ipa_brE": "BrE /ˈpænt leɪps/",
+   "ipa_AmE": "AmE /ˈpætənt ˈlæps/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patent validity",
+   "ipa_brE": "BrE /ˈpænt vəˈlɪdəti/",
+   "ipa_AmE": "AmE /ˈpætənt vəˈlɪdəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "validity challenge",
+   "ipa_brE": "BrE /vəˈlɪdəti ˈtʃælɪndʒ/",
+   "ipa_AmE": "AmE /vəˈlɪdəti ˈtʃæləndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "infringement",
+   "ipa_brE": "BrE /ɪnˈfrɪndʒmənt/",
+   "ipa_AmE": "AmE /ˌɪˈnfɹɪndʒmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "direct infringement",
+   "ipa_brE": "BrE /dəˌrekt ɪnˈfrɪndʒmənt/",
+   "ipa_AmE": "AmE /dɚˈɛkt ˌɪˈnfɹɪndʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "indirect infringement",
+   "ipa_brE": "BrE /ˌɪndɪˈrekt ɪnˈfrɪndʒmənt/",
+   "ipa_AmE": "AmE /ˌɪndɚˈɛkt ˌɪˈnfɹɪndʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patent trolls",
+   "ipa_brE": "BrE /ˈpænt trɒlz/",
+   "ipa_AmE": "AmE /ˈpætənt ˈtɹoʊlz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "standard essential patent",
+   "ipa_brE": "BrE /ˌstændəd ɪˈsenʃl ˈpænt/",
+   "ipa_AmE": "AmE /ˈstændɚd ɛˈsɛnʃəl ˈpætənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "FRAND terms",
+   "ipa_brE": "BrE /frænd tɜːmz/",
+   "ipa_AmE": "AmE /fɹænd ˈtɝmz/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "freedom to operate",
+   "ipa_brE": "BrE /ˈfriːdəm tuː ˈɒpəreɪt/",
+   "ipa_AmE": "AmE /ˈfɹidəm ˈtu ˈɑpɚˌéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "design right",
+   "ipa_brE": "BrE /dɪˈzaɪn raɪt/",
+   "ipa_AmE": "AmE /dɪˈzɑɪn ˈɹɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "registered design",
+   "ipa_brE": "BrE /ˌredʒɪstəd dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˈɹɛdʒɪstɚd dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "design registration",
+   "ipa_brE": "BrE /dɪˈzaɪn ˌreɡɪˈstreɪʃn/",
+   "ipa_AmE": "AmE /dɪˈzɑɪn ˌɹɛdʒɪˈstɹéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unregistered design right",
+   "ipa_brE": "BrE /ʌnˌreɡɪstəd dɪˈzaɪn raɪt/",
+   "ipa_AmE": "AmE /əˈnɹɛdʒɪstɚd dɪˈzɑɪn ˈɹɑɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "trade mark",
+   "ipa_brE": "BrE /ˈtreɪd mɑːk/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trade mark registration",
+   "ipa_brE": "BrE /ˈtreɪd mɑːk ˌredʒɪˈstreɪʃn/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈmɑɹk ˌɹɛdʒɪˈstɹéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "distinctiveness",
+   "ipa_brE": "BrE /dɪˈstɪŋktɪvnəs/",
+   "ipa_AmE": "AmE /dɪˈstɪŋktɪvnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "inherent distinctiveness",
+   "ipa_brE": "BrE /ɪnˌhɪərənt dɪˈstɪŋktɪvnəs/",
+   "ipa_AmE": "AmE /ɪˈnhɪɹənt dɪˈstɪŋktɪvnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "acquired distinctiveness",
+   "ipa_brE": "BrE /əˌkwaɪəd dɪˈstɪŋktɪvnəs/",
+   "ipa_AmE": "AmE /əˈkwɑɪɚd dɪˈstɪŋktɪvnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "descriptive mark",
+   "ipa_brE": "BrE /dɪˈskrɪptɪv mɑːk/",
+   "ipa_AmE": "AmE /dɪˈskɹɪptɪv ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "generic mark",
+   "ipa_brE": "BrE /dəˈdʒenɪk mɑːk/",
+   "ipa_AmE": "AmE /dʒəˈnɛɹɪk ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "suggestive mark",
+   "ipa_brE": "BrE /səˈdʒestɪv mɑːk/",
+   "ipa_AmE": "AmE /səˈdʒɛstɪv ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fanciful mark",
+   "ipa_brE": "BrE /ˈfænsɪfl mɑːk/",
+   "ipa_AmE": "AmE /ˈfænsɪfəl ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "word mark",
+   "ipa_brE": "BrE /ˈwɜːd mɑːk/",
+   "ipa_AmE": "AmE /ˈwɝd ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "logo",
+   "ipa_brE": "BrE /ˈləʊɡəʊ/",
+   "ipa_AmE": "AmE /ˈloʊɡoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "device mark",
+   "ipa_brE": "BrE /dɪˈvaɪs mɑːk/",
+   "ipa_AmE": "AmE /dɪˈvɑɪs ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "colour mark",
+   "ipa_brE": "BrE /ˈkʌlə(r) mɑːk/",
+   "ipa_AmE": "AmE /ˈkʌlɚ ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sound mark",
+   "ipa_brE": "BrE /ˈsaʊnd mɑːk/",
+   "ipa_AmE": "AmE /ˈsàʊnd ˈmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trade mark class",
+   "ipa_brE": "BrE /ˈtreɪd mɑːk klɑːs/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈmɑɹk ˈklæs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "Nice classification",
+   "ipa_brE": "BrE /naɪs ˌklæsɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈnɑɪs ˌklæsəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "multi-class filing",
+   "ipa_brE": "BrE /ˌmʌlti klɑːs ˈfaɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈmʌlti ˈklæs ˈfɑɪlɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "opposition",
+   "ipa_brE": "BrE /ˌɒpəˈzɪʃn/",
+   "ipa_AmE": "AmE /ˌɑpəˈzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "opposition period",
+   "ipa_brE": "BrE /əˌpɒzɪʃn ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˌɑpəˈzɪʃən ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "invalidation",
+   "ipa_brE": "BrE /ˌɪnvəlɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˌnvæləˈdéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "revocation for non-use",
+   "ipa_brE": "BrE /rɪˌvɒkeɪʃn fər ˌnɒn ˈjuːz/",
+   "ipa_AmE": "AmE /ˌɹɛvəˈkéɪʃən ˈfɔɹ ˈnɑn ˈjus/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "use in commerce",
+   "ipa_brE": "BrE /ˈjuːz ɪn ˈkɒməs/",
+   "ipa_AmE": "AmE /ˈjus ɪn ˈkɑmɚs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "passing off",
+   "ipa_brE": "BrE /ˌpɑːsɪŋ ˈɒf/",
+   "ipa_AmE": "AmE /ˈpæsɪŋ ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "goodwill",
+   "ipa_brE": "BrE /ˈɡʊdwɪl/",
+   "ipa_AmE": "AmE /ˈɡʊˌdwɪl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reputation",
+   "ipa_brE": "BrE /ˌrepjuˈteɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛpjəˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "brand value",
+   "ipa_brE": "BrE /brænd ˈvæljuː/",
+   "ipa_AmE": "AmE /ˈbɹænd ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "look and feel",
+   "ipa_brE": "BrE /lʊk ənd ˈfiːl/",
+   "ipa_AmE": "AmE /ˈlʊk ənd ˈfil/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "copyright",
+   "ipa_brE": "BrE /ˈkɒpɪraɪt/",
+   "ipa_AmE": "AmE /ˈkɑpiˌɹɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "work",
+   "ipa_brE": "BrE /wɜːk/",
+   "ipa_AmE": "AmE /ˈwɝk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "originality",
+   "ipa_brE": "BrE /əˌrɪdʒɪˈnæləti/",
+   "ipa_AmE": "AmE /ɚˌɪdʒəˈnælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "skill and judgement",
+   "ipa_brE": "BrE /ˈskɪl ənd ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈskɪl ənd ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "computer-generated work",
+   "ipa_brE": "BrE /kəmˌpjuːtə(r) ˈdʒenəreɪtɪd wɜːk/",
+   "ipa_AmE": "AmE /kəˈmpjutɚ ˈdʒɛnɚˌéɪtəd ˈwɝk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "database right",
+   "ipa_brE": "BrE /ˈdeɪtəbeɪs raɪt/",
+   "ipa_AmE": "AmE /ˈdéɪtəˌbéɪs ˈɹɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compilation",
+   "ipa_brE": "BrE /ˌkɒmpɪˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌkɑmpəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "licence grant",
+   "ipa_brE": "BrE /ˈlaɪsns ɡrɑːnt/",
+   "ipa_AmE": "AmE /ˈlɑɪsəns ˈɡɹænt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exclusive licence",
+   "ipa_brE": "BrE /ɪkˈskluːsɪv ˈlaɪsns/",
+   "ipa_AmE": "AmE /ɪˈksklusɪv ˈlɑɪsəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-exclusive licence",
+   "ipa_brE": "BrE /ˌnɒn ɪkˈskluːsɪv ˈlaɪsns/",
+   "ipa_AmE": "AmE /ˈnɑn ɪˈksklusɪv ˈlɑɪsəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "field of use",
+   "ipa_brE": "BrE /fiːld əv ˈjuːz/",
+   "ipa_AmE": "AmE /ˈfild ˈʌv ˈjus/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "royalty-free",
+   "ipa_brE": "BrE /ˈrɔɪəlti friː/",
+   "ipa_AmE": "AmE /ˈɹɔɪəlti ˈfɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "in perpetuity",
+   "ipa_brE": "BrE /ɪn pərˈpetjuəti/",
+   "ipa_AmE": "AmE /ɪn ˌpɝpɪˈtjuɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assignment of rights",
+   "ipa_brE": "BrE /əˈsaɪnmənt əv raɪts/",
+   "ipa_AmE": "AmE /əˈsɑɪnmənt ˈʌv ˈɹɑɪts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "further assurance",
+   "ipa_brE": "BrE /ˌfɜːðə(r) əˈʃʊərəns/",
+   "ipa_AmE": "AmE /ˈfɝðɚ əˈʃʊɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "copyright infringement",
+   "ipa_brE": "BrE /ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+   "ipa_AmE": "AmE /ˈkɑpiˌɹɑɪt ˌɪˈnfɹɪndʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "substantial similarity",
+   "ipa_brE": "BrE /səbˈstænʃl ˈsɪmɪləti/",
+   "ipa_AmE": "AmE /səˈbstænʃəl ˌsɪməˈlɛɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair dealing",
+   "ipa_brE": "BrE /ˌfeə ˈdiːlɪŋ/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˈdilɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair use",
+   "ipa_brE": "BrE /ˌfeə ˈjuːz/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˈjus/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "criticism and review",
+   "ipa_brE": "BrE /ˈkrɪtɪsɪzəm ən rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˈkɹɪtɪˌsɪzəm ənd ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "research exception",
+   "ipa_brE": "BrE /rɪˈsɜːtʃ ɪkˈsepʃn/",
+   "ipa_AmE": "AmE /ɹiˈsɝtʃ ɪˈksɛpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "text and data mining",
+   "ipa_brE": "BrE /tekst ənd ˈdeɪtə ˈmaɪnɪŋ/",
+   "ipa_AmE": "AmE /ˈtɛkst ənd ˈdéɪtə ˈmɑɪnɪŋ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "interim text and data mining exception",
+   "ipa_brE": "BrE /ˌɪntərɪm tekst ənd ˈdeɪtə ˈmaɪnɪŋ ɪkˈsepʃn/",
+   "ipa_AmE": "AmE /ˈɪntɚəm ˈtɛkst ənd ˈdéɪtə ˈmɑɪnɪŋ ɪˈksɛpʃən/",
+   "source": "parts",
+   "note": "6 part(s) from CMU"
+  },
+  {
+   "word": "copying exception",
+   "ipa_brE": "BrE /ˈkɒpiɪŋ ɪkˈsepʃn/",
+   "ipa_AmE": "AmE /ˈkɑpiɪŋ ɪˈksɛpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quotation",
+   "ipa_brE": "BrE /kwəʊˈteɪʃn/",
+   "ipa_AmE": "AmE /kwoʊˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "parody",
+   "ipa_brE": "BrE /ˈpærədi/",
+   "ipa_AmE": "AmE /ˈpɛɹədi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pastiche",
+   "ipa_brE": "BrE /ˈpæstɪʃ/",
+   "ipa_AmE": "AmE /ˌpæˈstiʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "meme",
+   "ipa_brE": "BrE /miːm/",
+   "ipa_AmE": "AmE /ˈmim/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "passing off of get-up",
+   "ipa_brE": "BrE /ˌpɑːsɪŋ ɒf əv ˈɡetʌp/",
+   "ipa_AmE": "AmE /ˌpɑsɪŋ ɑf əv ˈɡɛtʌp/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "trade dress",
+   "ipa_brE": "BrE /ˈtreɪd dres/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈdɹɛs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trade secret",
+   "ipa_brE": "BrE /ˈtreɪd ˌsiːkrət/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈsikɹət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "confidentiality agreement",
+   "ipa_brE": "BrE /kənˌfɪdenʃiˈæləti əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˌkɑnfəˌdɛnʃiˈæləti əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-disclosure",
+   "ipa_brE": "BrE /ˌnɒn dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈnɑn dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "need-to-know",
+   "ipa_brE": "BrE /ˈniːd tuː ˈnəʊ/",
+   "ipa_AmE": "AmE /ˈnid ˈtu ˈnoʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  }
+ ],
+ "m09": [
+  {
+   "word": "employment contract",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt ˈkɒntrækt/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "offer of employment",
+   "ipa_brE": "BrE /ˈɒfə(r) əv ɪmˈplɔɪmənt/",
+   "ipa_AmE": "AmE /ˈɔfɚ ˈʌv ɛˈmplɔɪmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "conditional offer",
+   "ipa_brE": "BrE /kənˈdɪʃənəl ˈɒfə(r)/",
+   "ipa_AmE": "AmE /kəˈndɪʃənəl ˈɔfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probationary period",
+   "ipa_brE": "BrE /prəˈbeɪʃnəri ˌpɪəriəd/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃəˌnɛˌɹi ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probation",
+   "ipa_brE": "BrE /prəˈbeɪʃn/",
+   "ipa_AmE": "AmE /pɹoʊˈbéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "notice period",
+   "ipa_brE": "BrE /ˈnəʊtɪs ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈnoʊtəs ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "summary dismissal",
+   "ipa_brE": "BrE /ˈsʌməri dɪˈsmɪsl/",
+   "ipa_AmE": "AmE /ˈsʌmɚi dɪˈsmɪsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair reason",
+   "ipa_brE": "BrE /ˌfeə ˈriːzn/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˈɹizən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gross misconduct",
+   "ipa_brE": "BrE /ɡrəʊs ˈmɪskɒndʌkt/",
+   "ipa_AmE": "AmE /ˈɡɹoʊs mɪˈskɑndəkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "misconduct procedure",
+   "ipa_brE": "BrE /ˈmɪskɒndʌkt prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /mɪˈskɑndəkt pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investigatory interview",
+   "ipa_brE": "BrE /ɪnˌvestɪˌɡeɪtəri ˈɪntəvjuː/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstəɡəˌtɔɹi ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disciplinary hearing",
+   "ipa_brE": "BrE /ˌdɪsəˈplɪnəri ˈhɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈdɪsəpləˌnɛɹi ˈhiɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "right to be accompanied",
+   "ipa_brE": "BrE /raɪt tuː biː əˌkʌmpənɪd/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈtu ˈbi əˈkʌmpənid/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "suspension from work",
+   "ipa_brE": "BrE /səˈspenʃn frəm wɜːk/",
+   "ipa_AmE": "AmE /səˈspɛnʃən ˈfɹʌm ˈwɝk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "grievance",
+   "ipa_brE": "BrE /ˈɡriːvəns/",
+   "ipa_AmE": "AmE /ˈɡɹivəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "grievance procedure",
+   "ipa_brE": "BrE /ˈɡriːvəns prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈɡɹivəns pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mediation in workplace",
+   "ipa_brE": "BrE /ˌmiːdiˈeɪʃn ɪn ˈwɜːkplaɪs/",
+   "ipa_AmE": "AmE /ˌmidiˈéɪʃən ɪn ˈwɝˌkpléɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "accommodation",
+   "ipa_brE": "BrE /əˌkɒməˈdeɪʃn/",
+   "ipa_AmE": "AmE /əˌkɑməˈdéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reasonable adjustment",
+   "ipa_brE": "BrE /ˌriːznəbl əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈɹizənəbəl əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disability discrimination",
+   "ipa_brE": "BrE /ˌdɪzəˈbɪləti dɪˌskrɪmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /ˌdɪsəˈbɪlɪti dɪˌskɹɪməˈnéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "protected characteristic",
+   "ipa_brE": "BrE /prəˈtektɪd kəˌræktəˈrɪstɪk/",
+   "ipa_AmE": "AmE /pɹəˈtɛktɪd ˌkɛɹəktɚˈɪstɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "indirect discrimination",
+   "ipa_brE": "BrE /ˌɪndɪˈrekt dɪˌskrɪmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /ˌɪndɚˈɛkt dɪˌskɹɪməˈnéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "direct discrimination",
+   "ipa_brE": "BrE /dəˌrekt dɪˌskrɪmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /dɚˈɛkt dɪˌskɹɪməˈnéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "harassment",
+   "ipa_brE": "BrE /ˈhærəsmənt/",
+   "ipa_AmE": "AmE /hɚˈæsmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sexual harassment",
+   "ipa_brE": "BrE /ˈsekʃuəl ˈhærəsmənt/",
+   "ipa_AmE": "AmE /ˈsɛkʃuəl hɚˈæsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retaliation",
+   "ipa_brE": "BrE /rɪˌtæliˈeɪʃn/",
+   "ipa_AmE": "AmE /ɹiˌtæliˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "protected disclosure",
+   "ipa_brE": "BrE /prəˈtektɪd dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /pɹəˈtɛktɪd dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "workplace harassment policy",
+   "ipa_brE": "BrE /ˈwɜːkplaɪs ˈhærəsmənt ˈpɒləsi/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs hɚˈæsmənt ˈpɑləsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "independent investigation",
+   "ipa_brE": "BrE /ˌɪndɪˈpendənt ˌɪnvɛstɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪndɪˈpɛndənt ˌɪˌnvɛstəˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair dismissal procedure",
+   "ipa_brE": "BrE /ˌfeə dɪˈsmɪsl prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈfɛɹ dɪˈsmɪsəl pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "unfair dismissal",
+   "ipa_brE": "BrE /ʌnˌfeə dɪˈsmɪsl/",
+   "ipa_AmE": "AmE /əˈnfɛɹ dɪˈsmɪsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "constructive dismissal",
+   "ipa_brE": "BrE /kənˌstrʌktɪv dɪˈsmɪsl/",
+   "ipa_AmE": "AmE /kəˈnstɹʌktɪv dɪˈsmɪsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "redundancy",
+   "ipa_brE": "BrE /rɪˈdʌndənsi/",
+   "ipa_AmE": "AmE /ɹɪˈdʌndənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "voluntary redundancy",
+   "ipa_brE": "BrE /ˌvɒləntri rɪˈdʌndənsi/",
+   "ipa_AmE": "AmE /ˈvɑləntɛɹi ɹɪˈdʌndənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consultation period",
+   "ipa_brE": "BrE /ˌkɒnslˈteɪʃn ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˌkɑnsəˈltéɪʃən ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "collective redundancy",
+   "ipa_brE": "BrE /kəˌlektɪv rɪˈdʌndənsi/",
+   "ipa_AmE": "AmE /kəˈlɛktɪv ɹɪˈdʌndənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "restructuring",
+   "ipa_brE": "BrE /ˌriːˈstrʌktʃərɪŋ/",
+   "ipa_AmE": "AmE /ɹiˈstɹʌktʃɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reorganisation",
+   "ipa_brE": "BrE /ˌriːəɡənaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹiɔɹɡənəˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "transfer",
+   "ipa_brE": "BrE /ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /tɹæˈnsfɝ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "relocation",
+   "ipa_brE": "BrE /ˌriːləʊˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹiˈloʊˌkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "travel time",
+   "ipa_brE": "BrE /ˈtrævl taɪm/",
+   "ipa_AmE": "AmE /ˈtɹævəl ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "working time",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ taɪm/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rest break",
+   "ipa_brE": "BrE /rest breɪk/",
+   "ipa_AmE": "AmE /ˈɹɛst ˈbɹéɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opt-out",
+   "ipa_brE": "BrE /ˈɒpt aʊt/",
+   "ipa_AmE": "AmE /ˈɑpt ˈàʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "working time directive",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ taɪm dəˈrektɪv/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈtɑɪm dɚˈɛktɪv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "timesheet",
+   "ipa_brE": "BrE /ˈtaɪmʃiːt/",
+   "ipa_AmE": "AmE /ˈtaɪmʃit/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "overtime",
+   "ipa_brE": "BrE /ˈəʊvətaɪm/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌtɑɪm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "time off in lieu",
+   "ipa_brE": "BrE /ˌtaɪm ɒv ɪn ˈljuː/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈɔf ɪn ˈlu/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "holiday entitlement",
+   "ipa_brE": "BrE /ˈhɒlədeɪ ɪnˈtaɪtlmənt/",
+   "ipa_AmE": "AmE /ˈhɑləˌdéɪ ɛˈntɑɪtəlmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "holiday pay",
+   "ipa_brE": "BrE /ˈhɒlədeɪ peɪ/",
+   "ipa_AmE": "AmE /ˈhɑləˌdéɪ ˈpéɪ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annual leave",
+   "ipa_brE": "BrE /ˌænjuəl ˈliːv/",
+   "ipa_AmE": "AmE /ˈænjuəl ˈliv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sickness absence",
+   "ipa_brE": "BrE /ˈsɪknəs ˈæbsəns/",
+   "ipa_AmE": "AmE /ˈsɪknəs ˈæbsəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fit note",
+   "ipa_brE": "BrE /ˈfɪt nəʊt/",
+   "ipa_AmE": "AmE /ˈfɪt ˈnoʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory sick pay",
+   "ipa_brE": "BrE /stəˈtjuːtri sɪk ˈpeɪ/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˈsɪk ˈpéɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "self-certification",
+   "ipa_brE": "BrE /ˌself ˌsɜːtɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈsɛlf ˌsɝtəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "return to work interview",
+   "ipa_brE": "BrE /rɪˌtɜːn tuː ˈwɜːk ˈɪntəvjuː/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈtu ˈwɝk ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "occupational health",
+   "ipa_brE": "BrE /ˌɒkjuˈpeɪʃənəl ˈhelθ/",
+   "ipa_AmE": "AmE /ɑkjəˈpéɪʃənəl ˈhɛlθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "health and safety",
+   "ipa_brE": "BrE /ˌhelθ ənd ˈseɪfti/",
+   "ipa_AmE": "AmE /ˈhɛlθ ənd ˈséɪfti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "workplace risk assessment",
+   "ipa_brE": "BrE /ˈwɜːkplaɪs rɪsk əˌsesmənt/",
+   "ipa_AmE": "AmE /ˈwɝˌkpléɪs ˈɹɪsk əˈsɛsmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "manual handling",
+   "ipa_brE": "BrE /ˌmænjuəl ˈhændlɪŋ/",
+   "ipa_AmE": "AmE /ˈmænjuəl ˈhændlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "working at height",
+   "ipa_brE": "BrE /ˌwɜːkɪŋ ət ˈhaɪt/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈæt ˈhɑɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "personal protective equipment",
+   "ipa_brE": "BrE /ˌpɜːsnl prəˈtektɪv ɪkˈipmənt/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl pɹəˈtɛktɪv ɪˈkwɪpmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "accident book",
+   "ipa_brE": "BrE /ˈæksɪdənt bʊk/",
+   "ipa_AmE": "AmE /ˈæksədənt ˈbʊk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reportable accident",
+   "ipa_brE": "BrE /rɪˈpɔːtəbl ˈæksɪdənt/",
+   "ipa_AmE": "AmE /ɹɪˈpɔɹtəbəl ˈæksədənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "near miss reporting",
+   "ipa_brE": "BrE /ˌnɪə ˈmɪs rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈnɪɹ ˈmɪs ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "insurance",
+   "ipa_brE": "BrE /ɪnˈʃʊərəns/",
+   "ipa_AmE": "AmE /ˌɪˈnʃʊɹəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "worker",
+   "ipa_brE": "BrE /ˈwɜːkə(r)/",
+   "ipa_AmE": "AmE /ˈwɝkɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "employee",
+   "ipa_brE": "BrE /ɪmˈplɔɪiː/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "contractor",
+   "ipa_brE": "BrE /kənˈtræktə(r)/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹæktɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "agency worker",
+   "ipa_brE": "BrE /ˈeɪdʒənsi ˈwɜːkə(r)/",
+   "ipa_AmE": "AmE /ˈéɪdʒənsi ˈwɝkɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "irregular worker",
+   "ipa_brE": "BrE /ɪˈreɡjələ(r) ˈwɜːkə(r)/",
+   "ipa_AmE": "AmE /ˌɪˈɹɛɡjəlɚ ˈwɝkɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "employment status review",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt ˈsteɪtəs rɪˌvjuː/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt ˈstætəs ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "employment tribunal",
+   "ipa_brE": "BrE /ɪmˈplɔɪmənt təˈbjuːnl/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪmənt tɹəˈbjunəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "labour tribunal",
+   "ipa_brE": "BrE /ˈleɪbə təˈbjuːnl/",
+   "ipa_AmE": "AmE /ˈléɪbɚ tɹəˈbjunəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "conciliation officer",
+   "ipa_brE": "BrE /kənˌsɪliˈeɪʃn ˈɒfɪsə(r)/",
+   "ipa_AmE": "AmE /kəˌnsɪliˈéɪʃən ˈɔfəsɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "early conciliation",
+   "ipa_brE": "BrE /ˈɜːli kənˌsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈɝli kəˌnsɪliˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compromise agreement",
+   "ipa_brE": "BrE /ˈkɒmprəmaɪz əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈkɑmpɹəˌmɑɪz əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "termination settlement",
+   "ipa_brE": "BrE /ˌtɜːmɪˈneɪʃn ˈsetlmənt/",
+   "ipa_AmE": "AmE /tɚməˈnéɪʃən ˈsɛtəlmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice agreement",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs əˌɡriːmənt/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "tax treatment",
+   "ipa_brE": "BrE /tæks ˈtriːtmənt/",
+   "ipa_AmE": "AmE /ˈtæks ˈtɹitmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payment in lieu",
+   "ipa_brE": "BrE /ˌpeɪmənt ɪn ˈljuː/",
+   "ipa_AmE": "AmE /ˈpéɪmənt ɪn ˈlu/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "garden leave",
+   "ipa_brE": "BrE /ˈɡɑːdn liːv/",
+   "ipa_AmE": "AmE /ˈɡɑɹdən ˈliv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "post-termination restriction",
+   "ipa_brE": "BrE /ˌpəʊst təˌmɪˈneɪʃn rɪˌstrɪkʃn/",
+   "ipa_AmE": "AmE /ˈpoʊst tɚməˈnéɪʃən ɹiˈstɹɪkʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "post-termination non-compete",
+   "ipa_brE": "BrE /ˌpəʊst təˌmɪˈneɪʃn ˌnɒn ˈkɒmpiːt/",
+   "ipa_AmE": "AmE /ˈpoʊst tɚməˈnéɪʃən ˈnɑn kəˈmpit/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "confidentiality undertaking",
+   "ipa_brE": "BrE /kənˌfɪdenʃiˈæləti ʌnˈdəːtɪŋ/",
+   "ipa_AmE": "AmE /ˌkɑnfəˌdɛnʃiˈæləti ˈʌndɚˌtéɪkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit interview",
+   "ipa_brE": "BrE /ˈeksɪt ˈɪntəvjuː/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈɪntɚˌvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exit package",
+   "ipa_brE": "BrE /ˈeksɪt ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "garden leave payment",
+   "ipa_brE": "BrE /ˈɡɑːdn liːv ˈpeɪmənt/",
+   "ipa_AmE": "AmE /ˈɡɑɹdən ˈliv ˈpéɪmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reference",
+   "ipa_brE": "BrE /ˈrefrəns/",
+   "ipa_AmE": "AmE /ˈɹɛfɹəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reference request",
+   "ipa_brE": "BrE /ˈrefrəns rɪˌkwest/",
+   "ipa_AmE": "AmE /ˈɹɛfɹəns ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m10": [
+  {
+   "word": "personal data",
+   "ipa_brE": "BrE /ˌpɜːsənl ˈdeɪtə/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl ˈdéɪtə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data subject",
+   "ipa_brE": "BrE /ˈdeɪtə ˈsʌbdʒɪkt/",
+   "ipa_AmE": "AmE /ˈdéɪtə səˈbdʒɛkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data controller",
+   "ipa_brE": "BrE /ˈdeɪtə kənˌtrəʊlə(r)/",
+   "ipa_AmE": "AmE /ˈdéɪtə kəˈntɹoʊlɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data processor",
+   "ipa_brE": "BrE /ˈdeɪtə ˈprəʊsesə(r)/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈpɹɑˌsɛsɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "processing",
+   "ipa_brE": "BrE /ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑsɛsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lawful basis",
+   "ipa_brE": "BrE /ˈlɔːfl bəsɪs/",
+   "ipa_AmE": "AmE /ˈlɔfəl ˈbéɪsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consent",
+   "ipa_brE": "BrE /kənˈsent/",
+   "ipa_AmE": "AmE /kəˈnsɛnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "legitimate interests",
+   "ipa_brE": "BrE /lɪˈdʒɪtɪmət ˈɪntrəsts/",
+   "ipa_AmE": "AmE /ləˈdʒɪtəmət ˈɪntɹəsts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contractual necessity",
+   "ipa_brE": "BrE /kənˌstræktʃuəl nəˈsesəti/",
+   "ipa_AmE": "AmE /kəˈntɹæktʃuəl nəˈsɛsəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "legal obligation",
+   "ipa_brE": "BrE /ˈliːɡl ˌɒblɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈliɡəl ˌɑbləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vital interests",
+   "ipa_brE": "BrE /ˈvaɪtl ˈɪntrəsts/",
+   "ipa_AmE": "AmE /ˈvɑɪtəl ˈɪntɹəsts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "public interest task",
+   "ipa_brE": "BrE /ˌpʌblɪk ˈɪntrəst tɑːsk/",
+   "ipa_AmE": "AmE /ˈpʌblɪk ˈɪntɹəst ˈtæsk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "consent to processing",
+   "ipa_brE": "BrE /kənˈsent tuː ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /kəˈnsɛnt ˈtu ˈpɹɑsɛsɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data minimisation",
+   "ipa_brE": "BrE /ˈdeɪtə ˌmɪnɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˌmɪnɪmaɪˈzeɪʃn/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "purpose limitation",
+   "ipa_brE": "BrE /ˈpɜːpəs ˌlɪmɪˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈpɝpəs ˌlɪmɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "storage limitation",
+   "ipa_brE": "BrE /ˈstɔːrɪdʒ ˌlɪmɪˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈstɔɹədʒ ˌlɪmɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accuracy principle",
+   "ipa_brE": "BrE /ˈækjərəsi ˈprɪnsəpl/",
+   "ipa_AmE": "AmE /ˈækjɚəsi ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "integrity and confidentiality",
+   "ipa_brE": "BrE /ɪnˈteɡrəti ənd ˌkɒnfɪdenʃiˈæləti/",
+   "ipa_AmE": "AmE /ˌɪˈntɛɡɹəti ənd ˌkɑnfəˌdɛnʃiˈæləti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "accountability principle",
+   "ipa_brE": "BrE /əˌkaʊntəˈbɪləti ˈprɪnsəpl/",
+   "ipa_AmE": "AmE /əˈkàʊntəˌbɪlɪti ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "privacy by design",
+   "ipa_brE": "BrE /ˈprɪvəsi baɪ dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvəsi ˈbɑɪ dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "privacy by default",
+   "ipa_brE": "BrE /ˈprɪvəsi baɪ dɪˈfɔːlt/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvəsi ˈbɑɪ dɪˈfɔlt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data protection impact assessment",
+   "ipa_brE": "BrE /ˈdeɪtə prəˈtekʃn ˌɪmpækt əˌsesmənt/",
+   "ipa_AmE": "AmE /ˈdéɪtə pɹəˈtɛkʃən ˌɪˈmpækt əˈsɛsmənt/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "high-risk processing",
+   "ipa_brE": "BrE /ˈhaɪ rɪsk ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /ˈhɑɪ ˈɹɪsk ˈpɹɑsɛsɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data protection officer",
+   "ipa_brE": "BrE /ˈdeɪtə prəˈtekʃn ˈɒfɪsə(r)/",
+   "ipa_AmE": "AmE /ˈdéɪtə pɹəˈtɛkʃən ˈɔfəsɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "records of processing",
+   "ipa_brE": "BrE /ˈrekɔːdz əv ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /ɹəˈkɔɹdz ˈʌv ˈpɹɑsɛsɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "privacy notice",
+   "ipa_brE": "BrE /ˈprɪvəsi ˈnəʊtɪs/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvəsi ˈnoʊtəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transparency obligation",
+   "ipa_brE": "BrE /trænsˈpærənsi əˌblɪɡeɪʃn/",
+   "ipa_AmE": "AmE /tɹæˈnspɛɹənsi ˌɑbləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data subject request",
+   "ipa_brE": "BrE /ˈdeɪtə ˈsʌbdʒɪkt rɪˌkwest/",
+   "ipa_AmE": "AmE /ˈdéɪtə səˈbdʒɛkt ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "right of access",
+   "ipa_brE": "BrE /raɪt əv ˈækses/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈʌv ˈæˌksɛs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "right to rectification",
+   "ipa_brE": "BrE /raɪt tuː ˌrektɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈtu ˌɹɛktəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "right to erasure",
+   "ipa_brE": "BrE /raɪt tuː ɪˈreɪʒn/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈtu ɪˈɹeɪʒn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "right to portability",
+   "ipa_brE": "BrE /raɪt tuː ˌpɔːtəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈtu ˌpɔɹtəˈbɪlɪti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "right to object",
+   "ipa_brE": "BrE /raɪt tuː əbˈdʒekt/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈtu ˈɑbdʒɛkt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "restriction of processing",
+   "ipa_brE": "BrE /rɪˌstrɪkʃn əv ˈprəʊsesɪŋ/",
+   "ipa_AmE": "AmE /ɹiˈstɹɪkʃən ˈʌv ˈpɹɑsɛsɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "automated decision-making",
+   "ipa_brE": "BrE /ˈɔːtəmeɪtɪd dɪˌsɪʒn ˈmeɪkɪŋ/",
+   "ipa_AmE": "AmE /ˈɔtəˌméɪtɪd dɪˈsɪʒən ˈméɪkɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "profiling",
+   "ipa_brE": "BrE /ˈprəʊfaɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹoʊˌfɑɪlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "logic of the decision",
+   "ipa_brE": "BrE /ˈlɒdʒɪk əv ðə dɪˈsɪʒn/",
+   "ipa_AmE": "AmE /ˈlɑdʒɪk ˈʌv ðə dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "meaningful information",
+   "ipa_brE": "BrE /ˈmiːnɪŋfl ˌɪnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈminɪŋfəl ˌɪnfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "human intervention",
+   "ipa_brE": "BrE /ˈhjuːmən ˌɪntəˈvenʃn/",
+   "ipa_AmE": "AmE /ˈhjumən ˌɪntɚˈvɛnʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contest the decision",
+   "ipa_brE": "BrE /ˈkɒntest ðə dɪˈsɪʒn/",
+   "ipa_AmE": "AmE /ˈkɑntɛst ðə dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data breach",
+   "ipa_brE": "BrE /ˈdeɪtə briːtʃ/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "personal data breach",
+   "ipa_brE": "BrE /ˌpɜːsənl ˈdeɪtə briːtʃ/",
+   "ipa_AmE": "AmE /ˈpɝsɪnəl ˈdéɪtə ˈbɹitʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "breach notification",
+   "ipa_brE": "BrE /briːtʃ ˌnəʊtɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈbɹitʃ ˌnoʊtəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk to individuals",
+   "ipa_brE": "BrE /rɪsk tuː ˌɪndɪˈvɪdʒuəlz/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈtu ˌɪndəˈvɪdʒəwəlz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "security measures",
+   "ipa_brE": "BrE /sɪˈkjʊərəti ˈmeʒəz/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈmɛʒɚz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "appropriate technical measures",
+   "ipa_brE": "BrE /əˈprəʊpriət ˈteknɪkl ˈmeʒəz/",
+   "ipa_AmE": "AmE /əˈpɹoʊpɹiət ˈtɛknɪkəl ˈmɛʒɚz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data security",
+   "ipa_brE": "BrE /ˈdeɪtə sɪˈkjʊərəti/",
+   "ipa_AmE": "AmE /ˈdéɪtə sɪˈkjʊɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "encryption",
+   "ipa_brE": "BrE /ɪnˈkrɪpʃn/",
+   "ipa_AmE": "AmE /ɛˈnkɹɪpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "encryption at rest",
+   "ipa_brE": "BrE /ɪnˌkrɪpʃn ət ˈrest/",
+   "ipa_AmE": "AmE /ɛˈnkɹɪpʃən ˈæt ˈɹɛst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "encryption in transit",
+   "ipa_brE": "BrE /ɪnˌkrɪpʃn ɪn ˈtrænzɪt/",
+   "ipa_AmE": "AmE /ɛˈnkɹɪpʃən ɪn ˈtɹænzɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "pseudonymisation",
+   "ipa_brE": "BrE /ˌsjuːdənɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌsjudənɪmaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "anonymisation",
+   "ipa_brE": "BrE /əˌnɒnɪmaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /əˌnɑnɪmaɪˈzeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "identifiable",
+   "ipa_brE": "BrE /aɪˈdentɪfəbl/",
+   "ipa_AmE": "AmE /ˌɑɪˈdɛntɪfəbəl/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "pseudonymised data",
+   "ipa_brE": "BrE /ˌsjuːdənɪmaɪzd ˈdeɪtə/",
+   "ipa_AmE": "AmE /ˌsjudənɪmaɪzd ˈdéɪtə/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "data minimisation by design",
+   "ipa_brE": "BrE /ˈdeɪtə ˌmɪnɪmaɪˈzeɪʃn baɪ dɪˈzaɪn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˌmɪnɪmaɪˈzeɪʃn ˈbɑɪ dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "access request",
+   "ipa_brE": "BrE /ˈækses rɪˌkwest/",
+   "ipa_AmE": "AmE /ˈæˌksɛs ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "identity verification",
+   "ipa_brE": "BrE /aɪˈdentəti ˌverɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ɑɪˈdɛntɪˌti ˌvɛɹəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "third-party processor",
+   "ipa_brE": "BrE /ˈθɜːd ˌpɑːti ˈprəʊsesə(r)/",
+   "ipa_AmE": "AmE /ˈθɝd ˈpɑɹti ˈpɹɑˌsɛsɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sub-processor",
+   "ipa_brE": "BrE /ˈsʌb prəˌsesə(r)/",
+   "ipa_AmE": "AmE /ˈsʌb ˈpɹɑˌsɛsɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "processor agreement",
+   "ipa_brE": "BrE /ˈprəʊsesə(r) əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛsɚ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "international data transfer",
+   "ipa_brE": "BrE /ˌɪntənæʃənəl ˈdeɪtə ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /ˌɪntɚˈnæʃənəl ˈdéɪtə tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "standard contractual clauses",
+   "ipa_brE": "BrE /ˈstændəd kənˌstræktʃuəl klɔːz/",
+   "ipa_AmE": "AmE /ˈstændɚd kəˈntɹæktʃuəl ˈklɔzəz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "adequacy decision",
+   "ipa_brE": "BrE /ˈædɪkwəsi dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˈædəkwəsi dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "derogation",
+   "ipa_brE": "BrE /ˌderəˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛɹəˈɡeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "consent for transfer",
+   "ipa_brE": "BrE /kənˈsent fə(r) ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /kəˈnsɛnt ˈfɔɹ tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "data localisation",
+   "ipa_brE": "BrE /ˈdeɪtə ˌləʊkaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˌloʊkələˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data sovereignty",
+   "ipa_brE": "BrE /ˈdeɪtə sɒvərənti/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈsɑvɹənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lawful access",
+   "ipa_brE": "BrE /ˈlɔːfl ˈækses/",
+   "ipa_AmE": "AmE /ˈlɔfəl ˈæˌksɛs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "government request",
+   "ipa_brE": "BrE /ˈɡʌvnmənt rɪˌkwest/",
+   "ipa_AmE": "AmE /ˈɡʌvɚmənt ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data breach register",
+   "ipa_brE": "BrE /ˈdeɪtə briːtʃ ˌredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈbɹitʃ ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "security incident",
+   "ipa_brE": "BrE /sɪˈkjʊərəti ˈɪnsɪdənt/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈɪnsədənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "incident response plan",
+   "ipa_brE": "BrE /ɪnˈsɪdənt rɪˌspɒns plæn/",
+   "ipa_AmE": "AmE /ˈɪnsədənt ɹɪˈspɑns ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "tabletop exercise",
+   "ipa_brE": "BrE /ˈteɪbltɒp ˈeksəsaɪz/",
+   "ipa_AmE": "AmE /ˈtéɪbəˌltɑp ˈɛksɚˌsɑɪz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "penetration test",
+   "ipa_brE": "BrE /ˌpenɪˈtreɪʃn test/",
+   "ipa_AmE": "AmE /ˌpɛnəˈtɹéɪʃən ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vulnerability assessment",
+   "ipa_brE": "BrE /ˌvʌlnərəˈbɪləti əˌsesmənt/",
+   "ipa_AmE": "AmE /ˌvʌlnɚəˈbɪlɪti əˈsɛsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "patch management",
+   "ipa_brE": "BrE /ˈpætʃ ˈmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈpætʃ ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unpatched system",
+   "ipa_brE": "BrE /ʌnˈpætʃt ˈsɪstəm/",
+   "ipa_AmE": "AmE /ʌˈnpætʃt ˈsɪstəm/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "phishing",
+   "ipa_brE": "BrE /ˈfɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈfɪʃɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "social engineering",
+   "ipa_brE": "BrE /ˌsəʊʃl ˌendʒɪˈnɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈsoʊʃəl ˈɛndʒəˌnɪɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "privilege escalation",
+   "ipa_brE": "BrE /ˌprɪvɪlɪdʒ ˌeskəˈleɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ ˌɛskəˈléɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lateral movement",
+   "ipa_brE": "BrE /ˈlætərəl ˈmuːvmənt/",
+   "ipa_AmE": "AmE /ˈlætɚəl ˈmuvmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exfiltration",
+   "ipa_brE": "BrE /ˌeksfɪlˈtreɪʃn/",
+   "ipa_AmE": "AmE /ˌɛksfɪˈltɹeɪʃn/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "command and control",
+   "ipa_brE": "BrE /kəˌmɑːnd ən kənˈtrəʊl/",
+   "ipa_AmE": "AmE /kəˈmænd ənd kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "ransomware",
+   "ipa_brE": "BrE /ˈrænsəmweə(r)/",
+   "ipa_AmE": "AmE /ˈɹænsəmwɛɹ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "backup",
+   "ipa_brE": "BrE /ˈbækʌp/",
+   "ipa_AmE": "AmE /ˈbæˌkʌp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "disaster recovery",
+   "ipa_brE": "BrE /dɪˈzɑːstə(r) rɪˈkʌvəri/",
+   "ipa_AmE": "AmE /dɪˈzæstɚ ɹɪˈkʌvɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recovery time objective",
+   "ipa_brE": "BrE /rɪˈkʌvəri taɪm əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /ɹɪˈkʌvɚi ˈtɑɪm əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "recovery point objective",
+   "ipa_brE": "BrE /rɪˈkʌvəri pɔɪnt əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /ɹɪˈkʌvɚi ˈpɔɪnt əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "single sign-on",
+   "ipa_brE": "BrE /ˌsɪŋɡl ˈsaɪn əʊn/",
+   "ipa_AmE": "AmE /ˈsɪŋɡəl ˈsɑɪn ˈɑn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "multi-factor authentication",
+   "ipa_brE": "BrE /ˌmʌlti ˈfæktə(r) ɔːˌθentɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈmʌlti ˈfæktɚ ɔˌθɛntəˈkéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "access control list",
+   "ipa_brE": "BrE /ˈækses kənˌtrəʊl lɪst/",
+   "ipa_AmE": "AmE /ˈæˌksɛs kəˈntɹoʊl ˈlɪst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "least privilege",
+   "ipa_brE": "BrE /liːst ˈprɪvəlɪdʒ/",
+   "ipa_AmE": "AmE /ˈlist ˈpɹɪvɪlədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "segregation of access",
+   "ipa_brE": "BrE /ˌseɡrɪˈɡeɪʃn əv ˈækses/",
+   "ipa_AmE": "AmE /ˌsɛɡɹəˈɡéɪʃən ˈʌv ˈæˌksɛs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  }
+ ],
+ "m11": [
+  {
+   "word": "transaction",
+   "ipa_brE": "BrE /trænˈzækʃn/",
+   "ipa_AmE": "AmE /tɹæˈnzækʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "deal structure",
+   "ipa_brE": "BrE /diːl ˈstrʌktʃə(r)/",
+   "ipa_AmE": "AmE /ˈdil ˈstɹʌktʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "acquirer",
+   "ipa_brE": "BrE /ˈækwɪrə(r)/",
+   "ipa_AmE": "AmE /əˈkwɑɪɚɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "target company",
+   "ipa_brE": "BrE /ˈtɑːɡɪt ˌkʌmpəni/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət ˈkʌmpəˌni/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vendor due diligence",
+   "ipa_brE": "BrE /ˈvendə(r) djuː ˈdɪlɪdʒəns/",
+   "ipa_AmE": "AmE /ˈvɛndɚ ˈdu ˈdɪlədʒəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "buy-side",
+   "ipa_brE": "BrE /ˈbaɪ saɪd/",
+   "ipa_AmE": "AmE /ˈbɑɪ ˈsɑɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sell-side",
+   "ipa_brE": "BrE /ˈsel saɪd/",
+   "ipa_AmE": "AmE /ˈsɛl ˈsɑɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commitment letter",
+   "ipa_brE": "BrE /kəˈmɪtmənt ˈletə(r)/",
+   "ipa_AmE": "AmE /kəˈmɪtmənt ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "heads of terms",
+   "ipa_brE": "BrE /ˌhedz əv ˈtɜːmz/",
+   "ipa_AmE": "AmE /ˈhɛdz ˈʌv ˈtɝmz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "exclusivity agreement",
+   "ipa_brE": "BrE /ˌekskluːˈsɪvəti əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˌɛˌkskluˈsɪvəti əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-binding term sheet",
+   "ipa_brE": "BrE /ˌnɒn ˈbaɪndɪŋ ˈtɜːm ʃiːt/",
+   "ipa_AmE": "AmE /ˈnɑn ˈbɑɪndɪŋ ˈtɝm ˈʃit/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "standstill agreement",
+   "ipa_brE": "BrE /ˈstændstɪl əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈstæˌndstɪl əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "due diligence report",
+   "ipa_brE": "BrE /ˌdjuː ˈdɪlɪdʒəns rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈdu ˈdɪlədʒəns ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "material adverse effect threshold",
+   "ipa_brE": "BrE /məˌtɪəriəl ədˈvaːz ɪˈfekt ˈθreʃhəʊld/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl æˈdvɝs ɪˈfɛkt ˈθɹɛˌʃoʊld/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "outside date",
+   "ipa_brE": "BrE /ˌaʊtˈsaɪd deɪt/",
+   "ipa_AmE": "AmE /ˈàʊˌtsɑɪd ˈdéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deposit",
+   "ipa_brE": "BrE /dɪˈpɒzɪt/",
+   "ipa_AmE": "AmE /dəˈpɑzɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cost reimbursement ceiling",
+   "ipa_brE": "BrE /kɒst rɪˌɪmbɜːsmənt ˈsiːlɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑst ˌɹiɪˈmbɝsmənt ˈsilɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "abort fee",
+   "ipa_brE": "BrE /əˈbɔːt fiː/",
+   "ipa_AmE": "AmE /əˈbɔɹt ˈfi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "no-shop provision",
+   "ipa_brE": "BrE /ˈnəʊ ʃɒp prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈnoʊ ˈʃɑp pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "matching rights",
+   "ipa_brE": "BrE /ˈmætʃɪŋ raɪts/",
+   "ipa_AmE": "AmE /ˈmætʃɪŋ ˈɹɑɪts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "preference price",
+   "ipa_brE": "BrE /prɪˈferəns praɪs/",
+   "ipa_AmE": "AmE /ˈpɹɛfɚəns ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "creeping control",
+   "ipa_brE": "BrE /ˌkriːpɪŋ kənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˈkɹipɪŋ kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "whitewash resolution",
+   "ipa_brE": "BrE /ˈwaɪtwɒʃ ˌrezəˈluːʃn/",
+   "ipa_AmE": "AmE /ˈwɑɪˌtwɑʃ ˌɹɛzəˈluʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scheme document",
+   "ipa_brE": "BrE /ˈskiːm ˈdɒkjumənt/",
+   "ipa_AmE": "AmE /ˈskim ˈdɑkjəmɛnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "court meeting",
+   "ipa_brE": "BrE /ˈkɔːt ˈmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˈkɔɹt ˈmitɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capitalisation issue",
+   "ipa_brE": "BrE /ˌkæpɪtəlaɪˈzeɪʃn ˈɪʃuː/",
+   "ipa_AmE": "AmE /ˌkæpɪtəlɪˈzéɪʃən ˈɪʃu/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "merger by absorption",
+   "ipa_brE": "BrE /ˈmɜːdʒə(r) baɪ əbˈzɔːpʃn/",
+   "ipa_AmE": "AmE /ˈmɝdʒɚ ˈbɑɪ əˈbzɔɹpʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "statutory merger",
+   "ipa_brE": "BrE /stəˈtjuːtri ˈmɜːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˈmɝdʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scheme creditor",
+   "ipa_brE": "BrE /skiːm ˈkredɪtəz/",
+   "ipa_AmE": "AmE /ˈskim ˈkɹɛdətɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "class of creditors",
+   "ipa_brE": "BrE /klɑːs əv ˈkredɪtəz/",
+   "ipa_AmE": "AmE /ˈklæs ˈʌv ˈkɹɛdɪtɚz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "capitalisation of debt",
+   "ipa_brE": "BrE /ˌkæpɪtəlaɪˈzeɪʃn əv det/",
+   "ipa_AmE": "AmE /ˌkæpɪtəlɪˈzéɪʃən ˈʌv ˈdɛt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "debt-to-equity swap",
+   "ipa_brE": "BrE /ˈdet tuː ˈekwəti swɒp/",
+   "ipa_AmE": "AmE /ˈdɛt ˈtu ˈɛkwəti ˈswɑp/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "debt rescheduling",
+   "ipa_brE": "BrE /det ˌriːˈʃedjuːlɪŋ/",
+   "ipa_AmE": "AmE /ˈdɛt ɹiˈskɛdʒulɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant reset",
+   "ipa_brE": "BrE /ˈkʌvənənt rɪˈset/",
+   "ipa_AmE": "AmE /ˈkʌvənənt ɹiˈsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "amend and extend",
+   "ipa_brE": "BrE /əˈmend ənd ɪkˈstend/",
+   "ipa_AmE": "AmE /əˈmɛnd ənd ɪˈkstɛnd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "consent solicitation",
+   "ipa_brE": "BrE /kənˈsent səˌlɪsɪˈteɪʃn/",
+   "ipa_AmE": "AmE /kəˈnsɛnt səˌlɪsɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proxy statement",
+   "ipa_brE": "BrE /ˈprɒksi ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈpɹɑksi ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "merger consideration",
+   "ipa_brE": "BrE /ˈmɜːdʒə(r) kənˌsɪdəreɪʃn/",
+   "ipa_AmE": "AmE /ˈmɝdʒɚ kəˌnsɪdɚˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash-free debt-free basis",
+   "ipa_brE": "BrE /ˌkæʃ friː det friː ˈbeɪsɪs/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈfɹi ˈdɛt ˈfɹi ˈbéɪsəs/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "share consideration",
+   "ipa_brE": "BrE /ˈʃeə kənˌsɪdəreɪʃn/",
+   "ipa_AmE": "AmE /ˈʃɛɹ kəˌnsɪdɚˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contingent value right",
+   "ipa_brE": "BrE /kənˈtɪndʒənt ˈvæljuː raɪt/",
+   "ipa_AmE": "AmE /kəˈntɪndʒənt ˈvælju ˈɹɑɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "valuation adjustment mechanism",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn əˈdʒʌstmənt ˈmekənɪzəm/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən əˈdʒʌstmənt ˈmɛkəˌnɪzəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "escrow account",
+   "ipa_brE": "BrE /ˈeskrəʊ əˌkaʊnt/",
+   "ipa_AmE": "AmE /ɛˈskɹoʊ əˈkàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "holdback",
+   "ipa_brE": "BrE /ˈhəʊldbæk/",
+   "ipa_AmE": "AmE /ˈhoʊldbæk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "indemnity escrow",
+   "ipa_brE": "BrE /ɪnˈdemnəti ˈeskrəʊ/",
+   "ipa_AmE": "AmE /ˌɪˈndɛmnəti ɛˈskɹoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warranty and indemnity insurance",
+   "ipa_brE": "BrE /ˌwɒrəti ən ɪnˈdemnəti ɪnˈʃʊərəns/",
+   "ipa_AmE": "AmE /ˈwɔɹənti ənd ˌɪˈndɛmnəti ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "title insurance",
+   "ipa_brE": "BrE /ˈtaɪtl ɪnˌʃʊərəns/",
+   "ipa_AmE": "AmE /ˈtɑɪtəl ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "representation and warranty insurance",
+   "ipa_brE": "BrE /ˌreprɪzenˈteɪʃn ənd ˈwɒrəti ɪnˌʃʊərəns/",
+   "ipa_AmE": "AmE /ˌɹɛpɹəzɛˈntéɪʃən ənd ˈwɔɹənti ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "baskets",
+   "ipa_brE": "BrE /ˈbɑːskɪts/",
+   "ipa_AmE": "AmE /ˈbæskəts/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "caps and deductibles",
+   "ipa_brE": "BrE /kæps ənd ˈdedʌktəblz/",
+   "ipa_AmE": "AmE /ˈkæps ənd dɪˈdʌktəbəlz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "survival period",
+   "ipa_brE": "BrE /səˈvaɪvl ˌpɪəriəd/",
+   "ipa_AmE": "AmE /sɚˈvɑɪvəl ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "claims timetable",
+   "ipa_brE": "BrE /ˈkleɪmz ˈtaɪmteɪbl/",
+   "ipa_AmE": "AmE /ˈkléɪmz ˈtɑɪˌmtéɪbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclosure schedule",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə(r) ˈʃedjuːl/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ ˈskɛdʒʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclosure bundle",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə(r) ˈbʌndl/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ ˈbʌndəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bring-down",
+   "ipa_brE": "BrE /ˈbrɪŋ daʊn/",
+   "ipa_AmE": "AmE /ˈbɹɪŋ ˈdàʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "completion accounts mechanism",
+   "ipa_brE": "BrE /kəmˈpliːʃn əˈkaʊnts ˈmekənɪzəm/",
+   "ipa_AmE": "AmE /kəˈmpliʃən əˈkàʊnts ˈmɛkəˌnɪzəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "locked box mechanism",
+   "ipa_brE": "BrE /lɒkt bɒks ˈmekənɪzəm/",
+   "ipa_AmE": "AmE /ˈlɑkt ˈbɑks ˈmɛkəˌnɪzəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "leakage",
+   "ipa_brE": "BrE /ˈliːkɪdʒ/",
+   "ipa_AmE": "AmE /ˈlikədʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "completion accounts statement",
+   "ipa_brE": "BrE /kəmˈpliːʃn əˈkaʊnts ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /kəˈmpliʃən əˈkàʊnts ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "dispute mechanism",
+   "ipa_brE": "BrE /dɪˈspjuːt ˈmekənɪzəm/",
+   "ipa_AmE": "AmE /dɪˈspjut ˈmɛkəˌnɪzəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "determination accountant",
+   "ipa_brE": "BrE /dɪˌtɜːmɪˈneɪʃn əˈkaʊntənt/",
+   "ipa_AmE": "AmE /dɪˌtɝməˈnéɪʃən əˈkàʊntənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "price adjustment",
+   "ipa_brE": "BrE /ˈpraɪs əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈpɹɑɪs əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pre-completion accounts",
+   "ipa_brE": "BrE /ˌpriː kəmˈpliːʃn əˈkaʊnts/",
+   "ipa_AmE": "AmE /ˈpɹi kəˈmpliʃən əˈkàʊnts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "effective time of transfer",
+   "ipa_brE": "BrE /ɪˈfektɪv taɪm əv ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /ɪˈfɛktɪv ˈtɑɪm ˈʌv tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "interim accounts",
+   "ipa_brE": "BrE /ˈɪntərɪm əˈkaʊnts/",
+   "ipa_AmE": "AmE /ˈɪntɚəm əˈkàʊnts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dividend entitlement date",
+   "ipa_brE": "BrE /dɪˈvɪdend ɪnˈtaɪtlmənt deɪt/",
+   "ipa_AmE": "AmE /ˈdɪvɪˌdɛnd ɛˈntɑɪtəlmənt ˈdéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "completion payment",
+   "ipa_brE": "BrE /kəmˈpliːʃn ˈpeɪmənt/",
+   "ipa_AmE": "AmE /kəˈmpliʃən ˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "purchase price adjustment",
+   "ipa_brE": "BrE /ˈpɜːtʃəs praɪs əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈpɝtʃəs ˈpɹɑɪs əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "working capital adjustment",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ ˈkæpɪtl əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈkæpətəl əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "target working capital",
+   "ipa_brE": "BrE /ˈtɑːɡɪt ˈwɜːkɪŋ ˈkæpɪtl/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət ˈwɝkɪŋ ˈkæpətəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "normalised working capital",
+   "ipa_brE": "BrE /ˌnɔːməlaɪzd ˈwɜːkɪŋ ˈkæpɪtl/",
+   "ipa_AmE": "AmE /ˈnɔɹməˌlɑɪzd ˈwɝkɪŋ ˈkæpətəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "seasonality",
+   "ipa_brE": "BrE /ˌsiːzəˈnæləti/",
+   "ipa_AmE": "AmE /ˈsizəˌnælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "month-end convention",
+   "ipa_brE": "BrE /ˈmʌnθ end kənˈvenʃn/",
+   "ipa_AmE": "AmE /ˈmʌnθ ˈɛnd kəˈnvɛnʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "service separation plan",
+   "ipa_brE": "BrE /ˈsɜːvɪs ˌsepəˈreɪʃn plæn/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˌsɛpɚˈéɪʃən ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "service level agreement",
+   "ipa_brE": "BrE /ˈsɜːvɪs levl əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈsɝvəs ˈlɛvəl əˈɡɹimənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reverse termination fee",
+   "ipa_brE": "BrE /rɪˈvɜːs təˌmɪˈneɪʃn fiː/",
+   "ipa_AmE": "AmE /ɹɪˈvɝs tɚməˈnéɪʃən ˈfi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financing commitment",
+   "ipa_brE": "BrE /ˈfaɪnənsɪŋ kəˈmɪtmənt/",
+   "ipa_AmE": "AmE /fəˈnænsɪŋ kəˈmɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "certain funds",
+   "ipa_brE": "BrE /ˈsɜːtn fʌndz/",
+   "ipa_AmE": "AmE /ˈsɝtən ˈfʌndz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity commitment letter",
+   "ipa_brE": "BrE /ˈekwəti kəˈmɪtmənt ˈletə(r)/",
+   "ipa_AmE": "AmE /ˈɛkwəti kəˈmɪtmənt ˈlɛtɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "funds certainty",
+   "ipa_brE": "BrE /fʌndz ˈsɜːtnti/",
+   "ipa_AmE": "AmE /ˈfʌndz ˈsɝtənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sources and uses",
+   "ipa_brE": "BrE /ˈsɔːsəz ənd ˈjuːz/",
+   "ipa_AmE": "AmE /ˈsɔɹsəz ənd ˈjusəz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "debt financing",
+   "ipa_brE": "BrE /ˈdet ˌfaɪnənsɪŋ/",
+   "ipa_AmE": "AmE /ˈdɛt fəˈnænsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity financing",
+   "ipa_brE": "BrE /ˈekwəti ˌfaɪnənsɪŋ/",
+   "ipa_AmE": "AmE /ˈɛkwəti fəˈnænsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mezzanine finance",
+   "ipa_brE": "BrE /ˈmezəniːn ˈfaɪnəns/",
+   "ipa_AmE": "AmE /ˈmɛzəˌnin fəˈnæns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "senior debt",
+   "ipa_brE": "BrE /ˈsiːniər det/",
+   "ipa_AmE": "AmE /ˈsinjɚ ˈdɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "subordinated debt",
+   "ipa_brE": "BrE /səˈbɔːdɪneɪtɪd det/",
+   "ipa_AmE": "AmE /səˈbɔɹdəˌnéɪtɪd ˈdɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "security package",
+   "ipa_brE": "BrE /sɪˈkjʊərəti ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "security agent",
+   "ipa_brE": "BrE /sɪˈkjʊərəti ˈeɪdʒənt/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈéɪdʒənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intercreditor agreement",
+   "ipa_brE": "BrE /ˌɪntəkrɪˈdɪtə(r) əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˌɪntəkɹɪˈdɪtɚ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "negative pledge",
+   "ipa_brE": "BrE /ˈneɡətɪv pledʒ/",
+   "ipa_AmE": "AmE /ˈnɛɡətɪv ˈplɛdʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m12": [
+  {
+   "word": "negotiation",
+   "ipa_brE": "BrE /nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "position",
+   "ipa_brE": "BrE /pəˈzɪʃn/",
+   "ipa_AmE": "AmE /pəˈzɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interest",
+   "ipa_brE": "BrE /ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈɪntɹəst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "anchor",
+   "ipa_brE": "BrE /ˈæŋkə(r)/",
+   "ipa_AmE": "AmE /ˈæŋkɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "late-breaking demand",
+   "ipa_brE": "BrE /ˌleɪt ˈbreɪkɪŋ dɪˈmɑːnd/",
+   "ipa_AmE": "AmE /ˈléɪt ˈbɹéɪkɪŋ dɪˈmænd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reciprocal concession",
+   "ipa_brE": "BrE /rɪˌsɪprəkl kənˈsepʃn/",
+   "ipa_AmE": "AmE /ɹɪˈsɪpɹəkəl kəˈnsɛʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "package deal",
+   "ipa_brE": "BrE /ˈpækɪdʒ diːl/",
+   "ipa_AmE": "AmE /ˈpækədʒ ˈdil/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "concession pattern",
+   "ipa_brE": "BrE /kənˈsepʃn ˈpætn/",
+   "ipa_AmE": "AmE /kəˈnsɛʃən ˈpætɚn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reciprocity",
+   "ipa_brE": "BrE /ˌresɪˈprɒsəti/",
+   "ipa_AmE": "AmE /ˌɹɛsɪˈpɹɑsɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "BATNA",
+   "ipa_brE": "BrE /ˈbætnə/",
+   "ipa_AmE": "AmE /ˈbætnə/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "reservation price",
+   "ipa_brE": "BrE /ˌrezəveɪʃn ˈpraɪs/",
+   "ipa_AmE": "AmE /ˌɹɛzɚˈvéɪʃən ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "walk-away point",
+   "ipa_brE": "BrE /ˈwɔːk əweɪ ˈpɔɪnt/",
+   "ipa_AmE": "AmE /ˈwɔk əˈwéɪ ˈpɔɪnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "negotiating mandate",
+   "ipa_brE": "BrE /nɪˈɡəʊʃieɪtɪŋ ˈmændeɪt/",
+   "ipa_AmE": "AmE /nɪˈɡoʊʃiˌéɪtɪŋ ˈmæˌndéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fallback",
+   "ipa_brE": "BrE /ˈfɔːlbæk/",
+   "ipa_AmE": "AmE /ˈfɔˌlbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "credibility",
+   "ipa_brE": "BrE /ˌkredəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌkɹɛdəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "good faith",
+   "ipa_brE": "BrE /ˌɡʊd ˈfeɪθ/",
+   "ipa_AmE": "AmE /ˈɡʊd ˈféɪθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "principled negotiation",
+   "ipa_brE": "BrE /ˈprɪnsəpld nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɪnsəpəld nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "integrative negotiation",
+   "ipa_brE": "BrE /ˈɪntɪɡreɪtɪv nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈɪntɪɡɹeɪtɪv nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "distributive negotiation",
+   "ipa_brE": "BrE /dɪˈstrɪbjuːtɪv nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /dɪˈstɹɪbjutɪv nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "objective criteria",
+   "ipa_brE": "BrE /əbˈdʒektɪv kraɪˈtɪəriə/",
+   "ipa_AmE": "AmE /əˈbdʒɛktɪv kɹɑɪˈtɪɹiə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interests versus positions",
+   "ipa_brE": "BrE /ˈɪntrəsts ˈɜːsəs pəˈzɪʃnz/",
+   "ipa_AmE": "AmE /ˈɪntɹəsts ˈvɝsəs pəˈzɪʃənz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "value creation in negotiation",
+   "ipa_brE": "BrE /ˌvæljuː kriˈeɪʃn ɪn nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈvælju kɹiˈéɪʃən ɪn nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "information asymmetry",
+   "ipa_brE": "BrE /ˌɪnfəmeɪʃn ˌeɪsiˈmeɪtri/",
+   "ipa_AmE": "AmE /ˌɪnfɚˈméɪʃən ˌéɪˈsɪmətɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "first offer",
+   "ipa_brE": "BrE /fɜːst ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈfɝst ˈɔfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "late final offer",
+   "ipa_brE": "BrE /leɪt ˈfaɪnl ˈɒfə(r)/",
+   "ipa_AmE": "AmE /ˈléɪt ˈfɑɪnəl ˈɔfɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "deadlock",
+   "ipa_brE": "BrE /ˈdedlɒk/",
+   "ipa_AmE": "AmE /ˈdɛˌdlɑk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "impasse",
+   "ipa_brE": "BrE /ɪmˈpæs/",
+   "ipa_AmE": "AmE /ˌɪˈmpæs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "without prejudice reference",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs ˈrefrəns/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs ˈɹɛfɹəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "privilege in negotiation",
+   "ipa_brE": "BrE /ˈprɪvəlɪdʒ ɪn nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ ɪn nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "offer sheet",
+   "ipa_brE": "BrE /ˈɒfə(r) ʃiːt/",
+   "ipa_AmE": "AmE /ˈɔfɚ ˈʃit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "settlement authority",
+   "ipa_brE": "BrE /ˈsetlmənt ɔːˌθɒrəti/",
+   "ipa_AmE": "AmE /ˈsɛtəlmənt əˈθɔɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "authority to settle",
+   "ipa_brE": "BrE /ɔːˈθɒrəti tuː ˈsetl/",
+   "ipa_AmE": "AmE /əˈθɔɹəti ˈtu ˈsɛtəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "litigation strategy",
+   "ipa_brE": "BrE /lɪˈtɪɡeɪʃn ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˌlɪtəˈɡéɪʃən ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "merits",
+   "ipa_brE": "BrE /ˈmerɪts/",
+   "ipa_AmE": "AmE /ˈmɛɹəts/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "forum",
+   "ipa_brE": "BrE /ˈfɔːrəm/",
+   "ipa_AmE": "AmE /ˈfɔɹəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "pre-action protocol compliance",
+   "ipa_brE": "BrE /ˌpriː ˈækʃn ˈprəʊtəkɒl kəmˈplaɪəns/",
+   "ipa_AmE": "AmE /ˈpɹi ˈækʃən ˈpɹoʊtəˌkɑl kəˈmplɑɪəns/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "costs strategy",
+   "ipa_brE": "BrE /kɒsts ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˈkɑsts ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "judgment offer deadline",
+   "ipa_brE": "BrE /ˈdʒʌdʒmənt ˈɒfə(r) ˈdedlaɪn/",
+   "ipa_AmE": "AmE /ˈdʒʌdʒmənt ˈɔfɚ ˈdɛˌdlɑɪn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "default strategy",
+   "ipa_brE": "BrE /dɪˈfɔːlt ˈstrætədʒi/",
+   "ipa_AmE": "AmE /dɪˈfɔlt ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "evidence-led approach",
+   "ipa_brE": "BrE /ˈevɪdəns led əˈprəʊtʃ/",
+   "ipa_AmE": "AmE /ˈɛvədəns ˈlɛd əˈpɹoʊtʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "document-led strategy",
+   "ipa_brE": "BrE /ˈdɒkjumənt led ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˈdɑkjəmɛnt ˈlɛd ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "key witness",
+   "ipa_brE": "BrE /ˈkiː ˈwɪtnəs/",
+   "ipa_AmE": "AmE /ˈki ˈwɪtnəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "witness statement drafting",
+   "ipa_brE": "BrE /ˈwɪtnəs ˈsteɪtmənt ˈdrɑːftɪŋ/",
+   "ipa_AmE": "AmE /ˈwɪtnəs ˈstéɪtmənt ˈdɹæftɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "chronology",
+   "ipa_brE": "BrE /krəˈnɒlədʒi/",
+   "ipa_AmE": "AmE /kɹəˈnɑlədʒi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "skeleton",
+   "ipa_brE": "BrE /ˈskelɪtn/",
+   "ipa_AmE": "AmE /ˈskɛlətən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "opening address",
+   "ipa_brE": "BrE /ˈəʊpənɪŋ əˌdres/",
+   "ipa_AmE": "AmE /ˈoʊpənɪŋ ˈæˌdɹɛs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "submissions",
+   "ipa_brE": "BrE /səbˈmɪʃnz/",
+   "ipa_AmE": "AmE /səˈbmɪʃənz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "oral argument",
+   "ipa_brE": "BrE /ˈɔːrəl ˈɑːɡjumənt/",
+   "ipa_AmE": "AmE /ˈɔɹəl ˈɑɹɡjəmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "answer to the judge",
+   "ipa_brE": "BrE /ˌɑːnsə tuː ðə ˈdʒʌdʒ/",
+   "ipa_AmE": "AmE /ˈænsɚ ˈtu ðə ˈdʒʌdʒ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "objection",
+   "ipa_brE": "BrE /əbˈdʒekʃn/",
+   "ipa_AmE": "AmE /əˈbdʒɛkʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "overruling",
+   "ipa_brE": "BrE /ˌəʊvəˈruːlɪŋ/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌɹulɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sustained",
+   "ipa_brE": "BrE /səˈsteɪnd/",
+   "ipa_AmE": "AmE /səˈstéɪnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "protected privilege",
+   "ipa_brE": "BrE /prəˈtektɪd ˈprɪvəlɪdʒ/",
+   "ipa_AmE": "AmE /pɹəˈtɛktɪd ˈpɹɪvɪlədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "privilege waiver letter",
+   "ipa_brE": "BrE /ˈprɪvəlɪdʒ ˈweɪvə(r) ˈletə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɪvɪlədʒ ˈwéɪvɚ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice negotiation",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs nɪˌɡəʊʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs nɪˌɡoʊʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "mediation statement",
+   "ipa_brE": "BrE /ˌmiːdiˈeɪʃn ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˌmidiˈéɪʃən ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice conciliation",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs ˌkɒnsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs kəˌnsɪliˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "arbitration strategy",
+   "ipa_brE": "BrE /ˌɑːbɪˈtreɪʃn ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˌɑɹbɪˈtɹéɪʃən ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tribunal directions",
+   "ipa_brE": "BrE /traɪˈbjuːnl dəˈrekʃnz/",
+   "ipa_AmE": "AmE /tɹəˈbjunəl dɚˈɛkʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expert instruction",
+   "ipa_brE": "BrE /ˈekspɜːt ɪnˈstrʌkʃn/",
+   "ipa_AmE": "AmE /ˈɛkspɚt ˌɪˈnstɹʌkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "joint expert report",
+   "ipa_brE": "BrE /ˌdʒɔɪnt ˈekspɜːt rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈdʒɔɪnt ˈɛkspɚt ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "single expert",
+   "ipa_brE": "BrE /ˈsɪŋɡl ˈekspɜːt/",
+   "ipa_AmE": "AmE /ˈsɪŋɡəl ˈɛkspɚt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "settlement figure justification",
+   "ipa_brE": "BrE /ˈsetlmənt ˈfɪɡə(r) ˌdʒʌstɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈsɛtəlmənt ˈfɪɡjɚ ˌdʒʌstəfəˈkéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "calculation of damages",
+   "ipa_brE": "BrE /ˌkælkjəˈleɪʃn əv ˈdæmɪdʒɪz/",
+   "ipa_AmE": "AmE /ˌkælkjəˈléɪʃən ˈʌv ˈdæmədʒəz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "quantification",
+   "ipa_brE": "BrE /ˌkwɒntɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌkwɑntɪfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "future loss",
+   "ipa_brE": "BrE /ˈfjuːtʃə(r) lɒs/",
+   "ipa_AmE": "AmE /ˈfjutʃɚ ˈlɔs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "discount rate dispute",
+   "ipa_brE": "BrE /ˈdɪskaʊnt reɪt dɪˌspjuːt/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt ˈɹéɪt dɪˈspjut/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "mitigation",
+   "ipa_brE": "BrE /ˌmɪtɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˌmɪtɪˈɡéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "causation",
+   "ipa_brE": "BrE /kɔːˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌkɔˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "loss of chance",
+   "ipa_brE": "BrE /lɒs əv ˈtʃɑːns/",
+   "ipa_AmE": "AmE /ˈlɔs ˈʌv ˈtʃæns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "declaration",
+   "ipa_brE": "BrE /ˌdekləˈreɪʃn/",
+   "ipa_AmE": "AmE /ˌdɛklɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "witness of experience",
+   "ipa_brE": "BrE /ˈwɪtnəs əv ɪkˈspɪəriəns/",
+   "ipa_AmE": "AmE /ˈwɪtnəs ˈʌv ɪˈkspɪɹiəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "expert opinion exchange",
+   "ipa_brE": "BrE /ˈekspɜːt əˌpɪnjən ɪksˈtʃeɪndʒ/",
+   "ipa_AmE": "AmE /ˈɛkspɚt əˈpɪnjən ɪˈkstʃéɪndʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "duty of disclosure",
+   "ipa_brE": "BrE /ˈdjuːti əv dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈduti ˈʌv dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "litigation risk assessment",
+   "ipa_brE": "BrE /lɪˈtɪɡeɪʃn rɪsk əˌsesmənt/",
+   "ipa_AmE": "AmE /ˌlɪtəˈɡéɪʃən ˈɹɪsk əˈsɛsmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "admission",
+   "ipa_brE": "BrE /ədˈmɪʃn/",
+   "ipa_AmE": "AmE /æˈdmɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "without prejudice timing",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs ˈtaɪmɪŋ/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs ˈtɑɪmɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "compromise",
+   "ipa_brE": "BrE /ˈkɒmprəmaɪz/",
+   "ipa_AmE": "AmE /ˈkɑmpɹəˌmɑɪz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "without prejudice settlement",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs ˈsetlmənt/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs ˈsɛtəlmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "consent judgment",
+   "ipa_brE": "BrE /kənˈsent ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /kəˈnsɛnt ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "submission of defence",
+   "ipa_brE": "BrE /səbˌmɪʃn əv dɪˈfɛns/",
+   "ipa_AmE": "AmE /səˈbmɪʃən ˈʌv dɪˈfɛns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reply to defence",
+   "ipa_brE": "BrE /rɪˈplaɪ tuː dɪˈfɛns/",
+   "ipa_AmE": "AmE /ɹɪˈplɑɪ ˈtu dɪˈfɛns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "rebuttal",
+   "ipa_brE": "BrE /rɪˈbʌtl/",
+   "ipa_AmE": "AmE /ɹɪˈbʌtəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "request for information",
+   "ipa_brE": "BrE /rɪˈkwest fə ɪnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˈkwɛst ˈfɔɹ ˌɪnfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "further and better particulars",
+   "ipa_brE": "BrE /ˌfɜːðə(r) ənd ˈbetə(r) pəˈtɪkjʊləz/",
+   "ipa_AmE": "AmE /ˈfɝðɚ ənd ˈbɛtɚ pɚˈtɪkjəlɚz/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "particulars defence",
+   "ipa_brE": "BrE /pəˈtɪkjʊləz dɪˈfɛns/",
+   "ipa_AmE": "AmE /pɚˈtɪkjəlɚz dɪˈfɛns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statement of truth",
+   "ipa_brE": "BrE /ˈsteɪtmənt əv truːθ/",
+   "ipa_AmE": "AmE /ˈstéɪtmənt ˈʌv ˈtɹuθ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "verification of witness statement",
+   "ipa_brE": "BrE /ˌverɪfɪˈkeɪʃn əv ˈwɪtnəs ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˌvɛɹəfəˈkéɪʃən ˈʌv ˈwɪtnəs ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "expert waiver",
+   "ipa_brE": "BrE /ˈekspɜːt ˈweɪvə(r)/",
+   "ipa_AmE": "AmE /ˈɛkspɚt ˈwéɪvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "without prejudice costs",
+   "ipa_brE": "BrE /wɪðaʊt ˈprɪʊdʒəs kɒsts/",
+   "ipa_AmE": "AmE /wɪˈθàʊt ˈpɹɛdʒədɪs ˈkɑsts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "costs discretion",
+   "ipa_brE": "BrE /kɒsts dɪsˈkretʃn/",
+   "ipa_AmE": "AmE /ˈkɑsts dɪˈskɹɛʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "solicitors’ costs",
+   "ipa_brE": "BrE /səˈlɪsɪtəz kɒsts/",
+   "ipa_AmE": "AmE /səˈlɪsɪtəz ˈkɑsts/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "expert’s report fee",
+   "ipa_brE": "BrE /ˈekspɜːts rɪˌpɔːt fiː/",
+   "ipa_AmE": "AmE /ˈɛkspɝts ɹiˈpɔɹt ˈfi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ]
+}

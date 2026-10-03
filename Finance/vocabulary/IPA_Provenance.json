@@ -1,0 +1,7691 @@
+{
+ "m01": [
+  {
+   "word": "accounting",
+   "ipa_brE": "BrE /əˈkaʊntɪŋ/",
+   "ipa_AmE": "AmE /əˈkàʊntɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bookkeeping",
+   "ipa_brE": "BrE /ˈbʊkkiːpɪŋ/",
+   "ipa_AmE": "AmE /ˈbʊˌkkipɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "double entry",
+   "ipa_brE": "BrE /ˌdʌbl ˈentri/",
+   "ipa_AmE": "AmE /ˈdʌbəl ˈɛntɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "debit",
+   "ipa_brE": "BrE /ˈdebɪt/",
+   "ipa_AmE": "AmE /ˈdɛbɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "credit",
+   "ipa_brE": "BrE /ˈkredɪt/",
+   "ipa_AmE": "AmE /ˈkɹɛdət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ledger",
+   "ipa_brE": "BrE /ˈledʒə(r)/",
+   "ipa_AmE": "AmE /ˈlɛdʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "journal",
+   "ipa_brE": "BrE /ˈdʒɜːnl/",
+   "ipa_AmE": "AmE /ˈdʒɝnəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "journal entry",
+   "ipa_brE": "BrE /ˈdʒɜːnl ˌentri/",
+   "ipa_AmE": "AmE /ˈdʒɝnəl ˈɛntɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "voucher",
+   "ipa_brE": "BrE /ˈvaʊtʃə(r)/",
+   "ipa_AmE": "AmE /ˈvàʊtʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fiscal year",
+   "ipa_brE": "BrE /ˈfɪskl jɪə(r)/",
+   "ipa_AmE": "AmE /ˈfɪskəl ˈjɪɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fiscal period",
+   "ipa_brE": "BrE /ˈfɪskl ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈfɪskəl ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interim report",
+   "ipa_brE": "BrE /ˈɪntərɪm rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈɪntɚəm ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accrual",
+   "ipa_brE": "BrE /əˈkruːəl/",
+   "ipa_AmE": "AmE /əˈkɹuəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "accrual basis",
+   "ipa_brE": "BrE /əˈkruːəl ˌbeɪsɪs/",
+   "ipa_AmE": "AmE /əˈkɹuəl ˈbéɪsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash basis",
+   "ipa_brE": "BrE /ˈkæʃ ˌbeɪsɪs/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈbéɪsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "matching principle",
+   "ipa_brE": "BrE /ˈmætʃɪŋ ˌprɪnsəpl/",
+   "ipa_AmE": "AmE /ˈmætʃɪŋ ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consistency principle",
+   "ipa_brE": "BrE /kənˈsɪstənsi ˌprɪnsəpl/",
+   "ipa_AmE": "AmE /kəˈnsɪstənsi ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "materiality",
+   "ipa_brE": "BrE /məˌtɪəriˈæləti/",
+   "ipa_AmE": "AmE /məˌtɪɹiˈælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "going concern",
+   "ipa_brE": "BrE /ˌɡəʊɪŋ kənˈsɜːn/",
+   "ipa_AmE": "AmE /ˈɡoʊɪŋ kəˈnsɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "classification",
+   "ipa_brE": "BrE /ˌklæsɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌklæsəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "prepaid expense",
+   "ipa_brE": "BrE /ˌpriːˈpeɪdɪd ɪkˈspens/",
+   "ipa_AmE": "AmE /pɹiˈpéɪd ɪˈkspɛns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accrued expense",
+   "ipa_brE": "BrE /əˈkruːd ɪkˈspens/",
+   "ipa_AmE": "AmE /əˈkɹud ɪˈkspɛns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "outstanding item",
+   "ipa_brE": "BrE /aʊtˈstændɪŋ ˈaɪtəm/",
+   "ipa_AmE": "AmE /ˌàʊˈtstændɪŋ ˈɑɪtəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "provision",
+   "ipa_brE": "BrE /prəˈvɪʒn/",
+   "ipa_AmE": "AmE /pɹəˈvɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reserve",
+   "ipa_brE": "BrE /rɪˈzɜːv/",
+   "ipa_AmE": "AmE /ɹɪˈzɝv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "contingency provision",
+   "ipa_brE": "BrE /kənˌtɪndʒənsi prəˈvɪʒn/",
+   "ipa_AmE": "AmE /kəˈntɪndʒənsi pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity",
+   "ipa_brE": "BrE /ˈekwəti/",
+   "ipa_AmE": "AmE /ˈɛkwəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capital",
+   "ipa_brE": "BrE /ˈkæpɪtl/",
+   "ipa_AmE": "AmE /ˈkæpətəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "retained earnings",
+   "ipa_brE": "BrE /rɪˌteɪnd ˈɜːnɪŋz/",
+   "ipa_AmE": "AmE /ɹɪˈtéɪnd ˈɝnɪŋz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "revenue",
+   "ipa_brE": "BrE /ˈrevənjuː/",
+   "ipa_AmE": "AmE /ˈɹɛvəˌnu/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "turnover",
+   "ipa_brE": "BrE /ˈtɜːnəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈtɝˌnoʊvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "gross profit",
+   "ipa_brE": "BrE /ˌɡrəʊs ˈprɒfɪt/",
+   "ipa_AmE": "AmE /ˈɡɹoʊs ˈpɹɑfət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "net profit",
+   "ipa_brE": "BrE /ˌnet ˈprɒfɪt/",
+   "ipa_AmE": "AmE /ˈnɛt ˈpɹɑfət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operating profit",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌprɒfɪt/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈpɹɑfət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expense",
+   "ipa_brE": "BrE /ɪkˈspens/",
+   "ipa_AmE": "AmE /ɪˈkspɛns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cost",
+   "ipa_brE": "BrE /kɒst/",
+   "ipa_AmE": "AmE /ˈkɑst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "margin",
+   "ipa_brE": "BrE /ˈmɑːdʒɪn/",
+   "ipa_AmE": "AmE /ˈmɑɹdʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cost of sales",
+   "ipa_brE": "BrE /ˌkɒst əv ˈseɪlz/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈséɪlz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "operating expense",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ɪkˌspens/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ɪˈkspɛns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "overhead",
+   "ipa_brE": "BrE /ˈəʊvəhed/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌhɛd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "contribution margin",
+   "ipa_brE": "BrE /kənˌtrɪbjuːʃn ˈmɑːdʒɪn/",
+   "ipa_AmE": "AmE /ˌkɑntɹəˈbjuʃən ˈmɑɹdʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "break-even point",
+   "ipa_brE": "BrE /ˌbreɪk iːvən pɔɪnt/",
+   "ipa_AmE": "AmE /ˈbɹéɪk ˈivɪn ˈpɔɪnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "operating leverage",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌliːvərɪdʒ/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈlɛvɚɪdʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fixed cost",
+   "ipa_brE": "BrE /ˌfɪkst ˈkɒst/",
+   "ipa_AmE": "AmE /ˈfɪkst ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "variable cost",
+   "ipa_brE": "BrE /ˈveəriəbl ˈkɒst/",
+   "ipa_AmE": "AmE /ˈvɛɹiəbəl ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "semi-variable cost",
+   "ipa_brE": "BrE /ˌsemi ˈveəriəbl ˈkɒst/",
+   "ipa_AmE": "AmE /ˈsɛmi ˈvɛɹiəbəl ˈkɑst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "chart of accounts",
+   "ipa_brE": "BrE /ˈtʃɑːt əv əˈkaʊnts/",
+   "ipa_AmE": "AmE /ˈtʃɑɹt ˈʌv əˈkàʊnts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "general ledger",
+   "ipa_brE": "BrE /ˈdʒenrəl ˈledʒə(r)/",
+   "ipa_AmE": "AmE /ˈdʒɛnɹəl ˈlɛdʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trial balance",
+   "ipa_brE": "BrE /ˈtraɪəl ˌbæləns/",
+   "ipa_AmE": "AmE /ˈtɹɑɪəl ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "balance sheet",
+   "ipa_brE": "BrE /ˈbæləns ʃiːt/",
+   "ipa_AmE": "AmE /ˈbæləns ˈʃit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "income statement",
+   "ipa_brE": "BrE /ˈɪnkʌm ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈɪˌnkʌm ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statement of cash flows",
+   "ipa_brE": "BrE /ˈsteɪtmənt əv kæʃ fləʊz/",
+   "ipa_AmE": "AmE /ˈstéɪtmənt ˈʌv ˈkæʃ ˈfloʊz/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "cash flow",
+   "ipa_brE": "BrE /ˈkæʃ fləʊ/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈfloʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "balance",
+   "ipa_brE": "BrE /ˈbæləns/",
+   "ipa_AmE": "AmE /ˈbæləns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "net assets",
+   "ipa_brE": "BrE /ˌnet ˈæsets/",
+   "ipa_AmE": "AmE /ˈnɛt ˈæˌsɛts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fixed asset",
+   "ipa_brE": "BrE /ˌfɪkst ˈæset/",
+   "ipa_AmE": "AmE /ˈfɪkst ˈæˌsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "depreciation",
+   "ipa_brE": "BrE /dɪˌpriːʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /dɪˌpɹiʃiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "residual value",
+   "ipa_brE": "BrE /rɪˈzɪdjuəl ˌvæljuː/",
+   "ipa_AmE": "AmE /ɹɪˈzɪdʒuəl ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "amortisation",
+   "ipa_brE": "BrE /əˌmɔːtaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌæmɚtɪˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capital expenditure",
+   "ipa_brE": "BrE /ˈkæpɪtl ɪkˌspendɪtʃə/",
+   "ipa_AmE": "AmE /ˈkæpətəl ɪˈkspɛndətʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disposal",
+   "ipa_brE": "BrE /dɪˈspəʊzl/",
+   "ipa_AmE": "AmE /dɪˈspoʊzəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "impairment",
+   "ipa_brE": "BrE /ɪmˈpeəmənt/",
+   "ipa_AmE": "AmE /ˌɪˈmpɛɹmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "write-down",
+   "ipa_brE": "BrE /ˈraɪt daʊn/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈdàʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "write-off",
+   "ipa_brE": "BrE /ˈraɪt ɒf/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inventory",
+   "ipa_brE": "BrE /ˈɪnvəntri/",
+   "ipa_AmE": "AmE /ˌɪnvəˈntɔɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stocktaking",
+   "ipa_brE": "BrE /ˈstɒkteɪkɪŋ/",
+   "ipa_AmE": "AmE /ˈstɑkteɪkɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "carrying amount",
+   "ipa_brE": "BrE /ˈkæriɪŋ əˌmaʊnt/",
+   "ipa_AmE": "AmE /ˈkæɹiɪŋ əˈmàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accounts receivable",
+   "ipa_brE": "BrE /əˈkaʊnts rɪˌsiːvəbl/",
+   "ipa_AmE": "AmE /əˈkàʊnts ɹɪˈsivəbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ageing",
+   "ipa_brE": "BrE /ˈeɪdʒɪŋ/",
+   "ipa_AmE": "AmE /ˈeɪdʒɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "bad debt",
+   "ipa_brE": "BrE /ˈbæd det/",
+   "ipa_AmE": "AmE /ˈbæd ˈdɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accounts payable",
+   "ipa_brE": "BrE /əˈkaʊnts ˌpeɪəbl/",
+   "ipa_AmE": "AmE /əˈkàʊnts ˈpéɪəbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "credit note",
+   "ipa_brE": "BrE /ˈkredɪt nəʊt/",
+   "ipa_AmE": "AmE /ˈkɹɛdət ˈnoʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "allowance",
+   "ipa_brE": "BrE /əˈlaʊəns/",
+   "ipa_AmE": "AmE /əˈlàʊəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bank reconciliation",
+   "ipa_brE": "BrE /ˌbæŋk rɪˌkɒnsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈbæŋk ˌɹɛkəˌnsɪliˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statement of account",
+   "ipa_brE": "BrE /ˈsteɪtmənt əv əˈkaʊnt/",
+   "ipa_AmE": "AmE /ˈstéɪtmənt ˈʌv əˈkàʊnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "petty cash",
+   "ipa_brE": "BrE /ˈpeti kæʃ/",
+   "ipa_AmE": "AmE /ˈpɛˌti ˈkæʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cut-off",
+   "ipa_brE": "BrE /ˈkʌt ɒf/",
+   "ipa_AmE": "AmE /ˈkʌt ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "period-end",
+   "ipa_brE": "BrE /ˈpɪəriəd end/",
+   "ipa_AmE": "AmE /ˈpɪɹiəd ˈɛnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "close",
+   "ipa_brE": "BrE /kləʊz/",
+   "ipa_AmE": "AmE /ˈkloʊs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "estimate",
+   "ipa_brE": "BrE /ˈestɪmeɪt/",
+   "ipa_AmE": "AmE /ˈɛstəmət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "estimation",
+   "ipa_brE": "BrE /ˌestɪˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˌɛstəˈméɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "revision",
+   "ipa_brE": "BrE /rɪˈvɪʒn/",
+   "ipa_AmE": "AmE /ɹiˈvɪʒən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "audit trail",
+   "ipa_brE": "BrE /ˈɔːdɪt treɪl/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈtɹéɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "supporting document",
+   "ipa_brE": "BrE /səˈpɔːtɪŋ ˌdɒkjumənt/",
+   "ipa_AmE": "AmE /səˈpɔɹtɪŋ ˈdɑkjəmɛnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "source record",
+   "ipa_brE": "BrE /ˈsɔːs ˌrekɔːd/",
+   "ipa_AmE": "AmE /ˈsɔɹs ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "posting",
+   "ipa_brE": "BrE /ˈpəʊstɪŋ/",
+   "ipa_AmE": "AmE /ˈpoʊstɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "carry forward",
+   "ipa_brE": "BrE /ˈkæri ˈfɔːwəd/",
+   "ipa_AmE": "AmE /ˈkæɹi ˈfɔɹwɚd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "brought forward",
+   "ipa_brE": "BrE /ˌbrɔːt ˈfɔːwəd/",
+   "ipa_AmE": "AmE /ˈbɹɔt ˈfɔɹwɚd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "closing balance",
+   "ipa_brE": "BrE /ˈkləʊzɪŋ ˌbæləns/",
+   "ipa_AmE": "AmE /ˈkloʊzɪŋ ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opening balance",
+   "ipa_brE": "BrE /ˈəʊpənɪŋ ˌbæləns/",
+   "ipa_AmE": "AmE /ˈoʊpənɪŋ ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reconciliation",
+   "ipa_brE": "BrE /ˌrekənsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛkəˌnsɪliˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "double-count",
+   "ipa_brE": "BrE /ˌdʌbl ˈkaʊnt/",
+   "ipa_AmE": "AmE /ˈdʌbəl ˈkàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "elimination",
+   "ipa_brE": "BrE /ɪˌlɪmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /ɪˌlɪməˈnéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  }
+ ],
+ "m02": [
+  {
+   "word": "consolidated accounts",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪtɪd əˈkaʊnts/",
+   "ipa_AmE": "AmE /kəˈnsɑləˌdéɪtəd əˈkàʊnts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "group accounts",
+   "ipa_brE": "BrE /ˈɡruːp əˈkaʊnts/",
+   "ipa_AmE": "AmE /ˈɡɹup əˈkàʊnts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity accounting",
+   "ipa_brE": "BrE /ˈekwəti əˌkaʊntɪŋ/",
+   "ipa_AmE": "AmE /ˈɛkwəti əˈkàʊntɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consolidation",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /kəˌnsɑləˈdéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "subsidiary",
+   "ipa_brE": "BrE /səbˈsɪdiəri/",
+   "ipa_AmE": "AmE /səˈbsɪdiˌɛɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "associate",
+   "ipa_brE": "BrE /əˈsɒʃieɪt/",
+   "ipa_AmE": "AmE /əˈsoʊsiət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "minority interest",
+   "ipa_brE": "BrE /maɪˌnɒrəti ˈɪntrəst/",
+   "ipa_AmE": "AmE /mɑɪˈnɔɹəti ˈɪntɹəst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "goodwill",
+   "ipa_brE": "BrE /ˈɡʊdwɪl/",
+   "ipa_AmE": "AmE /ˈɡʊˌdwɪl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "purchase price allocation",
+   "ipa_brE": "BrE /ˈpɜːtʃəs praɪs ˌæləˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈpɝtʃəs ˈpɹɑɪs ˌæləˈkéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "intercompany transaction",
+   "ipa_brE": "BrE /ˌɪntəˈkʌmpəni trænˈzækʃn/",
+   "ipa_AmE": "AmE /ˌɪntɚˈkʌmpəni tɹæˈnzækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "related party transaction",
+   "ipa_brE": "BrE /rɪˌleɪtɪd ˌpɑːti trænˈzækʃn/",
+   "ipa_AmE": "AmE /ɹɪˈléɪtɪd ˈpɑɹti tɹæˈnzækʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "transfer pricing",
+   "ipa_brE": "BrE /trænsˈfɜː ˈpraɪsɪŋ/",
+   "ipa_AmE": "AmE /tɹæˈnsfɝ ˈpɹɑɪsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "articulation",
+   "ipa_brE": "BrE /ɑːˌtɪkjʊˈleɪʃn/",
+   "ipa_AmE": "AmE /ˌɑɹtɪkjəˈléɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "three-statement model",
+   "ipa_brE": "BrE /ˌθriː ˈsteɪtmənt ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈθɹi ˈstéɪtmənt ˈmɑdəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "linkage",
+   "ipa_brE": "BrE /ˈlɪŋkɪdʒ/",
+   "ipa_AmE": "AmE /ˈlɪŋkədʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "statement of changes in equity",
+   "ipa_brE": "BrE /ˈsteɪtmənt əv tʃeɪndʒɪz ɪn ˈekwəti/",
+   "ipa_AmE": "AmE /ˈstéɪtmənt ˈʌv ˈtʃéɪndʒəz ɪn ˈɛkwəti/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "movement in reserves",
+   "ipa_brE": "BrE /ˈmuːvmənt ɪn rɪˈzɜːvz/",
+   "ipa_AmE": "AmE /ˈmuvmənt ɪn ɹɪˈzɝvz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "equity movement",
+   "ipa_brE": "BrE /ˈekwəti ˈmuːvmənt/",
+   "ipa_AmE": "AmE /ˈɛkwəti ˈmuvmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "current asset",
+   "ipa_brE": "BrE /ˌkʌrənt ˈæset/",
+   "ipa_AmE": "AmE /ˈkɝənt ˈæˌsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-current asset",
+   "ipa_brE": "BrE /ˌnɒn ˈkʌrənt ˈæset/",
+   "ipa_AmE": "AmE /ˈnɑn ˈkɝənt ˈæˌsɛt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "current liability",
+   "ipa_brE": "BrE /ˌkʌrənt laɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈkɝənt ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidity ratio",
+   "ipa_brE": "BrE /lɪˈkwɪdəti ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leverage ratio",
+   "ipa_brE": "BrE /ˈliːvərɪdʒ ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈlɛvɚɪdʒ ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "solvency",
+   "ipa_brE": "BrE /ˈsɒlvənsi/",
+   "ipa_AmE": "AmE /ˈsɔlvənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "asset turnover",
+   "ipa_brE": "BrE /ˈæset ˈtɜːnəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈæˌsɛt ˈtɝˌnoʊvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "return on assets",
+   "ipa_brE": "BrE /rɪˌtɜːn ɒn ˈæsets/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈɑn ˈæˌsɛts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "return on equity",
+   "ipa_brE": "BrE /rɪˌtɜːn ɒn ˈekwəti/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈɑn ˈɛkwəti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "operating cycle",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash conversion cycle",
+   "ipa_brE": "BrE /kæʃ kənˈvɜːʃn ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈkæʃ kəˈnvɝʒən ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "debtor days",
+   "ipa_brE": "BrE /ˈdebtə deɪz/",
+   "ipa_AmE": "AmE /ˈdɛtɚ ˈdéɪz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "creditor days",
+   "ipa_brE": "BrE /ˈkredɪtə deɪz/",
+   "ipa_AmE": "AmE /ˈkɹɛdətɚ ˈdéɪz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash cycle",
+   "ipa_brE": "BrE /ˈkæʃ ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "free cash flow",
+   "ipa_brE": "BrE /ˌfriː ˈkæʃ fləʊ/",
+   "ipa_AmE": "AmE /ˈfɹi ˈkæʃ ˈfloʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cash burn",
+   "ipa_brE": "BrE /ˈkæʃ bɜːn/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈbɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "funding gap",
+   "ipa_brE": "BrE /ˈfʌndɪŋ ɡæp/",
+   "ipa_AmE": "AmE /ˈfʌndɪŋ ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accounting policy",
+   "ipa_brE": "BrE /əˈkaʊntɪŋ ˈpɒləsi/",
+   "ipa_AmE": "AmE /əˈkàʊntɪŋ ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "footnote",
+   "ipa_brE": "BrE /ˈfʊtnəʊt/",
+   "ipa_AmE": "AmE /ˈfʊˌtnoʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "disclosure",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "restatement",
+   "ipa_brE": "BrE /ˌriːˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ɹiˈstéɪtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "correction of error",
+   "ipa_brE": "BrE /kəˈrekʃn əv ˈerə(r)/",
+   "ipa_AmE": "AmE /kɚˈɛkʃən ˈʌv ˈɛɹɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "prior period adjustment",
+   "ipa_brE": "BrE /ˈpraɪər ˌpɪəriəd əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /ˈpɹɑɪɚ ˈpɪɹiəd əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "true and fair view",
+   "ipa_brE": "BrE /ˌtruː ən ˌfeə vjuː/",
+   "ipa_AmE": "AmE /ˈtɹu ənd ˈfɛɹ ˈvju/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "fair presentation",
+   "ipa_brE": "BrE /ˌfeə ˌprezənˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˌpɹɛzəˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "comparative",
+   "ipa_brE": "BrE /kəmˈpærətɪv/",
+   "ipa_AmE": "AmE /kəˈmpɛɹətɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "quarterly reporting",
+   "ipa_brE": "BrE /ˈkwɔːtəli rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈkwɔɹtɚli ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "year-on-year",
+   "ipa_brE": "BrE /ˌjɪər ɒn ˈjɪə(r)/",
+   "ipa_AmE": "AmE /ˈjɪɹ ˈɑn ˈjɪɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "variance analysis",
+   "ipa_brE": "BrE /ˈveəriəns əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈvɛɹiəns əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "segment reporting",
+   "ipa_brE": "BrE /ˈseɡmənt rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈsɛɡmənt ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operating segment",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌseɡmənt/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈsɛɡmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "business segment",
+   "ipa_brE": "BrE /ˈbɪznəs ˌseɡmənt/",
+   "ipa_AmE": "AmE /ˈbɪznəs ˈsɛɡmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "revenue recognition",
+   "ipa_brE": "BrE /ˈrevənjuː ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈɹɛvəˌnu ˌɹɛkəˈɡnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract asset",
+   "ipa_brE": "BrE /ˈkɒntrækt ˌæset/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˈæˌsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contract liability",
+   "ipa_brE": "BrE /ˈkɒntrækt laɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deferred revenue",
+   "ipa_brE": "BrE /dɪˌfɜːd ˈrevənjuː/",
+   "ipa_AmE": "AmE /dɪˈfɝd ˈɹɛvəˌnu/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance obligation",
+   "ipa_brE": "BrE /pəˈfɔːməns əˌblɪɡeɪʃn/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˌɑbləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transaction price",
+   "ipa_brE": "BrE /trænˈzækʃn praɪs/",
+   "ipa_AmE": "AmE /tɹæˈnzækʃən ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expense recognition",
+   "ipa_brE": "BrE /ɪkˈspens ˌrekəɡˈnɪʃn/",
+   "ipa_AmE": "AmE /ɪˈkspɛns ˌɹɛkəˈɡnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capitalisation",
+   "ipa_brE": "BrE /ˌkæpɪtəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌkæpɪtəlɪˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "expensing",
+   "ipa_brE": "BrE /ɪkˈspensɪŋ/",
+   "ipa_AmE": "AmE /ɪˈkspɛnsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reporting entity",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ ˌentəti/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈɛntəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consolidation scope",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪʃn skəʊp/",
+   "ipa_AmE": "AmE /kəˌnsɑləˈdéɪʃən ˈskoʊp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "group structure",
+   "ipa_brE": "BrE /ˈɡruːp ˈstrʌktʃə(r)/",
+   "ipa_AmE": "AmE /ˈɡɹup ˈstɹʌktʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adjustment",
+   "ipa_brE": "BrE /əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /əˈdʒʌstmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reclassification",
+   "ipa_brE": "BrE /ˌriːklæsɪfɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ɹiˌklæsəfəˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rounding difference",
+   "ipa_brE": "BrE /ˈraʊndɪŋ ˌdɪfrəns/",
+   "ipa_AmE": "AmE /ˈɹàʊndɪŋ ˈdɪfɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accrual reversal",
+   "ipa_brE": "BrE /əˈkruːl rɪˌvɜːsl/",
+   "ipa_AmE": "AmE /əˈkɹuəl ɹɪˈvɝsəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "true-up",
+   "ipa_brE": "BrE /ˈtruː ʌp/",
+   "ipa_AmE": "AmE /ˈtɹu ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "provision release",
+   "ipa_brE": "BrE /prəˈvɪʒn rɪˌliːs/",
+   "ipa_AmE": "AmE /pɹəˈvɪʒən ɹiˈlis/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "month-end close",
+   "ipa_brE": "BrE /ˌmʌnθ end ˈkləʊz/",
+   "ipa_AmE": "AmE /ˈmʌnθ ˈɛnd ˈkloʊs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "soft close",
+   "ipa_brE": "BrE /ˌsɒft ˈkləʊz/",
+   "ipa_AmE": "AmE /ˈsɑft ˈkloʊs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "closing process",
+   "ipa_brE": "BrE /ˈkləʊzɪŋ ˌprəʊses/",
+   "ipa_AmE": "AmE /ˈkloʊzɪŋ ˈpɹɑˌsɛs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hard close",
+   "ipa_brE": "BrE /ˌhɑːd ˈkləʊz/",
+   "ipa_AmE": "AmE /ˈhɑɹd ˈkloʊs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "close calendar",
+   "ipa_brE": "BrE /ˈkləʊz ˌkælɪndə(r)/",
+   "ipa_AmE": "AmE /ˈkloʊs ˈkæləndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "close checklist",
+   "ipa_brE": "BrE /ˈkləʊz ˌtʃeklɪst/",
+   "ipa_AmE": "AmE /ˈkloʊs ˈtʃɛˌklɪst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "flux analysis",
+   "ipa_brE": "BrE /ˈflʌks əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈflʌks əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "common-size analysis",
+   "ipa_brE": "BrE /ˌkɒmən saɪz əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˈkɑmən ˈsɑɪz əˈnæləsəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "ratio analysis",
+   "ipa_brE": "BrE /ˈreɪʃiəʊ əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈɹéɪʃiˌoʊ əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "benchmark ratio",
+   "ipa_brE": "BrE /ˈbentʃmɑːk ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈbɛˌntʃmɑɹk ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "industry median",
+   "ipa_brE": "BrE /ˈɪndəstri ˈmiːdiən/",
+   "ipa_AmE": "AmE /ˈɪndəstɹi ˈmidiən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trend analysis",
+   "ipa_brE": "BrE /ˈtrend əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈtɹɛnd əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insight",
+   "ipa_brE": "BrE /ˈɪnsaɪt/",
+   "ipa_AmE": "AmE /ˈɪˌnsɑɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "driver",
+   "ipa_brE": "BrE /ˈdraɪvə(r)/",
+   "ipa_AmE": "AmE /ˈdɹɑɪvɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bridge analysis",
+   "ipa_brE": "BrE /ˈbrɪdʒ əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈbɹɪdʒ əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "earnings quality",
+   "ipa_brE": "BrE /ˈɜːnɪŋz ˌkwɒləti/",
+   "ipa_AmE": "AmE /ˈɝnɪŋz ˈkwɑləti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m03": [
+  {
+   "word": "cost accounting",
+   "ipa_brE": "BrE /ˌkɒst əˈkaʊntɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑst əˈkàʊntɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost object",
+   "ipa_brE": "BrE /ˈkɒst ˌɒbdʒekt/",
+   "ipa_AmE": "AmE /ˈkɑst ˈɑbdʒɛkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost driver",
+   "ipa_brE": "BrE /ˈkɒst ˌdraɪvə(r)/",
+   "ipa_AmE": "AmE /ˈkɑst ˈdɹɑɪvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost centre",
+   "ipa_brE": "BrE /ˈkɒst ˌsentə(r)/",
+   "ipa_AmE": "AmE /ˈkɑst ˈsɛntɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost allocation",
+   "ipa_brE": "BrE /ˌkɒst ˌæləˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈkɑst ˌæləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "absorption costing",
+   "ipa_brE": "BrE /əbˈzɔːpʃn ˌkɒstɪŋ/",
+   "ipa_AmE": "AmE /əˈbzɔɹpʃən ˈkɔstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "marginal costing",
+   "ipa_brE": "BrE /ˈmɑːdʒɪnl ˌkɒstɪŋ/",
+   "ipa_AmE": "AmE /ˈmɑɹdʒənəl ˈkɔstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "direct cost",
+   "ipa_brE": "BrE /dəˌrekt ˈkɒst/",
+   "ipa_AmE": "AmE /dɚˈɛkt ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "indirect cost",
+   "ipa_brE": "BrE /ˌɪndɪˈrekt ˈkɒst/",
+   "ipa_AmE": "AmE /ˌɪndɚˈɛkt ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "overhead absorption",
+   "ipa_brE": "BrE /ˈəʊvəhed əbˌzɔːpʃn/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌhɛd əˈbzɔɹpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "activity-based costing",
+   "ipa_brE": "BrE /ækˈtɪvəti beɪst ˌkɒstɪŋ/",
+   "ipa_AmE": "AmE /æˈktɪvəti ˈbéɪst ˈkɔstɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "process cost",
+   "ipa_brE": "BrE /ˈprəʊses ˌkɒst/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛs ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "job costing",
+   "ipa_brE": "BrE /ˈdʒɒb ˌkɒstɪŋ/",
+   "ipa_AmE": "AmE /ˈdʒɑb ˈkɔstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "standard cost",
+   "ipa_brE": "BrE /ˈstændəd ˌkɒst/",
+   "ipa_AmE": "AmE /ˈstændɚd ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "standard",
+   "ipa_brE": "BrE /ˈstændəd/",
+   "ipa_AmE": "AmE /ˈstændɚd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "variance",
+   "ipa_brE": "BrE /ˈveəriəns/",
+   "ipa_AmE": "AmE /ˈvɛɹiəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "price variance",
+   "ipa_brE": "BrE /ˈpraɪs ˌveəriəns/",
+   "ipa_AmE": "AmE /ˈpɹɑɪs ˈvɛɹiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "volume variance",
+   "ipa_brE": "BrE /ˈvɒljuːm ˌveəriəns/",
+   "ipa_AmE": "AmE /ˈvɑljum ˈvɛɹiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "efficiency variance",
+   "ipa_brE": "BrE /ɪˈfɪʃnsi ˌveəriəns/",
+   "ipa_AmE": "AmE /ɪˈfɪʃənsi ˈvɛɹiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "spending variance",
+   "ipa_brE": "BrE /ˈspendɪŋ ˌveəriəns/",
+   "ipa_AmE": "AmE /ˈspɛndɪŋ ˈvɛɹiəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "budgetary control",
+   "ipa_brE": "BrE /ˈbʌdʒətri ˌkənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪˌtɛɹi kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "absorption rate",
+   "ipa_brE": "BrE /əbˈzɔːpʃn reɪt/",
+   "ipa_AmE": "AmE /əˈbzɔɹpʃən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unit cost",
+   "ipa_brE": "BrE /ˈjuːnɪt ˌkɒst/",
+   "ipa_AmE": "AmE /ˈjunət ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "make-or-buy",
+   "ipa_brE": "BrE /ˌmeɪk ɔː ˈbaɪ/",
+   "ipa_AmE": "AmE /ˈméɪk ˈɔɹ ˈbɑɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "relevant cost",
+   "ipa_brE": "BrE /ˈreləvənt ˌkɒst/",
+   "ipa_AmE": "AmE /ˈɹɛləvənt ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sunk cost",
+   "ipa_brE": "BrE /ˌsʌŋk ˈkɒst/",
+   "ipa_AmE": "AmE /ˈsʌŋk ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opportunity cost",
+   "ipa_brE": "BrE /ˌɒpəˈtjuːnəti ˌkɒst/",
+   "ipa_AmE": "AmE /ˌɑpɚˈtunəti ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "incremental cost",
+   "ipa_brE": "BrE /ˌɪŋkrɪˈmentl ˌkɒst/",
+   "ipa_AmE": "AmE /ˌɪnkɹəˈmɛntəl ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fixed manufacturing cost",
+   "ipa_brE": "BrE /ˌfɪkst ˌmænjuˈfæktʃərɪŋ ˌkɒst/",
+   "ipa_AmE": "AmE /ˈfɪkst ˌmænjəˈfæktʃɚɪŋ ˈkɑst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "freight and duty",
+   "ipa_brE": "BrE /ˌfreɪt ən ˈdjuːti/",
+   "ipa_AmE": "AmE /ˈfɹéɪt ənd ˈduti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "landed cost",
+   "ipa_brE": "BrE /ˈlændɪd ˌkɒst/",
+   "ipa_AmE": "AmE /ˈlændəd ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost saving",
+   "ipa_brE": "BrE /ˈkɒst ˌseɪvɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑst ˈséɪvɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost avoidance",
+   "ipa_brE": "BrE /ˌkɒst əˈvɔɪdəns/",
+   "ipa_AmE": "AmE /ˈkɑst əˈvɔɪdəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expense claim",
+   "ipa_brE": "BrE /ɪkˈspens kleɪm/",
+   "ipa_AmE": "AmE /ɪˈkspɛns ˈkléɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "per diem",
+   "ipa_brE": "BrE /ˌpɜː ˈdiːəm/",
+   "ipa_AmE": "AmE /ˈpɝ ˈdim/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "corporate card",
+   "ipa_brE": "BrE /ˈkɔːpərət kɑːd/",
+   "ipa_AmE": "AmE /ˈkɔɹpɚət ˈkɑɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "procurement policy",
+   "ipa_brE": "BrE /prəˈkjʊəmənt ˌpɒləsi/",
+   "ipa_AmE": "AmE /pɹoʊˈkjʊɹmənt ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "invoice",
+   "ipa_brE": "BrE /ˈɪnvɔɪs/",
+   "ipa_AmE": "AmE /ˈɪnvɔɪs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "invoice matching",
+   "ipa_brE": "BrE /ˈɪnvɔɪs ˌmætʃɪŋ/",
+   "ipa_AmE": "AmE /ˈɪnvɔɪs ˈmætʃɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "three-way match",
+   "ipa_brE": "BrE /ˌθriː weɪ ˈmætʃ/",
+   "ipa_AmE": "AmE /ˈθɹi ˈwéɪ ˈmætʃ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "purchase order",
+   "ipa_brE": "BrE /ˈpɜːtʃəs ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈpɝtʃəs ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "goods receipt",
+   "ipa_brE": "BrE /ˈɡʊdz rɪˌsiːt/",
+   "ipa_AmE": "AmE /ˈɡʊdz ɹɪˈsit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payable period",
+   "ipa_brE": "BrE /ˈpeɪəbl ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈpéɪəbəl ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "early payment discount",
+   "ipa_brE": "BrE /ˌɜːli ˈpeɪmənt dɪˈskaʊnt/",
+   "ipa_AmE": "AmE /ˈɝli ˈpéɪmənt dɪˈskàʊnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "credit term",
+   "ipa_brE": "BrE /ˈkredɪt ˌtɜːm/",
+   "ipa_AmE": "AmE /ˈkɹɛdət ˈtɝm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capitalisation policy",
+   "ipa_brE": "BrE /ˌkæpɪtəlaɪˈzeɪʃn ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˌkæpɪtəlɪˈzéɪʃən ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost of quality",
+   "ipa_brE": "BrE /ˌkɒst əv ˈkwɒləti/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈkwɑləti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "scrap rate",
+   "ipa_brE": "BrE /skræp reɪt/",
+   "ipa_AmE": "AmE /ˈskɹæp ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rework",
+   "ipa_brE": "BrE /ˈriːwɜːk/",
+   "ipa_AmE": "AmE /ɹiˈwɝk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "yield",
+   "ipa_brE": "BrE /jiːld/",
+   "ipa_AmE": "AmE /ˈjild/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "throughput",
+   "ipa_brE": "BrE /ˈθruːpʊt/",
+   "ipa_AmE": "AmE /ˈθɹuˌpʊt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bottleneck",
+   "ipa_brE": "BrE /ˈbɒtlnek/",
+   "ipa_AmE": "AmE /ˈbɑtəˌlnɛk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "constraint",
+   "ipa_brE": "BrE /kənˈstreɪnt/",
+   "ipa_AmE": "AmE /kəˈnstɹéɪnt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "throughput time",
+   "ipa_brE": "BrE /ˈθruːpʊt taɪm/",
+   "ipa_AmE": "AmE /ˈθɹuˌpʊt ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cycle time",
+   "ipa_brE": "BrE /ˈsaɪkl taɪm/",
+   "ipa_AmE": "AmE /ˈsɑɪkəl ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "takt time",
+   "ipa_brE": "BrE /ˈtækt taɪm/",
+   "ipa_AmE": "AmE /ˈtækt ˈtɑɪm/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "work-in-progress",
+   "ipa_brE": "BrE /ˌwɜːk ɪn ˈprəʊɡres/",
+   "ipa_AmE": "AmE /ˈwɝk ɪn ˈpɹɑˌɡɹɛs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "inventory holding cost",
+   "ipa_brE": "BrE /ˈɪnvəntri ˌhəʊldɪŋ kɒst/",
+   "ipa_AmE": "AmE /ˌɪnvəˈntɔɹi ˈhoʊldɪŋ ˈkɑst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "stockout",
+   "ipa_brE": "BrE /ˈstɒkaʊt/",
+   "ipa_AmE": "AmE /ˈstɑkaʊt/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "safety stock",
+   "ipa_brE": "BrE /ˈseɪfti stɒk/",
+   "ipa_AmE": "AmE /ˈséɪfti ˈstɑk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reorder point",
+   "ipa_brE": "BrE /ˌriːˈɔːdə pɔɪnt/",
+   "ipa_AmE": "AmE /ɹiˈɔɹdɚ ˈpɔɪnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lead time",
+   "ipa_brE": "BrE /ˈliːd taɪm/",
+   "ipa_AmE": "AmE /ˈlɛd ˈtɑɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "demand variability",
+   "ipa_brE": "BrE /dɪˈmɑːnd ˌveəriəˈbɪləti/",
+   "ipa_AmE": "AmE /dɪˈmænd vɛɹiəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consignment",
+   "ipa_brE": "BrE /kənˈsɪnmənt/",
+   "ipa_AmE": "AmE /kəˈnsɑɪnmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cross-docking",
+   "ipa_brE": "BrE /ˈkrɒs ˌdɒkɪŋ/",
+   "ipa_AmE": "AmE /ˈkɹɔs ˈdɑkɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "backorder",
+   "ipa_brE": "BrE /ˈbækɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈbækɔɹdɚ/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "contract manufacturing",
+   "ipa_brE": "BrE /ˈkɒntrækt ˌmænjuˈfæktʃərɪŋ/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹækt ˌmænjəˈfæktʃɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "subcontractor",
+   "ipa_brE": "BrE /ˌsʌbkənˈtræktə(r)/",
+   "ipa_AmE": "AmE /səˈbkɑˌntɹæktɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tooling cost",
+   "ipa_brE": "BrE /ˈtuːlɪŋ kɒst/",
+   "ipa_AmE": "AmE /ˈtulɪŋ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warranty provision",
+   "ipa_brE": "BrE /ˈwɒrənti prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈwɔɹənti pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "returns rate",
+   "ipa_brE": "BrE /rɪˈtɜːnz reɪt/",
+   "ipa_AmE": "AmE /ɹɪˈtɝnz ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quality escape",
+   "ipa_brE": "BrE /ˈkwɒləti ɪˈskeɪp/",
+   "ipa_AmE": "AmE /ˈkwɑləti ɪˈskéɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "energy cost",
+   "ipa_brE": "BrE /ˈenədʒi kɒst/",
+   "ipa_AmE": "AmE /ˈɛnɚdʒi ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "utility cost",
+   "ipa_brE": "BrE /juːˈtɪləti kɒst/",
+   "ipa_AmE": "AmE /juˈtɪləti ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "carbon cost",
+   "ipa_brE": "BrE /ˈkɑːbən kɒst/",
+   "ipa_AmE": "AmE /ˈkɑɹbən ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "travel cost",
+   "ipa_brE": "BrE /ˈtrævl kɒst/",
+   "ipa_AmE": "AmE /ˈtɹævəl ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "entertainment expense",
+   "ipa_brE": "BrE /ˌentəˈteɪnmənt ɪkˌspens/",
+   "ipa_AmE": "AmE /ˌɛntɚˈtéɪnmənt ɪˈkspɛns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hospitality cost",
+   "ipa_brE": "BrE /ˌhɒspɪˈtæləti kɒst/",
+   "ipa_AmE": "AmE /ˌhɑspəˈtæləti ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "headcount cost",
+   "ipa_brE": "BrE /ˈhedkaʊnt kɒst/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contractor cost",
+   "ipa_brE": "BrE /kənˈtræktə(r) ˌkɒst/",
+   "ipa_AmE": "AmE /ˈkɑˌntɹæktɚ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interim cost",
+   "ipa_brE": "BrE /ˈɪntərɪm kɒst/",
+   "ipa_AmE": "AmE /ˈɪntɚəm ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shared service charge",
+   "ipa_brE": "BrE /ˌʃeəd ˈsɜːvɪs tʃɑːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈʃɛɹd ˈsɝvəs ˈtʃɑɹdʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "recharge",
+   "ipa_brE": "BrE /ˌriːˈtʃɑːdʒ/",
+   "ipa_AmE": "AmE /ɹiˈtʃɑɹdʒ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "chargeback",
+   "ipa_brE": "BrE /ˈtʃɑːdʒbæk/",
+   "ipa_AmE": "AmE /ˈtʃɑˌɹdʒbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "allocation key",
+   "ipa_brE": "BrE /əˌlɒkˈeɪʃn kiː/",
+   "ipa_AmE": "AmE /ˌæləˈkéɪʃən ˈki/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "overhead rate",
+   "ipa_brE": "BrE /ˈəʊvəhed reɪt/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌhɛd ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "spreadsheet model",
+   "ipa_brE": "BrE /ˈspredʃiːt ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈspɹɛˌdʃit ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost behaviour",
+   "ipa_brE": "BrE /ˈkɒst bɪˌheɪvjə(r)/",
+   "ipa_AmE": "AmE /ˈkɑst bɪˈhéɪvjɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "step cost",
+   "ipa_brE": "BrE /step ˈkɒst/",
+   "ipa_AmE": "AmE /ˈstɛp ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost pool",
+   "ipa_brE": "BrE /ˈkɒst puːl/",
+   "ipa_AmE": "AmE /ˈkɑst ˈpul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sensitivity analysis",
+   "ipa_brE": "BrE /ˌsensəˈtɪvəti əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˌsɛnsɪˈtɪvɪti əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scenario analysis",
+   "ipa_brE": "BrE /səˌnɑːriəʊ əˈnæləsɪs/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "break-even chart",
+   "ipa_brE": "BrE /ˌbreɪk iːvən tʃɑːt/",
+   "ipa_AmE": "AmE /ˈbɹéɪk ˈivɪn ˈtʃɑɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  }
+ ],
+ "m04": [
+  {
+   "word": "budget",
+   "ipa_brE": "BrE /ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budgeting",
+   "ipa_brE": "BrE /ˈbʌdʒɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪtɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budget cycle",
+   "ipa_brE": "BrE /ˈbʌdʒɪt ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "static budget",
+   "ipa_brE": "BrE /ˌstætɪk ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈstætɪk ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "flexible budget",
+   "ipa_brE": "BrE /ˌfleksəbl ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈflɛksəbəl ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rolling forecast",
+   "ipa_brE": "BrE /ˌrəʊlɪŋ ˈfɔːkɑːst/",
+   "ipa_AmE": "AmE /ˈɹoʊlɪŋ ˈfɔˌɹkæst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "top-down budget",
+   "ipa_brE": "BrE /ˌtɒp ˈdaʊn ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈtɑp ˈdàʊn ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "bottom-up budget",
+   "ipa_brE": "BrE /ˌbɒtəm ˈʌp ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈbɑtəm ˈʌp ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "zero-based budget",
+   "ipa_brE": "BrE /ˈzɪərəʊ beɪst ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈzɪɹoʊ ˈbéɪst ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "incremental budget",
+   "ipa_brE": "BrE /ˌɪŋkrɪˈmentl ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˌɪnkɹəˈmɛntəl ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "base budget",
+   "ipa_brE": "BrE /ˈbeɪs ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈbéɪs ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost centre budget",
+   "ipa_brE": "BrE /ˈkɒst ˌsentə ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈkɑst ˈsɛntɚ ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "driver-based budget",
+   "ipa_brE": "BrE /ˈdraɪvə beɪst ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈdɹɑɪvɚ ˈbéɪst ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "assumption",
+   "ipa_brE": "BrE /əˈsʌmpʃn/",
+   "ipa_AmE": "AmE /əˈsʌmpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "planning assumption",
+   "ipa_brE": "BrE /ˈplænɪŋ əˌsʌmpʃn/",
+   "ipa_AmE": "AmE /ˈplænɪŋ əˈsʌmpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forecast",
+   "ipa_brE": "BrE /ˈfɔːkɑːst/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "forecasting",
+   "ipa_brE": "BrE /ˈfɔːkɑːstɪŋ/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæstɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "forecast accuracy",
+   "ipa_brE": "BrE /ˈfɔːkɑːst ˈækjərəsi/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæst ˈækjɚəsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forecast error",
+   "ipa_brE": "BrE /ˈfɔːkɑːst ˌerə(r)/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæst ˈɛɹɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "track record",
+   "ipa_brE": "BrE /ˈtræk ˌrekɔːd/",
+   "ipa_AmE": "AmE /ˈtɹæk ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bias",
+   "ipa_brE": "BrE /ˈbaɪəs/",
+   "ipa_AmE": "AmE /ˈbɑɪəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reforecast",
+   "ipa_brE": "BrE /ˌriːˈfɔːkɑːst/",
+   "ipa_AmE": "AmE /ˌɹiˈfɔɹkæst/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "latest estimate",
+   "ipa_brE": "BrE /ˌleɪtɪst ˈestɪmeɪt/",
+   "ipa_AmE": "AmE /ˈléɪtəst ˈɛstəmət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pipeline",
+   "ipa_brE": "BrE /ˈpaɪplaɪn/",
+   "ipa_AmE": "AmE /ˈpɑɪˌplɑɪn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scenario",
+   "ipa_brE": "BrE /səˈnɑːriəʊ/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "downside case",
+   "ipa_brE": "BrE /ˌdaʊnsaɪd keɪs/",
+   "ipa_AmE": "AmE /ˈdàʊˌnsɑɪd ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "upside case",
+   "ipa_brE": "BrE /ˌʌpsaɪd keɪs/",
+   "ipa_AmE": "AmE /ˈʌˌpsɑɪd ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sensitivity table",
+   "ipa_brE": "BrE /ˌsensəˈtɪvəti ˌteɪbl/",
+   "ipa_AmE": "AmE /ˌsɛnsɪˈtɪvɪti ˈtéɪbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "two-way table",
+   "ipa_brE": "BrE /ˌtuː ˈweɪ ˌteɪbl/",
+   "ipa_AmE": "AmE /ˈtu ˈwéɪ ˈtéɪbəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cash forecast",
+   "ipa_brE": "BrE /ˈkæʃ ˈfɔːkɑːst/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈfɔˌɹkæst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "weekly forecast",
+   "ipa_brE": "BrE /ˈwiːkli ˈfɔːkɑːst/",
+   "ipa_AmE": "AmE /ˈwikli ˈfɔˌɹkæst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "thirteen-week cash flow",
+   "ipa_brE": "BrE /ˌθɜːˈtiːn wiːk ˈkæʃ fləʊ/",
+   "ipa_AmE": "AmE /ˈθɝˌtin ˈwik ˈkæʃ ˈfloʊ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "seasonality",
+   "ipa_brE": "BrE /ˌsiːzənˈæləti/",
+   "ipa_AmE": "AmE /ˈsizəˌnælɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "seasonal swing",
+   "ipa_brE": "BrE /ˌsiːzənl ˈswɪŋ/",
+   "ipa_AmE": "AmE /ˈsizənəl ˈswɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "phasing",
+   "ipa_brE": "BrE /ˈfeɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈféɪzɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "straight-line phasing",
+   "ipa_brE": "BrE /ˌstreɪt laɪn ˈfeɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈstɹéɪt ˈlɑɪn ˈféɪzɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "milestone phasing",
+   "ipa_brE": "BrE /ˈmaɪlstəʊn ˈfeɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈmɑɪˌlstoʊn ˈféɪzɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "frontloading",
+   "ipa_brE": "BrE /ˈfrʌntləʊdɪŋ/",
+   "ipa_AmE": "AmE /ˈfɹʌntloʊdɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "backloading",
+   "ipa_brE": "BrE /ˈbækləʊdɪŋ/",
+   "ipa_AmE": "AmE /ˈbækloʊdɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "budget owner",
+   "ipa_brE": "BrE /ˈbʌdʒɪt ˌəʊnə(r)/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ˈoʊnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "budget holder",
+   "ipa_brE": "BrE /ˈbʌdʒɪt ˌhəʊldə(r)/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ˈhoʊldɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "approval",
+   "ipa_brE": "BrE /əˈpruːvl/",
+   "ipa_AmE": "AmE /əˈpɹuvəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budget revision",
+   "ipa_brE": "BrE /ˈbʌdʒɪt rɪˌvɪʒn/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ɹiˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "supplementary budget",
+   "ipa_brE": "BrE /ˌsʌplɪˈmentri ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˌsʌpləˈmɛntɹi ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contingency in budget",
+   "ipa_brE": "BrE /kənˈtɪndʒənsi ɪn ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /kəˈntɪndʒənsi ɪn ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "budget overrun",
+   "ipa_brE": "BrE /ˈbʌdʒɪt ˌəʊvərʌn/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ˈoʊvɚˌɹʌn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "underspend",
+   "ipa_brE": "BrE /ˌʌndəˈspend/",
+   "ipa_AmE": "AmE /ˌʌndəˈspɛnd/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "rebate",
+   "ipa_brE": "BrE /ˈriːbeɪt/",
+   "ipa_AmE": "AmE /ˈɹiˌbéɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cut",
+   "ipa_brE": "BrE /kʌt/",
+   "ipa_AmE": "AmE /ˈkʌt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "defer",
+   "ipa_brE": "BrE /dɪˈfɜː(r)/",
+   "ipa_AmE": "AmE /dɪˈfɝ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "stop",
+   "ipa_brE": "BrE /stɒp/",
+   "ipa_AmE": "AmE /ˈstɑp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "freeze",
+   "ipa_brE": "BrE /friːz/",
+   "ipa_AmE": "AmE /ˈfɹiz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capex freeze",
+   "ipa_brE": "BrE /ˈkæpeks friːz/",
+   "ipa_AmE": "AmE /ˈkæpɛks ˈfɹiz/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "opex freeze",
+   "ipa_brE": "BrE /ˈɒpeks friːz/",
+   "ipa_AmE": "AmE /ˈɑpɛks ˈfɹiz/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "procurement hold",
+   "ipa_brE": "BrE /prəˈkjʊəmənt həʊld/",
+   "ipa_AmE": "AmE /pɹoʊˈkjʊɹmənt ˈhoʊld/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "invoice hold",
+   "ipa_brE": "BrE /ˈɪnvɔɪs həʊld/",
+   "ipa_AmE": "AmE /ˈɪnvɔɪs ˈhoʊld/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payment hold",
+   "ipa_brE": "BrE /ˈpeɪmənt həʊld/",
+   "ipa_AmE": "AmE /ˈpéɪmənt ˈhoʊld/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "envelope",
+   "ipa_brE": "BrE /ˈenvələʊp/",
+   "ipa_AmE": "AmE /ˈɛnvəˌloʊp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "guardrail",
+   "ipa_brE": "BrE /ˈɡɑːdreɪl/",
+   "ipa_AmE": "AmE /ˈɡɑˌɹdɹéɪl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trigger",
+   "ipa_brE": "BrE /ˈtrɪɡə(r)/",
+   "ipa_AmE": "AmE /ˈtɹɪɡɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "target",
+   "ipa_brE": "BrE /ˈtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "threshold",
+   "ipa_brE": "BrE /ˈθreʃhəʊld/",
+   "ipa_AmE": "AmE /ˈθɹɛˌʃoʊld/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tolerance band",
+   "ipa_brE": "BrE /ˈtɒlərəns bænd/",
+   "ipa_AmE": "AmE /ˈtɑlɚəns ˈbænd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stretch target",
+   "ipa_brE": "BrE /ˈstretʃ ˌtɑːɡɪt/",
+   "ipa_AmE": "AmE /ˈstɹɛtʃ ˈtɑɹɡət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "base case",
+   "ipa_brE": "BrE /ˈbeɪs keɪs/",
+   "ipa_AmE": "AmE /ˈbéɪs ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "upside",
+   "ipa_brE": "BrE /ˈʌpsaɪd/",
+   "ipa_AmE": "AmE /ˈʌˌpsɑɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "variance report",
+   "ipa_brE": "BrE /ˈveəriəns rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈvɛɹiəns ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "flash report",
+   "ipa_brE": "BrE /ˈflæʃ rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈflæʃ ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "monthly pack",
+   "ipa_brE": "BrE /ˈmʌnθli pæk/",
+   "ipa_AmE": "AmE /ˈmʌnθli ˈpæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reporting pack",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ pæk/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈpæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scorecard",
+   "ipa_brE": "BrE /ˈskɔːkɑːd/",
+   "ipa_AmE": "AmE /ˈskɔˌɹkɑɹd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "KPI",
+   "ipa_brE": "BrE /ˌkeɪ piː ˈaɪ/",
+   "ipa_AmE": "AmE /ˌkeɪ pi ˈaɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "lagging indicator",
+   "ipa_brE": "BrE /ˌlæɡɪŋ ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /ˈlæɡɪŋ ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leading indicator",
+   "ipa_brE": "BrE /ˌliːdɪŋ ˈɪndɪkeɪtə(r)/",
+   "ipa_AmE": "AmE /ˈlidɪŋ ˈɪndəˌkéɪtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "balanced scorecard",
+   "ipa_brE": "BrE /ˌbælənst ˈskɔːkɑːd/",
+   "ipa_AmE": "AmE /ˈbælənst ˈskɔˌɹkɑɹd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "perspective",
+   "ipa_brE": "BrE /pəˈspektɪv/",
+   "ipa_AmE": "AmE /pɚˈspɛktɪv/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "plan of record",
+   "ipa_brE": "BrE /ˌplæn əv ˈrekɔːd/",
+   "ipa_AmE": "AmE /ˈplæn ˈʌv ɹəˈkɔɹd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "assumption log",
+   "ipa_brE": "BrE /əˈsʌmpʃn lɒɡ/",
+   "ipa_AmE": "AmE /əˈsʌmpʃən ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change request",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ rɪˌkwest/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ɹɪˈkwɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost improvement programme",
+   "ipa_brE": "BrE /ˌkɒst ɪmˈpruːvmənt ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ˈkɑst ˌɪˈmpɹuvmənt ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "savings tracker",
+   "ipa_brE": "BrE /ˈseɪvɪŋz ˌtrækə(r)/",
+   "ipa_AmE": "AmE /ˈséɪvɪŋz ˈtɹækɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "accountability",
+   "ipa_brE": "BrE /əˌkaʊntəˈbɪləti/",
+   "ipa_AmE": "AmE /əˈkàʊntəˌbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "ownership",
+   "ipa_brE": "BrE /ˈəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈoʊnɚˌʃɪp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "sign-off",
+   "ipa_brE": "BrE /ˈsaɪn ɒf/",
+   "ipa_AmE": "AmE /ˈsɑɪn ˈɔf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "budget committee",
+   "ipa_brE": "BrE /ˈbʌdʒɪt kəˌmɪti/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt kəˈmɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "challenging the budget",
+   "ipa_brE": "BrE /ˈtʃælɪndʒɪŋ ðə ˈbʌdʒɪt/",
+   "ipa_AmE": "AmE /ˈtʃæləndʒɪŋ ðə ˈbʌdʒɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "buffer",
+   "ipa_brE": "BrE /ˈbʌfə(r)/",
+   "ipa_AmE": "AmE /ˈbʌfɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "plan horizon",
+   "ipa_brE": "BrE /ˈplæn həˈraɪzn/",
+   "ipa_AmE": "AmE /ˈplæn hɚˈɑɪzən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commitment",
+   "ipa_brE": "BrE /kəˈmɪtmənt/",
+   "ipa_AmE": "AmE /kəˈmɪtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budget gate",
+   "ipa_brE": "BrE /ˈbʌdʒɪt ɡeɪt/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt ˈɡéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m05": [
+  {
+   "word": "treasury",
+   "ipa_brE": "BrE /ˈtreʒəri/",
+   "ipa_AmE": "AmE /ˈtɹɛʒɚi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cash management",
+   "ipa_brE": "BrE /ˈkæʃ ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidity management",
+   "ipa_brE": "BrE /lɪˌkwɪdəti ˌmænɪdʒmənt/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti ˈmænədʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash position",
+   "ipa_brE": "BrE /ˈkæʃ pəˈzɪʃn/",
+   "ipa_AmE": "AmE /ˈkæʃ pəˈzɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash balance",
+   "ipa_brE": "BrE /ˈkæʃ ˌbæləns/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "available cash",
+   "ipa_brE": "BrE /əˌveɪləbl ˈkæʃ/",
+   "ipa_AmE": "AmE /əˈvéɪləbəl ˈkæʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bank account",
+   "ipa_brE": "BrE /ˈbæŋk əˌkaʊnt/",
+   "ipa_AmE": "AmE /ˈbæŋk əˈkàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "current account",
+   "ipa_brE": "BrE /ˌkʌrənt əˈkaʊnt/",
+   "ipa_AmE": "AmE /ˈkɝənt əˈkàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deposit account",
+   "ipa_brE": "BrE /dɪˈpɒzɪt əˌkaʊnt/",
+   "ipa_AmE": "AmE /dəˈpɑzɪt əˈkàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "concentration",
+   "ipa_brE": "BrE /ˌkɒnsənˈtreɪʃn/",
+   "ipa_AmE": "AmE /ˌkɑnsəˈntɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "counterparty risk",
+   "ipa_brE": "BrE /ˌkaʊntəˈpɑːti rɪsk/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌpɑɹti ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "credit limit",
+   "ipa_brE": "BrE /ˈkredɪt ˌlɪmɪt/",
+   "ipa_AmE": "AmE /ˈkɹɛdət ˈlɪmət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payment terms",
+   "ipa_brE": "BrE /ˈpeɪmənt tɜːmz/",
+   "ipa_AmE": "AmE /ˈpéɪmənt ˈtɝmz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "direct debit",
+   "ipa_brE": "BrE /dəˌrekt ˈdebɪt/",
+   "ipa_AmE": "AmE /dɚˈɛkt ˈdɛbɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "standing order",
+   "ipa_brE": "BrE /ˌstændɪŋ ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈstændɪŋ ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash pooling",
+   "ipa_brE": "BrE /ˈkæʃ ˌpuːlɪŋ/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈpulɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "notional pooling",
+   "ipa_brE": "BrE /nəʊˈʃəʊnəl ˌpuːlɪŋ/",
+   "ipa_AmE": "AmE /ˈnoʊʃənəl ˈpulɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intercompany loan",
+   "ipa_brE": "BrE /ˌɪntəˈkʌmpəni ˈluːn/",
+   "ipa_AmE": "AmE /ˌɪntɚˈkʌmpəni ˈloʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "working capital",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "working capital cycle",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ ˌkæpɪtl ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈkæpətəl ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "net working capital",
+   "ipa_brE": "BrE /ˌnet ˈwɜːkɪŋ ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈnɛt ˈwɝkɪŋ ˈkæpətəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "debtor",
+   "ipa_brE": "BrE /ˈdetə(r)/",
+   "ipa_AmE": "AmE /ˈdɛtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "creditor",
+   "ipa_brE": "BrE /ˈkredɪtə(r)/",
+   "ipa_AmE": "AmE /ˈkɹɛdətɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "supplier",
+   "ipa_brE": "BrE /səˈplaɪə(r)/",
+   "ipa_AmE": "AmE /səˈplɑɪɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cash-to-cash cycle",
+   "ipa_brE": "BrE /ˌkæʃ tə ˈkæʃ ˌsaɪkl/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈtu ˈkæʃ ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "funding need",
+   "ipa_brE": "BrE /ˈfʌndɪŋ niːd/",
+   "ipa_AmE": "AmE /ˈfʌndɪŋ ˈnid/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "facility",
+   "ipa_brE": "BrE /fəˈsɪləti/",
+   "ipa_AmE": "AmE /fəˈsɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "overdraft",
+   "ipa_brE": "BrE /ˈəʊvədrɑːft/",
+   "ipa_AmE": "AmE /ˈoʊvɚˌdɹæft/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "revolving credit",
+   "ipa_brE": "BrE /ˈrevəlvɪŋ ˌkredɪt/",
+   "ipa_AmE": "AmE /ɹiˈvɑlvɪŋ ˈkɹɛdət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "term loan",
+   "ipa_brE": "BrE /ˈtɜːm luːn/",
+   "ipa_AmE": "AmE /ˈtɝm ˈloʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bridge loan",
+   "ipa_brE": "BrE /ˈbrɪdʒ luːn/",
+   "ipa_AmE": "AmE /ˈbɹɪdʒ ˈloʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant",
+   "ipa_brE": "BrE /ˈkʌvənənt/",
+   "ipa_AmE": "AmE /ˈkʌvənənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "financial covenant",
+   "ipa_brE": "BrE /faɪˌnænʃl ˈkʌvənənt/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈkʌvənənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "headroom",
+   "ipa_brE": "BrE /ˈhedruːm/",
+   "ipa_AmE": "AmE /ˈhɛˌdɹum/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interest",
+   "ipa_brE": "BrE /ˈɪntrəst/",
+   "ipa_AmE": "AmE /ˈɪntɹəst/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "interest rate",
+   "ipa_brE": "BrE /ˈɪntrəst reɪt/",
+   "ipa_AmE": "AmE /ˈɪntɹəst ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "base rate",
+   "ipa_brE": "BrE /ˈbeɪs reɪt/",
+   "ipa_AmE": "AmE /ˈbéɪs ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "floating rate",
+   "ipa_brE": "BrE /ˌfləʊtɪŋ ˈreɪt/",
+   "ipa_AmE": "AmE /ˈfloʊtɪŋ ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fixed rate",
+   "ipa_brE": "BrE /ˌfɪkst ˈreɪt/",
+   "ipa_AmE": "AmE /ˈfɪkst ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hedging",
+   "ipa_brE": "BrE /ˈhedʒɪŋ/",
+   "ipa_AmE": "AmE /ˈhɛdʒɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "currency exposure",
+   "ipa_brE": "BrE /ˈkʌrənsi ɪkˈspəʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈkɝənsi ɪˈkspoʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "foreign exchange",
+   "ipa_brE": "BrE /ˌfɒrən ˈekskeɪndʒ/",
+   "ipa_AmE": "AmE /ˈfɔɹən ɪˈkstʃéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "translation exposure",
+   "ipa_brE": "BrE /trænsˈleɪʃn ɪkˈspəʊʒə(r)/",
+   "ipa_AmE": "AmE /tɹæˈnzléɪʃən ɪˈkspoʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forward contract",
+   "ipa_brE": "BrE /ˈfɔːwəd ˌkɒntrækt/",
+   "ipa_AmE": "AmE /ˈfɔɹwɚd ˈkɑˌntɹækt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "swap",
+   "ipa_brE": "BrE /swɒp/",
+   "ipa_AmE": "AmE /ˈswɑp/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "debt service",
+   "ipa_brE": "BrE /ˈdet ˌsɜːvɪs/",
+   "ipa_AmE": "AmE /ˈdɛt ˈsɝvəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interest cover",
+   "ipa_brE": "BrE /ˈɪntrəst ˌkʌvə(r)/",
+   "ipa_AmE": "AmE /ˈɪntɹəst ˈkʌvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "repayment schedule",
+   "ipa_brE": "BrE /rɪˈpeɪmənt ˌʃedjuːl/",
+   "ipa_AmE": "AmE /ɹiˈpéɪmənt ˈskɛdʒʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash sweep",
+   "ipa_brE": "BrE /ˈkæʃ swiːp/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈswip/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "excess cash",
+   "ipa_brE": "BrE /ɪkˈses ˈkæʃ/",
+   "ipa_AmE": "AmE /ˈɛˌksɛs ˈkæʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "money market",
+   "ipa_brE": "BrE /ˈmʌni ˌmɑːkɪt/",
+   "ipa_AmE": "AmE /ˈmʌni ˈmɑɹkət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidity buffer",
+   "ipa_brE": "BrE /lɪˌkwɪdəti ˌbʌfə(r)/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti ˈbʌfɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stress test",
+   "ipa_brE": "BrE /ˈstres test/",
+   "ipa_AmE": "AmE /ˈstɹɛs ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidity gap",
+   "ipa_brE": "BrE /lɪˌkwɪdəti ɡæp/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti ˈɡæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "maturity mismatch",
+   "ipa_brE": "BrE /məˌtʃʊəti ˈmɪsmætʃ/",
+   "ipa_AmE": "AmE /məˈtʃʊɹəti mɪˈsmætʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "refinancing risk",
+   "ipa_brE": "BrE /ˌriːfaɪˈnænsɪŋ rɪsk/",
+   "ipa_AmE": "AmE /ˌɹifəˈnænsɪŋ ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "credit control",
+   "ipa_brE": "BrE /ˈkredɪt kənˌtrəʊl/",
+   "ipa_AmE": "AmE /ˈkɹɛdət kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dunning",
+   "ipa_brE": "BrE /ˈdʌnɪŋ/",
+   "ipa_AmE": "AmE /ˈdʌnɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "collection rate",
+   "ipa_brE": "BrE /kəˈlekʃn reɪt/",
+   "ipa_AmE": "AmE /kəˈlɛkʃən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "factoring",
+   "ipa_brE": "BrE /ˈfæktərɪŋ/",
+   "ipa_AmE": "AmE /ˈfæktɚɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "invoice discounting",
+   "ipa_brE": "BrE /ˈɪnvɔɪs dɪsˌkaʊntɪŋ/",
+   "ipa_AmE": "AmE /ˈɪnvɔɪs ˈdɪˌskàʊntɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "securitisation",
+   "ipa_brE": "BrE /ˌsekjəraɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /sɪˌkjʊɹətəˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "supplier finance",
+   "ipa_brE": "BrE /səˈplaɪər fəˈnæns/",
+   "ipa_AmE": "AmE /səˈplɑɪɚ fəˈnæns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reverse factoring",
+   "ipa_brE": "BrE /rɪˌvɜːs ˈfæktərɪŋ/",
+   "ipa_AmE": "AmE /ɹɪˈvɝs ˈfæktɚɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payment run",
+   "ipa_brE": "BrE /ˈpeɪmənt rʌn/",
+   "ipa_AmE": "AmE /ˈpéɪmənt ˈɹʌn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remittance advice",
+   "ipa_brE": "BrE /rɪˈmɪtəns ədˌvaɪs/",
+   "ipa_AmE": "AmE /ɹiˈmɪtəns æˈdvɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash application",
+   "ipa_brE": "BrE /ˈkæʃ ˌæplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈkæʃ ˌæpləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "short payment",
+   "ipa_brE": "BrE /ˌʃɔːt ˈpeɪmənt/",
+   "ipa_AmE": "AmE /ˈʃɔɹt ˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "suspense account",
+   "ipa_brE": "BrE /səˈspens əˌkaʊnt/",
+   "ipa_AmE": "AmE /səˈspɛns əˈkàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unallocated cash",
+   "ipa_brE": "BrE /ʌnˈæləkeɪtɪd ˈkæʃ/",
+   "ipa_AmE": "AmE /əˈnæləˌkéɪtɪd ˈkæʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "treasury policy",
+   "ipa_brE": "BrE /ˈtreʒəri ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈtɹɛʒɚi ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "delegated authority",
+   "ipa_brE": "BrE /ˌdelɪˈɡeɪtɪd ɔːˈθɒrəti/",
+   "ipa_AmE": "AmE /ˈdɛləˌɡéɪtəd əˈθɔɹəti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "signatory",
+   "ipa_brE": "BrE /ˈsɪɡnətri/",
+   "ipa_AmE": "AmE /ˈsɪɡnəˌtɔɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "letter of credit",
+   "ipa_brE": "BrE /ˌletər əv ˈkredɪt/",
+   "ipa_AmE": "AmE /ˈlɛtɚ ˈʌv ˈkɹɛdət/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "bank guarantee",
+   "ipa_brE": "BrE /ˈbæŋk ɡərənˈtiː/",
+   "ipa_AmE": "AmE /ˈbæŋk ˌɡɛɹəˈnti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash visibility",
+   "ipa_brE": "BrE /ˈkæʃ ˌvɪzəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈkæʃ ˌvɪzəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bank feed",
+   "ipa_brE": "BrE /ˈbæŋk fiːd/",
+   "ipa_AmE": "AmE /ˈbæŋk ˈfid/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "real-time balance",
+   "ipa_brE": "BrE /ˌrɪəl ˈtaɪm ˌbæləns/",
+   "ipa_AmE": "AmE /ˈɹil ˈtɑɪm ˈbæləns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cash book",
+   "ipa_brE": "BrE /ˈkæʃ bʊk/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈbʊk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "arrears",
+   "ipa_brE": "BrE /əˈrɪəz/",
+   "ipa_AmE": "AmE /ɚˈɪɹz/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "collection agency",
+   "ipa_brE": "BrE /kəˈlekʃn ˌeɪdʒənsi/",
+   "ipa_AmE": "AmE /kəˈlɛkʃən ˈéɪdʒənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "credit insurance",
+   "ipa_brE": "BrE /ˈkredɪt ɪnˌʃʊərəns/",
+   "ipa_AmE": "AmE /ˈkɹɛdət ˌɪˈnʃʊɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bad debt provision",
+   "ipa_brE": "BrE /ˌbæd det prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈbæd ˈdɛt pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "bank mandate",
+   "ipa_brE": "BrE /ˈbæŋk ˌmændeɪt/",
+   "ipa_AmE": "AmE /ˈbæŋk ˈmæˌndéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dual authorisation",
+   "ipa_brE": "BrE /ˌdjuːəl ɔːˌθɒraɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈduəl ˌɔθɚəˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "segregation of duties",
+   "ipa_brE": "BrE /ˌseɡrɪˈɡeɪʃn əv ˈdjuːtiz/",
+   "ipa_AmE": "AmE /ˌsɛɡɹəˈɡéɪʃən ˈʌv ˈdutiz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "four-eyes principle",
+   "ipa_brE": "BrE /ˌfɔːr ˈaɪz ˌprɪnsəpl/",
+   "ipa_AmE": "AmE /ˈfɔɹ ˈɑɪz ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "approval limit",
+   "ipa_brE": "BrE /əˈpruːvl ˌlɪmɪt/",
+   "ipa_AmE": "AmE /əˈpɹuvəl ˈlɪmət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intercompany settlement",
+   "ipa_brE": "BrE /ˌɪntəˈkʌmpəni ˈsetlmənt/",
+   "ipa_AmE": "AmE /ˌɪntɚˈkʌmpəni ˈsɛtəlmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quick ratio",
+   "ipa_brE": "BrE /ˈkwɪk ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈkwɪk ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "acid-test ratio",
+   "ipa_brE": "BrE /ˌæsɪd test ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈæsəd ˈtɛst ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "funding calendar",
+   "ipa_brE": "BrE /ˈfʌndɪŋ ˌkælɪndə(r)/",
+   "ipa_AmE": "AmE /ˈfʌndɪŋ ˈkæləndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash transfer",
+   "ipa_brE": "BrE /ˈkæʃ ˈtrænsfɜː(r)/",
+   "ipa_AmE": "AmE /ˈkæʃ tɹæˈnsfɝ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m06": [
+  {
+   "word": "financial analysis",
+   "ipa_brE": "BrE /faɪˌnænʃl əˈnæləsɪs/",
+   "ipa_AmE": "AmE /fəˈnænʃəl əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ratio",
+   "ipa_brE": "BrE /ˈreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈɹéɪʃiˌoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "trend",
+   "ipa_brE": "BrE /trend/",
+   "ipa_AmE": "AmE /ˈtɹɛnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "liquidity",
+   "ipa_brE": "BrE /lɪˈkwɪdəti/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "solvency ratio",
+   "ipa_brE": "BrE /ˈsɒlvənsi ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈsɔlvənsi ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "coverage ratio",
+   "ipa_brE": "BrE /ˈkʌvərɪdʒ ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈkʌvɚədʒ ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "profitability ratio",
+   "ipa_brE": "BrE /ˌprɒfɪtəˈbɪləti ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˌpɹɑfɪtəˈbɪlɪti ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "efficiency ratio",
+   "ipa_brE": "BrE /ɪˈfɪʃnsi ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ɪˈfɪʃənsi ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "return ratio",
+   "ipa_brE": "BrE /rɪˈtɜːn ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gross margin",
+   "ipa_brE": "BrE /ˌɡrəʊs ˈmɑːdʒɪn/",
+   "ipa_AmE": "AmE /ˈɡɹoʊs ˈmɑɹdʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "net margin",
+   "ipa_brE": "BrE /ˌnet ˈmɑːdʒɪn/",
+   "ipa_AmE": "AmE /ˈnɛt ˈmɑɹdʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operating margin",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌmɑːdʒɪn/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈmɑɹdʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "current ratio",
+   "ipa_brE": "BrE /ˌkʌrənt ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈkɝənt ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "net cash",
+   "ipa_brE": "BrE /ˌnet ˈkæʃ/",
+   "ipa_AmE": "AmE /ˈnɛt ˈkæʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gearing",
+   "ipa_brE": "BrE /ˈɡɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈɡɪɹɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "equity ratio",
+   "ipa_brE": "BrE /ˈekwəti ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈɛkwəti ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "debt-to-equity",
+   "ipa_brE": "BrE /ˌdet tə ˈekwəti/",
+   "ipa_AmE": "AmE /ˈdɛt ˈtu ˈɛkwəti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "return on capital employed",
+   "ipa_brE": "BrE /rɪˌtɜːn ɒn ˈkæpɪtl ɪmˈplɔɪd/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈɑn ˈkæpətəl ɛˈmplɔɪd/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "capital employed",
+   "ipa_brE": "BrE /ˈkæpɪtl ɪmˈplɔɪd/",
+   "ipa_AmE": "AmE /ˈkæpətəl ɛˈmplɔɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital turnover",
+   "ipa_brE": "BrE /ˈkæpɪtl ˌtɜːnəʊvə(r)/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈtɝˌnoʊvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "peer comparison",
+   "ipa_brE": "BrE /ˌpɪə kəmˈpærɪsn/",
+   "ipa_AmE": "AmE /ˈpɪɹ kəˈmpɛɹəsən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "industry benchmark",
+   "ipa_brE": "BrE /ˈɪndəstri ˈbentʃmɑːk/",
+   "ipa_AmE": "AmE /ˈɪndəstɹi ˈbɛˌntʃmɑɹk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "percentile",
+   "ipa_brE": "BrE /pəˈsentaɪl/",
+   "ipa_AmE": "AmE /pɚˈsɛˌntɑɪl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "horizontal analysis",
+   "ipa_brE": "BrE /ˌhɒrɪˈzɒntl əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˌhɔɹəˈzɑntəl əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "vertical analysis",
+   "ipa_brE": "BrE /ˌvɜːtɪkl əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˈvɝtɪkəl əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trend percentage",
+   "ipa_brE": "BrE /ˈtrend pəˈsentɪdʒ/",
+   "ipa_AmE": "AmE /ˈtɹɛnd pɚˈsɛntədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compound growth rate",
+   "ipa_brE": "BrE /ˌkɒmpaʊnd ˈɡrəʊθ reɪt/",
+   "ipa_AmE": "AmE /ˈkɑmpàʊnd ˈɡɹoʊθ ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "growth rate",
+   "ipa_brE": "BrE /ˈɡrəʊθ reɪt/",
+   "ipa_AmE": "AmE /ˈɡɹoʊθ ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "run rate",
+   "ipa_brE": "BrE /ˈrʌn reɪt/",
+   "ipa_AmE": "AmE /ˈɹʌn ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quality of earnings",
+   "ipa_brE": "BrE /ˌkwɒləti əv ˈɜːnɪŋz/",
+   "ipa_AmE": "AmE /ˈkwɑləti ˈʌv ˈɝnɪŋz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sustainability",
+   "ipa_brE": "BrE /səˌsteɪnəˈbɪləti/",
+   "ipa_AmE": "AmE /səˌstéɪnəˈbɪlɪti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "one-off item",
+   "ipa_brE": "BrE /ˌwʌn ɒf ˈaɪtəm/",
+   "ipa_AmE": "AmE /ˈwʌn ˈɔf ˈɑɪtəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "recurring revenue",
+   "ipa_brE": "BrE /rɪˌkʌrɪŋ ˈrevənjuː/",
+   "ipa_AmE": "AmE /ɹɪˈkɝɪŋ ˈɹɛvəˌnu/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "non-recurring",
+   "ipa_brE": "BrE /ˌnɒn rɪˈkʌrɪŋ/",
+   "ipa_AmE": "AmE /ˈnɑn ɹɪˈkɝɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "adjusted result",
+   "ipa_brE": "BrE /əˈdʒʌst rɪˈzʌlt/",
+   "ipa_AmE": "AmE /əˈdʒʌstɪd ɹɪˈzʌlt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "normalised figure",
+   "ipa_brE": "BrE /ˈnɔːməlaɪzd ˌfɪɡə(r)/",
+   "ipa_AmE": "AmE /ˈnɔɹməˌlɑɪzd ˈfɪɡjɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pro forma",
+   "ipa_brE": "BrE /ˌprəʊ ˈfɔːmə/",
+   "ipa_AmE": "AmE /ˈpɹoʊ ˈfɔɹmə/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "constant currency",
+   "ipa_brE": "BrE /ˌkɒnstənt ˈkʌrənsi/",
+   "ipa_AmE": "AmE /ˈkɑnstənt ˈkɝənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "organic growth",
+   "ipa_brE": "BrE /ɔːˈɡænɪk ˈɡrəʊθ/",
+   "ipa_AmE": "AmE /ɔˈɹɡænɪk ˈɡɹoʊθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "acquisition growth",
+   "ipa_brE": "BrE /ˌækwɪˈzɪʃn ˈɡrəʊθ/",
+   "ipa_AmE": "AmE /ˌækwəˈzɪʃən ˈɡɹoʊθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inorganic growth",
+   "ipa_brE": "BrE /ˌɪnɔːˈɡænɪk ˈɡrəʊθ/",
+   "ipa_AmE": "AmE /ˌɪnɔˈɹɡænɪk ˈɡɹoʊθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unit economics",
+   "ipa_brE": "BrE /ˌjuːnɪt ˌekəˈnɒmɪks/",
+   "ipa_AmE": "AmE /ˈjunət ˌɛkəˈnɑmɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "customer lifetime value",
+   "ipa_brE": "BrE /ˌkʌstəmə laɪvˈtaɪm ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈkʌstəmɚ ˈlɑɪˌftɑɪm ˈvælju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "payback period",
+   "ipa_brE": "BrE /ˈpeɪbæk ˌpɪəriəd/",
+   "ipa_AmE": "AmE /ˈpéɪˌbæk ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "average order value",
+   "ipa_brE": "BrE /ˈævərɪdʒ ˈɔːdə ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈævɚɪdʒ ˈɔɹdɚ ˈvælju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "attach rate",
+   "ipa_brE": "BrE /əˈtætʃ reɪt/",
+   "ipa_AmE": "AmE /əˈtætʃ ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "repeat purchase",
+   "ipa_brE": "BrE /rɪˌpiːt ˈpɜːtʃəs/",
+   "ipa_AmE": "AmE /ɹɪˈpit ˈpɝtʃəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cohort analysis",
+   "ipa_brE": "BrE /ˈkəʊhɔːt əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈkoʊhɔɹt əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retention curve",
+   "ipa_brE": "BrE /rɪˈtenʃn kɜːv/",
+   "ipa_AmE": "AmE /ɹiˈtɛnʃən ˈkɝv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "churn rate",
+   "ipa_brE": "BrE /ˈtʃɜːn reɪt/",
+   "ipa_AmE": "AmE /ˈtʃɝn ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "funnel analysis",
+   "ipa_brE": "BrE /ˈfʌnl əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˈfʌnəl əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "drop-off rate",
+   "ipa_brE": "BrE /ˈdrɒp ɒf reɪt/",
+   "ipa_AmE": "AmE /ˈdɹɑp ˈɔf ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "time to convert",
+   "ipa_brE": "BrE /ˌtaɪm tə kənˈvɜːt/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈtu ˈkɑnvɚt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "performance measure",
+   "ipa_brE": "BrE /pəˈfɔːməns ˌmeʒə(r)/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈmɛʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "target attainment",
+   "ipa_brE": "BrE /ˈtɑːɡɪt əˌteɪnmənt/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət əˈtéɪnmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stretch",
+   "ipa_brE": "BrE /stretʃ/",
+   "ipa_AmE": "AmE /ˈstɹɛtʃ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "driver tree",
+   "ipa_brE": "BrE /ˈdraɪvə triː/",
+   "ipa_AmE": "AmE /ˈdɹɑɪvɚ ˈtɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "issue tree",
+   "ipa_brE": "BrE /ˈɪʃuː triː/",
+   "ipa_AmE": "AmE /ˈɪʃu ˈtɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "waterfall",
+   "ipa_brE": "BrE /ˈwɔːtəfɔːl/",
+   "ipa_AmE": "AmE /ˈwɔtɚˌfɔl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "data source",
+   "ipa_brE": "BrE /ˈdeɪtə sɔːs/",
+   "ipa_AmE": "AmE /ˈdéɪtə ˈsɔɹs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "metric definition",
+   "ipa_brE": "BrE /ˈmetrɪk ˌdefɪˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈmɛtɹɪk ˌdɛfəˈnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "metadata",
+   "ipa_brE": "BrE /ˈmetədɑːtə/",
+   "ipa_AmE": "AmE /ˈmɛtədɑtə/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "dashboard design",
+   "ipa_brE": "BrE /ˈdæʃbɔːd dɪˌzaɪn/",
+   "ipa_AmE": "AmE /ˈdæˌʃbɔɹd dɪˈzɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "report automation",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹt ɔtəˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exception reporting",
+   "ipa_brE": "BrE /ɪkˈsepʃn rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ɪˈksɛpʃən ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "actionable insight",
+   "ipa_brE": "BrE /ˈækʃənəbl ˈɪnsaɪt/",
+   "ipa_AmE": "AmE /ˈækʃənəbəl ˈɪˌnsɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "so what",
+   "ipa_brE": "BrE /ˌsəʊ ˈwɒt/",
+   "ipa_AmE": "AmE /ˈsoʊ ˈwʌt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "implication",
+   "ipa_brE": "BrE /ˌɪmplɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪmpləˈkéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "management reporting",
+   "ipa_brE": "BrE /ˈmænɪdʒmənt rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈmænədʒmənt ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "performance pack",
+   "ipa_brE": "BrE /pəˈfɔːməns pæk/",
+   "ipa_AmE": "AmE /pɚˈfɔɹməns ˈpæk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commentary",
+   "ipa_brE": "BrE /ˈkɒməntri/",
+   "ipa_AmE": "AmE /ˈkɑməˌntɛɹi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "financial commentary",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈkɒməntri/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈkɑməˌntɛɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "outlook",
+   "ipa_brE": "BrE /ˈaʊtlʒʊk/",
+   "ipa_AmE": "AmE /ˈàʊˌtlʊk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "guidance",
+   "ipa_brE": "BrE /ˈɡaɪdns/",
+   "ipa_AmE": "AmE /ˈɡɑɪdəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "budget achievement",
+   "ipa_brE": "BrE /ˈbʌdʒɪt əˈtʃiːvmənt/",
+   "ipa_AmE": "AmE /ˈbʌdʒɪt əˈtʃivmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forecast attainment",
+   "ipa_brE": "BrE /ˈfɔːkɑːst əˌteɪnmənt/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæst əˈtéɪnmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "plan versus actual",
+   "ipa_brE": "BrE /ˌplæn ˈvɜːsəs ˈæktʃuəl/",
+   "ipa_AmE": "AmE /ˈplæn ˈvɝsəs ˈækʃəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "impact analysis",
+   "ipa_brE": "BrE /ˈɪmpækt əˌnæləsɪs/",
+   "ipa_AmE": "AmE /ˌɪˈmpækt əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk appetite",
+   "ipa_brE": "BrE /ˈrɪsk ˌæpɪtaɪt/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈæpəˌtɑɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision rule",
+   "ipa_brE": "BrE /dɪˈsɪʒn ruːl/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈɹul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "red flag",
+   "ipa_brE": "BrE /ˈred flæɡ/",
+   "ipa_AmE": "AmE /ˈɹɛd ˈflæɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "escalation trigger",
+   "ipa_brE": "BrE /ˌeskəˈleɪʃn ˌtrɪɡə(r)/",
+   "ipa_AmE": "AmE /ˌɛskəˈléɪʃən ˈtɹɪɡɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warning trigger",
+   "ipa_brE": "BrE /ˈwɔːnɪŋ ˌtrɪɡə(r)/",
+   "ipa_AmE": "AmE /ˈwɔɹnɪŋ ˈtɹɪɡɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "benefit tracking",
+   "ipa_brE": "BrE /ˈbenɪfɪt ˌtrækɪŋ/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪt ˈtɹækɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value driver",
+   "ipa_brE": "BrE /ˈvæljuː ˌdraɪvə(r)/",
+   "ipa_AmE": "AmE /ˈvælju ˈdɹɑɪvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "savings realisation",
+   "ipa_brE": "BrE /ˈseɪvɪŋz rɪələˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈséɪvɪŋz ˈɹiləˌzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial narrative",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈnærətɪv/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈnæɹətɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "storytelling",
+   "ipa_brE": "BrE /ˈstɔːritelɪŋ/",
+   "ipa_AmE": "AmE /ˈstɔɹiˌtɛlɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "chart choice",
+   "ipa_brE": "BrE /ˈtʃɑːt tʃɔɪs/",
+   "ipa_AmE": "AmE /ˈtʃɑɹt ˈtʃɔɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "information ratio",
+   "ipa_brE": "BrE /ˌɪnfəˈmeɪʃn ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˌɪnfɚˈméɪʃən ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m07": [
+  {
+   "word": "capital budgeting",
+   "ipa_brE": "BrE /ˌkæpɪtl ˈbʌdʒɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈbʌdʒɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investment appraisal",
+   "ipa_brE": "BrE /ɪnˈvestmənt əˌpreɪzl/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstmənt əˈpɹéɪzəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "project evaluation",
+   "ipa_brE": "BrE /prəˈdʒekt ɪˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɑdʒɛkt ɪˌvæljuˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "net present value",
+   "ipa_brE": "BrE /ˌnet ˈpreznt ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈnɛt ˈpɹɛzənt ˈvælju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "discounted cash flow",
+   "ipa_brE": "BrE /ˈdɪskaʊntɪd kæʃ fləʊ/",
+   "ipa_AmE": "AmE /ˈdɪˌskàʊntɪd ˈkæʃ ˈfloʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "discount rate",
+   "ipa_brE": "BrE /ˈdɪskaʊnt reɪt/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hurdle rate",
+   "ipa_brE": "BrE /ˈhɜːdl reɪt/",
+   "ipa_AmE": "AmE /ˈhɝdəl ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "discount period",
+   "ipa_brE": "BrE /ˈdɪskaʊnt ˌpɪəriəd/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "terminal value",
+   "ipa_brE": "BrE /ˈtɜːmɪnl ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈtɝmənəl ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "internal rate of return",
+   "ipa_brE": "BrE /ɪnˌtɜːnl reɪt əv rɪˈtɜːn/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˈɹéɪt ˈʌv ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "MIRR",
+   "ipa_brE": "BrE /ˌem aɪ ɑːr ˈaɪ/",
+   "ipa_AmE": "AmE /ˌɛm aɪ ɑɹ ˈaɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "profitability index",
+   "ipa_brE": "BrE /ˌprɒfɪtəˈbɪləti ˈɪndeks/",
+   "ipa_AmE": "AmE /ˌpɹɑfɪtəˈbɪlɪti ˈɪndɛks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital rationing",
+   "ipa_brE": "BrE /ˈkæpɪtl ˌræʃənɪŋ/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈɹæʃənɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "NPV ranking",
+   "ipa_brE": "BrE /ˌen piː viː ˈræŋkɪŋ/",
+   "ipa_AmE": "AmE /ˌɛn pi vi ˈɹæŋkɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "staging",
+   "ipa_brE": "BrE /ˈsteɪdʒɪŋ/",
+   "ipa_AmE": "AmE /ˈstéɪdʒɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "risk-adjusted discount rate",
+   "ipa_brE": "BrE /ˌrɪsk ˈædʒʌst ˈdɪskaʊnt reɪt/",
+   "ipa_AmE": "AmE /ˈɹɪsk əˈdʒʌstɪd dɪˈskàʊnt ˈɹéɪt/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "certainty equivalent",
+   "ipa_brE": "BrE /ˈsɜːtnti ɪˌkwɪvələnt/",
+   "ipa_AmE": "AmE /ˈsɝtənti ɪˈkwɪvələnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scenario weighting",
+   "ipa_brE": "BrE /səˌnɑːriəʊ ˈweɪtɪŋ/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ ˈwéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "break-even analysis",
+   "ipa_brE": "BrE /ˌbreɪk iːvən əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˈbɹéɪk ˈivɪn əˈnæləsəs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "downside protection",
+   "ipa_brE": "BrE /ˌdaʊnsaɪd prəˈtekʃn/",
+   "ipa_AmE": "AmE /ˈdàʊˌnsɑɪd pɹəˈtɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stress case",
+   "ipa_brE": "BrE /ˈstres keɪs/",
+   "ipa_AmE": "AmE /ˈstɹɛs ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "real option",
+   "ipa_brE": "BrE /rɪəl ˈɒpʃn/",
+   "ipa_AmE": "AmE /ˈɹil ˈɑpʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "option value",
+   "ipa_brE": "BrE /ˈɒpʃn ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈɑpʃən ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "staged investment",
+   "ipa_brE": "BrE /ˌsteɪdʒd ɪnˈvestmənt/",
+   "ipa_AmE": "AmE /ˈstéɪdʒd ˌɪˈnvɛstmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "incremental analysis",
+   "ipa_brE": "BrE /ˌɪŋkrɪˈmentl əˈnæləsɪs/",
+   "ipa_AmE": "AmE /ˌɪnkɹəˈmɛntəl əˈnæləsəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "relevant cash flow",
+   "ipa_brE": "BrE /rɪˈlevənt ˈkæʃ fləʊ/",
+   "ipa_AmE": "AmE /ˈɹɛləvənt ˈkæʃ ˈfloʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "working capital requirement",
+   "ipa_brE": "BrE /ˈwɜːkɪŋ ˌkæpɪtl rɪˈkwaɪəmənt/",
+   "ipa_AmE": "AmE /ˈwɝkɪŋ ˈkæpətəl ɹɪˈkwɑɪɹmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "economic life",
+   "ipa_brE": "BrE /ˌiːkəˈnɒmɪk laɪf/",
+   "ipa_AmE": "AmE /ˌɛkəˈnɑmɪk ˈlɑɪf/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "replacement cycle",
+   "ipa_brE": "BrE /rɪˈpleɪsmənt ˌsaɪkl/",
+   "ipa_AmE": "AmE /ɹɪˈpléɪsmənt ˈsɑɪkəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "salvage value",
+   "ipa_brE": "BrE /ˈsælvɪdʒ ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈsælvədʒ ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "depreciation method",
+   "ipa_brE": "BrE /dɪˌpriːʃiˈeɪʃn ˌmeθəd/",
+   "ipa_AmE": "AmE /dɪˌpɹiʃiˈéɪʃən ˈmɛθəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "straight-line method",
+   "ipa_brE": "BrE /ˌstreɪt laɪn ˈmeθəd/",
+   "ipa_AmE": "AmE /ˈstɹéɪt ˈlɑɪn ˈmɛθəd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "declining balance",
+   "ipa_brE": "BrE /dɪˌklaɪnɪŋ ˈbæləns/",
+   "ipa_AmE": "AmE /dɪˈklɑɪnɪŋ ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capitalised cost",
+   "ipa_brE": "BrE /ˈkæpɪtəlaɪzd ˈkɒst/",
+   "ipa_AmE": "AmE /ˈkæpɪtəˌlɑɪzd ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "total cost of ownership",
+   "ipa_brE": "BrE /ˌtəʊtl ˌkɒst əv ˈəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈtoʊtəl ˈkɑst ˈʌv ˈoʊnɚˌʃɪp/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "build versus buy",
+   "ipa_brE": "BrE /ˌbɪld ˈvɜːsəs ˈbaɪ/",
+   "ipa_AmE": "AmE /ˈbɪld ˈvɝsəs ˈbɑɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "supplier bid",
+   "ipa_brE": "BrE /səˈplaɪər bɪd/",
+   "ipa_AmE": "AmE /səˈplɑɪɚ ˈbɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tender evaluation",
+   "ipa_brE": "BrE /ˈtendər ɪˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈtɛndɚ ɪˌvæljuˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investment memo",
+   "ipa_brE": "BrE /ɪnˈvestmənt ˌmeməʊ/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstmənt ˈmɛˌmoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "approval paper",
+   "ipa_brE": "BrE /əˈpruːvl ˌpeɪpə(r)/",
+   "ipa_AmE": "AmE /əˈpɹuvəl ˈpéɪpɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board approval",
+   "ipa_brE": "BrE /ˈbɔːd əˌpruːvl/",
+   "ipa_AmE": "AmE /ˈbɔɹd əˈpɹuvəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pessimistic case",
+   "ipa_brE": "BrE /ˌpesɪˈmɪstɪk keɪs/",
+   "ipa_AmE": "AmE /ˌpɛsəˈmɪstɪk ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "optimistic case",
+   "ipa_brE": "BrE /ˌɒptɪˈmɪstɪk keɪs/",
+   "ipa_AmE": "AmE /ˌɑptəˈmɪstɪk ˈkéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expected value",
+   "ipa_brE": "BrE /ɪkˈspektɪd ˌvæljuː/",
+   "ipa_AmE": "AmE /ɪˈkspɛktəd ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital allocation",
+   "ipa_brE": "BrE /ˌkæpɪtl əˌləˈkeɪʃn/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˌæləˈkéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "portfolio approach",
+   "ipa_brE": "BrE /pɔːtˈfəʊliəʊ əˌprəʊtʃ/",
+   "ipa_AmE": "AmE /pɔˈɹtfoʊliˌoʊ əˈpɹoʊtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "post-investment review",
+   "ipa_brE": "BrE /ˌpəʊst ɪnˈvestmənt rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈpoʊst ˌɪˈnvɛstmənt ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "benefits realisation",
+   "ipa_brE": "BrE /ˈbenɪfɪts rɪələˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪts ˈɹiləˌzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "gate review",
+   "ipa_brE": "BrE /ˈɡeɪt rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈɡéɪt ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stage gate",
+   "ipa_brE": "BrE /ˈsteɪdʒ ɡeɪt/",
+   "ipa_AmE": "AmE /ˈstéɪdʒ ˈɡéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "kill decision",
+   "ipa_brE": "BrE /ˈkɪl dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˈkɪl dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "asset utilisation",
+   "ipa_brE": "BrE /ˈæset ˌjuːtɪlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈæˌsɛt ˌjutələˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capacity utilisation",
+   "ipa_brE": "BrE /kəˈpæsəti ˌjuːtɪlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /kəˈpæsəti ˌjutələˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "utilisation shortfall",
+   "ipa_brE": "BrE /ˌjuːtɪlaɪˈzeɪʃn ˈʃɔːtfɔːl/",
+   "ipa_AmE": "AmE /ˌjutələˈzéɪʃən ˈʃɔˌɹtfɔl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stranded asset",
+   "ipa_brE": "BrE /ˈstrændɪd ˌæset/",
+   "ipa_AmE": "AmE /ˈstɹændɪd ˈæˌsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lease",
+   "ipa_brE": "BrE /liːs/",
+   "ipa_AmE": "AmE /ˈlis/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lease versus buy",
+   "ipa_brE": "BrE /ˌliːz ˈvɜːsəs ˈbaɪ/",
+   "ipa_AmE": "AmE /ˈlis ˈvɝsəs ˈbɑɪ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "right of use",
+   "ipa_brE": "BrE /ˌraɪt əv ˈjuːz/",
+   "ipa_AmE": "AmE /ˈɹɑɪt ˈʌv ˈjus/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "sale and leaseback",
+   "ipa_brE": "BrE /ˌseɪl ən ˈliːsbæk/",
+   "ipa_AmE": "AmE /ˈséɪl ənd ˈliˌsbæk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "lease payment",
+   "ipa_brE": "BrE /ˈliːz ˌpeɪmənt/",
+   "ipa_AmE": "AmE /ˈlis ˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost of capital",
+   "ipa_brE": "BrE /ˌkɒst əv ˈkæpɪtl/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈkæpətəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "weighted average cost of capital",
+   "ipa_brE": "BrE /ˌweɪtɪd ˈævərɪdʒ ˌkɒst əv ˈkæpɪtl/",
+   "ipa_AmE": "AmE /ˈwéɪtɪd ˈævɚɪdʒ ˈkɑst ˈʌv ˈkæpətəl/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "cost of equity",
+   "ipa_brE": "BrE /ˌkɒst əv ˈekwəti/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈɛkwəti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cost of debt",
+   "ipa_brE": "BrE /ˌkɒst əv ˈdet/",
+   "ipa_AmE": "AmE /ˈkɑst ˈʌv ˈdɛt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "tax shield",
+   "ipa_brE": "BrE /ˈtæks ʃiːld/",
+   "ipa_AmE": "AmE /ˈtæks ˈʃild/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "project risk",
+   "ipa_brE": "BrE /ˈprɒdʒekt rɪsk/",
+   "ipa_AmE": "AmE /ˈpɹɑdʒɛkt ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk matrix",
+   "ipa_brE": "BrE /ˈrɪsk ˌmætrɪks/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈméɪtɹɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "mitigation cost",
+   "ipa_brE": "BrE /ˌmɪtɪˈɡeɪʃn kɒst/",
+   "ipa_AmE": "AmE /ˌmɪtɪˈɡéɪʃən ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scope definition",
+   "ipa_brE": "BrE /ˌskəʊp ˌdefɪˈnɪʃn/",
+   "ipa_AmE": "AmE /ˈskoʊp ˌdɛfəˈnɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change order",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ ˈɔːdə(r)/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈɔɹdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "requirement sign-off",
+   "ipa_brE": "BrE /rɪˈkwaɪəmənt ˈsaɪn ɒf/",
+   "ipa_AmE": "AmE /ɹɪˈkwɑɪɹmənt ˈsɑɪn ˈɔf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "construction milestone",
+   "ipa_brE": "BrE /kənˈstrʌkʃn ˈmaɪlstəʊn/",
+   "ipa_AmE": "AmE /kəˈnstɹʌkʃən ˈmɑɪˌlstoʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "commissioning",
+   "ipa_brE": "BrE /ˌkɒmɪˈʃənɪŋ/",
+   "ipa_AmE": "AmE /kəˈmɪʃənɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "snagging",
+   "ipa_brE": "BrE /ˈsnæɡɪŋ/",
+   "ipa_AmE": "AmE /ˈsnæɡɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "handover certificate",
+   "ipa_brE": "BrE /ˈhændəʊvə səˌtɪfɪkət/",
+   "ipa_AmE": "AmE /ˈhændoʊvɚ sɚˈtɪfɪkət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "defects liability",
+   "ipa_brE": "BrE /ˈdiːfekts laɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈdifɛkts ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "post-completion review",
+   "ipa_brE": "BrE /ˌpəʊst kəmˈpliːʃn rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈpoʊst kəˈmpliʃən ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "value realisation",
+   "ipa_brE": "BrE /ˈvæljuː rɪələˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈvælju ˈɹiləˌzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "variance against case",
+   "ipa_brE": "BrE /ˈveəriəns əˌɡenst keɪs/",
+   "ipa_AmE": "AmE /ˈvɛɹiəns əˈɡɛnst ˈkéɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "lesson learned",
+   "ipa_brE": "BrE /ˈlesn lɜːnd/",
+   "ipa_AmE": "AmE /ˈlɛsən ˈlɝnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "closure",
+   "ipa_brE": "BrE /ˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈkloʊʒɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "close report",
+   "ipa_brE": "BrE /ˈkləʊz rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈkloʊs ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reinvestment",
+   "ipa_brE": "BrE /ˌriːɪnˈvestmənt/",
+   "ipa_AmE": "AmE /ˌɹiɪˈnvɛstmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cannibalisation",
+   "ipa_brE": "BrE /ˌkænɪbəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˌkænəbəlɪˈzéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "portfolio balance",
+   "ipa_brE": "BrE /pɔːtˈfəʊliəʊ ˌbæləns/",
+   "ipa_AmE": "AmE /pɔˈɹtfoʊliˌoʊ ˈbæləns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "appraisal",
+   "ipa_brE": "BrE /əˈpreɪzl/",
+   "ipa_AmE": "AmE /əˈpɹéɪzəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capital commitment",
+   "ipa_brE": "BrE /ˈkæpɪtl kəˈmɪtmənt/",
+   "ipa_AmE": "AmE /ˈkæpətəl kəˈmɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disposal decision",
+   "ipa_brE": "BrE /dɪˈspəʊzl dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /dɪˈspoʊzəl dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "obsolescence",
+   "ipa_brE": "BrE /ˌɒbsəˈlesns/",
+   "ipa_AmE": "AmE /ˌɑbsəˈlɛsəns/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "decommissioning cost",
+   "ipa_brE": "BrE /ˌdiːkəˈmɪʃənɪŋ kɒst/",
+   "ipa_AmE": "AmE /dikəˈmɪʃənɪŋ ˈkɑst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "ramp-up cost",
+   "ipa_brE": "BrE /ˈræmp ʌp kɒst/",
+   "ipa_AmE": "AmE /ˈɹæmp ˈʌp ˈkɑst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "steady-state cost",
+   "ipa_brE": "BrE /ˈstedi steɪt kɒst/",
+   "ipa_AmE": "AmE /ˈstɛdi ˈstéɪt ˈkɑst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "investment thesis",
+   "ipa_brE": "BrE /ɪnˈvestmənt ˈθɪsɪs/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstmənt ˈθisəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m08": [
+  {
+   "word": "funding",
+   "ipa_brE": "BrE /ˈfʌndɪŋ/",
+   "ipa_AmE": "AmE /ˈfʌndɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "financing",
+   "ipa_brE": "BrE /ˈfaɪnənsɪŋ/",
+   "ipa_AmE": "AmE /fəˈnænsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "capital raise",
+   "ipa_brE": "BrE /ˈkæpɪtl reɪz/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈɹéɪz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity financing",
+   "ipa_brE": "BrE /ˈekwəti ˌfaɪnənsɪŋ/",
+   "ipa_AmE": "AmE /ˈɛkwəti fəˈnænsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "debt financing",
+   "ipa_brE": "BrE /ˈdet ˌfaɪnənsɪŋ/",
+   "ipa_AmE": "AmE /ˈdɛt fəˈnænsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "blended financing",
+   "ipa_brE": "BrE /ˌblendɪd ˈfaɪnənsɪŋ/",
+   "ipa_AmE": "AmE /ˈblɛndɪd fəˈnænsɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share issue",
+   "ipa_brE": "BrE /ˈʃeə ˌɪʃuː/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈɪʃu/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rights issue",
+   "ipa_brE": "BrE /ˈraɪts ˌɪʃuː/",
+   "ipa_AmE": "AmE /ˈɹɑɪts ˈɪʃu/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "private placement",
+   "ipa_brE": "BrE /ˌpraɪvət ˈpleɪsmənt/",
+   "ipa_AmE": "AmE /ˈpɹɑɪvət ˈpléɪsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share capital",
+   "ipa_brE": "BrE /ˈʃeə ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈkæpətəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "paid-in capital",
+   "ipa_brE": "BrE /ˌpeɪd ɪn ˈkæpɪtl/",
+   "ipa_AmE": "AmE /ˈpéɪd ɪn ˈkæpətəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "share premium",
+   "ipa_brE": "BrE /ˈʃeə ˌpriːmiəm/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈpɹimiəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "treasury share",
+   "ipa_brE": "BrE /ˈtreʒəri ʃeə(r)/",
+   "ipa_AmE": "AmE /ˈtɹɛʒɚi ˈʃɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "buyback",
+   "ipa_brE": "BrE /ˈbaɪbæk/",
+   "ipa_AmE": "AmE /ˈbɑɪˌbæk/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "dividend policy",
+   "ipa_brE": "BrE /ˈdɪvɪdend ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈdɪvɪˌdɛnd ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "preference share",
+   "ipa_brE": "BrE /prɪˈferəns ʃeə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɛfɚəns ˈʃɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "convertible bond",
+   "ipa_brE": "BrE /kənˌvɜːtəbl ˈbɒnd/",
+   "ipa_AmE": "AmE /kəˈnvɝtəbəl ˈbɑnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "warrant",
+   "ipa_brE": "BrE /ˈwɒrənt/",
+   "ipa_AmE": "AmE /ˈwɔɹənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "debt instrument",
+   "ipa_brE": "BrE /ˈdet ˈɪnstrəmənt/",
+   "ipa_AmE": "AmE /ˈdɛt ˈɪnstɹəmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "bond",
+   "ipa_brE": "BrE /bɒnd/",
+   "ipa_AmE": "AmE /ˈbɑnd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "debenture",
+   "ipa_brE": "BrE /dɪˈbentʃə(r)/",
+   "ipa_AmE": "AmE /dəˈbɛntʃɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "coupon",
+   "ipa_brE": "BrE /ˈkuːpɒn/",
+   "ipa_AmE": "AmE /ˈkuˌpɔn/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "maturity",
+   "ipa_brE": "BrE /məˈtʃʊərəti/",
+   "ipa_AmE": "AmE /məˈtʃʊɹəti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "redemption",
+   "ipa_brE": "BrE /rɪˈdempʃn/",
+   "ipa_AmE": "AmE /ɹɪˈdɛmpʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "syndicate",
+   "ipa_brE": "BrE /ˈsɪndɪkət/",
+   "ipa_AmE": "AmE /ˈsɪndɪkət/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "underwriting",
+   "ipa_brE": "BrE /ˌʌndəˈraɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈʌndɚˌɹɑɪtɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "lead manager",
+   "ipa_brE": "BrE /ˈliːd ˌmænɪdʒə(r)/",
+   "ipa_AmE": "AmE /ˈlɛd ˈmænədʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "term sheet",
+   "ipa_brE": "BrE /ˈtɜːm ʃiːt/",
+   "ipa_AmE": "AmE /ˈtɝm ˈʃit/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant package",
+   "ipa_brE": "BrE /ˈkʌvənənt ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /ˈkʌvənənt ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "security package",
+   "ipa_brE": "BrE /sɪˈkjʊərəti ˌpækɪdʒ/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹəti ˈpækədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "collateral",
+   "ipa_brE": "BrE /kəˈlætərəl/",
+   "ipa_AmE": "AmE /kəˈlætɚəl/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fixed and floating charge",
+   "ipa_brE": "BrE /ˌfɪkst ən ˈfləʊtɪŋ tʃɑːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈfɪkst ənd ˈfloʊtɪŋ ˈtʃɑɹdʒ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "credit rating",
+   "ipa_brE": "BrE /ˈkredɪt ˌreɪtɪŋ/",
+   "ipa_AmE": "AmE /ˈkɹɛdət ˈɹéɪtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "rating agency",
+   "ipa_brE": "BrE /ˈreɪtɪŋ ˌeɪdʒənsi/",
+   "ipa_AmE": "AmE /ˈɹéɪtɪŋ ˈéɪdʒənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "notching",
+   "ipa_brE": "BrE /ˈnɒtʃɪŋ/",
+   "ipa_AmE": "AmE /ˈnɑtʃɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "capital structure",
+   "ipa_brE": "BrE /ˈkæpɪtl ˌstrʌktʃə(r)/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈstɹʌktʃɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "target gearing",
+   "ipa_brE": "BrE /ˈtɑːɡɪt ˈɡɪərɪŋ/",
+   "ipa_AmE": "AmE /ˈtɑɹɡət ˈɡɪɹɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital mix",
+   "ipa_brE": "BrE /ˈkæpɪtl mɪks/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈmɪks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "leverage policy",
+   "ipa_brE": "BrE /ˈliːvərɪdʒ ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈlɛvɚɪdʒ ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deleveraging",
+   "ipa_brE": "BrE /diːˈliːvərɪdʒɪŋ/",
+   "ipa_AmE": "AmE /diˈlivəɹɪdʒɪŋ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "capital adequacy",
+   "ipa_brE": "BrE /ˈkæpɪtl əˈdɛkəkwəsi/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈædəkwəsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equity story",
+   "ipa_brE": "BrE /ˈekwəti ˈstɔːri/",
+   "ipa_AmE": "AmE /ˈɛkwəti ˈstɔɹi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investor relations",
+   "ipa_brE": "BrE /ɪnˈvestə(r) rɪˈleɪʃnz/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstɚ ɹiˈléɪʃənz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "roadshow",
+   "ipa_brE": "BrE /ˈrəʊdʃuː/",
+   "ipa_AmE": "AmE /ˈɹoʊˌdʃoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "IPO",
+   "ipa_brE": "BrE /ˌaɪ piː ˈəʊ/",
+   "ipa_AmE": "AmE /ˌaɪ pi ˈoʊ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "listing",
+   "ipa_brE": "BrE /ˈlɪstɪŋ/",
+   "ipa_AmE": "AmE /ˈlɪstɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "flotation",
+   "ipa_brE": "BrE /fləʊˈteɪʃn/",
+   "ipa_AmE": "AmE /floʊˈtéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "prospectus",
+   "ipa_brE": "BrE /prəˈspektəs/",
+   "ipa_AmE": "AmE /pɹəˈspɛktəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "underwriting agreement",
+   "ipa_brE": "BrE /ˌʌndəˈraɪtɪŋ əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ˈʌndɚˌɹɑɪtɪŋ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "lock-up",
+   "ipa_brE": "BrE /ˈlɒk ʌp/",
+   "ipa_AmE": "AmE /ˈlɑk ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cornerstone investor",
+   "ipa_brE": "BrE /ˈkɔːnəstəʊn ɪnˈvestə(r)/",
+   "ipa_AmE": "AmE /ˈkɔɹnɚˌstoʊn ˌɪˈnvɛstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "book building",
+   "ipa_brE": "BrE /bʊk ˌbɪldɪŋ/",
+   "ipa_AmE": "AmE /ˈbʊk ˈbɪldɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "allotment",
+   "ipa_brE": "BrE /əˈlɒtmənt/",
+   "ipa_AmE": "AmE /əˈlɑtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "valuation range",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn reɪndʒ/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˈɹéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "offer price",
+   "ipa_brE": "BrE /ˈɒfə praɪs/",
+   "ipa_AmE": "AmE /ˈɔfɚ ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pricing",
+   "ipa_brE": "BrE /ˈpraɪsɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑɪsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "market capitalisation",
+   "ipa_brE": "BrE /ˌmɑːkɪt kəˌpɪtəlaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˌkæpɪtəlɪˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "enterprise value",
+   "ipa_brE": "BrE /ˌentəpraɪz ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈɛntɚˌpɹɑɪz ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "net debt",
+   "ipa_brE": "BrE /ˌnet ˈdet/",
+   "ipa_AmE": "AmE /ˈnɛt ˈdɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trading multiple",
+   "ipa_brE": "BrE /ˈtreɪdɪŋ ˌmʌltɪpl/",
+   "ipa_AmE": "AmE /ˈtɹéɪdɪŋ ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "earnings multiple",
+   "ipa_brE": "BrE /ˈɜːnɪŋz ˌmʌltɪpl/",
+   "ipa_AmE": "AmE /ˈɝnɪŋz ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "enterprise multiple",
+   "ipa_brE": "BrE /ˈentəpraɪz ˌmʌltɪpl/",
+   "ipa_AmE": "AmE /ˈɛntɚˌpɹɑɪz ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "dilution",
+   "ipa_brE": "BrE /daɪˈluːʃn/",
+   "ipa_AmE": "AmE /dɑɪˈluʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "anti-dilution",
+   "ipa_brE": "BrE /ˌænti daɪˈluːʃn/",
+   "ipa_AmE": "AmE /ˈæˌnti dɑɪˈluʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "clawback",
+   "ipa_brE": "BrE /ˈklɔːbæk/",
+   "ipa_AmE": "AmE /ˈklɔbæk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "option pool",
+   "ipa_brE": "BrE /ˈɒpʃn puːl/",
+   "ipa_AmE": "AmE /ˈɑpʃən ˈpul/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share option scheme",
+   "ipa_brE": "BrE /ˈʃeə ˌɒpʃn skiːm/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈɑpʃən ˈskim/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "employee share scheme",
+   "ipa_brE": "BrE /ɪmˈplɔɪiː ˌʃeə skiːm/",
+   "ipa_AmE": "AmE /ɛˈmplɔɪi ˈʃɛɹ ˈskim/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "exit",
+   "ipa_brE": "BrE /ˈeksɪt/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "exit route",
+   "ipa_brE": "BrE /ˈeksɪt ruːt/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈɹut/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trade sale",
+   "ipa_brE": "BrE /ˌtreɪd ˈseɪl/",
+   "ipa_AmE": "AmE /ˈtɹéɪd ˈséɪl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sale process",
+   "ipa_brE": "BrE /ˈseɪl ˌprəʊses/",
+   "ipa_AmE": "AmE /ˈséɪl ˈpɹɑˌsɛs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "red flag letter",
+   "ipa_brE": "BrE /ˌred flæɡ ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈɹɛd ˈflæɡ ˈlɛtɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "debt repayment",
+   "ipa_brE": "BrE /ˈdet rɪˌpeɪmənt/",
+   "ipa_AmE": "AmE /ˈdɛt ɹiˈpéɪmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "amortisation schedule",
+   "ipa_brE": "BrE /əˌmɔːtaɪˈzeɪʃn ˌʃedjuːl/",
+   "ipa_AmE": "AmE /ˌæmɚtɪˈzéɪʃən ˈskɛdʒʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "prepayment",
+   "ipa_brE": "BrE /ˌpriːˈpeɪmənt/",
+   "ipa_AmE": "AmE /pɹiˈpéɪmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "covenant waiver",
+   "ipa_brE": "BrE /ˈkʌvənənt ˈweɪvə(r)/",
+   "ipa_AmE": "AmE /ˈkʌvənənt ˈwéɪvɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "covenant breach",
+   "ipa_brE": "BrE /ˈkʌvənənt ˌbriːtʃ/",
+   "ipa_AmE": "AmE /ˈkʌvənənt ˈbɹitʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insolvency",
+   "ipa_brE": "BrE /ɪnˈsɒlvənsi/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑlvənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "administration",
+   "ipa_brE": "BrE /ədˌmɪnɪˈstreɪʃn/",
+   "ipa_AmE": "AmE /æˌdmɪnɪˈstɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "scheme of arrangement",
+   "ipa_brE": "BrE /skiːm əv əˈreɪndʒmənt/",
+   "ipa_AmE": "AmE /ˈskim ˈʌv ɚˈéɪndʒmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "restructuring agreement",
+   "ipa_brE": "BrE /ˌriːˈstrʌktʃərɪŋ əˌɡriːmənt/",
+   "ipa_AmE": "AmE /ɹiˈstɹʌktʃɚɪŋ əˈɡɹimənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "creditor claim",
+   "ipa_brE": "BrE /ˈkredɪtə kleɪm/",
+   "ipa_AmE": "AmE /ˈkɹɛdətɚ ˈkléɪm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recovery rate",
+   "ipa_brE": "BrE /rɪˈkʌvəri reɪt/",
+   "ipa_AmE": "AmE /ɹɪˈkʌvɚi ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidation",
+   "ipa_brE": "BrE /ˌlɪkwɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˌlɪkwɪˈdéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "wind-down",
+   "ipa_brE": "BrE /ˈwaɪnd daʊn/",
+   "ipa_AmE": "AmE /ˈwɑɪnd ˈdàʊn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital discipline",
+   "ipa_brE": "BrE /ˈkæpɪtl ˌdɪsɪplɪn/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈdɪsəplən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payout ratio",
+   "ipa_brE": "BrE /ˈpeɪaʊt ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈpéɪˌàʊt ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shareholder return",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə(r) rɪˌtɜːn/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fundraising",
+   "ipa_brE": "BrE /ˈfʌndreɪzɪŋ/",
+   "ipa_AmE": "AmE /ˈfʌˌndɹéɪsɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "equity raise",
+   "ipa_brE": "BrE /ˈekwəti reɪz/",
+   "ipa_AmE": "AmE /ˈɛkwəti ˈɹéɪz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "secured lender",
+   "ipa_brE": "BrE /sɪˈkjʊəd ˈlendə(r)/",
+   "ipa_AmE": "AmE /sɪˈkjʊɹd ˈlɛndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unsecured lender",
+   "ipa_brE": "BrE /ʌnˈsiːkjʊəd ˈlendə(r)/",
+   "ipa_AmE": "AmE /ˌʌnsɪˈkjʊɹd ˈlɛndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m09": [
+  {
+   "word": "tax",
+   "ipa_brE": "BrE /tæks/",
+   "ipa_AmE": "AmE /ˈtæks/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "taxation",
+   "ipa_brE": "BrE /tækˈseɪʃn/",
+   "ipa_AmE": "AmE /tæˈkséɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "tax liability",
+   "ipa_brE": "BrE /ˈtæks ˌlaɪəˈbɪləti/",
+   "ipa_AmE": "AmE /ˈtæks ˌlɑɪəˈbɪlɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "taxable income",
+   "ipa_brE": "BrE /ˈtæksəbl ˈɪnkʌm/",
+   "ipa_AmE": "AmE /ˈtæksəbəl ˈɪˌnkʌm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax base",
+   "ipa_brE": "BrE /ˈtæks beɪs/",
+   "ipa_AmE": "AmE /ˈtæks ˈbéɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax bracket",
+   "ipa_brE": "BrE /ˈtæks ˌbrækɪt/",
+   "ipa_AmE": "AmE /ˈtæks ˈbɹækɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax rate",
+   "ipa_brE": "BrE /ˈtæks reɪt/",
+   "ipa_AmE": "AmE /ˈtæks ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "marginal rate",
+   "ipa_brE": "BrE /məˈdʒɪnl reɪt/",
+   "ipa_AmE": "AmE /ˈmɑɹdʒənəl ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "effective rate",
+   "ipa_brE": "BrE /ɪˈfektɪv reɪt/",
+   "ipa_AmE": "AmE /ɪˈfɛktɪv ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax deduction",
+   "ipa_brE": "BrE /ˈtæks dɪˈdʌkʃn/",
+   "ipa_AmE": "AmE /ˈtæks dɪˈdʌkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax credit",
+   "ipa_brE": "BrE /ˈtæks ˌkredɪt/",
+   "ipa_AmE": "AmE /ˈtæks ˈkɹɛdət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax allowance",
+   "ipa_brE": "BrE /ˈtæks əˌlaʊəns/",
+   "ipa_AmE": "AmE /ˈtæks əˈlàʊəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital allowance",
+   "ipa_brE": "BrE /ˈkæpɪtl əˌlaʊəns/",
+   "ipa_AmE": "AmE /ˈkæpətəl əˈlàʊəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax depreciation",
+   "ipa_brE": "BrE /ˈtæks dɪˌpriːʃiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈtæks dɪˌpɹiʃiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "VAT",
+   "ipa_brE": "BrE /ˌviː eɪ ˈtiː/",
+   "ipa_AmE": "AmE /ˈvæt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "input tax",
+   "ipa_brE": "BrE /ˈɪnpʊt tæks/",
+   "ipa_AmE": "AmE /ˈɪˌnpʊt ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "output tax",
+   "ipa_brE": "BrE /ˈaʊtpʊt tæks/",
+   "ipa_AmE": "AmE /ˈàʊˌtpʊt ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax return",
+   "ipa_brE": "BrE /ˈtæks rɪˌtɜːn/",
+   "ipa_AmE": "AmE /ˈtæks ɹɪˈtɝn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "filing deadline",
+   "ipa_brE": "BrE /ˈfaɪlɪŋ ˌdedlaɪn/",
+   "ipa_AmE": "AmE /ˈfɑɪlɪŋ ˈdɛˌdlɑɪn/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax year",
+   "ipa_brE": "BrE /ˈtæks jɪə(r)/",
+   "ipa_AmE": "AmE /ˈtæks ˈjɪɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax audit",
+   "ipa_brE": "BrE /ˈtæks ˌɔːdɪt/",
+   "ipa_AmE": "AmE /ˈtæks ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax investigation",
+   "ipa_brE": "BrE /ˈtæks ɪnˌvestɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈtæks ˌɪˌnvɛstəˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax exposure",
+   "ipa_brE": "BrE /ˈtæks ɪkˈspəʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈtæks ɪˈkspoʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pricing documentation",
+   "ipa_brE": "BrE /ˈpraɪsɪŋ ˌdɒkjumenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɑɪsɪŋ ˌdɑkjəmɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "advance ruling",
+   "ipa_brE": "BrE /ədˈvɑːns ˈruːlɪŋ/",
+   "ipa_AmE": "AmE /əˈdvæns ˈɹulɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "related party disclosure",
+   "ipa_brE": "BrE /rɪˌleɪtɪd ˌpɑːti dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ɹɪˈléɪtɪd ˈpɑɹti dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "permanent establishment",
+   "ipa_brE": "BrE /pəˈmɑːnənt ˌestæblɪʃmənt/",
+   "ipa_AmE": "AmE /ˈpɝmənənt ɪˈstæblɪʃmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "double taxation",
+   "ipa_brE": "BrE /ˌdʌbl tæksˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈdʌbəl tæˈkséɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax planning",
+   "ipa_brE": "BrE /ˈtæks ˌplænɪŋ/",
+   "ipa_AmE": "AmE /ˈtæks ˈplænɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax saving",
+   "ipa_brE": "BrE /ˈtæks ˌseɪvɪŋ/",
+   "ipa_AmE": "AmE /ˈtæks ˈséɪvɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax shelter",
+   "ipa_brE": "BrE /ˈtæks ˌʃeltə(r)/",
+   "ipa_AmE": "AmE /ˈtæks ˈʃɛltɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "current tax",
+   "ipa_brE": "BrE /ˌkʌrənt ˈtæks/",
+   "ipa_AmE": "AmE /ˈkɝənt ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "deferred tax",
+   "ipa_brE": "BrE /dɪˌfɜːd ˈtæks/",
+   "ipa_AmE": "AmE /dɪˈfɝd ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax provision",
+   "ipa_brE": "BrE /ˈtæks prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈtæks pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit",
+   "ipa_brE": "BrE /ˈɔːdɪt/",
+   "ipa_AmE": "AmE /ˈɔdɪt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "statutory audit",
+   "ipa_brE": "BrE /stəˈtjuːtəri ˈɔːdɪt/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "internal audit",
+   "ipa_brE": "BrE /ɪnˌtɜːnl ˈɔːdɪt/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "auditor",
+   "ipa_brE": "BrE /ˈɔːdɪtə(r)/",
+   "ipa_AmE": "AmE /ˈɔdɪtɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "audit opinion",
+   "ipa_brE": "BrE /ˈɔːdɪt əˌpɪnjən/",
+   "ipa_AmE": "AmE /ˈɔdɪt əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "unqualified opinion",
+   "ipa_brE": "BrE /ʌnˈkwɒlɪfaɪd əˈpɪnjən/",
+   "ipa_AmE": "AmE /əˈnkwɑlɪˌfɑɪd əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "qualified opinion",
+   "ipa_brE": "BrE /ˈkwɒlɪfaɪd əˈpɪnjən/",
+   "ipa_AmE": "AmE /ˈkwɑləˌfɑɪd əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scope limitation",
+   "ipa_brE": "BrE /ˌskəʊp ˌlɪmɪˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈskoʊp ˌlɪmɪˈtéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "emphasis of matter",
+   "ipa_brE": "BrE /ˈemfəsɪs əv ˈmætə(r)/",
+   "ipa_AmE": "AmE /ˈɛmfəsəs ˈʌv ˈmætɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "key audit matter",
+   "ipa_brE": "BrE /ˌkiː ˈɔːdɪt ˌmætə(r)/",
+   "ipa_AmE": "AmE /ˈki ˈɔdɪt ˈmætɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "audit evidence",
+   "ipa_brE": "BrE /ˈɔːdɪt ˌevɪdəns/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈɛvədəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sampling",
+   "ipa_brE": "BrE /ˈsɑːmplɪŋ/",
+   "ipa_AmE": "AmE /ˈsæmplɪŋ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "substantive testing",
+   "ipa_brE": "BrE /səbˈstæntɪv ˈtestɪŋ/",
+   "ipa_AmE": "AmE /ˈsʌbstəntɪv ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "internal control",
+   "ipa_brE": "BrE /ɪnˌtɜːnl kənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control environment",
+   "ipa_brE": "BrE /kənˈtrəʊl ɪnˌvaɪrənmənt/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ɪˈnvɑɪɹənmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control objective",
+   "ipa_brE": "BrE /kənˈtrəʊl əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control risk",
+   "ipa_brE": "BrE /kənˈtrəʊl rɪsk/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "preventive control",
+   "ipa_brE": "BrE /prɪˈventɪv kənˈtrəʊl/",
+   "ipa_AmE": "AmE /pɹɪˈvɛntɪv kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "detective control",
+   "ipa_brE": "BrE /dɪˈtektɪv kənˈtrəʊl/",
+   "ipa_AmE": "AmE /dɪˈtɛktɪv kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control deficiency",
+   "ipa_brE": "BrE /kənˈtrəʊl dɪˈfɪʃnsi/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl dɪˈfɪʃənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remediation",
+   "ipa_brE": "BrE /ˌriːmiːdiˈeɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˌmidiˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "audit committee",
+   "ipa_brE": "BrE /ˈɔːdɪt kəˌmɪti/",
+   "ipa_AmE": "AmE /ˈɔdɪt kəˈmɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "management letter",
+   "ipa_brE": "BrE /ˈmænɪdʒmənt ˌletə(r)/",
+   "ipa_AmE": "AmE /ˈmænədʒmənt ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "recommendation",
+   "ipa_brE": "BrE /ˌrekəmenˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˌɹɛkəməˈndéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "fraud risk",
+   "ipa_brE": "BrE /ˈfrɔːd rɪsk/",
+   "ipa_AmE": "AmE /ˈfɹɔd ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "misstatement",
+   "ipa_brE": "BrE /ˌmɪsˈsteɪtmənt/",
+   "ipa_AmE": "AmE /mɪˈstéɪtmənt/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "confirmation",
+   "ipa_brE": "BrE /ˌkɒnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˌkɑnfɚˈméɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "cut-off testing",
+   "ipa_brE": "BrE /ˈkʌt ɒf ˌtestɪŋ/",
+   "ipa_AmE": "AmE /ˈkʌt ˈɔf ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "analytical review",
+   "ipa_brE": "BrE /ˌænəˈlɪtɪkl rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˌænəˈlɪtɪkəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "expense audit",
+   "ipa_brE": "BrE /ɪkˈspens ˌɔːdɪt/",
+   "ipa_AmE": "AmE /ɪˈkspɛns ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "payroll audit",
+   "ipa_brE": "BrE /ˈpeɪrəʊl ˌɔːdɪt/",
+   "ipa_AmE": "AmE /ˈpéɪˌɹoʊl ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "travel audit",
+   "ipa_brE": "BrE /ˈtrævl ˌɔːdɪt/",
+   "ipa_AmE": "AmE /ˈtɹævəl ˈɔdɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax provision review",
+   "ipa_brE": "BrE /ˈtæks prəˈvɪʒn rɪˌvjuː/",
+   "ipa_AmE": "AmE /ˈtæks pɹəˈvɪʒən ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "permanent difference",
+   "ipa_brE": "BrE /pəˈmɑːnənt ˌdɪfrəns/",
+   "ipa_AmE": "AmE /ˈpɝmənənt ˈdɪfɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "compliance calendar",
+   "ipa_brE": "BrE /kəmˈplaɪəns ˌkælɪndə(r)/",
+   "ipa_AmE": "AmE /kəˈmplɑɪəns ˈkæləndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "filing obligation",
+   "ipa_brE": "BrE /ˈfaɪlɪŋ ˌɒblɪˈɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈfɑɪlɪŋ ˌɑbləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk-based audit",
+   "ipa_brE": "BrE /ˈrɪsk beɪst ˈɔːdɪt/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈbéɪst ˈɔdɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "audit universe",
+   "ipa_brE": "BrE /ˈɔːdɪt ˈjuːnɪvɜːs/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈjunəˌvɝs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "internal audit plan",
+   "ipa_brE": "BrE /ɪnˌtɜːnl ˈɔːdɪt plæn/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˈɔdɪt ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "continuous auditing",
+   "ipa_brE": "BrE /kənˌtɪnjuəs ˈɔːdɪtɪŋ/",
+   "ipa_AmE": "AmE /kəˈntɪnjuəs ˈɑdətɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit automation",
+   "ipa_brE": "BrE /ˈɔːdɪt ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈɔdɪt ɔtəˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exception report",
+   "ipa_brE": "BrE /ɪkˈsepʃn rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ɪˈksɛpʃən ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "whistleblower protection",
+   "ipa_brE": "BrE /ˈwʌsəˌbləʊzə prəˈtekʃn/",
+   "ipa_AmE": "AmE /ˈwɪsəˌlbloʊɚ pɹəˈtɛkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retaliation",
+   "ipa_brE": "BrE /rɪˌtæliˈeɪʃn/",
+   "ipa_AmE": "AmE /ɹiˌtæliˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "audit readiness",
+   "ipa_brE": "BrE /ˈɔːdɪt ˌredinəs/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈɹɛdinəs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "clean opinion",
+   "ipa_brE": "BrE /ˌkliːn əˈpɪnjən/",
+   "ipa_AmE": "AmE /ˈklin əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax code",
+   "ipa_brE": "BrE /ˈtæks kəʊd/",
+   "ipa_AmE": "AmE /ˈtæks ˈkoʊd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax residency",
+   "ipa_brE": "BrE /ˈtæks ˌrezɪdənsi/",
+   "ipa_AmE": "AmE /ˈtæks ˈɹɛzɪdənsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "source principle",
+   "ipa_brE": "BrE /ˈsɔːsəs ˈprɪnsəpl/",
+   "ipa_AmE": "AmE /ˈsɔɹs ˈpɹɪnsəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "withholding tax",
+   "ipa_brE": "BrE /wɪðˈhəʊldɪŋ tæks/",
+   "ipa_AmE": "AmE /wɪˈθhoʊldɪŋ ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax reconciliation",
+   "ipa_brE": "BrE /ˈtæks rɪˌkɒnsɪliˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈtæks ˌɹɛkəˌnsɪliˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assessed tax",
+   "ipa_brE": "BrE /əˈsest tæks/",
+   "ipa_AmE": "AmE /əˈsɛst ˈtæks/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax penalty",
+   "ipa_brE": "BrE /ˈtæks ˌpenəlti/",
+   "ipa_AmE": "AmE /ˈtæks ˈpɛnəlti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "penalty relief",
+   "ipa_brE": "BrE /ˈpenəlti rɪˌliːf/",
+   "ipa_AmE": "AmE /ˈpɛnəlti ɹɪˈlif/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax uncertainty",
+   "ipa_brE": "BrE /ˈtæks ʌnˈsɜːtnti/",
+   "ipa_AmE": "AmE /ˈtæks əˈnsɝtənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tax attribute",
+   "ipa_brE": "BrE /ˈtæks ˌætrɪbjuːt/",
+   "ipa_AmE": "AmE /ˈtæks ˈætɹəˌbjut/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m10": [
+  {
+   "word": "valuation",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "valuation model",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn ˌmɒdl/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation date",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn deɪt/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˈdéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair value",
+   "ipa_brE": "BrE /ˌfeə ˈvæljuː/",
+   "ipa_AmE": "AmE /ˈfɛɹ ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market value",
+   "ipa_brE": "BrE /ˈmɑːkɪt ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investment value",
+   "ipa_brE": "BrE /ɪnˈvestmənt ˌvæljuː/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstmənt ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "asset-based valuation",
+   "ipa_brE": "BrE /ˌæset beɪst ˌvæljuˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈæˌsɛt ˈbéɪst væljuˈéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "going-concern value",
+   "ipa_brE": "BrE /ˌɡəʊɪŋ ˈkɒnsɜːn ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈɡoʊɪŋ kəˈnsɝn ˈvælju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "income approach",
+   "ipa_brE": "BrE /ˈɪnkʌm əˌprəʊtʃ/",
+   "ipa_AmE": "AmE /ˈɪˌnkʌm əˈpɹoʊtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market approach",
+   "ipa_brE": "BrE /ˈmɑːkɪt əˌprəʊtʃ/",
+   "ipa_AmE": "AmE /ˈmɑɹkət əˈpɹoʊtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost approach",
+   "ipa_brE": "BrE /ˈkɒst əˌprəʊtʃ/",
+   "ipa_AmE": "AmE /ˈkɑst əˈpɹoʊtʃ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capitalisation of earnings",
+   "ipa_brE": "BrE /ˌkæpɪtəlaɪˈzeɪʃn əv ˈɜːnɪŋz/",
+   "ipa_AmE": "AmE /ˌkæpɪtəlɪˈzéɪʃən ˈʌv ˈɝnɪŋz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "discounted dividend model",
+   "ipa_brE": "BrE /ˈdɪskaʊntɪd ˈdɪvɪdend ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈdɪˌskàʊntɪd ˈdɪvɪˌdɛnd ˈmɑdəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "residual income",
+   "ipa_brE": "BrE /rɪˈzɪdjuəl ˈɪnkʌm/",
+   "ipa_AmE": "AmE /ɹɪˈzɪdʒuəl ˈɪˌnkʌm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "comparable company",
+   "ipa_brE": "BrE /kəmˈpærəbl ˈkʌmpəni/",
+   "ipa_AmE": "AmE /kəmpɹəbəl ˈkʌmpəˌni/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "comparable transaction",
+   "ipa_brE": "BrE /kəmˈpærəbl trænˈzækʃn/",
+   "ipa_AmE": "AmE /kəmpɹəbəl tɹæˈnzækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "precedent transaction",
+   "ipa_brE": "BrE /ˈpresɪdənt trænˈzækʃn/",
+   "ipa_AmE": "AmE /ˈpɹɛsɪdənt tɹæˈnzækʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trading comparable",
+   "ipa_brE": "BrE /ˈtreɪdɪŋ kəmˈpærəbl/",
+   "ipa_AmE": "AmE /ˈtɹéɪdɪŋ kəmpɹəbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sum-of-the-parts",
+   "ipa_brE": "BrE /ˌsʌm əv ðə ˈpɑːts/",
+   "ipa_AmE": "AmE /ˈsʌm ˈʌv ðə ˈpɑɹts/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "premium of control",
+   "ipa_brE": "BrE /ˈpriːmiəm əv kənˈtrəʊl/",
+   "ipa_AmE": "AmE /ˈpɹimiəm ˈʌv kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "minority discount",
+   "ipa_brE": "BrE /maɪˌnɒrəti ˈdɪskaʊnt/",
+   "ipa_AmE": "AmE /mɑɪˈnɔɹəti dɪˈskàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "option pricing model",
+   "ipa_brE": "BrE /ˈɒpʃn ˌpraɪsɪŋ ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈɑpʃən ˈpɹɑɪsɪŋ ˈmɑdəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "volatility",
+   "ipa_brE": "BrE /ˌvɒləˈtɪləti/",
+   "ipa_AmE": "AmE /ˌvɑləˈtɪləti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "time value",
+   "ipa_brE": "BrE /ˈtaɪm ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈtɑɪm ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "forecast horizon",
+   "ipa_brE": "BrE /ˈfɔːkɑːst həˈraɪzn/",
+   "ipa_AmE": "AmE /ˈfɔˌɹkæst hɚˈɑɪzən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "terminal growth rate",
+   "ipa_brE": "BrE /ˈtɜːmɪnl ɡrəʊθ reɪt/",
+   "ipa_AmE": "AmE /ˈtɝmənəl ˈɡɹoʊθ ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "fade",
+   "ipa_brE": "BrE /feɪd/",
+   "ipa_AmE": "AmE /ˈféɪd/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "driver model",
+   "ipa_brE": "BrE /ˈdraɪvə ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈdɹɑɪvɚ ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "operating model",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌmɒdl/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "build-up",
+   "ipa_brE": "BrE /ˈbɪld ʌp/",
+   "ipa_AmE": "AmE /ˈbɪld ˈʌp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scenario model",
+   "ipa_brE": "BrE /səˌnɑːriəʊ ˌmɒdl/",
+   "ipa_AmE": "AmE /sɪˈnɛɹioʊ ˈmɑdəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sensitivity grid",
+   "ipa_brE": "BrE /ˌsensəˈtɪvəti ɡrɪd/",
+   "ipa_AmE": "AmE /ˌsɛnsɪˈtɪvɪti ˈɡɹɪd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tornado chart",
+   "ipa_brE": "BrE /tɔːˈneɪdəʊ tʃɑːt/",
+   "ipa_AmE": "AmE /tɔˈɹnéɪˌdoʊ ˈtʃɑɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "hardcode",
+   "ipa_brE": "BrE /ˌhɑːdˈkəʊd/",
+   "ipa_AmE": "AmE /ˌhɑɹˈkoʊd/",
+   "source": "manual",
+   "note": "hand-checked override"
+  },
+  {
+   "word": "linked cell",
+   "ipa_brE": "BrE /lɪŋkt ˈsel/",
+   "ipa_AmE": "AmE /ˈlɪŋkt ˈsɛl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "circularity",
+   "ipa_brE": "BrE /ˌsɜːkjəˈlærəti/",
+   "ipa_AmE": "AmE /ˌsɝkjəˈlæɹətɪ/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "iterative calculation",
+   "ipa_brE": "BrE /ˌɪtərətɪv ˌkælkjəˈleɪʃn/",
+   "ipa_AmE": "AmE /ˈɪtɚˌéɪtɪv ˌkælkjəˈléɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "balance check",
+   "ipa_brE": "BrE /ˈbæləns tʃek/",
+   "ipa_AmE": "AmE /ˈbæləns ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "sanity check",
+   "ipa_brE": "BrE /ˈsænɪti tʃek/",
+   "ipa_AmE": "AmE /ˈsænəti ˈtʃɛk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "model documentation",
+   "ipa_brE": "BrE /ˈmɒdl ˌdɒkjumenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈmɑdəl ˌdɑkjəmɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "version control",
+   "ipa_brE": "BrE /ˈvɜːʃn kənˌtrəʊl/",
+   "ipa_AmE": "AmE /ˈvɝʒən kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "change log",
+   "ipa_brE": "BrE /ˈtʃeɪndʒ lɒɡ/",
+   "ipa_AmE": "AmE /ˈtʃéɪndʒ ˈlɔɡ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "comparable set",
+   "ipa_brE": "BrE /kəmˈpærəbl set/",
+   "ipa_AmE": "AmE /kəmpɹəbəl ˈsɛt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "peer group",
+   "ipa_brE": "BrE /ˈpɪə ɡruːp/",
+   "ipa_AmE": "AmE /ˈpɪɹ ˈɡɹup/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "screen",
+   "ipa_brE": "BrE /skriːn/",
+   "ipa_AmE": "AmE /ˈskɹin/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "discount for lack of control",
+   "ipa_brE": "BrE /ˈdɪskaʊnt fə læk əv kənˈtrəʊl/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt ˈfɔɹ ˈlæk ˈʌv kəˈntɹoʊl/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "discount for lack of marketability",
+   "ipa_brE": "BrE /ˈdɪskaʊnt fə læk əv ˌmɑːkɪtəˈbɪləti/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt ˈfɔɹ ˈlæk ˈʌv ˌmɑɹkɪtəˈbɪlɪti/",
+   "source": "parts",
+   "note": "5 part(s) from CMU"
+  },
+  {
+   "word": "calibration",
+   "ipa_brE": "BrE /ˌkælɪˈbreɪʃn/",
+   "ipa_AmE": "AmE /ˌkæləˈbɹéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "back-test",
+   "ipa_brE": "BrE /ˈbæk test/",
+   "ipa_AmE": "AmE /ˈbæk ˈtɛst/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "probability",
+   "ipa_brE": "BrE /ˌprɒbəˈbɪləti/",
+   "ipa_AmE": "AmE /ˌpɹɑbəˈbɪləˌti/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "distribution",
+   "ipa_brE": "BrE /ˌdɪstrɪˈbjuːʃn/",
+   "ipa_AmE": "AmE /ˌdɪstɹəˈbjuʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "exit multiple",
+   "ipa_brE": "BrE /ˈeksɪt ˌmʌltɪpl/",
+   "ipa_AmE": "AmE /ˈɛɡzɪt ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "perpetuity growth",
+   "ipa_brE": "BrE /pəˌpetjuəti ˈɡrəʊθ/",
+   "ipa_AmE": "AmE /ˌpɝpɪˈtjuɪti ˈɡɹoʊθ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "enterprise-to-equity bridge",
+   "ipa_brE": "BrE /ˌentəpraɪz tə ˈekwəti brɪdʒ/",
+   "ipa_AmE": "AmE /ˈɛntɚˌpɹɑɪz ˈtu ˈɛkwəti ˈbɹɪdʒ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "net debt bridge",
+   "ipa_brE": "BrE /ˌnet ˈdet brɪdʒ/",
+   "ipa_AmE": "AmE /ˈnɛt ˈdɛt ˈbɹɪdʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "diluted share count",
+   "ipa_brE": "BrE /daɪˈluːtɪd ˈʃeə kaʊnt/",
+   "ipa_AmE": "AmE /dɑɪˈlutəd ˈʃɛɹ ˈkàʊnt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "treasury stock method",
+   "ipa_brE": "BrE /ˈtrezəri stɒk ˈmeθəd/",
+   "ipa_AmE": "AmE /ˈtɹɛʒɚi ˈstɑk ˈmɛθəd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "option dilution",
+   "ipa_brE": "BrE /ˈɒpʃn daɪˈluːʃn/",
+   "ipa_AmE": "AmE /ˈɑpʃən dɑɪˈluʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "normalised working capital",
+   "ipa_brE": "BrE /ˈnɔːməlaɪzd ˈwɜːkɪŋ ˌkæpɪtl/",
+   "ipa_AmE": "AmE /ˈnɔɹməˌlɑɪzd ˈwɝkɪŋ ˈkæpətəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "run-off requirement",
+   "ipa_brE": "BrE /ˈrʌn ɒf rɪˈkwaɪəmənt/",
+   "ipa_AmE": "AmE /ˈɹʌn ˈɔf ɹɪˈkwɑɪɹmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "valuation memorandum",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn məˈmɒrændəm/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˌmɛmɚˈændəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fairness opinion",
+   "ipa_brE": "BrE /ˌfeənəs əˈpɪnjən/",
+   "ipa_AmE": "AmE /ˈfɛɹnəs əˈpɪnjən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation report",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn rɪˌpɔːt/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "reliance letter",
+   "ipa_brE": "BrE /rɪˈlaɪəns ˌletə(r)/",
+   "ipa_AmE": "AmE /ɹɪˈlɑɪəns ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value in use",
+   "ipa_brE": "BrE /ˈvæljuː ɪn ˈjuːz/",
+   "ipa_AmE": "AmE /ˈvælju ɪn ˈjus/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "recoverable amount",
+   "ipa_brE": "BrE /rɪˈkʌvərəbl əˈmaʊnt/",
+   "ipa_AmE": "AmE /ɹɪˈkʌvɚəbəl əˈmàʊnt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk-free rate",
+   "ipa_brE": "BrE /ˈrɪsk friː reɪt/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈfɹi ˈɹéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "equity risk premium",
+   "ipa_brE": "BrE /ˈekwəti rɪsk ˌpriːmiəm/",
+   "ipa_AmE": "AmE /ˈɛkwəti ˈɹɪsk ˈpɹimiəm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "beta",
+   "ipa_brE": "BrE /ˈbiːtə/",
+   "ipa_AmE": "AmE /ˈbéɪtə/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "unlevered beta",
+   "ipa_brE": "BrE /ʌnˈlevəd ˈbiːtə/",
+   "ipa_AmE": "AmE /ʌˈnlɛvəd ˈbéɪtə/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "size premium",
+   "ipa_brE": "BrE /ˈsaɪz ˌpriːmiəm/",
+   "ipa_AmE": "AmE /ˈsɑɪz ˈpɹimiəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "model risk",
+   "ipa_brE": "BrE /ˈmɒdl rɪsk/",
+   "ipa_AmE": "AmE /ˈmɑdəl ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "model validation",
+   "ipa_brE": "BrE /ˈmɒdl ˌvælɪˈdeɪʃn/",
+   "ipa_AmE": "AmE /ˈmɑdəl ˌvæləˈdéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "opinion",
+   "ipa_brE": "BrE /əˈpɪnjən/",
+   "ipa_AmE": "AmE /əˈpɪnjən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "reasonableness",
+   "ipa_brE": "BrE /ˈriːzənəblnəs/",
+   "ipa_AmE": "AmE /ˈɹiznəˌbʌlnəs/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "valuation conclusion",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn kənˈkluːʒn/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən kəˈnkluʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation multiple",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn ˈmʌltɪpl/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "discount rate build",
+   "ipa_brE": "BrE /ˈdɪskaʊnt reɪt bɪld/",
+   "ipa_AmE": "AmE /dɪˈskàʊnt ˈɹéɪt ˈbɪld/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "present value",
+   "ipa_brE": "BrE /ˈpreznt ˌvæljuː/",
+   "ipa_AmE": "AmE /ˈpɹɛzənt ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "future value",
+   "ipa_brE": "BrE /ˌfjuːtʃə ˈvæljuː/",
+   "ipa_AmE": "AmE /ˈfjutʃɚ ˈvælju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "equivalent annual cost",
+   "ipa_brE": "BrE /ɪˌkwɪvələnt ˈænjuəl kɒst/",
+   "ipa_AmE": "AmE /ɪˈkwɪvələnt ˈænjuəl ˈkɑst/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "value driver tree",
+   "ipa_brE": "BrE /ˈvæljuː ˌdraɪvə triː/",
+   "ipa_AmE": "AmE /ˈvælju ˈdɹɑɪvɚ ˈtɹi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "implied multiple",
+   "ipa_brE": "BrE /ɪmˈplaɪd ˈmʌltɪpl/",
+   "ipa_AmE": "AmE /ˌɪˈmplɑɪd ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation date convention",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn deɪt kənˈvenʃn/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˈdéɪt kəˈnvɛnʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "adjusted net asset",
+   "ipa_brE": "BrE /əˈdʒʌstd ˌnet ˈæset/",
+   "ipa_AmE": "AmE /əˈdʒʌstɪd ˈnɛt ˈæˌsɛt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "passive minority stake",
+   "ipa_brE": "BrE /ˌpæsɪv maɪˌnaɪrəti steɪk/",
+   "ipa_AmE": "AmE /ˈpæsɪv mɑɪˈnɔɹəti ˈstéɪk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "operating metric",
+   "ipa_brE": "BrE /ˈɒpəreɪtɪŋ ˌmetrɪk/",
+   "ipa_AmE": "AmE /ˈɑpɚˌéɪtɪŋ ˈmɛtɹɪk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "peer multiple",
+   "ipa_brE": "BrE /ˈpɪə ˈmʌltɪpl/",
+   "ipa_AmE": "AmE /ˈpɪɹ ˈmʌltəpəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control adjustment",
+   "ipa_brE": "BrE /kənˈtrəʊl əˈdʒʌstmənt/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl əˈdʒʌstmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "model ownership",
+   "ipa_brE": "BrE /ˈmɒdl ˌəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈmɑdəl ˈoʊnɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "assumption cell",
+   "ipa_brE": "BrE /əˈsʌmpʃn sel/",
+   "ipa_AmE": "AmE /əˈsʌmpʃən ˈsɛl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation bridge",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn breɪdʒ/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˈbɹɪdʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "valuation sensitivity",
+   "ipa_brE": "BrE /ˌvæljuˈeɪʃn ˌsensəˈtɪvəti/",
+   "ipa_AmE": "AmE /væljuˈéɪʃən ˌsɛnsɪˈtɪvɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  }
+ ],
+ "m11": [
+  {
+   "word": "listed company",
+   "ipa_brE": "BrE /ˌlɪstɪd ˈkʌmpəni/",
+   "ipa_AmE": "AmE /ˈlɪstəd ˈkʌmpəˌni/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclosure duty",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə ˌdjuːti/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ ˈduti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regulatory filing",
+   "ipa_brE": "BrE /ˈreɡjələtəri ˌfaɪlɪŋ/",
+   "ipa_AmE": "AmE /ˈɹɛɡjələˌtɔɹi ˈfɑɪlɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annual report",
+   "ipa_brE": "BrE /ˈænjuəl rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈænjuəl ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "half-year report",
+   "ipa_brE": "BrE /ˌhɑːf jɪə rɪˌpɔːt/",
+   "ipa_AmE": "AmE /ˈhæf ˈjɪɹ ɹiˈpɔɹt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "inside information",
+   "ipa_brE": "BrE /ɪnˌsaɪd ˌɪnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑɪd ˌɪnfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "material non-public information",
+   "ipa_brE": "BrE /məˌtɪəriəl nɒn ˈpʌblɪk ˌɪnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl ˈnɑn ˈpʌblɪk ˌɪnfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "disclosure committee",
+   "ipa_brE": "BrE /dɪsˈkləʊʒə kəˌmɪti/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ kəˈmɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shareholding disclosure",
+   "ipa_brE": "BrE /ˈʃeəhəʊldɪŋ dɪsˌkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɪŋ dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market abuse",
+   "ipa_brE": "BrE /ˈmɑːkɪt əˌbjuːz/",
+   "ipa_AmE": "AmE /ˈmɑɹkət əˈbjus/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "insider dealing",
+   "ipa_brE": "BrE /ˈɪnsaɪdə(r) ˌdiːlɪŋ/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑɪdɚ ˈdilɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "fair disclosure",
+   "ipa_brE": "BrE /ˌfeə dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈfɛɹ dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stock exchange",
+   "ipa_brE": "BrE /ˈstɒk ɪksˌtʃeɪndʒ/",
+   "ipa_AmE": "AmE /ˈstɑk ɪˈkstʃéɪndʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "listing rules",
+   "ipa_brE": "BrE /ˈlɪstɪŋ ruːz/",
+   "ipa_AmE": "AmE /ˈlɪstɪŋ ˈɹulz/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "continuous disclosure",
+   "ipa_brE": "BrE /kənˌtɪnjuəs dɪsˈkləʊʒə(r)/",
+   "ipa_AmE": "AmE /kəˈntɪnjuəs dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "earnings announcement",
+   "ipa_brE": "BrE /ˈɜːnɪŋz əˈnaʊnsmənt/",
+   "ipa_AmE": "AmE /ˈɝnɪŋz əˈnàʊnsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "results presentation",
+   "ipa_brE": "BrE /rɪˈzʌlts ˌprezənˈteɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˈzʌlts ˌpɹɛzəˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "revenue guidance",
+   "ipa_brE": "BrE /ˈrevənjuː ˌɡaɪdns/",
+   "ipa_AmE": "AmE /ˈɹɛvəˌnu ˈɡɑɪdəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "profit warning",
+   "ipa_brE": "BrE /ˈprɒfɪt ˈwɔːnɪŋ/",
+   "ipa_AmE": "AmE /ˈpɹɑfət ˈwɔɹnɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "trading halt",
+   "ipa_brE": "BrE /ˈtreɪdɪŋ hɔːlt/",
+   "ipa_AmE": "AmE /ˈtɹéɪdɪŋ ˈhɔlt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "index inclusion",
+   "ipa_brE": "BrE /ˈɪndeks ɪnˌkluːʒn/",
+   "ipa_AmE": "AmE /ˈɪndɛks ˌɪˈnkluʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "index exclusion",
+   "ipa_brE": "BrE /ˈɪndeks ɪkˈskluːʒn/",
+   "ipa_AmE": "AmE /ˈɪndɛks ɪˈkskluʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "free float",
+   "ipa_brE": "BrE /ˌfriː fləʊt/",
+   "ipa_AmE": "AmE /ˈfɹi ˈfloʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shareholder register",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə(r) ˌredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proxy statement",
+   "ipa_brE": "BrE /ˈprɒksi ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈpɹɑksi ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "annual general meeting",
+   "ipa_brE": "BrE /ˌænjuəl ˈdʒenrəl ˈmiːtɪŋ/",
+   "ipa_AmE": "AmE /ˈænjuəl ˈdʒɛnɹəl ˈmitɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "resolution",
+   "ipa_brE": "BrE /ˌrezəˈluːʃn/",
+   "ipa_AmE": "AmE /ˌɹɛzəˈluʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "shareholder vote",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə(r) vəʊt/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ ˈvoʊt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "quorum",
+   "ipa_brE": "BrE /ˈkwɔːrəm/",
+   "ipa_AmE": "AmE /ˈkwɔɹəm/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "activist shareholder",
+   "ipa_brE": "BrE /ˈæktɪvɪst ˈʃeəhəʊldə(r)/",
+   "ipa_AmE": "AmE /ˈæktəvəst ˈʃɛˌɹhoʊldɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board of directors",
+   "ipa_brE": "BrE /bɔːd əv dəˌrektəz/",
+   "ipa_AmE": "AmE /ˈbɔɹd ˈʌv dɚˈɛktɚz/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "non-executive director",
+   "ipa_brE": "BrE /ˌnɒn ɪɡˈzekjuːtɪv dəˌrektə(r)/",
+   "ipa_AmE": "AmE /ˈnɑn ɪˈɡzɛkjətɪv dɚˈɛktɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "audit committee chair",
+   "ipa_brE": "BrE /ˈɔːdɪt kəˌmɪti tʃeə(r)/",
+   "ipa_AmE": "AmE /ˈɔdɪt kəˈmɪti ˈtʃɛɹ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "independent director",
+   "ipa_brE": "BrE /ˌɪndɪˈpendənt dəˌrektə(r)/",
+   "ipa_AmE": "AmE /ˌɪndɪˈpɛndənt dɚˈɛktɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "committee chair",
+   "ipa_brE": "BrE /kəˈmɪtiːt tʃeə(r)/",
+   "ipa_AmE": "AmE /kəˈmɪti ˈtʃɛɹ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "chair's statement",
+   "ipa_brE": "BrE /tʃez ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /tʃɛz ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "chief financial officer",
+   "ipa_brE": "BrE /tʃaɪf ˈfaɪnænʃl ˈɒfɪsə(r)/",
+   "ipa_AmE": "AmE /ˈtʃif fəˈnænʃəl ˈɔfəsɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "finance director",
+   "ipa_brE": "BrE /faɪˈnæns dəˌrektə(r)/",
+   "ipa_AmE": "AmE /fəˈnæns dɚˈɛktɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "remuneration",
+   "ipa_brE": "BrE /rɪˌmjuːnəˈreɪʃn/",
+   "ipa_AmE": "AmE /ɹɪˌmjunɚˈéɪʃən/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "remuneration committee",
+   "ipa_brE": "BrE /rɪˌmjuːnəˈreɪʃn kəˌmɪti/",
+   "ipa_AmE": "AmE /ɹɪˌmjunɚˈéɪʃən kəˈmɪti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pay ratio",
+   "ipa_brE": "BrE /ˈpeɪ ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈpéɪ ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pension scheme",
+   "ipa_brE": "BrE /ˈpenʃn skiːm/",
+   "ipa_AmE": "AmE /ˈpɛnʃən ˈskim/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "funding ratio",
+   "ipa_brE": "BrE /ˈfʌndɪŋ ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈfʌndɪŋ ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "contribution rate",
+   "ipa_brE": "BrE /kənˌtrɪbjuːʃn reɪt/",
+   "ipa_AmE": "AmE /ˌkɑntɹəˈbjuʃən ˈɹéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market capitalisation threshold",
+   "ipa_brE": "BrE /ˌmɑːkɪt kəˌpɪtəlaɪˈzeɪʃn ˈθreʃhəʊld/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˌkæpɪtəlɪˈzéɪʃən ˈθɹɛˌʃoʊld/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial calendar",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈkælɪndə(r)/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈkæləndɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consolidation of accounts",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪʃn əv əˈkaʊnts/",
+   "ipa_AmE": "AmE /kəˌnsɑləˈdéɪʃən ˈʌv əˈkàʊnts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial statement publication",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈsteɪtmənt ˌpʌblɪˈkeɪʃn/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈstéɪtmənt ˌpʌblɪˈkéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "issuer",
+   "ipa_brE": "BrE /ˈɪʃuːzə(r)/",
+   "ipa_AmE": "AmE /ˈɪʃuɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "subscription period",
+   "ipa_brE": "BrE /səbˈskrɪpʃn ˌpɪəriəd/",
+   "ipa_AmE": "AmE /səˈbskɹɪpʃən ˈpɪɹiəd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "allotment letter",
+   "ipa_brE": "BrE /əˈlɒtmənt ˌletə(r)/",
+   "ipa_AmE": "AmE /əˈlɑtmənt ˈlɛtɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interim dividend",
+   "ipa_brE": "BrE /ˌɪntərɪm ˈdɪvɪdend/",
+   "ipa_AmE": "AmE /ˈɪntɚəm ˈdɪvɪˌdɛnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "scrip dividend",
+   "ipa_brE": "BrE /skrɪp ˈdɪvɪdend/",
+   "ipa_AmE": "AmE /ˈskɹɪp ˈdɪvɪˌdɛnd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capitalisation issue",
+   "ipa_brE": "BrE /ˌkæpɪtəlaɪˈzeɪʃn ˈɪʃuː/",
+   "ipa_AmE": "AmE /ˌkæpɪtəlɪˈzéɪʃən ˈɪʃu/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "prospectus duty",
+   "ipa_brE": "BrE /prəˈspektəs ˈdjuːti/",
+   "ipa_AmE": "AmE /pɹəˈspɛktəs ˈduti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "listing date",
+   "ipa_brE": "BrE /ˈlɪstɪŋ deɪt/",
+   "ipa_AmE": "AmE /ˈlɪstɪŋ ˈdéɪt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "market maker",
+   "ipa_brE": "BrE /ˈmɑːkɪt ˌmeɪkə(r)/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈméɪkɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidity provider",
+   "ipa_brE": "BrE /lɪˈkwɪdəti prəˈvaɪdə(r)/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti pɹəˈvɑɪdɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share price",
+   "ipa_brE": "BrE /ˈʃeə praɪs/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "share price volatility",
+   "ipa_brE": "BrE /ˈʃeə praɪs ˌvɒləˈtɪləti/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈpɹɑɪs ˌvɑləˈtɪləti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "closing price",
+   "ipa_brE": "BrE /ˈkləʊzɪŋ praɪs/",
+   "ipa_AmE": "AmE /ˈkloʊzɪŋ ˈpɹɑɪs/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intraday",
+   "ipa_brE": "BrE /ˌɪntrəˈdeɪ/",
+   "ipa_AmE": "AmE /ˌɪntɹəˈdéɪ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "bid-offer spread",
+   "ipa_brE": "BrE /ˌbɪd ˈɒfə spred/",
+   "ipa_AmE": "AmE /ˈbɪd ˈɔfɚ ˈspɹɛd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "market maker obligation",
+   "ipa_brE": "BrE /ˈmɑːkɪt ˌmeɪkə(r) əˌblɪɡeɪʃn/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈméɪkɚ ˌɑbləˈɡéɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "investor relations material",
+   "ipa_brE": "BrE /ɪnˈvestə(r) rɪˈleɪʃnz məˌtɪəriəl/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstɚ ɹiˈléɪʃənz məˈtɪɹiəl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "shareholder engagement",
+   "ipa_brE": "BrE /ˈʃeəhəʊldə(r) ɪnˈɡeɪdʒmənt/",
+   "ipa_AmE": "AmE /ˈʃɛˌɹhoʊldɚ ɛˈnɡéɪdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "proxy adviser",
+   "ipa_brE": "BrE /ˈprɒksi ədˌvaɪzə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɑksi æˈdvɑɪzɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "institutional investor",
+   "ipa_brE": "BrE /ˌɪnstɪˈtjuːʃənəl ɪnˈvestə(r)/",
+   "ipa_AmE": "AmE /ˌɪnstɪˈtuʃənəl ˌɪˈnvɛstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "retail shareholder",
+   "ipa_brE": "BrE /ˈriːteɪl ˈʃeəhəʊldə(r)/",
+   "ipa_AmE": "AmE /ˈɹiˌtéɪl ˈʃɛˌɹhoʊldɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "treasury policy statement",
+   "ipa_brE": "BrE /ˈtreʒəri ˌpɒləsi ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈtɹɛʒɚi ˈpɑləsi ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "capital expenditure guidance",
+   "ipa_brE": "BrE /ˈkæpɪtl ɪkˈspendɪtʃə(r) ˈɡaɪdns/",
+   "ipa_AmE": "AmE /ˈkæpətəl ɪˈkspɛndətʃɚ ˈɡɑɪdəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cost reduction programme",
+   "ipa_brE": "BrE /ˌkɒst rɪˈdʌkʃn ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ˈkɑst ɹəˈdʌkʃən ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "headcount reduction",
+   "ipa_brE": "BrE /ˈhedkaʊnt rɪˌdʌkʃn/",
+   "ipa_AmE": "AmE /ˈhɛˌdkàʊnt ɹəˈdʌkʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "restructuring provision",
+   "ipa_brE": "BrE /ˌriːˈstrʌktʃərɪŋ prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ɹiˈstɹʌktʃɚɪŋ pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "one-off charge",
+   "ipa_brE": "BrE /ˌwʌn ɒf tʃɑːdʒ/",
+   "ipa_AmE": "AmE /ˈwʌn ˈɔf ˈtʃɑɹdʒ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "exceptional item",
+   "ipa_brE": "BrE /ɪkˈsepʃənəl ˈaɪtəm/",
+   "ipa_AmE": "AmE /ɪˈksɛpʃənəl ˈɑɪtəm/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "clean-up provision",
+   "ipa_brE": "BrE /ˌkliːn ʌp prəˈvɪʒn/",
+   "ipa_AmE": "AmE /ˈklin ˈʌp pɹəˈvɪʒən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "market share disclosure",
+   "ipa_brE": "BrE /ˈmɑːkɪt ʃeə dɪsˌkləʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈmɑɹkət ˈʃɛɹ dɪˈskloʊʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "regulated market",
+   "ipa_brE": "BrE /ˌreɡjuˈleɪtɪd ˈmɑːkɪt/",
+   "ipa_AmE": "AmE /ˈɹɛɡjəˌléɪtɪd ˈmɑɹkət/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "regulated information",
+   "ipa_brE": "BrE /ˌreɡjuˈleɪtɪd ˌɪnfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈɹɛɡjəˌléɪtɪd ˌɪnfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "inside information log",
+   "ipa_brE": "BrE /ɪnˌsaɪd ˌɪnfəˈmeɪʃn lɒɡ/",
+   "ipa_AmE": "AmE /ˌɪˈnsɑɪd ˌɪnfɚˈméɪʃən ˈlɔɡ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "confidential announcement",
+   "ipa_brE": "BrE /kənˌfɪdenʃl əˈnaʊnsmənt/",
+   "ipa_AmE": "AmE /ˌkɑnfəˈdɛnʃəl əˈnàʊnsmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "embargo",
+   "ipa_brE": "BrE /ɪmˈbɑːɡəʊ/",
+   "ipa_AmE": "AmE /ɛˈmbɑɹɡoʊ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "leak",
+   "ipa_brE": "BrE /liːk/",
+   "ipa_AmE": "AmE /ˈlik/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "rumour",
+   "ipa_brE": "BrE /ˈruːmə(r)/",
+   "ipa_AmE": "AmE /ˈɹumɚ/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "announcement timetable",
+   "ipa_brE": "BrE /əˈnaʊnsmənt ˈtaɪmteɪbl/",
+   "ipa_AmE": "AmE /əˈnàʊnsmənt ˈtɑɪˌmtéɪbəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "disclosure of results",
+   "ipa_brE": "BrE /dɪsˌkləʊʒəv əv rɪˈzʌlts/",
+   "ipa_AmE": "AmE /dɪˈskloʊʒɚ ˈʌv ɹɪˈzʌlts/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "preliminary results",
+   "ipa_brE": "BrE /prɪˈlɪmɪnəri rɪˈzʌlts/",
+   "ipa_AmE": "AmE /pɹɪˈlɪməˌnɛɹi ɹɪˈzʌlts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "seasonal trading update",
+   "ipa_brE": "BrE /ˌsiːzənl ˈtreɪdɪŋ ʌpˌdeɪt/",
+   "ipa_AmE": "AmE /ˈsizənəl ˈtɹéɪdɪŋ əˈpdéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "share buyback programme",
+   "ipa_brE": "BrE /ˈʃeə ˈbaɪbæk ˌprəʊɡræm/",
+   "ipa_AmE": "AmE /ˈʃɛɹ ˈbɑɪˌbæk ˈpɹoʊˌɡɹæm/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  }
+ ],
+ "m12": [
+  {
+   "word": "financial strategy",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈstrætədʒi/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic finance",
+   "ipa_brE": "BrE /strəˌtiːdʒɪk faɪˈnæns/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk fəˈnæns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "value creation",
+   "ipa_brE": "BrE /ˌvæljuː kriˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈvælju kɹiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cash generation",
+   "ipa_brE": "BrE /ˈkæʃ ˌdʒenəˈreɪʃn/",
+   "ipa_AmE": "AmE /ˈkæʃ ˌdʒɛnɚˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "funding strategy",
+   "ipa_brE": "BrE /ˈfʌndɪŋ ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ˈfʌndɪŋ ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "capital allocation policy",
+   "ipa_brE": "BrE /ˌkæpɪtl əˌlɒkˈeɪʃn ˌpɒləsi/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˌæləˈkéɪʃən ˈpɑləsi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial objective",
+   "ipa_brE": "BrE /faɪˈnænʃl əbˈdʒektɪv/",
+   "ipa_AmE": "AmE /fəˈnænʃəl əˈbdʒɛktɪv/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "return on investment target",
+   "ipa_brE": "BrE /rɪˌtɜːn ɒn ɪnˈvestmənt ˌtɑːɡɪt/",
+   "ipa_AmE": "AmE /ɹɪˈtɝn ˈɑn ˌɪˈnvɛstmənt ˈtɑɹɡət/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "growth strategy",
+   "ipa_brE": "BrE /ɡrəʊθ ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˈɡɹoʊθ ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "profitability improvement",
+   "ipa_brE": "BrE /ˌprɒfɪtəˈbɪləti ɪmˈpruːvmənt/",
+   "ipa_AmE": "AmE /ˌpɹɑfɪtəˈbɪlɪti ˌɪˈmpɹuvmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost leadership",
+   "ipa_brE": "BrE /kɒst ˌliːdəʃɪp/",
+   "ipa_AmE": "AmE /ˈkɑst ˈlidɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "differentiation strategy",
+   "ipa_brE": "BrE /ˌdɪfərenʃiˈeɪʃn ˈstrætədʒi/",
+   "ipa_AmE": "AmE /dɪfɚˌɛnʃiˈéɪʃən ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "focus strategy",
+   "ipa_brE": "BrE /ˈfəʊkəs ˈstrætədʒi/",
+   "ipa_AmE": "AmE /ˈfoʊkəs ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "strategic trade-off",
+   "ipa_brE": "BrE /strəˌtiːdʒɪk ˈtreɪd ɒf/",
+   "ipa_AmE": "AmE /stɹəˈtidʒɪk ˈtɹéɪd ˈɔf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "balance sheet strategy",
+   "ipa_brE": "BrE /ˈbæləns ʃiːt strəˈtætədʒi/",
+   "ipa_AmE": "AmE /ˈbæləns ˈʃit ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "capital strategy",
+   "ipa_brE": "BrE /ˈkæpɪtl ˌstrætədʒi/",
+   "ipa_AmE": "AmE /ˈkæpətəl ˈstɹætədʒi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "board reporting",
+   "ipa_brE": "BrE /ˈbɔːd rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈbɔɹd ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "executive summary",
+   "ipa_brE": "BrE /ɪɡˈzekjətɪv ˈsʌməri/",
+   "ipa_AmE": "AmE /ɪˈɡzɛkjətɪv ˈsʌmɚi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "key message",
+   "ipa_brE": "BrE /ˈkiː ˈmesɪdʒ/",
+   "ipa_AmE": "AmE /ˈki ˈmɛsədʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial narrative coherence",
+   "ipa_brE": "BrE /faɪˈnænʃl ˌnærətɪv kəʊˈhiərəns/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈnæɹətɪv koʊˈhɪɹəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "forward-looking statement",
+   "ipa_brE": "BrE /ˌfɔːwəd ˈlʊkɪŋ ˈsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈfɔɹwɚd ˈlʊkɪŋ ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "material uncertainty",
+   "ipa_brE": "BrE /məˌtɪəriəl ʌnˈsɜːtnti/",
+   "ipa_AmE": "AmE /məˈtɪɹiəl əˈnsɝtənti/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "going concern assessment",
+   "ipa_brE": "BrE /ˌɡəʊɪŋ kənˈsɜːn əˌsesmənt/",
+   "ipa_AmE": "AmE /ˈɡoʊɪŋ kəˈnsɝn əˈsɛsmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financing decision",
+   "ipa_brE": "BrE /ˈfaɪnənsɪŋ dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /fəˈnænsɪŋ dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "investment decision",
+   "ipa_brE": "BrE /ɪnˈvestmənt dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˌɪˈnvɛstmənt dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "pricing decision",
+   "ipa_brE": "BrE /ˈpraɪsɪŋ dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˈpɹɑɪsɪŋ dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "cost decision",
+   "ipa_brE": "BrE /kɒst dɪˌsɪʒn/",
+   "ipa_AmE": "AmE /ˈkɑst dɪˈsɪʒən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "decision paper",
+   "ipa_brE": "BrE /dɪˈsɪʒn ˌpeɪpə(r)/",
+   "ipa_AmE": "AmE /dɪˈsɪʒən ˈpéɪpɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial rationale",
+   "ipa_brE": "BrE /faɪˈnænʃl ˌræʃəˈnɑːl/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˌɹæʃəˈnæl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "number one priority",
+   "ipa_brE": "BrE /ˌnʌmbə wʌn praɪˈɒrəti/",
+   "ipa_AmE": "AmE /ˈnʌmbɚ ˈwʌn pɹɑɪˈɔɹəti/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial trade-off",
+   "ipa_brE": "BrE /faɪˈnænʃl ˈtreɪd ɒf/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈtɹéɪd ˈɔf/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "cash flow statement",
+   "ipa_brE": "BrE /ˈkæʃ fləʊ ˌsteɪtmənt/",
+   "ipa_AmE": "AmE /ˈkæʃ ˈfloʊ ˈstéɪtmənt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "profit and loss account",
+   "ipa_brE": "BrE /ˌprɒfɪt ən ˈlɒs əˌkaʊnt/",
+   "ipa_AmE": "AmE /ˈpɹɑfət ənd ˈlɔs əˈkàʊnt/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "balance sheet date",
+   "ipa_brE": "BrE /ˈbæləns ʃiːt deɪt/",
+   "ipa_AmE": "AmE /ˈbæləns ˈʃit ˈdéɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial close process",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˈkləʊz ˌprəʊses/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈkloʊs ˈpɹɑˌsɛs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "ledger discipline",
+   "ipa_brE": "BrE /ˈledʒə(r) dɪˌsɪplɪn/",
+   "ipa_AmE": "AmE /ˈlɛdʒɚ ˈdɪsəplən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit-ready file",
+   "ipa_brE": "BrE /ˈɔːdɪt ˌredi faɪl/",
+   "ipa_AmE": "AmE /ˈɔdɪt ˈɹɛdi ˈfɑɪl/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial governance",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˌɡʌvənəns/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈɡʌvɚnəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "risk register",
+   "ipa_brE": "BrE /ˈrɪsk ˌredʒɪstə(r)/",
+   "ipa_AmE": "AmE /ˈɹɪsk ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "control owner",
+   "ipa_brE": "BrE /kənˈtrəʊl ˌəʊnə(r)/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ˈoʊnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "whistleblowing procedure",
+   "ipa_brE": "BrE /ˈwʌsəˌbləʊzɪŋ prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈwʌsəˌbloʊzɪŋ pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "1 part(s) from CMU"
+  },
+  {
+   "word": "financial misconduct",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˌmɪsˈkɒndʌkt/",
+   "ipa_AmE": "AmE /fəˈnænʃəl mɪˈskɑndəkt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "root cause correction",
+   "ipa_brE": "BrE /ˌruːt ˈkɔːz kəˈrekʃn/",
+   "ipa_AmE": "AmE /ˈɹut ˈkɑz kɚˈɛkʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "fraud deterrence",
+   "ipa_brE": "BrE /frɔːd dɪˈterəns/",
+   "ipa_AmE": "AmE /ˈfɹɔd dɪˈtɝəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "tone at the top",
+   "ipa_brE": "BrE /ˌtəʊn ət ðə ˈtɒp/",
+   "ipa_AmE": "AmE /ˈtoʊn ˈæt ðə ˈtɑp/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  },
+  {
+   "word": "ethical judgement",
+   "ipa_brE": "BrE /ˈeθɪkl ˈdʒʌdʒmənt/",
+   "ipa_AmE": "AmE /ˈɛθɪkəl ˈdʒʌdʒmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "transparency",
+   "ipa_brE": "BrE /trænsˈpærənsi/",
+   "ipa_AmE": "AmE /tɹæˈnspɛɹənsi/",
+   "source": "cmu",
+   "note": ""
+  },
+  {
+   "word": "narrative coherence",
+   "ipa_brE": "BrE /ˌnærətɪv kəʊˈhiərəns/",
+   "ipa_AmE": "AmE /ˈnæɹətɪv koʊˈhɪɹəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial transformation",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˌtrænsfəˈmeɪʃn/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˌtɹænsfɚˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "process standardisation",
+   "ipa_brE": "BrE /prəˈses ˌstændədaɪˈzeɪʃn/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛs stændɚdɪˈzéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "system implementation",
+   "ipa_brE": "BrE /ˈsɪstəm ˌɪmplɪmenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈsɪstəm ˌɪmpləmɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "data migration plan",
+   "ipa_brE": "BrE /ˈdeɪtə maɪˈɡreɪʃn plæn/",
+   "ipa_AmE": "AmE /ˈdéɪtə mɑɪˈɡɹéɪʃən ˈplæn/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "master data ownership",
+   "ipa_brE": "BrE /ˈmɑːstə ˌdeɪtə ˌəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈmæstɚ ˈdéɪtə ˈoʊnɚˌʃɪp/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "system ownership",
+   "ipa_brE": "BrE /ˈsɪstəm ˌəʊnəʃɪp/",
+   "ipa_AmE": "AmE /ˈsɪstəm ˈoʊnɚˌʃɪp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "process owner",
+   "ipa_brE": "BrE /ˈprəʊses ˌəʊnə(r)/",
+   "ipa_AmE": "AmE /ˈpɹɑˌsɛs ˈoʊnɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "shared service transition",
+   "ipa_brE": "BrE /ˌʃeəd ˈsɜːvɪs trænˈzɪʃn/",
+   "ipa_AmE": "AmE /ˈʃɛɹd ˈsɝvəs tɹæˈnzɪʃən/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "technology roadmap",
+   "ipa_brE": "BrE /tekˈnɒlədʒi ˌrəʊdmæp/",
+   "ipa_AmE": "AmE /tɛˈknɑlədʒi ˈɹoʊˌdmæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "automation roadmap",
+   "ipa_brE": "BrE /ˌɔːtəˈmeɪʃn ˌrəʊdmæp/",
+   "ipa_AmE": "AmE /ɔtəˈméɪʃən ˈɹoʊˌdmæp/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "self-service finance",
+   "ipa_brE": "BrE /ˌself ˈsɜːvɪs faɪˈnæns/",
+   "ipa_AmE": "AmE /ˈsɛlf ˈsɝvəs fəˈnæns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial data governance",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˈdeɪtə ˌɡʌvənəns/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈdéɪtə ˈɡʌvɚnəns/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "reporting standard",
+   "ipa_brE": "BrE /rɪˈpɔːtɪŋ ˈstændəd/",
+   "ipa_AmE": "AmE /ɹiˈpɔɹtɪŋ ˈstændɚd/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "close automation",
+   "ipa_brE": "BrE /kˈkləʊz ˌɔːtəˈmeɪʃn/",
+   "ipa_AmE": "AmE /ˈkloʊs ɔtəˈméɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "exception-based review",
+   "ipa_brE": "BrE /ɪkˈsepʃn beɪst rɪˈvjuː/",
+   "ipa_AmE": "AmE /ɪˈksɛpʃən ˈbéɪst ˌɹiˈvju/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "continuous improvement",
+   "ipa_brE": "BrE /ˌkɒntɪnjuəs ɪmˈpruːvmənt/",
+   "ipa_AmE": "AmE /kəˈntɪnjuəs ˌɪˈmpɹuvmənt/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "standard operating procedure",
+   "ipa_brE": "BrE /ˌstændəd ˈɒpəreɪtɪŋ prəˌsiːdʒə(r)/",
+   "ipa_AmE": "AmE /ˈstændɚd ˈɑpɚˌéɪtɪŋ pɹəˈsidʒɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "root cause reporting",
+   "ipa_brE": "BrE /ˌruːt ˈkɔːz rɪˌpɔːtɪŋ/",
+   "ipa_AmE": "AmE /ˈɹut ˈkɑz ɹiˈpɔɹtɪŋ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "benefit tracking sheet",
+   "ipa_brE": "BrE /ˈbenɪfɪt ˌtrækɪŋ ʃiːt/",
+   "ipa_AmE": "AmE /ˈbɛnəfɪt ˈtɹækɪŋ ˈʃit/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial transformation office",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˌtrænsfəˈmeɪʃn ˈɒfɪs/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˌtɹænsfɚˈméɪʃən ˈɔfɪs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "transformation sponsor",
+   "ipa_brE": "BrE /ˌtrænsfəˈmeɪʃn ˈspɒnsə(r)/",
+   "ipa_AmE": "AmE /ˌtɹænsfɚˈméɪʃən ˈspɑnsɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "programme governance",
+   "ipa_brE": "BrE /ˈprəʊɡræm ˌɡʌvənəns/",
+   "ipa_AmE": "AmE /ˈpɹoʊˌɡɹæm ˈɡʌvɚnəns/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial risk register",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˈrɪsk ˌredʒɪstə(r)/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈɹɪsk ˈɹɛdʒɪstɚ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "control testing",
+   "ipa_brE": "BrE /kənˈtrəʊl ˈtestɪŋ/",
+   "ipa_AmE": "AmE /kəˈntɹoʊl ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "issue remediation",
+   "ipa_brE": "BrE /ˈɪʃuː rɪˌmiːdiˈeɪʃn/",
+   "ipa_AmE": "AmE /ˈɪʃu ɹɪˌmidiˈéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial statement audit",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˈsteɪtmənt ˌɔːdɪt/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈstéɪtmənt ˈɔdɪt/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "internal review",
+   "ipa_brE": "BrE /ɪnˌtɜːnl rɪˈvjuː/",
+   "ipa_AmE": "AmE /ˌɪˈntɝnəl ˌɹiˈvju/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "management representation",
+   "ipa_brE": "BrE /ˌmænɪdʒmənt ˌreprɪzenˈteɪʃn/",
+   "ipa_AmE": "AmE /ˈmænədʒmənt ˌɹɛpɹəzɛˈntéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "audit completion",
+   "ipa_brE": "BrE /ˈɔːdɪt kəmˈpliːʃn/",
+   "ipa_AmE": "AmE /ˈɔdɪt kəˈmpliʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "financial reporting standard",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl rɪˈpɔːtɪŋ ˈstændəd/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ɹiˈpɔɹtɪŋ ˈstændɚd/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "consolidation policy",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪʃn ˈpɒləsi/",
+   "ipa_AmE": "AmE /kəˌnsɑləˈdéɪʃən ˈpɑləsi/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "group accounting",
+   "ipa_brE": "BrE /ˈɡruːp əˈkaʊntɪŋ/",
+   "ipa_AmE": "AmE /ˈɡɹup əˈkàʊntɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "statutory accounts",
+   "ipa_brE": "BrE /ˌstætjuːtri əˈkaʊnts/",
+   "ipa_AmE": "AmE /ˈstætʃəˌtɔɹi əˈkàʊnts/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "consolidation manual",
+   "ipa_brE": "BrE /kənˌsɒlɪˈdeɪʃn ˈmænjuəl/",
+   "ipa_AmE": "AmE /kəˌnsɑləˈdéɪʃən ˈmænjuəl/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "intercompany elimination",
+   "ipa_brE": "BrE /ˌɪntəˈkʌmpəni ɪˌlɪmɪˈneɪʃn/",
+   "ipa_AmE": "AmE /ˌɪntɚˈkʌmpəni ɪˌlɪməˈnéɪʃən/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "chart of process",
+   "ipa_brE": "BrE /ˈtʃɑːt əv ˈprəʊses/",
+   "ipa_AmE": "AmE /ˈtʃɑɹt ˈʌv ˈpɹɑˌsɛs/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial leverage",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˈliːvərɪdʒ/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈlɛvɚɪdʒ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "interest rate risk",
+   "ipa_brE": "BrE /ˈɪntrəst reɪt rɪsk/",
+   "ipa_AmE": "AmE /ˈɪntɹəst ˈɹéɪt ˈɹɪsk/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "liquidity risk",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl lɪˈkwɪdəti rɪsk/",
+   "ipa_AmE": "AmE /ˌfaɪˈnænʃl lɪˈkwɪdətɪ ɹɪsk/",
+   "source": "derived",
+   "note": "no CMU entry"
+  },
+  {
+   "word": "currency risk",
+   "ipa_brE": "BrE /ˈkʌrənsi rɪsk/",
+   "ipa_AmE": "AmE /ˈkɝənsi ˈɹɪsk/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "counterparty exposure",
+   "ipa_brE": "BrE /ˌkaʊntəˈpaːti ɪkˈspəʊʒə(r)/",
+   "ipa_AmE": "AmE /ˈkàʊntɚˌpɑɹti ɪˈkspoʊʒɚ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "stress testing",
+   "ipa_brE": "BrE /ˈstres testɪŋ/",
+   "ipa_AmE": "AmE /ˈstɹɛs ˈtɛstɪŋ/",
+   "source": "parts",
+   "note": "2 part(s) from CMU"
+  },
+  {
+   "word": "liquidity coverage ratio",
+   "ipa_brE": "BrE /lɪˌkwɪdəti ˈkʌvərɪdʒ ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /lɪˈkwɪdəti ˈkʌvɚədʒ ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "financial covenant headroom",
+   "ipa_brE": "BrE /ˌfaɪˈnænʃl ˈkʌvənənt ˈhedruːm/",
+   "ipa_AmE": "AmE /fəˈnænʃəl ˈkʌvənənt ˈhɛˌdɹum/",
+   "source": "parts",
+   "note": "3 part(s) from CMU"
+  },
+  {
+   "word": "debt service coverage ratio",
+   "ipa_brE": "BrE /ˌdet ˈsɜːvɪs ˌkʌvərɪdʒ ˌreɪʃiəʊ/",
+   "ipa_AmE": "AmE /ˈdɛt ˈsɝvəs ˈkʌvɚədʒ ˈɹéɪʃiˌoʊ/",
+   "source": "parts",
+   "note": "4 part(s) from CMU"
+  }
+ ]
+}

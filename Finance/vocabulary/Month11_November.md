@@ -1,0 +1,365 @@
+# Month 11 · November
+
+> **年度主题（阶段 11 / 共 12 阶段）**：上市公司、披露与资本市场（Public Markets, Disclosure & Markets）
+>
+> **Theme (EN)**：Public Markets, Disclosure & Capital Markets
+>
+> **Day 305 – Day 334** ｜ 本月 30 天 ｜ 90 个单词
+>
+> **难度**：B2–C1（牛津高阶 / 朗文当代 / 柯林斯高阶）
+
+---
+
+## 模块一 · 每日单词
+
+格式：`[英文单词/短语] → [英式音标] ｜ [美式音标] → [中文释义]`，两条音标各自带有 `BrE` / `AmE` 标识，例句以该词或其变体开头。
+
+| 标识 | 含义 | 依据 |
+| --- | --- | --- |
+| `BrE` | 英国英语（RP） | 牛津 / 朗文 / 柯林斯高阶词典 |
+| `AmE` | 美国英语（General American） | CMU 发音词典 |
+
+### Day 305　（November 1）
+
+1. **listed company** → `BrE /ˌlɪstɪd ˈkʌmpəni/` ｜ `AmE /ˈlɪstəd ˈkʌmpəˌni/` → 上市公司
+   例句：Listed companies trade the cost of attention for the cost of compliance.（上市公司用注意力的成本，交换合规的成本。）
+
+2. **disclosure duty** → `BrE /dɪsˈkləʊʒə ˌdjuːti/` ｜ `AmE /dɪˈskloʊʒɚ ˈduti/` → 披露义务
+   例句：Disclosure duties grow with size and with the number of shareholders.（披露义务随规模与股东数量一起增长。）
+
+3. **regulatory filing** → `BrE /ˈreɡjələtəri ˌfaɪlɪŋ/` ｜ `AmE /ˈɹɛɡjələˌtɔɹi ˈfɑɪlɪŋ/` → 监管申报
+   例句：Regulatory filings are read by a regulator and by nobody else.（监管申报只有监管会看，其他人都不看。）
+
+### Day 306　（November 2）
+
+1. **annual report** → `BrE /ˈænjuəl rɪˌpɔːt/` ｜ `AmE /ˈænjuəl ɹiˈpɔɹt/` → 年度报告
+   例句：Annual reports are read for the risk section and the pay report.（年报里真正被读的是风险章节与薪酬章节。）
+
+2. **half-year report** → `BrE /ˌhɑːf jɪə rɪˌpɔːt/` ｜ `AmE /ˈhæf ˈjɪɹ ɹiˈpɔɹt/` → 半年度报告
+   例句：Half-year reports are less reviewed and more scrutinised.（半年度报告的复核更少，受到的审视却更多。）
+
+3. **inside information** → `BrE /ɪnˌsaɪd ˌɪnfəˈmeɪʃn/` ｜ `AmE /ˌɪˈnsɑɪd ˌɪnfɚˈméɪʃən/` → 内幕信息
+   例句：Inside information restricts what you may say the moment you receive it.（内幕信息在你收到的瞬间，就限制了你可以说的话。）
+
+### Day 307　（November 3）
+
+1. **material non-public information** → `BrE /məˌtɪəriəl nɒn ˈpʌblɪk ˌɪnfəˈmeɪʃn/` ｜ `AmE /məˈtɪɹiəl ˈnɑn ˈpʌblɪk ˌɪnfɚˈméɪʃən/` → 重大非公开信息
+   例句：Material non-public information is defined by impact, not by your intent.（重大非公开信息由影响界定，而不是由你的意图界定。）
+
+2. **disclosure committee** → `BrE /dɪsˈkləʊʒə kəˌmɪti/` ｜ `AmE /dɪˈskloʊʒɚ kəˈmɪti/` → 披露委员会
+   例句：Disclosure committees should exist before you need one at midnight.（披露委员会应当在你某天深夜需要它之前就已存在。）
+
+3. **shareholding disclosure** → `BrE /ˈʃeəhəʊldɪŋ dɪsˌkləʊʒə(r)/` ｜ `AmE /ˈʃɛˌɹhoʊldɪŋ dɪˈskloʊʒɚ/` → 持股披露
+   例句：Shareholding disclosures change the price of a stake overnight.（持股披露会在一夜之间改变某笔股权的价格。）
+
+### Day 308　（November 4）
+
+1. **market abuse** → `BrE /ˈmɑːkɪt əˌbjuːz/` ｜ `AmE /ˈmɑɹkət əˈbjus/` → 市场滥用
+   例句：Market abuse rules apply to intent, not only to effect.（市场滥用规则看的是意图，不只是结果。）
+
+2. **insider dealing** → `BrE /ˈɪnsaɪdə(r) ˌdiːlɪŋ/` ｜ `AmE /ˌɪˈnsɑɪdɚ ˈdilɪŋ/` → 内幕交易
+   例句：Insider dealing convictions usually rest on who called whom.（内幕交易的定罪，通常依据“谁给谁打了电话”。）
+
+3. **fair disclosure** → `BrE /ˌfeə dɪsˈkləʊʒə(r)/` ｜ `AmE /ˈfɛɹ dɪˈskloʊʒɚ/` → 公平披露
+   例句：Fair disclosure means the same information reaches everyone at once.（公平披露意味着同一条信息同时到达所有人。）
+
+### Day 309　（November 5）
+
+1. **stock exchange** → `BrE /ˈstɒk ɪksˌtʃeɪndʒ/` ｜ `AmE /ˈstɑk ɪˈkstʃéɪndʒ/` → 证券交易所
+   例句：Stock exchanges set listing standards that directors then promise to meet.（交易所设定上市标准，随后由董事们承诺达标。）
+
+2. **listing rules** → `BrE /ˈlɪstɪŋ ruːz/` ｜ `AmE /ˈlɪstɪŋ ˈɹulz/` → 上市规则
+   例句：Listing rules are detailed for a reason nobody enjoys.（上市规则极其细致，这是有原因的，只是没人喜欢。）
+
+3. **continuous disclosure** → `BrE /kənˌtɪnjuəs dɪsˈkləʊʒə(r)/` ｜ `AmE /kəˈntɪnjuəs dɪˈskloʊʒɚ/` → 持续披露
+   例句：Continuous disclosure turns a quarter into a hundred reporting moments.（持续披露把一个季度变成了一百个报告时点。）
+
+### Day 310　（November 6）
+
+1. **earnings announcement** → `BrE /ˈɜːnɪŋz əˈnaʊnsmənt/` ｜ `AmE /ˈɝnɪŋz əˈnàʊnsmənt/` → 业绩公告
+   例句：Earnings announcements are read in the first minute and argued about for a week.（业绩公告在第一分钟被读完，随后被争论一整周。）
+
+2. **results presentation** → `BrE /rɪˈzʌlts ˌprezənˈteɪʃn/` ｜ `AmE /ɹɪˈzʌlts ˌpɹɛzəˈntéɪʃən/` → 业绩发布会
+   例句：Results presentations should prepare the question you do not want.（业绩发布会应当准备好那个你不想被问到的问题。）
+
+3. **revenue guidance** → `BrE /ˈrevənjuː ˌɡaɪdns/` ｜ `AmE /ˈɹɛvəˌnu ˈɡɑɪdəns/` → 收入指引
+   例句：Revenue guidance is a promise you will be held to twice a year.（收入指引是每年两次会被追责的承诺。）
+
+### Day 311　（November 7）
+
+1. **profit warning** → `BrE /ˈprɒfɪt ˈwɔːnɪŋ/` ｜ `AmE /ˈpɹɑfət ˈwɔɹnɪŋ/` → 盈利预警
+   例句：Profit warnings destroy value faster than the original problem.（盈利预警对价值的破坏，快于最初那个问题本身。）
+
+2. **trading halt** → `BrE /ˈtreɪdɪŋ hɔːlt/` ｜ `AmE /ˈtɹéɪdɪŋ ˈhɔlt/` → 停牌
+   例句：Trading halts remove the price while you explain the news.（停牌在你解释消息期间，把价格暂时移除。）
+
+3. **index inclusion** → `BrE /ˈɪndeks ɪnˌkluːʒn/` ｜ `AmE /ˈɪndɛks ˌɪˈnkluʒən/` → 指数纳入
+   例句：Index inclusion creates demand that is unrelated to your business.（指数纳入带来的需求，与你的生意本身毫无关系。）
+
+### Day 312　（November 8）
+
+1. **index exclusion** → `BrE /ˈɪndeks ɪkˈskluːʒn/` ｜ `AmE /ˈɪndɛks ɪˈkskluʒən/` → 指数剔除
+   例句：Index exclusions remove demand that shareholders never asked to lose.（指数剔除去掉了股东从未要求失去的需求。）
+
+2. **free float** → `BrE /ˌfriː fləʊt/` ｜ `AmE /ˈfɹi ˈfloʊt/` → 自由流通量
+   例句：Free float decides how much of your company can actually be bought.（自由流通量决定你的公司到底有多少可以被买到。）
+
+3. **shareholder register** → `BrE /ˈʃeəhəʊldə(r) ˌredʒɪstə(r)/` ｜ `AmE /ˈʃɛˌɹhoʊldɚ ˈɹɛdʒɪstɚ/` → 股东名册
+   例句：Shareholder registers decide who gets to vote and when.（股东名册决定谁有权投票，以及何时投票。）
+
+### Day 313　（November 9）
+
+1. **proxy statement** → `BrE /ˈprɒksi ˈsteɪtmənt/` ｜ `AmE /ˈpɹɑksi ˈstéɪtmənt/` → 委托投票说明书
+   例句：Proxy statements are where directors explain their own pay.（委托投票说明书是董事们解释自己薪酬的地方。）
+
+2. **annual general meeting** → `BrE /ˌænjuəl ˈdʒenrəl ˈmiːtɪŋ/` ｜ `AmE /ˈænjuəl ˈdʒɛnɹəl ˈmitɪŋ/` → 股东周年大会
+   例句：Annual general meetings are the only chance to question directors directly.（股东周年大会是唯一能直接质询董事的机会。）
+
+3. **resolution** → `BrE /ˌrezəˈluːʃn/` ｜ `AmE /ˌɹɛzəˈluʃən/` → 决议
+   例句：Resolutions passed by show of hands hide how few people attended.（以举手方式通过的决议，掩盖了实际到场人数之少。）
+
+### Day 314　（November 10）
+
+1. **shareholder vote** → `BrE /ˈʃeəhəʊldə(r) vəʊt/` ｜ `AmE /ˈʃɛˌɹhoʊldɚ ˈvoʊt/` → 股东表决
+   例句：Shareholder votes on pay are the clearest test of a remuneration committee.（股东对薪酬的表决，是薪酬委员会最清晰的试金石。）
+
+2. **quorum** → `BrE /ˈkwɔːrəm/` ｜ `AmE /ˈkwɔɹəm/` → 法定人数
+   例句：Quorum requirements set by companies rarely favour minorities.（由公司自己设定的法定人数条款，很少对少数股东有利。）
+
+3. **activist shareholder** → `BrE /ˈæktɪvɪst ˈʃeəhəʊldə(r)/` ｜ `AmE /ˈæktəvəst ˈʃɛˌɹhoʊldɚ/` → 激进股东
+   例句：Activist shareholders win by making a threat credible.（激进股东靠让威胁显得可信而取胜。）
+
+### Day 315　（November 11）
+
+1. **board of directors** → `BrE /bɔːd əv dəˌrektəz/` ｜ `AmE /ˈbɔɹd ˈʌv dɚˈɛktɚz/` → 董事会
+   例句：Boards of directors need one independent financial mind at minimum.（董事会至少需要一位具备独立财务判断力的成员。）
+
+2. **non-executive director** → `BrE /ˌnɒn ɪɡˈzekjuːtɪv dəˌrektə(r)/` ｜ `AmE /ˈnɑn ɪˈɡzɛkjətɪv dɚˈɛktɚ/` → 非执行董事
+   例句：Non-executive directors need information earlier, not more of it.（非执行董事需要的是更早拿到信息，而不是更多信息。）
+
+3. **audit committee chair** → `BrE /ˈɔːdɪt kəˌmɪti tʃeə(r)/` ｜ `AmE /ˈɔdɪt kəˈmɪti ˈtʃɛɹ/` → 审计委员会主席
+   例句：Audit committee chairs should be able to say no to the finance director.（审计委员会主席应当有底气对财务总监说不。）
+
+### Day 316　（November 12）
+
+1. **independent director** → `BrE /ˌɪndɪˈpendənt dəˌrektə(r)/` ｜ `AmE /ˌɪndɪˈpɛndənt dɚˈɛktɚ/` → 独立董事
+   例句：Independent directors are only independent in name unless they ask awkward questions.（独立董事只有真的提出尖锐问题时，才在名义之外真正独立。）
+
+2. **committee chair** → `BrE /kəˈmɪtiːt tʃeə(r)/` ｜ `AmE /kəˈmɪti ˈtʃɛɹ/` → 委员会主席
+   例句：Committee chairs decide what the committee is allowed to consider.（委员会主席决定了这个委员会“被允许考虑”什么。）
+
+3. **chair's statement** → `BrE /tʃez ˈsteɪtmənt/` ｜ `AmE /tʃɛz ˈstéɪtmənt/` → 主席致辞
+   例句：Chairs' statements are read once, so the numbers matter more than the prose.（主席致辞只被读一次，因此数字比文字更重要。）
+
+### Day 317　（November 13）
+
+1. **chief financial officer** → `BrE /tʃaɪf ˈfaɪnænʃl ˈɒfɪsə(r)/` ｜ `AmE /ˈtʃif fəˈnænʃəl ˈɔfəsɚ/` → 首席财务官
+   例句：Chief financial officers are judged on forecasts they actually gave.（首席财务官是按他们真实给出的预测来评判的。）
+
+2. **finance director** → `BrE /faɪˈnæns dəˌrektə(r)/` ｜ `AmE /fəˈnæns dɚˈɛktɚ/` → 财务总监
+   例句：Finance directors are the last to know, which is a design fault.（财务总监总是最后才知道，这是流程设计的缺陷。）
+
+3. **remuneration** → `BrE /rɪˌmjuːnəˈreɪʃn/` ｜ `AmE /ɹɪˌmjunɚˈéɪʃən/` → 薪酬；报酬
+   例句：Remuneration committees should compare jobs, not admire individuals.（薪酬委员会应当比较岗位，而不是欣赏个人。）
+
+### Day 318　（November 14）
+
+1. **remuneration committee** → `BrE /rɪˌmjuːnəˈreɪʃn kəˌmɪti/` ｜ `AmE /ɹɪˌmjunɚˈéɪʃən kəˈmɪti/` → 薪酬委员会
+   例句：Remuneration committees should hold the same evidence standard as audit committees.（薪酬委员会应当采用与审计委员会相同的证据标准。）
+
+2. **pay ratio** → `BrE /ˈpeɪ ˌreɪʃiəʊ/` ｜ `AmE /ˈpéɪ ˈɹéɪʃiˌoʊ/` → 薪酬比率
+   例句：Pay ratios flatter the average and hide the distribution underneath.（薪酬比率把平均数说得好听，却藏起了底下的分布。）
+
+3. **pension scheme** → `BrE /ˈpenʃn skiːm/` ｜ `AmE /ˈpɛnʃən ˈskim/` → 养老金计划
+   例句：Pension schemes are off-balance-sheet promises with a board attached.（养老金计划是带董事会的表外承诺。）
+
+### Day 319　（November 15）
+
+1. **funding ratio** → `BrE /ˈfʌndɪŋ ˌreɪʃiəʊ/` ｜ `AmE /ˈfʌndɪŋ ˈɹéɪʃiˌoʊ/` → 资金比率
+   例句：Funding ratios below one turn a scheme into a promise you may have to revise.（资金比率低于一，计划就变成了一份可能要修改的承诺。）
+
+2. **contribution rate** → `BrE /kənˌtrɪbjuːʃn reɪt/` ｜ `AmE /ˌkɑntɹəˈbjuʃən ˈɹéɪt/` → 缴费率
+   例句：Contribution rates are the one lever that moves a funding ratio fastest.（缴费率是能最快改善资金比率的杠杆。）
+
+3. **market capitalisation threshold** → `BrE /ˌmɑːkɪt kəˌpɪtəlaɪˈzeɪʃn ˈθreʃhəʊld/` ｜ `AmE /ˈmɑɹkət ˌkæpɪtəlɪˈzéɪʃən ˈθɹɛˌʃoʊld/` → 市值门槛
+   例句：Market capitalisation thresholds decide which disclosure regime applies to you.（市值门槛决定了哪一套披露规则适用于你。）
+
+### Day 320　（November 16）
+
+1. **financial calendar** → `BrE /faɪˈnænʃl ˈkælɪndə(r)/` ｜ `AmE /fəˈnænʃəl ˈkæləndɚ/` → 财务日历
+   例句：Financial calendars that ignore audit findings always slip the same two weeks.（无视审计发现的财务日历，总是在同样的两周上延期。）
+
+2. **consolidation of accounts** → `BrE /kənˌsɒlɪˈdeɪʃn əv əˈkaʊnts/` ｜ `AmE /kəˌnsɑləˈdéɪʃən ˈʌv əˈkàʊnts/` → 账目合并
+   例句：Consolidation of accounts should happen before anybody reads them separately.（账目合并应当在任何人单独阅读之前完成。）
+
+3. **financial statement publication** → `BrE /faɪˈnænʃl ˈsteɪtmənt ˌpʌblɪˈkeɪʃn/` ｜ `AmE /fəˈnænʃəl ˈstéɪtmənt ˌpʌblɪˈkéɪʃən/` → 财报发布
+   例句：Financial statement publication deadlines do not move for anybody's holiday.（财报发布截止日不会为任何人的假期而挪动。）
+
+### Day 321　（November 17）
+
+1. **issuer** → `BrE /ˈɪʃuːzə(r)/` ｜ `AmE /ˈɪʃuɚ/` → 发行人；发行方
+   例句：Issuers answer to regulators, investors and auditors at the same time.（发行人同时要对监管、投资者和审计师负责。）
+
+2. **subscription period** → `BrE /səbˈskrɪpʃn ˌpɪəriəd/` ｜ `AmE /səˈbskɹɪpʃən ˈpɪɹiəd/` → 认购期
+   例句：Subscription periods reward early certainty and punish late nerves.（认购期奖励早下的确定性，惩罚晚来的犹豫。）
+
+3. **allotment letter** → `BrE /əˈlɒtmənt ˌletə(r)/` ｜ `AmE /əˈlɑtmənt ˈlɛtɚ/` → 配售通知书
+   例句：Allotment letters are the moment a hope becomes a position.（配售通知书是“希望”变成“持仓”的那一刻。）
+
+### Day 322　（November 18）
+
+1. **interim dividend** → `BrE /ˌɪntərɪm ˈdɪvɪdend/` ｜ `AmE /ˈɪntɚəm ˈdɪvɪˌdɛnd/` → 中期股利
+   例句：Interim dividends buy patience from shareholders during a hard year.（中期股利在艰难年份为股东买到耐心。）
+
+2. **scrip dividend** → `BrE /skrɪp ˈdɪvɪdend/` ｜ `AmE /ˈskɹɪp ˈdɪvɪˌdɛnd/` → 以股代息
+   例句：Scrip dividends preserve cash and disappoint cash-focused shareholders.（以股代息保住了现金，却让只看现金的股东失望。）
+
+3. **capitalisation issue** → `BrE /ˌkæpɪtəlaɪˈzeɪʃn ˈɪʃuː/` ｜ `AmE /ˌkæpɪtəlɪˈzéɪʃən ˈɪʃu/` → 发行新股
+   例句：Capitalisation issues are usually described as technical.（发行新股通常被说成是“技术性”的操作。）
+
+### Day 323　（November 19）
+
+1. **prospectus duty** → `BrE /prəˈspektəs ˈdjuːti/` ｜ `AmE /pɹəˈspɛktəs ˈduti/` → 招股说明书义务
+   例句：Prospectus duty applies to what you knew when you signed it.（招股说明书的义务，适用于你签字当时你所知道的情况。）
+
+2. **listing date** → `BrE /ˈlɪstɪŋ deɪt/` ｜ `AmE /ˈlɪstɪŋ ˈdéɪt/` → 上市日期
+   例句：Listing dates turn a private valuation into a public one forever.（上市日期把私人估值永久地变成公开估值。）
+
+3. **market maker** → `BrE /ˈmɑːkɪt ˌmeɪkə(r)/` ｜ `AmE /ˈmɑɹkət ˈméɪkɚ/` → 做市商
+   例句：Market makers set the price you complain about when nobody else will.（做市商定下了那个“无人报价时你抱怨”的价格。）
+
+### Day 324　（November 20）
+
+1. **liquidity provider** → `BrE /lɪˈkwɪdəti prəˈvaɪdə(r)/` ｜ `AmE /lɪˈkwɪdəti pɹəˈvɑɪdɚ/` → 流动性提供方
+   例句：Liquidity providers are paid for being there when you are not.（流动性提供方获得回报，是因为你不在时他们还在。）
+
+2. **share price** → `BrE /ˈʃeə praɪs/` ｜ `AmE /ˈʃɛɹ ˈpɹɑɪs/` → 股价
+   例句：Share prices move on expectations and stay on cash flow.（股价因预期而波动，因现金流而停留。）
+
+3. **share price volatility** → `BrE /ˈʃeə praɪs ˌvɒləˈtɪləti/` ｜ `AmE /ˈʃɛɹ ˈpɹɑɪs ˌvɑləˈtɪləti/` → 股价波动
+   例句：Share price volatility makes every long-term plan look like a promise.（股价波动让每一份长期计划看起来都像一句承诺。）
+
+### Day 325　（November 21）
+
+1. **closing price** → `BrE /ˈkləʊzɪŋ praɪs/` ｜ `AmE /ˈkloʊzɪŋ ˈpɹɑɪs/` → 收盘价
+   例句：Closing prices are decided by the last person still holding.（收盘价是由最后还持有的人决定的。）
+
+2. **intraday** → `BrE /ˌɪntrəˈdeɪ/` ｜ `AmE /ˌɪntɹəˈdéɪ/` → 日内
+   例句：Intraday reads at 2 p.m. become guidance by the evening.（下午两点读到的消息，到晚上就成了业绩指引。）
+
+3. **bid-offer spread** → `BrE /ˌbɪd ˈɒfə spred/` ｜ `AmE /ˈbɪd ˈɔfɚ ˈspɹɛd/` → 买卖价差
+   例句：Bid-offer spreads widen exactly when liquidity is needed most.（买卖价差恰恰在最需要流动性的时候变宽。）
+
+### Day 326　（November 22）
+
+1. **market maker obligation** → `BrE /ˈmɑːkɪt ˌmeɪkə(r) əˌblɪɡeɪʃn/` ｜ `AmE /ˈmɑɹkət ˈméɪkɚ ˌɑbləˈɡéɪʃən/` → 做市商义务
+   例句：Market maker obligations are the price of continuous quoting.（做市商的持续报价义务，是它的代价。）
+
+2. **investor relations material** → `BrE /ɪnˈvestə(r) rɪˈleɪʃnz məˌtɪəriəl/` ｜ `AmE /ˌɪˈnvɛstɚ ɹiˈléɪʃənz məˈtɪɹiəl/` → 投资者关系材料
+   例句：Investor relations materials are read once by analysts and never by you.（投资者关系材料分析师读一遍，而你自己再也不会读。）
+
+3. **shareholder engagement** → `BrE /ˈʃeəhəʊldə(r) ɪnˈɡeɪdʒmənt/` ｜ `AmE /ˈʃɛˌɹhoʊldɚ ɛˈnɡéɪdʒmənt/` → 股东沟通
+   例句：Shareholder engagement saves more than any print campaign.（股东沟通比任何印刷宣传都更省钱。）
+
+### Day 327　（November 23）
+
+1. **proxy adviser** → `BrE /ˈprɒksi ədˌvaɪzə(r)/` ｜ `AmE /ˈpɹɑksi æˈdvɑɪzɚ/` → 代理投票顾问
+   例句：Proxy advisers move votes, which changes how meetings must be run.（代理投票顾问会影响投票，因此会议的运作方式必须改变。）
+
+2. **institutional investor** → `BrE /ˌɪnstɪˈtjuːʃənəl ɪnˈvestə(r)/` ｜ `AmE /ˌɪnstɪˈtuʃənəl ˌɪˈnvɛstɚ/` → 机构投资者
+   例句：Institutional investors vote their policy, not their preference.（机构投资者投的是自己的政策，而不是个人偏好。）
+
+3. **retail shareholder** → `BrE /ˈriːteɪl ˈʃeəhəʊldə(r)/` ｜ `AmE /ˈɹiˌtéɪl ˈʃɛˌɹhoʊldɚ/` → 散户股东
+   例句：Retail shareholders are numerous, patient and easily ignored.（散户股东人数众多、有耐心，也最容易被忽略。）
+
+### Day 328　（November 24）
+
+1. **treasury policy statement** → `BrE /ˈtreʒəri ˌpɒləsi ˈsteɪtmənt/` ｜ `AmE /ˈtɹɛʒɚi ˈpɑləsi ˈstéɪtmənt/` → 资金政策声明
+   例句：Treasury policy statements should say what the company will not do.（资金政策声明应当写明公司不会做什么。）
+
+2. **capital expenditure guidance** → `BrE /ˈkæpɪtl ɪkˈspendɪtʃə(r) ˈɡaɪdns/` ｜ `AmE /ˈkæpətəl ɪˈkspɛndətʃɚ ˈɡɑɪdəns/` → 资本开支指引
+   例句：Capital expenditure guidance is followed very literally by analysts.（资本开支指引会被分析师非常字面地解读。）
+
+3. **cost reduction programme** → `BrE /ˌkɒst rɪˈdʌkʃn ˌprəʊɡræm/` ｜ `AmE /ˈkɑst ɹəˈdʌkʃən ˈpɹoʊˌɡɹæm/` → 成本削减计划
+   例句：Cost reduction programmes are judged on whether they repeat.（成本削减计划要靠“能不能再来一次”来评判。）
+
+### Day 329　（November 25）
+
+1. **headcount reduction** → `BrE /ˈhedkaʊnt rɪˌdʌkʃn/` ｜ `AmE /ˈhɛˌdkàʊnt ɹəˈdʌkʃən/` → 人员缩减
+   例句：Headcount reductions are announced as efficiency and felt as betrayal.（人员缩减被宣称为效率，被感受为背叛。）
+
+2. **restructuring provision** → `BrE /ˌriːˈstrʌktʃərɪŋ prəˈvɪʒn/` ｜ `AmE /ɹiˈstɹʌktʃɚɪŋ pɹəˈvɪʒən/` → 重组准备
+   例句：Restructuring provisions should be cash-backed before announcement.（重组准备应当在宣布之前就有现金支持。）
+
+3. **one-off charge** → `BrE /ˌwʌn ɒf tʃɑːdʒ/` ｜ `AmE /ˈwʌn ˈɔf ˈtʃɑɹdʒ/` → 一次性费用
+   例句：One-off charges appear every year, which makes them recurring.（“一次性费用”年年出现，说明它是经常性的。）
+
+### Day 330　（November 26）
+
+1. **exceptional item** → `BrE /ɪkˈsepʃənəl ˈaɪtəm/` ｜ `AmE /ɪˈksɛpʃənəl ˈɑɪtəm/` → 特殊项目
+   例句：Exceptional items are ordinary costs wearing an unusual name.（特殊项目就是穿着奇怪名字的普通成本。）
+
+2. **clean-up provision** → `BrE /ˌkliːn ʌp prəˈvɪʒn/` ｜ `AmE /ˈklin ˈʌp pɹəˈvɪʒən/` → 清理准备
+   例句：Clean-up provisions shrink because nobody owns the underlying task.（清理准备之所以缩水，是因为没人负责那项底层工作。）
+
+3. **market share disclosure** → `BrE /ˈmɑːkɪt ʃeə dɪsˌkləʊʒə(r)/` ｜ `AmE /ˈmɑɹkət ˈʃɛɹ dɪˈskloʊʒɚ/` → 市场份额披露
+   例句：Market share disclosure without a definition is not comparable.（没有定义的市场份额披露，是无法比较的。）
+
+### Day 331　（November 27）
+
+1. **regulated market** → `BrE /ˌreɡjuˈleɪtɪd ˈmɑːkɪt/` ｜ `AmE /ˈɹɛɡjəˌléɪtɪd ˈmɑɹkət/` → 受监管市场
+   例句：Regulated markets carry obligations as well as liquidity.（受监管市场在带来流动性的同时，也带来义务。）
+
+2. **regulated information** → `BrE /ˌreɡjuˈleɪtɪd ˌɪnfəˈmeɪʃn/` ｜ `AmE /ˈɹɛɡjəˌléɪtɪd ˌɪnfɚˈméɪʃən/` → 受监管信息
+   例句：Regulated information carries a duty even when it is good news.（受监管信息即使是好消息，也附带披露义务。）
+
+3. **inside information log** → `BrE /ɪnˌsaɪd ˌɪnfəˈmeɪʃn lɒɡ/` ｜ `AmE /ˌɪˈnsɑɪd ˌɪnfɚˈméɪʃən ˈlɔɡ/` → 内幕信息台账
+   例句：Insider information logs are read by regulators, not by lawyers.（内幕信息台账是给监管看的，不是给律师看的。）
+
+### Day 332　（November 28）
+
+1. **confidential announcement** → `BrE /kənˌfɪdenʃl əˈnaʊnsmənt/` ｜ `AmE /ˌkɑnfəˈdɛnʃəl əˈnàʊnsmənt/` → 保密公告
+   例句：Confidential announcements leak unless the need-to-know list is enforced.（保密公告除非严格执行“知悉范围名单”，否则一定会泄漏。）
+
+2. **embargo** → `BrE /ɪmˈbɑːɡəʊ/` ｜ `AmE /ɛˈmbɑɹɡoʊ/` → 信息封锁期
+   例句：Embargoes work because everybody understands the penalty, not the principle.（信息封锁期之所以有效，是因为大家都懂后果，而不是原则。）
+
+3. **leak** → `BrE /liːk/` ｜ `AmE /ˈlik/` → 泄漏
+   例句：Leaks are almost always traced to one conversation, not one document.（泄密几乎总能追溯到一次对话，而不是一份文件。）
+
+### Day 333　（November 29）
+
+1. **rumour** → `BrE /ˈruːmə(r)/` ｜ `AmE /ˈɹumɚ/` → 传闻
+   例句：Rumours move share prices faster than announcements move them.（传闻推动股价的速度，快过正式公告。）
+
+2. **announcement timetable** → `BrE /əˈnaʊnsmənt ˈtaɪmteɪbl/` ｜ `AmE /əˈnàʊnsmənt ˈtɑɪˌmtéɪbəl/` → 公告时间表
+   例句：Announcement timetables are agreed by the company and its auditors.（公告时间表由公司与其审计师共同商定。）
+
+3. **disclosure of results** → `BrE /dɪsˌkləʊʒəv əv rɪˈzʌlts/` ｜ `AmE /dɪˈskloʊʒɚ ˈʌv ɹɪˈzʌlts/` → 业绩披露
+   例句：Disclosure of results should never be the first time anyone looks.（业绩披露绝不应是第一次有人真正查看。）
+
+### Day 334　（November 30）
+
+1. **preliminary results** → `BrE /prɪˈlɪmɪnəri rɪˈzʌlts/` ｜ `AmE /pɹɪˈlɪməˌnɛɹi ɹɪˈzʌlts/` → 初步业绩
+   例句：Preliminary results carry less assurance and still move the price.（初步业绩的确定性更低，却同样推动股价。）
+
+2. **seasonal trading update** → `BrE /ˌsiːzənl ˈtreɪdɪŋ ʌpˌdeɪt/` ｜ `AmE /ˈsizənəl ˈtɹéɪdɪŋ əˈpdéɪt/` → 季度交易更新
+   例句：Seasonal trading updates let you correct guidance before the market does it for you.（季度交易更新让你在市场替你修正之前，先自己修正指引。）
+
+3. **share buyback programme** → `BrE /ˈʃeə ˈbaɪbæk ˌprəʊɡræm/` ｜ `AmE /ˈʃɛɹ ˈbɑɪˌbæk ˈpɹoʊˌɡɹæm/` → 股份回购计划
+   例句：Share buyback programmes create a floor that support teams quietly rely on.（股份回购计划创造了一个支撑团队暗中依赖的底线。）
+
+---
+
+## 模块二 · 日常动作映射
+
+完整动作映射树（9 大场景 / 302 条）见 [`../actions/Daily_Actions_Mapping.md`](../actions/Daily_Actions_Mapping.md)。
+
+| 场景 | 本模块示例动作 |
+| --- | --- |
+| 晨间与洗漱 | 醒来 — waking up |
+| 晨间与洗漱 | 起床 — getting up |
+| 晨间与洗漱 | 拉开窗帘 — pulling the curtains open |
+| 财务办公与工作日常 | 整理凭证 — collecting the vouchers |
+| 财务办公与工作日常 | 录入凭证 — posting the vouchers |
+| 财务办公与工作日常 | 编制记账凭证 — preparing the journal entry |
